@@ -3,23 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Submission Form</title>
+    <title>Memory Ark - Submit Your Story</title>
 </head>
 <body>
-    <h1>Save Submission as Text File</h1>
-    <form id="submissionForm">
-        <textarea id="textInput" rows="4" cols="50" placeholder="Type your text here..."></textarea><br>
-        <button type="button" onclick="saveTextAsFile()">Save as Text File</button>
+    <h1>Submit Your Story</h1>
+    <form id="storyForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" placeholder="Enter your name"><br>
+        <label for="date">Date:</label>
+        <input type="date" id="date"><br>
+        <label for="location">Location:</label>
+        <input type="text" id="location" placeholder="Enter a location"><br>
+        <label for="story">Your Story:</label><br>
+        <textarea id="story" rows="6" cols="50" placeholder="Share your story..."></textarea><br>
+        <button type="button" onclick="submitStory()">Submit Story</button>
     </form>
 
     <script>
-        function saveTextAsFile() {
-            const textInput = document.getElementById('textInput').value;
-            const blob = new Blob([textInput], { type: 'text/plain' });
-            const link = document.createElement('a');
-            link.href = window.URL.createObjectURL(blob);
-            link.download = 'submission.txt';
-            link.click();
+        async function submitStory() {
+            const name = document.getElementById('name').value || 'Anonymous';
+            const date = document.getElementById('date').value || new Date().toISOString().split('T')[0];
+            const location = document.getElementById('location').value || 'Unknown';
+            const story = document.getElementById('story').value;
+
+            if (!story) {
+                alert('Please enter your story before submitting.');
+                return;
+            }
+
+            const filename = `${date}-${name.replace(/\\s+/g, '_')}-${location.replace(/\\s+/g, '_')}.txt`;
+            const content = `Name: ${name}\nDate: ${date}\nLocation: ${location}\n\nStory:\n${story}`;
+
+            try {
+                const response = await fetch('https://api.github.com/repos/thestebbman/Memory_Ark/contents/submissions/' + filename, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': 'Bearer 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'
+                    },
+                    body: JSON.stringify({
+                        message: `Add ${filename}`,
+                        content: btoa(content)
+                    })
+                });
+
+                if (response.ok) {
+                    alert('Your story has been saved successfully!');
+                } else {
+                    const error = await response.json();
+                    alert('Failed to save your story: ' + (error.message || 'Unknown error'));
+                }
+            } catch (err) {
+                alert('An error occurred: ' + err.message);
+            }
         }
     </script>
 </body>
