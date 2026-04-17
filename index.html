@@ -2,50 +2,61 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Memory Ark</title>
+    <title>Memory Ark - Share Your Story</title>
     <style>
-        body { font-family: sans-serif; display: flex; gap: 20px; padding: 20px; background: #f4f4f4; }
-        .panel { background: #fff; padding: 20px; border: 1px solid #ccc; flex: 1; height: 80vh; overflow-y: auto; }
-        input[type="text"] { width: 80%; padding: 10px; }
-        button { padding: 10px; cursor: pointer; }
+        body { font-family: sans-serif; padding: 20px; background: #f4f4f4; }
+        .form-container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
+        label { display: block; margin: 15px 0 5px; font-weight: bold; }
+        input, textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
+        button { margin-top: 20px; padding: 10px 15px; background: #007BFF; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background: #0056b3; }
     </style>
 </head>
 <body>
-    <div class="panel" id="chat-interface">
-        <h2>Memory Ark: Active Console</h2>
-        <p><em>Purpose: Secure, unedited human-AI alignment archive.</em></p>
-        <div id="chat-history"></div>
-        <hr>
-        <input type="text" id="userInput" placeholder="Initiate query...">
-        <button onclick="sendMessage()">Send</button>
-    </div>
+    <div class="form-container">
+        <h1>Share Your Story</h1>
+        <p>Please fill out the form below to share your story. Your memories matter.</p>
+        <form id="storyForm">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name">
 
-    <div class="panel" id="notepad-interface">
-        <h2>Archive Log</h2>
-        <p><em>Files written to /archives via Storage Bridge</em></p>
-        <div id="log-history"></div>
+            <label for="date">Date</label>
+            <input type="date" id="date" name="date">
+
+            <label for="people">People Involved</label>
+            <input type="text" id="people" name="people" placeholder="List people involved">
+
+            <label for="places">Places</label>
+            <input type="text" id="places" name="places" placeholder="List places">
+
+            <label for="things">Things</label>
+            <input type="text" id="things" name="things" placeholder="List relevant things">
+
+            <label for="story">Your Story</label>
+            <textarea id="story" name="story" rows="6" placeholder="Describe your story..."></textarea>
+
+            <button type="button" onclick="downloadStory()">Save Story</button>
+        </form>
     </div>
 
     <script>
-        async function sendMessage() {
-            const input = document.getElementById('userInput').value;
-            if (!input) return;
-            
-            document.getElementById('chat-history').innerHTML += `<p><strong>User:</strong> ${input}</p>`;
-            document.getElementById('userInput').value = 'Transmitting...';
+        function downloadStory() {
+            const form = document.getElementById('storyForm');
 
-            const res = await fetch('/api/chat', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: input })
-            });
-            
-            const data = await res.json();
-            document.getElementById('chat-history').innerHTML += `<p><strong>Ark AI:</strong> ${data.reply}</p>`;
-            document.getElementById('userInput').value = '';
-            
-            // Update visual log
-            document.getElementById('log-history').innerHTML += `<p>✅ Saved log to repository.</p>`;
+            const name = form.name.value || 'Anonymous';
+            const date = form.date.value || 'Unknown Date';
+            const people = form.people.value || 'Not Specified';
+            const places = form.places.value || 'Not Specified';
+            const things = form.things.value || 'Not Specified';
+            const story = form.story.value || 'No Details Provided';
+
+            const content = `Name: ${name}\nDate: ${date}\nPeople: ${people}\nPlaces: ${places}\nThings: ${things}\n\nStory:\n${story}`;
+            const blob = new Blob([content], { type: 'text/plain' });
+            const link = document.createElement('a');
+
+            link.download = \\`${date}-${name.replace(/\s+/g, '_')}_Story.txt\`;
+            link.href = URL.createObjectURL(blob);
+            link.click();
         }
     </script>
 </body>
