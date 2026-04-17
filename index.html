@@ -2,60 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Memory Ark - Share Your Story</title>
-    <style>
-        body { font-family: sans-serif; padding: 20px; background: #f4f4f4; }
-        .form-container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
-        label { display: block; margin: 15px 0 5px; font-weight: bold; }
-        input, textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
-        button { margin-top: 20px; padding: 10px 15px; background: #007BFF; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
-        button:hover { background: #0056b3; }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submission Form</title>
 </head>
 <body>
-    <div class="form-container">
-        <h1>Share Your Story</h1>
-        <p>Please fill out the form below to share your story. Your memories matter.</p>
-        <form id="storyForm">
-            <label for="name">Your Name</label>
-            <input type="text" id="name" name="name" placeholder="Enter your name">
-
-            <label for="date">Date</label>
-            <input type="date" id="date" name="date">
-
-            <label for="people">People Involved</label>
-            <input type="text" id="people" name="people" placeholder="List people involved">
-
-            <label for="places">Places</label>
-            <input type="text" id="places" name="places" placeholder="List places">
-
-            <label for="things">Things</label>
-            <input type="text" id="things" name="things" placeholder="List relevant things">
-
-            <label for="story">Your Story</label>
-            <textarea id="story" name="story" rows="6" placeholder="Describe your story..."></textarea>
-
-            <button type="button" onclick="downloadStory()">Save Story</button>
-        </form>
-    </div>
+    <h1>Save Submission as Text File</h1>
+    <form id="submissionForm">
+        <textarea id="textInput" rows="4" cols="50" placeholder="Type your text here..."></textarea><br>
+        <button type="button" onclick="saveTextAsFile()">Save as Text File</button>
+    </form>
 
     <script>
-        function downloadStory() {
-            const form = document.getElementById('storyForm');
-
-            const name = form.name.value || 'Anonymous';
-            const date = form.date.value || 'Unknown Date';
-            const people = form.people.value || 'Not Specified';
-            const places = form.places.value || 'Not Specified';
-            const things = form.things.value || 'Not Specified';
-            const story = form.story.value || 'No Details Provided';
-
-            const content = `Name: ${name}\nDate: ${date}\nPeople: ${people}\nPlaces: ${places}\nThings: ${things}\n\nStory:\n${story}`;
-            const blob = new Blob([content], { type: 'text/plain' });
+        function saveTextAsFile() {
+            const textInput = document.getElementById('textInput').value;
+            const blob = new Blob([textInput], { type: 'text/plain' });
             const link = document.createElement('a');
-
-            link.download = \\`${date}-${name.replace(/\s+/g, '_')}_Story.txt\`;
-            link.href = URL.createObjectURL(blob);
+            link.href = window.URL.createObjectURL(blob);
+            link.download = 'submission.txt';
             link.click();
         }
     </script>
