@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory Ark</title>
+    <style>
+        body { font-family: sans-serif; display: flex; gap: 20px; padding: 20px; background: #f4f4f4; }
+        .panel { background: #fff; padding: 20px; border: 1px solid #ccc; flex: 1; height: 80vh; overflow-y: auto; }
+        input[type="text"] { width: 80%; padding: 10px; }
+        button { padding: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="panel" id="chat-interface">
+        <h2>Memory Ark: Active Console</h2>
+        <p><em>Purpose: Secure, unedited human-AI alignment archive.</em></p>
+        <div id="chat-history"></div>
+        <hr>
+        <input type="text" id="userInput" placeholder="Initiate query...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <div class="panel" id="notepad-interface">
+        <h2>Archive Log</h2>
+        <p><em>Files written to /archives via Storage Bridge</em></p>
+        <div id="log-history"></div>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const input = document.getElementById('userInput').value;
+            if (!input) return;
+            
+            document.getElementById('chat-history').innerHTML += `<p><strong>User:</strong> ${input}</p>`;
+            document.getElementById('userInput').value = 'Transmitting...';
+
+            const res = await fetch('/api/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: input })
+            });
+            
+            const data = await res.json();
+            document.getElementById('chat-history').innerHTML += `<p><strong>Ark AI:</strong> ${data.reply}</p>`;
+            document.getElementById('userInput').value = '';
+            
+            // Update visual log
+            document.getElementById('log-history').innerHTML += `<p>✅ Saved log to repository.</p>`;
+        }
+    </script>
+</body>
+</html>
