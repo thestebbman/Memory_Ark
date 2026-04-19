@@ -1,0 +1,357 @@
+Result Details
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Carnitine Interpretation: (NOTE)
+Date /Time: June 14, 2016 15:59
+Acyl/Free Carnitine Ratio: 0.2
+No Reference Range Found
+Acylcarnitine (AC): 8
+No Reference Range Found
+Carnitine Free: 46
+No Reference Range Found
+Total Carnitine: 54
+No Reference Range Found
+Carnitine Interpretation: (NOTЕ)
+Contributor System: SUNQUEST
+Accession Number: T489440
+Status: Auth (Verified)
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+1.) (Medium Importance) Result Comment by Contributor_system, SUNQUEST on June 18, 2016 10:03
+In this sample, the carnitine profile was normal.
+Action List:
+Review by Skalski MD, Mark S on
+Action status: Requested
+Requested by Umanzor MD, Rene Alberto on June 18, 2016 16:04 Request Comment: Assigned to wrong physician
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:02
+Order by Umanzor MD, Rene Alberto on June 14, 2016 15:59 Action status: Completed
+Perform by S -STAT AREA - BMC, on June 18, 2016 10:03
+Action status: Completed
+Endorse by Umanzor MD, Rene Alberto on June 18, 2016 16:04
+Action status: Refused
+Comment: Assigned to wrong physician
+Page 1
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+Interpretation Alpha Galactosidase: (NOTE)
+Date / Time: June 14, 2016 15:59
+Referral Reason: Not provided
+Reviewed By: Kimiyo M. Raymond, M.D.
+Alpha-Galactosidase, Serum: 0.118
+No Reference Range Found
+Interpretation Alpha Galactosidase: (NOTE)
+Contributor System: SUNQUEST
+Accession Number: T489440
+Status: Auth (Verified)
+1.) (Medium Importance) Result Comment by Contributor_system, SUNQUEST on June 20, 2016 13:31
+In this specimen, the activity of alpha-galactosidase is
+normal. These results indicate that this individual is NOт
+affected with Fabry disease (OMIM 301500).
+-ADDITIONAL INFORMATION
+Fluorometric Enzyme Assay
+Action List:
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:01
+Order by Umanzor MD, Rene Alberto on June 14, 2016 15:59
+Action status: Completed
+Perform by L -MAIN LAB (BMC), on June 20, 2016 13:31
+Action status: Completed
+Endorse by Umanzor MD, Rene Alberto on June 20, 2016 15:53
+Action status: Completed
+Page 1
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Acylcarnitine comment: (NOTE)
+Date / Time: June 14, 2016 15:59
+Stearoylcarnitine, C18: 0.09
+No Reference Range Found
+Acetylcarnitine, C2: 5.95
+No Reference Range Found
+Acylcarnitine comment: (NOTE)
+Tetradecadienoylcarnitine, C14:2: 0.03
+No Reference Range Found
+Decenoylcarnitine, C10:1: 0.12
+No Reference Range Found
+linoleylcarnitine, C18:2: 0.13
+No Reference Range Found
+Isovaleryl-/2-Methylbutyrylcarn C5: 0.18
+No Reference Range Found
+3- ОН -Неxadecanoylcarnitine, C16-ОН: 0.01
+No Reference Range Found
+Octenoylcarnitine, C8:1: 0.23
+No Reference Range Found
+3-OH -Oleylcarnitine, C18:1- OH: 0.01
+No Reference Range Found
+3- ОН -Нexadecenoylcarnitine, C16:1-OH: 0.01
+No Reference Range Found
+Octanoylcarnitine, C8: 0.13
+No Reference Range Found
+Tetradecadienoylcarnitin C14:1: 0.05
+No Reference Range Found
+Oleylcarnitine, C18:1: 0.25
+No Reference Range Found
+Decanoylcarnitine, C10: 0.12
+No Reference Range Found
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+Page 1
+Patient: STEBBINS, RICHARD
+MRN: 339334
+3- OH -Tetradecenoylcarnitine C14:1 OH: 0.02
+No Reference Range Found
+3- OH -Linoleylcarnitine, C18:2- ОН: <0.02
+3- OH -tetradecanoylcarnitine C14- ОН: 0.01
+No Reference Range Found
+Dodecanoylcarnitine, C12: 0.08
+No Reference Range Found
+Tetradecanoylcarnitine, C14: 0.03
+No Reference Range Found
+Glutarylcarnitine, C5-dc: 0.05
+No Reference Range Found
+Hexadecanoylcarnitine, C16: 0.19
+No Reference Range Found
+Iso-/ Butyrylcarnitine, C4: 0.20
+No Reference Range Found
+Propionylcarnitine, C3: 0.40
+No Reference Range Found
+3- ОН -Нexanoylcarnitine, C6-OH: 0.01
+No Reference Range Found
+3- OH -Dodecanoylcarnitine, C12-OH: 0.01
+No Reference Range Found
+Dodecenoylcarnitine, C12:1: 0.05
+No Reference Range Found
+Hexanoylcarnitine, C6: 0.03
+No Reference Range Found
+Hexadecenoylcarnitine, C16:1: 0.03
+No Reference Range Found
+Contributor System: SUNQUEST
+Accession Number: T489440
+Status: Auth (Verified)
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+1.) (Medium Importance) Result Comment by Contributor_system, SUNQUEST on June
+Page 2
+Patient: STEBBINS, RICHARD
+MRN: 339334
+18, 2016 10:03
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+In this sample, the acylcarnitine profile was normal.
+Test Performed by: Mayo Clinic Laboratories, 200 First St SW,
+Rochester, MN 55905 Laboratory Director: Franklin R. Cockerill III, M.D.
+Action List:
+Review by Skalski MD, Mark S on
+Action status: Requested
+Requested by Umanzor MD, Rene Alberto on June 18, 2016 16:04 Request Comment: Assigned to wrong physician
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:01
+Order by Umanzor MD, Rene Alberto on June 14, 2016 15:59
+Action status: Completed
+Perform by S -STAT AREA - BMC, on June 18, 2016 10:03
+Action status: Completed
+Endorse by Umanzor MD, Rene Alberto on June 18, 2016 16:04
+Action status: Refused
+Comment: Assigned to wrong physician
+Page 3
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Amino Acid Interpretation, Blood: (NOTE)
+Date / Time: June 14, 2016 15:59
+Argininosuccinic Acid, Bld Amino Acid: 0
+No Reference Range Found
+Beta-Alanine, Bld Amino Acid: 11
+No Reference Range Found
+Cystathionine, Bld Amino Acid: <1
+Ethanolamine, Bld Amino Acid: 8
+No Reference Range Found
+Alpha-Amino-N-Butyric AcidBld Amino Acid: 22
+No Reference Range Found
+Sarcosine, Bld Amino Acid: 5
+No Reference Range Found
+Phosphoethanolamine, Bld Amino Acid: <2
+Proline, Bld Amino Acid: 250
+No Reference Range Found
+Arginine, Bld Amino Acid: 84
+No Reference Range Found
+Phenylalanine, Bld Amino Acid: 47
+No Reference Range Found
+Glycine, Bld Amino Acid: 277
+No Reference Range Found
+Serine, Bld Amino Acid: 96
+No Reference Range Found
+Aspartic Acid, Bld Amino Acid: 2
+No Reference Range Found
+Alpha-Aminoadipic Acid, Bld Amino Acid: 1
+No Reference Range Found
+Amino Acid Interpretation, Blood: (NOTE)
+Glutamine, Bld Amino Acid: 503
+No Reference Range Found
+Page 1
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Hydroxylysine, Bld Amino Acid: 0
+No Reference Range Found
+1-Methylhistidine, Bld Amino Acid: 6
+No Reference Range Found
+Allo-Isoleucine, Bld Amino Acid: 0
+No Reference Range Found
+Beta-Aminoisobutyric Acid, Bld Amino Acid: 2
+No Reference Range Found
+Hydroxyproline, Bld Amino Acid: 15
+No Reference Range Found
+Leucine, Bld Amino Acid: 97
+No Reference Range Found
+Taurine, Bld Amino Acid: 194
+No Reference Range Found
+Isoleucine, Bld Amino Acid: 62
+No Reference Range Found
+3-Methylhistidine, Bld Amino Acid: 5
+No Reference Range Found
+Carnosine, Bld Amino Acid: 0
+No Reference Range Found
+Cystine, Bld Amino Acid: 28
+No Reference Range Found
+Anserine, Bld Amino Acid: 0
+No Reference Range Found
+Glutamic Acid, Bld Amino Acid: 19
+No Reference Range Found
+Tryptophan, Bld Amino Acid: 44
+No Reference Range Found
+Phosphoserine, Bld Amino Acid: 0
+No Reference Range Found
+Methionine, Bld Amino Acid: 19
+No Reference Range Found
+Result Details
+Page 2
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+Result Details
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Valine, Bld Amino Acid: 206
+No Reference Range Found
+Homocitrulline, Bld Amino Acid: 0
+No Reference Range Found
+Ornithine, Bld Amino Acid: 59
+No Reference Range Found
+Asparagine, Bld Amino Acid: 53
+No Reference Range Found
+Tyrosine, Bld Amino Acid: 49
+No Reference Range Found
+Threonine, Bld Amino Acid: 122
+No Reference Range Found
+Histidine, Bld Amino Acid: 72
+No Reference Range Found
+Citrulline, Bld Amino Acid: 33
+No Reference Range Found
+Lysine, Bld Amino Acid: 146
+No Reference Range Found
+Gamma-Amino-N-Butyric AcidBld Amino Acid: 0
+No Reference Range Found
+Alanine, Bld Amino Acid: 370
+No Reference Range Found
+Contributor System: SUNQUEST
+Accession Number: T489440
+Status: Auth (Verified)
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+1.) (Medium Importance) Result Comment by Contributor_system, SUNQUEST on June 21, 2016 8:51
+In this sample, the amino acid profile was essentially normal.
+------ADDITIONAL INFORMATION
+Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS)
+Test Performed by: Mayo Clinic Laboratories, 200 First St Sw, Rochester, MN 55905 Laboratory Director: Franklin R. Cockerill III, M.D.
+Page 3
+Result Details
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+Action List:
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:01
+Order by Umanzor MD, Rene Alberto on June 14, 2016 15:59
+Action status: Completed
+Perform by E -ENDOCRINOLOGY LAB, on June 21, 2016 8:51
+Action status: Completed
+Endorse by Umanzor MD, Rene Alberto on June 21, 2016 9:25
+Action status: Completed
+Page 4
+Result Details
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Organic Acid Screen: (NOTE)
+Date / Time: June 14, 2016 16:17
+Organic Acid Screen: (NOTE)
+Contributor System: SUNQUEST
+Accession Number: T489566
+Status: Auth (Verified)
+Source Type: Urine
+Source:
+Collected by Contributor_system, SUNQUEST
+Collected on June 14, 2016 16:17
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+1.) (Medium Importance) Result Comment by Contributor system, SUNQUEST on June
+19, 2016 9:34
+In this sample, there were no unusual organic acids.
+-ADDITIONAL INFORMATION--
+Gas Chromatography-Mass Spectrometry (GC/MS)
+Test Performed by: Mayo Clinic Laboratories, 200 First St SW,
+Rochester, MN 55905 Laboratory Director: Franklin R. Cockerill III,
+M.D.
+Action List:
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:02
+Order by Villalba Lopez MD, Ricardo Fabio on June 14, 2016 16:17
+Action status: Completed
+Perform by K -CHEMISTRY/KODAK, on June 19, 2016 9:34
+Action status: Completed
+Endorse by Villalba Lopez MD, Ricardo Fabio on June 24, 2016 15:19
+Action status: Completed
+Page 1
+Patient: STEBBINS, RICHARD
+MRN: 339334
+Urine Miscellaneous Chemistry: (NOTE)
+Date / Time: June 14, 2016 16:18
+Urine Miscellaneous Chemistry: (NOTE)
+Contributor System: SUNQUEST
+Accession Number: T489574
+Status: Auth (Verified)
+Result Details
+Printed by: Villalba Lopez MD, Ricardo Fabio
+Printed on: 11/18/2016 10:03
+1.) (Medium Importance) Result Comment by Contributor_system, SUNQUEST on June 24, 2016 14:32
+Mevalonate: 0.11 mg/g creatinine
+Normal Range: <2: 0.57 +/- 0.33(SD) mg/g creatinine, n EQ
+>2: 0.25 +/- 0.14(SD) mg/g creatinine, n EQ 52
+34
+Affected Range: Classic MK deficiency: >4000 mg/g creatinine
+Hyper IgD syndrome:
+Well: 2-16 mg/g creatinine
+Acute: 28-187 mg/g creatinine
+Interpretation: Normal result.
+Testing performed by Kennedy Krieger Institute, Baltimore, MD
+Action List:
+Review by Villalba Lopez MD, Ricardo Fabio on
+Action status: Requested
+Requested by Villalba Lopez MD, Ricardo Fabio on November 18, 2016 10:02
+Order by Villalba Lopez MD, Ricardo Fabio on June 14, 2016 16:18 Action status: Completed
+Perform by L -MAIN LAB (BMC), on June 24, 2016 14:32
+Action status: Completed
+Endorse by Villalba Lopez MD, Ricardo Fabio on June 24, 2016 15:19 Action status: Completed
+Page 1
