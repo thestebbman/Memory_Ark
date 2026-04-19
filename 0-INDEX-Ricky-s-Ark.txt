@@ -573,8 +573,6 @@ Not-Online\ subfolder (1 file):
   AI-PI-A- Grok's_Misprision_Masterpiece.txt
   AI-PI-A- Perplexity_Hypergraph_2.txt
   AI-PI-A- Perplexity_hypergraph.txt
-  AI-PI-B- AL_FL_IL_MI.txt
-  AI-PI-B- MA_CT_NY_ME_NH_RH_VT.txt
   AI-PI-B- ULTIMATE ALABAMA FINANCIAL TIMELINE BLUEPRINT.txt
   AI-PI-B- ULTIMATE ARIZONA FINANCIAL TIMELINE BLUEPRINT.txt
   AI-PI-B- ULTIMATE BLUEPRINT.txt
@@ -598,8 +596,6 @@ Not-Online\ subfolder (1 file):
   AI-PI-B- ULTIMATE VERMONT FINANCIAL TIMELINE BLUEPRINT.txt
   AI-PI-B- ULTIMATE VIRGINIA FINANCIAL TIMELINE BLUEPRINT.txt
   AI-PI-B- ULTIMATE WASHINGTON FINANCIAL TIMELINE BLUEPRINT.txt
-  AI-PI-B- ULTIMATE_MASSACHUSETTS_FINANCIAL_TIMELINE_BLUEPRINT.txt
-  AI-PI-B- allstaesmess.txt
   AI-PI-C- DianaDiZoglio.txt
   AI-PI-C- ELON_MUSK'S_AI_DECEPTION_LED_BY_GROK.txt
   AI-PI-C- Elon Musk's Ai Powered Corporate Extraction Engine.txt
