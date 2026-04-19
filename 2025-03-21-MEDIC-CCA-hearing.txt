@@ -1,0 +1,163 @@
+1.
+
+Department of Health and Human Services
+
+OFFICE OF MEDICARE HEARINGS AND APPEALS
+
+Atlanta, GA
+
+R. STEBBINS
+
+OMHA Appeal No.: 3-15218423039
+
+R. STEBBINS
+
+Medicare Part: C
+
+Medicare No.:
+
+*****14UY30
+
+Before: Matthew Calarco
+
+Administrative Law Judge
+
+DECISION
+
+After considering the evidence and arguments presented in the record and at the hearing, I, the undersigned Administrative Law Judge ("ALJ"), enter an UNFAVORABLE decision for R.
+
+Stebbins ("Appellant" and "Enrollee").
+
+PROCEDURAL HISTORY
+
+Appellant is enrolled in CCA One Care (Medicare-Medicaid Plan), the Part C Medicare Advantage Plan ("Plan"). See File 4, pp. 1-2, 8 and File 5, pp. 1-2. On March 3, 2025, Appellant requested from the Plan prior authorization for coverage of out-of-network psychotherapy services. See File 5, pp. 1-5, 14-15. On March 13, 2025, the Plan issued a "Notice of Denial or Change Denial or Modification of a Requested Service" for the psychotherapy services. Id. at 18-24.
+
+On March 21, 2025, Appellant appealed the denial decision. See File 5, p. 28. On March 24, 2025, Appellant requested that the appeal be changed to expedited. See id. at 29. On March 26, 2025, the Plan upheld its unfavorable decision. Id. at 32-37. The appeal was forwarded to the Medicare Independent Review Entity. See id. at 34-36; File 7, p. 3. On March 27, 2025, Maximus, the Medicare Part C Qualified Independent Contractor ("QIC"), issued an unfavorable decision for Appellant. File 9.
+
+By correspondence received April 7, 2025 by the QIC and forwarded to the Office of Medicare Hearings and Appeals ("OMHA"), Appellant requested an ALJ hearing. See Files 1 and 3. I held a telephonic hearing on May 29, 2025. File 12 - Hearing Audio. Appellant attended the hearing.
+
+Id. Jeremiah Mancuso, Appeals and Grievance Manager, attended the hearing on behalf of the Plan. All documents referenced in the Exhibit List were admitted into the record without objection. Id. The administrative record is closed.
+
+ISSUES
+
+Whether Enrollee's Medicare Part C Plan is required to provide pre-authorization/coverage of out-of-network psychotherapy services under the terms of Enrollee's Plan.
+
+APPLICABLE LAW AND POLICY
+
+
+2.
+
+A. Statutes and Regulations
+
+With Title XVIII of the Social Security Act ("the Act"), Congress established the Medicare program. The Medicare program is administered through the Centers for Medicare and Medicaid Services ("CMS"), a component of the United States Department of Health and Human Services ("HHS"). CMS promulgates regulations found at Title 42 of the Code of Federal Regulations (“C.f.r”) for administration of Medicare program. The act does not contain a comprehensive list of specific items or services eligible for Medicare coverage. Rather, it lists categories of items and services, and vests in the Secretary, the authority to make determinations about which specific items and services within these categories can be covered under the Medicare program. See 42. U.S. Code § 1395ff. See also 42 C.F.R. § 410.10. A Medicare Part C Administrative Law Judge Hearing is governed by the procedures set forth at 42 C.F.R. §§ 405.1000 through 405.1054 to the extent appropriate, unless 42 C.F.R. §§ 422.600 and 422.602, or any other provision of part 422, subpart M provide otherwise. See 42 C.F.R. § 422.562.
+
+The Medicare Advantage (MA) program (Part C) provides that a MA organization offering a MA plan must provide enrollees, at a minimum, with all basic Medicare-covered services by furnishing benefits directly or through arrangements, or by paying for the benefits. Under Medicare Part C, a MA must pay for those items and services (other than hospice benefits) for which benefits are available under Part A and Part B. 42 C.F.R. § 422.101; section 1852 of the Act. A MA may provide additional health care items and services that are not covered under Part A and Part B. See id. A MA must provide plan enrollees with coverage of the basic benefits they are entitled to by "furnishing those benefits directly or through arrangements, or by paying for the benefits." 42 C.F.R. § 422.100.
+
+Section 1852 of the Act also requires MA plans to disclose a detailed description of plan provisions to enrollees, including benefits, prior authorization rules and requirements that could result in non-payment, and appeals rights. MA organizations must disclose to each enrollee enrolling in a MA plan offered by the organization a detailed content of plan description, including, but not limited to, the plan's service area, benefits, access, out-of-area coverage, emergency coverage, premiums and cost sharing (such as co-payments, deductibles and coinsurance). This information must be offered at the time of enrollment and at least annually after that, in a clear, accurate and standardized form. 42 CFR 422.111. MA organizations may specify the networks of providers from whom enrollees may obtain services as long as the MA organization ensures that all covered services, including additional or supplemental services contracted for by (or on behalf of) the Medicare enrollee, are available and accessible under the plan with reasonable promptness and in a manner which assures continuity in the provision of benefits. §1852 (d) of the Act; 42 U.S.C § 1395w-22(d); 42 CFR §422.112.
+
+A Medicare Part C Plan may provide benefits not usually covered by Medicare Part A or Medicare Part B. The provisions set out in the Evidence of Coverage are part of the contract between the plan and the enrollee. See 42 C.F.R. §422.111, 42 C.F.R. §422.105(d)(2). The Plan's
+
+2025 Evidence of Coverage ("EOC") indicates that the Plan generally covers medical care if the care is included in the Benefits Chart, the care is considered medically necessary, the enrollee has a network primary care provider who is providing the care, and the care is from a network provider. File 4, pp. 31-32.
+
+Pertinent to this appeal is 42 C.F.R. §422.101 Requirements relating to basic benefits. The regulation provides as follows:
+
+[Elach MA organization must meet the following requirements:
+
+
+3.
+
+(b) Comply with-
+
+    ﻿﻿﻿﻿CMS's national coverage determinations;
+    ﻿﻿﻿﻿General coverage guidelines included in original Medicare manuals and instructions unless superseded by regulations in this part or related instructions; and
+    ﻿﻿﻿﻿Written coverage decisions of local Medicare contractors with jurisdiction for claims in the geographic area in which services are covered under the MA plan. If an MA plan covers geographic areas encompassing more than one local coverage policy area, the MA organization offering such an MA plan may elect to apply to plan enrollees in all areas uniformly the coverage policy that is the most beneficial to MA enrollees.
+
+B. Policy and Guidance
+
+Unless promulgated as a regulation by CMS, no rule, requirement, or statement of policy, other than a National Coverage Determination ("NCD"), can establish or change a substantive legal standard governing the scope of benefits or payment for services under the Medicare program.
+
+Act § 1871(a)(2); 42 C.F.R. § 405.1060. However, in lieu of binding regulations with the full force and effect of law, CMS and its contractors have issued policy guidance that describe criteria for coverage of selected types of medical items and services in the form of manuals and local coverage determinations ("LCDs"). Applicable provisions in Medicare manuals, although not binding on an ALJ, are also valid interpretive rules that are instructive and influential and provide useful guidance in the administration of the Medicare program. Shalala v. Guernsey Memorial Hospital, 514 U.S. 87 (1995). Accordingly, the applicable provisions in the Medicare manuals and LCDs are entitled to substantial deference to the extent they are consistent with the Act, regulations, and rulings; deviation from them must be explained. 42 C.F.R. § 405.1062.
+
+FINDING OF FACTS AND LEGAL ANALYSIS
+
+By a preponderance of the evidence, I, the undersigned ALJ, render the following:
+
+This authorization request is before the undersigned ALJ for pre-approval of psychotherapy services to be provided by an out-of-network ("OON") provider. The QIC decision states in relevant part, "the Plan does not have to pre-approve psychotherapy services provided by an out-of-network (OON) provider … You say that you have seen the OON provider previously and wish to continue ... The Plan says rules for OON coverage have not been met. Medicare rules say that plans can require enrollees to get care from network providers. The contract with the Plan says that the Plan has to pre-approve care from out-of-network providers only in cases involving emergencies, out of area urgent care and care that cannot be provided by network providers. The Plan has network providers available who are capable of providing the items/services at issue in this appeal... We found no exception that would require the Plan to pre-approve these items/services. Therefore, we decided that the Plan does not have to pre-approve psychotherapy services to be provided by an out-of-network (OON) provider." File 3,
+
+The Plan's EOC states that usually the Plan "will not cover care from a provider who does not work with CCA One Care," then goes on to list several exceptions. File 4, p.38-39. One of the unusual circumstances that may lead to covered OON care is, "Your PCP/care team determines that a non-network provider can best provide the service or transitioning you to another provider could endanger life, or cause suffering or pain, or significantly disrupt the current course of
+
+
+4.
+
+treatment." Id. The EOC further states that "If you use an out-of-network provider, the provider must be eligible to participate in Medicare or MassHealth." Id.
+
+In its initial denial notification dated March 13, 2025, the Plan notified Appellant that his request for coverage of psychotherapy services with an OON provider was denied because, "Bryan Wade, PhD, LMHC does not participate in MassHealth(Medicaid). Your provider does not contract with CCA's One Care Plan. Your plan does not cover care with non-network providers.
+
+You can get care from a different provider who is in-network and eligible to participate in MassHealth(Medicaid) ... CCA covers behavioral health services if provided by a Medicare and
+
+MassHealth(Medicaid)
+
+enrolled provider. This is outlined in the CCA OneCare Member
+
+Handbook, Chapter 4 "Benefits Chart," (page 86-87) and CCA OneCare Summary of Benefits 2025 (page 24)." File 5, pp. 18-19.
+
+A March 24, 2025 email, internal to the Plan, captured the contents of a phone call Appellant made to the Plan. File 5, p. 29. Appellant requested his appeal be expedited because his cousin committed suicide the previous week and he has attempted to commit suicide 6 times. Id.
+
+Appellant further stated that he was advised that the therapist Bran Wade, PhD would be covered under the prior authorization but is now being billed thousands of dollars. Id.
+
+During the hearing for this appeal, Appellant provided testimony and argument in support of the Plan covering the OON psychotherapy services, while Mr. Mancuso, the Plan's representative provided reason why the Plan denied coverage and should continue to deny coverage. File 12 - Hearing Audio. The hearing testimony is summarized below:
+
+Appellant stated that in the beginning of 2024, I had some court issues, and they were trying to make me question my sanity. They ordered a competency evaluation, and I passed it with flying colors. I decided I needed to talk with somebody. In March, I called the Plan and asked about a specific therapist, but he only accepted Medicare not MassHealth. They said that was fine and approved me to see him. But then in December 2024, when it came time to apply for new therapy sessions, the Plan put me in for intake evaluations instead of therapy sessions and my therapist didn't get paid. So, I kept seeing my therapist because it was approved. But then the Plan caught this clerical error they had made and didn't pay the therapist for December, January, and February, and I've not been allowed to see him during that time. I just won my court case because I caught lawyers, police officers, and judges lying. It is heartbreaking and super stressful for me.
+
+Then on St. Patrick's Day, my cousin killed himself and didn't leave a message. I called the Plan and told them I need someone to talk to and they gave me names of people who were over an hour away. When I called these people, they didn't fit my needs - they couldn't help me. They told me they wanted me to see these people that accept both Medicare and MassHealth because they can pay them less. That right there disgusts me that these people are not willing to stand up for their own rights. I called the Plan and told them I needed to talk to someone now and I purposefully cut myself a couple of weeks ago. I still have stitches in my arm. No one from the Plan called me. I could do it again right now and the Commonwealth Care won't do a thing. I'm disgusted by this company.
+
+I don't want to deal with them again. The Plan's policies and procedures violate my rights and the law. I can't call anyone and complain because there is no one to complain to. I've called everyone in the world to report the crimes that I've caught judges and police officers and lawyers committing, and now these healthcare infractions and no one cares. I have thousands of pages of documents online and tracking all of this corruption in
+
+
+5.
+
+
+the healthcare systems, financial and legal systems and I'm tired of it. This is my tirst step in making the world right.
+
+Mr. Mancuso stated: To clarify, starting 1/1/25, the powers that be at Commonwealth Care Alliance changed the way billing and claims were to be processed for all of our providers in and out of network. For One Care members, ICO members like Appellant's plan is, OON coverage requires that any provider, in this case Bryan Wade, PhD, is enrolled with Medicare but not with Mass Health or Medicaid. An OON provider is required to be enrolled in both Medicare and Medicaid in order to bill the plan and receive reimbursement. That started January 1, 2025. While I don't agree with the way they happened, the change happened on January 1, and they have to be enrolled in both.
+
+The relevant URL is masshealth.ehs.state.ma.us/providerselfservice.
+
+Appellant asked, how do their policies and procedures affect the law? I have certain rights. They change them to rip us off. How does that work?
+
+Mr. Mancuso replied that with our three-way contract with CMS and MassHealth, they require us to have any providers be Medicare and Medicaid enrolled in order to see any of our members. That is just the way their billing procedures work. Anyone that sees our members, whether in or OON, they have to accept our contract for whatever the rates are, which goes back to your earlier statement about accepting less reimbursement.
+
+Appellant stated that is why you can pay these people less per contract. Mr. Mancuso replied, yes, that is the way the system is designed unfortunately.
+
+Appellant stated that is why I am not going to see these people, ever. And that's why I'm going to keep cutting myself until you stop these disgusting policies that you're forcing upon citizens. He then asked Mr. Mancuso, "Do you understand that?" Mr. Mancuso replied, "Yes, I understand." Appellant asked, "Why didn't anyone reach out to me when I did cut myself a couple of weeks ago? Why did I receive an email saying they want to discuss my member rating?" Mr. Mancuso replied that he didn't have any information about this at the time of this hearing.
+
+Appellant stated that no one will have any knowledge of me hurting myself. Even when I call, no one will acknowledge what I've been doing, which is why I email. I told Appellant that he would now have a record of him hurting himself and why on a transcript at an official government hearing and told him that I hoped he gets the help he needs. Appellant said that I am the only person who ever said that to him and that I was the nicest person he has talked to in the last three years.
+
+Mr. Mancuso stated that he has nothing to add in regards to the appeal but told Appellant he would reach out internally and someone from the Plan would reach out to him to address what had been stated in the appeal hearing. Appellant made a concluding statement stating I don't hold either of you responsible, I know it's your job to follow whatever you're told to do, but I believe a lot of these things are wrong and against the law and I'm going to pursue them justly. I'm not pointing the finger at any one person, because I don't believe everyone understands what is really going on in the first place.
+
+
+6.
+
+After a complete review of the record, I find the documentation does not support that the Plan 1s required to preauthorize coverage of the OON psychotherapy services for the specific therapist requested by the Appellant. Appellant has failed to meet his burden of proof. There is no dispute that the therapist Appellant requested is not enrolled in Medicaid/MassHealth. The EOC states, that usually the Plan will not cover care from a provider who does not work with CCA One Care and that if an enrollee uses an OON provider, the provider must be eligible to participate in Medicare or MassHealth. Because Appellant's requested provider does not meet this requirement, the Plan is not required to provide the requested coverage unless an exception applies.
+
+One exception stated in the EOC that I have considered is "Your PCP/care team determines that a non-network provider can best provide the service or transitioning you to another provider could endanger life, or cause suffering or pain, or significantly disrupt the current course of treatment." File 4, p. 39. In this case, there is significant indication this exception may apply.
+
+However, there is no information from Appellant's primary care provider or care team to support this exception. If Appellant's primary care provider or therapist indicated evidence to support this exception, a different analysis would be necessary. Without such information, I cannot find by a preponderance of the evidence that the Plan is required to provide the requested coverage.
+
+Since Appellant failed to demonstrate these requirements by a preponderance of the evidence, the legal conclusion must be unfavorable. Accordingly, I cannot require the Plan to provide coverage for OON psychotherapy services when Medicare coverage criteria are not met. Thus, the decision is unfavorable.
+
+CONCLUSIONS OF LAW
+
+The undersigned concludes that the Medicare Part C Plan is not required to provide pre-authorization/coverage for the specifically requested OON psychotherapy services under the terms of Enrollee's Plan.
+
+ORDER
+
+For the reasons discussed above, this decision is UNFAVORABLE. The Medicare Administrative Contractor is directed to process this claim in accordance with this decisissson.
+
+SO ORDERED
+
+Matthew Calarco
+
+Administrative Law Judge
+
+
