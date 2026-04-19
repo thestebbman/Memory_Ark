@@ -1,0 +1,3428 @@
+Before you start
+
+ AI can't OCR these pictutres, so I had to save everything as jpeg and then use my iphone to copy the text from each ind ividualpicture. my laptop wouldn't recognise most the of the text, so I needed mulptiple devices to make this information accessible to AI.
+
+ 
+
+ 
+
+A link to PERAC audits for anyone interested 
+
+PERAC audits 
+
+https://www.mass.gov/lists/retirement-board-audit-reports 
+
+ 
+
+ 
+
+ Links to all available Massachusetts state audits. 
+
+ MA state audits
+
+https://www.mass.gov/lists/all-audit-reports-2011-to-today#2025- 
+
+ 
+
+Link to everyone that accessed prosper from 1-15-2020/10-2025 
+
+PERAC prosper login info 
+
+https://ultimateworldfinancialmap.blogspot.com/2025/12/prosperfinancialvendoruseraccessv1.html 
+
+ 
+
+ PERAC annual reports
+
+https://www.mass.gov/doc/2020-annual-report-full/download
+
+https://www.mass.gov/doc/2021-annual-report-full/download
+
+https://www.mass.gov/doc/2022-annual-report-full/download
+
+https://www.mass.gov/doc/2023-annual-report-full-0/download
+
+https://www.mass.gov/doc/2024-annual-report-full-0/download
+
+PRIM reports, summary's and minutes
+
+ Links to stuff I copied from the PRIM site for AI
+
+ https://ultimateworldfinancialmap.blogspot.com/2025/12/prim-info-for-ai.html
+
+ 
+
+ Link to all PRIM reports, summary"s and minutes
+
+ PRIM
+
+ https://www.mapension.com/records-of-interest/
+
+ 
+
+ 
+
+Beneficiaries of the Massachusetts State Employees' Retirement System (MSERS) and the Massachusetts Teachers' Retirement System (MTRS). Updated monthly. Retirees of municipal, county or regional entities as well as educators who retired from the Boston Public Schools are not listed here. For that data, please contact the applicable local or regional retirement system directly. 
+
+https://cthrupensions.mass.gov/#!/year/2025/
+
+https://cthrupensions.mass.gov/#!/year/2025/
+
+Site intructions:
+
+Open Payroll is part of our commitment to improving transparency by providing a guided view through complex financial information.
+
+This site provides a guided view through our budget and provides a transparent look at how we allocate public funds. The charts, graphs, and tables below are all highly interactive and we invite you to explore.
+
+🚨 INVESTIGATIVE SUMMARY ON PERAC / PROSPER VENDOR ACCESS & OVERSIGHT FAILURES
+
+
+
+
+Preliminary Findings Based on Public Records, Email Disclosures, and Vendor Login Activity (2020–2025)
+
+
+
+Prepared by: Ricky Stebbins
+
+Date: December 2025
+
+Status: Active Review – Public Record
+
+
+
+
+
+I. Executive Overview
+
+
+
+This report summarizes documented irregularities in the oversight, access controls, and vendor interactions involving the Public Employee Retirement Administration Commission (PERAC) and its third-party system PROSPER, which is used for pension vendor disclosures and regulatory filings.
+
+
+Based on emails and access logs produced under Massachusetts Public Records Law, there is evidence of:
+
+
+    Unrestricted vendor access to PROSPER without sufficient audit trails
+    Inconsistent explanations from PERAC legal counsel regarding their role in procurement influence
+    Gaps in data retention and access logging
+    Evidence of steering, guidance, and coordination between PERAC personnel and private investment vendors
+    Potential cybersecurity and compliance exposures under state, federal, and international frameworks
+    Systemic lack of visibility into who accessed what, when, and for what purpose
+
+
+
+These findings raise questions of regulatory adequacy, vendor privilege, transparency failures, and risk to public pension beneficiaries in Massachusetts and beyond.
+
+
+
+
+
+II. Key Findings
+
+
+
+
+1. Inadequate Audit Logging Within PROSPER
+
+
+
+Emails from PERAC confirm:
+
+
+    PERAC does not control or directly access its own audit trails.
+    Logs from 2020–2025 are held only by a private third-party vendor.
+    Logs prior to 2020 do not exist, despite PERAC conducting investment oversight for decades.
+    Even in 2025, PERAC must request logs manually, and the vendor must “compile a report from scratch.”
+
+
+
+This contradicts basic cybersecurity norms and raises concerns under:
+
+
+    Massachusetts Data Breach Law (M.G.L. c. 93H)
+    State cybersecurity standards
+    GDPR Article 32 (Security of Processing) if EU-personal-data–handling vendors accessed the system
+    Federal NIST audit trail requirements applicable to financial and public systems
+
+
+
+PROSPER allows vendor logins, yet no detailed access tracing exists.
+
+
+This is a structural vulnerability.
+
+
+
+
+
+2. Vendor Influence and RFP Coordination
+
+
+
+Email threads (2018–2025) reveal:
+
+
+    Vendors regularly contact PERAC staff for clarification about RFP requirements, fee breakdowns, and performance metrics.
+    PERAC personnel (including Compliance and Investment Unit staff) offer guidance, evaluation docs, and strategic interpretation to vendors.
+    In multiple cases, PERAC employees provided specific interpretations that could shape vendor submissions.
+    Certain vendors received repeat assistance, including BlackRock, Hamilton Lane, Meketa, PIMCO, RhumbLine, and others.
+
+
+
+This presents:
+
+
+    Conflict-of-interest risks
+    Potential steering of procurement outcomes
+    Non-uniform access for competing firms
+    Opaque backchannel interactions not logged in public procurement systems
+
+
+
+
+
+
+3. Internal Fragmentation and Operational Weakness
+
+
+
+Emails show:
+
+
+    Reports frequently late or missing across dozens of retirement boards.
+    PERAC staff struggling to track fee disclosures, net/gross adjustments, and fee tables.
+    Confusion among consultants and vendors about PERAC expectations.
+    Staff miscommunication about which analyst handles which retirement system.
+    Repeated errors like “out of balance” statements and revised fee tables.
+
+
+
+This undermines PERAC’s claim of “uniform application of Chapter 32.”
+
+
+
+
+
+4. Lack of Direct Oversight Over Vendors Using PROSPER
+
+
+
+Key concerns:
+
+
+    PERAC grants vendor access but cannot see their IP addresses.
+    PERAC cannot see what files vendors access or download.
+    Vendor access spans thousands of logins, including massive firms with global footprints.
+    No record exists showing whether foreign or EU-based vendor personnel accessed PROSPER.
+
+
+
+Under GDPR, cross-border access to datasets involving even a single EU-resident public employee triggers Article 32 obligations.
+
+
+PERAC:
+
+
+    does not maintain logs,
+    cannot demonstrate reasonable security measures,
+    cannot confirm whether any foreign access occurred.
+
+
+
+That is a serious compliance red flag.
+
+
+
+
+
+5. PERAC’s Explanations Have Shifted Over Time
+
+
+
+Initial responses claimed:
+
+
+“PERAC does not conduct investments and therefore has no relevant records.”
+
+
+But released emails prove:
+
+
+    PERAC frequently interacts with investment firms.
+    Staff review fee analyses, procurement checklists, disclosures, and performance tables.
+    PERAC plays a direct role in approving/monitoring vendor compliance.
+
+
+
+This inconsistency warrants further scrutiny.
+
+
+
+
+
+III. Potential Legal and Policy Implications
+
+
+
+
+Massachusetts Public Records Law
+
+
+
+Failure to produce relevant documents or logs may represent:
+
+
+    Incomplete compliance
+    Improper withholding
+    Destruction or non-retention of required records
+    Violations of prescribed retention schedules
+
+
+
+
+Massachusetts Ethics Law (M.G.L. c. 268A)
+
+
+
+Vendor communications and advisory guidance may raise:
+
+
+    Appearance-of-conflict issues
+    Procurement influence violations
+    Transparency violations
+
+
+
+
+Cybersecurity + Data Security
+
+
+
+Potential issues under:
+
+
+    M.G.L. c. 93H (data security requirements)
+    Statewide cybersecurity minimums
+    Federal NIST-aligned audit trail requirements
+    Vendor risk management obligations
+
+
+
+
+GDPR Article 32
+
+
+
+If EU vendor personnel accessed PROSPER:
+
+
+    Lack of access logs = lack of “appropriate technical measures”
+    Third-party control with no public-sector visibility = non-compliant design
+    No breach disclosure system appears to exist
+
+
+
+Notification to EU DPAs may be required if such access is confirmed.
+
+
+
+
+
+IV. Unanswered Questions
+
+
+
+    What permissions were granted to large vendors like BlackRock and Hamilton Lane?
+    Why is PROSPER auditing impossible without vendor reconstruction?
+    What was the scope of RFP influence from PERAC staff?
+    Why were so many reports late, incomplete, or marked “out of balance”?
+    Did foreign vendor staff access PROSPER without audit trails?
+    Why did PERAC originally deny involvement in investment-related processes contradicted by its own emails?
+    What data—including emails—has been deleted or archived beyond PERAC’s reach?
+
+
+
+
+
+
+V. Conclusion
+
+
+
+The emails and vendor access logs raise serious concerns regarding:
+
+
+    Oversight integrity
+    Cybersecurity posture
+    Transparency
+    Procurement fairness
+    Public accountability
+
+
+
+These issues affect not only Massachusetts public employees, but potentially international stakeholders, if global firms accessed systems lacking audit trails.
+
+
+Further review by:
+
+
+    Massachusetts Attorney General
+    State Auditor
+    State Ethics Commission
+    EU Data Protection Authorities
+    Investigative journalists
+
+
+
+is warranted based on the findings summarized here.
+
+
+
+
+
+VI. Supporting Documentation
+
+
+
+    PERAC email productions (2018–2025)
+    Vendor login records from PROSPER (2020–2025)
+    Publicly posted copies available at:
+        https://ultimateworldfinancialmap.blogspot.com/2025/12/publicrecordsrequestperacinvestmentreco.html
+        https://ultimateworldfinancialmap.blogspot.com/2025/12/prosperfinancialvendoruseraccessv1.html
+
+
+
+
+
+
+VII. Status
+
+
+
+This report is a public document, continuously updated as new evidence is released.
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Felicia Baruffi 
+To:  me · Fri, Dec 19 at 2:24 PM
+Message Body
+
+
+ 
+Mr. Stebbins,
+
+ 
+
+PERAC is in receipt of your additional Public Records Request.  We are reviewing and I will provide you with a status update shortly as well as a fee estimate.
+
+ 
+
+Thank you,
+
+ 
+
+Felicia
+
+ 
+
+Felicia Baruffi, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 909
+
+www.mass.gov/perac
+
+ 
+
+**Please note my new email address: felicia.m.baruffi@mass.gov
+
+ 
+
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Thursday, December 18, 2025 7:26 PM
+To: Baruffi, Felicia M. (PER) <Felicia.M.Baruffi@mass.gov>
+Subject: Public Records Request (Parallel) – Vendor Gross/Net Performance Reports (2018–2024)
+
+ 
+
+CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system.  Do not click on links or open attachments unless you recognize the sender and know the content is safe.
+
+
+
+ Dear Ms. Baruffi,
+
+ 
+
+I am submitting this as a new and separate Public Records Request, to proceed in parallel with my pending consolidated request and not to replace it.
+
+ 
+
+This request is focused on a single, documented issue reflected in PERAC–vendor correspondence:
+
+whether gross and net performance data were calculated or available but omitted from distributed reports, and how PERAC ensures accuracy, reconcilability, and oversight when that occurs.
+
+ 
+
+This request seeks existing records only.
+
+It does not ask PERAC to create new analyses, calculations, reconciliations, or reports.
+
+ 
+
+ 
+
+I. Meketa Investment Group – Gross/Net Performance Data and Report Version History (2018–2024)
+
+ 
+
+ 
+
+PERAC–vendor correspondence from February 2021 states that including both gross and net performance in the Trailing Performance Summary would make the “net/gross column” in the Fee Expense Analysis “no longer applicable” and could “cause more confusion than clarity.”
+
+ 
+
+That statement indicates that:
+
+ 
+
+    Gross and net performance data existed or were calculable, and
+    A reporting-format decision was made that affected reconcilability across report types and periods.
+
+ 
+
+
+A. Systems / Boards
+
+ 
+
+ 
+
+For the period January 1, 2018 through December 31, 2024, please produce Meketa-prepared reports for the following systems:
+
+ 
+
+    Massachusetts Housing Finance Agency (MassHousing / “Mass HFA”)
+    Norwood Retirement System
+    Plymouth County Retirement System
+    Plymouth Retirement System
+    Worcester Retirement System
+    Hingham Retirement System
+    Lexington Retirement System
+    Marlborough Retirement System
+    Quincy Retirement System
+
+ 
+ 
+
+B. Report Types
+
+For each system listed above, please produce all versions of:
+
+ 
+
+    Trailing Performance Summary reports (quarterly and/or annual)
+    Fee Expense Analysis reports
+    Any quarterly, annual, or multi-year performance or fee reports prepared by Meketa that were provided to PERAC, transmitted through PERAC, or relied upon by PERAC
+
+
+
+C. Versions, Columns, and Explanations
+
+
+For each system, report type, and year, please produce:
+
+ 
+
+    Any version(s) that include both gross and net performance figures in the Trailing Performance Summary
+    Any version(s) where such figures or columns were omitted, removed, suppressed, or altered
+    Any emails, cover memoranda, internal notes, or attachments explaining:
+
+        why the figures or columns were omitted or altered,
+        who requested, approved, or accepted the change, and
+        whether PERAC staff (including Veronica Colon) discussed, reviewed, relied upon, or responded to this issue in any communication, whether or not a formal response was issued
+     
+
+
+If PERAC does not retain multiple versions, please explicitly confirm whether:
+
+ 
+
+    such versions were never received,
+    such versions were received but not retained, or
+    PERAC retains PDFs only and not native or working files
+
+
+
+D. Attachments, Native Files, and Underlying Data
+
+ 
+
+ 
+
+Please also produce any attachments or native files (e.g., XLS, XLSX, CSV, or similar structured formats) received, reviewed, or relied upon by PERAC that contain performance or fee data underlying these reports, regardless of whether the final distributed reports omitted certain fields.
+
+ 
+
+This request includes records reflecting PERAC’s receipt, review, awareness of, or reliance upon such data, even if the underlying files are retained by vendors.
+
+ 
+
+If PERAC does not retain such attachments, please confirm whether:
+
+ 
+
+    they were received but not retained, or
+    PERAC does not retain non-PDF formats as a matter of practice
+
+
+
+II. Other Vendors – Identification of Similar Omission Practices (2018–2024)
+
+
+Beyond Meketa, please provide records sufficient to determine whether any other PERAC-associated investment consultants or vendors:
+
+ 
+
+    calculated gross and net performance data (or advised that such data were available internally), but
+    omitted those figures from distributed reports, or
+    altered report formats in a way that prevents year-over-year or cross-report reconciliation
+
+
+This includes, but is not limited to:
+
+ 
+
+    BlackRock
+    State Street / State Street Global Advisors
+    Hamilton Lane
+    Gen II Fund Services
+    Any private equity or real estate fund administrators or consultants providing performance or fee reporting
+
+
+
+For each vendor where this applies, please produce:
+
+ 
+
+    Vendor name and affected report type(s)
+    Systems or boards affected
+    Any versions retained by PERAC that include omitted data
+    Records describing what data the vendor tracks internally, what data is distributed externally, and what PERAC knew, reviewed, or relied upon
+
+
+
+If PERAC does not track, verify, or evaluate whether vendors omit reconcilable fields, please confirm that in writing.
+
+
+ 
+
+III. PERAC–Vendor Correspondence Regarding Omission or Avoidance of Reconcilable Data (2018–2024)
+
+ 
+
+ 
+
+Please produce correspondence between PERAC and vendors from January 1, 2018 through December 31, 2024 that discusses omitting, removing, discouraging, or avoiding inclusion of performance or fee data, including communications containing language such as:
+
+ 
+
+    “cause more confusion than clarity”
+    “no longer applicable”
+    “not intended to represent actual fees paid”
+    “fee estimates not included”
+    “outside scope of service”
+    “management or performance fee verification”
+    “carried interest”
+    “tedious” or “imprecise”
+    “not an audit” / “not verified” / “do not calculate”
+
+
+This includes emails, attachments, internal notes, and vendor explanations.
+
+
+IV. Responsibility for Reconciliation and Oversight
+
+
+
+Please produce any records from 2018–2024 identifying:
+
+ 
+
+    which entity (PERAC, vendor, retirement board, or other) is responsible for reconciling performance and fee data when vendor reports are acknowledged to be incomplete, estimated, or not independently verifiable, and
+    what action, if any, is taken when PERAC becomes aware that reports cannot be reconciled across report types or reporting periods
+
+
+If no such responsibility, escalation, or oversight documentation exists, please confirm that in writing.
+
+   
+
+V. Basis for Accuracy of Annual Reports
+
+ 
+
+Please produce any records describing how PERAC determines that annual reports are accurate when underlying vendor reports are incomplete, estimated, or not independently verified.
+
+ 
+
+If no such records exist, please confirm that in writing.
+
+   
+
+VI. Vendor Clarification Requests Initiated by PERAC
+ 
+ 
+
+If PERAC has contacted vendors to clarify omitted performance or fee data, please produce:
+
+ 
+    the requests sent,
+    the vendors’ responses, and
+    any resulting updates or decisions not to update reports
+
+  
+If PERAC has not contacted vendors regarding this issue, please confirm that no such clarification requests were made.
+
+   
+ 
+
+VII. Distribution of Updated or Corrected Reports
+
+  
+
+If any corrected or reissued reports exist, please produce records showing:
+
+ 
+
+    whether PERAC redistributed them to boards or systems,
+    whether recipients were notified that earlier versions were incomplete or non-reconcilable, and
+    the distribution lists used (board/system level only)
+
+ 
+
+ 
+
+If PERAC does not redistribute corrected reports when reconciliation issues are identified, please confirm that practice.
+
+   
+ 
+
+Purpose (Clarifying, Not Accusatory)
+
+ 
+
+This request is made to allow boards, unions, retirees, and the public to understand whether reported performance and fees are structurally reconcilable over time, and how accuracy and oversight are ensured when certain figures are omitted or not verified.
+
+ 
+
+I am not alleging wrongdoing. I am requesting records that vendor correspondence indicates exist, or documentation clarifying responsibility when reconciliation is not possible.
+
+ 
+
+Please confirm receipt and advise if any clarification is required.
+
+ 
+
+Sincerely,
+
+Ricky Stebbins 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+Fwd: Public Records Request - PERAC Investment Records 2024-2025
+From: RickyStebbins(thestebbman@yahoo.com)
+To:
+caryn.m.shea@mass.gov
+Date: Monday, December 8, 2025 at 11:40 AM EST
+about:blank
+Hi Ms. Shea,
+I received an automated response that Veronica Colon is no longer with PERAC, with a note that I
+should contact you for assistance. I want to make sure you're aware that I have an ongoing public records request and oversight
+concern involving: - PROSPER investment-vendor logins
+(BlackRock and others)
+- Late / inconsistent fee reporting - Multiple emails showing consultants and vendors shaping disclosures and reports across
+many boards These issues involve years of emails and documents where Ms. Colon appears centrally involved (report chasing, fee analysis, pooled fund
+worksheets, CD requests, etc.).
+1 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd:PublicRecordsRequest-PERACInvestmentRecor...
+Because of that, I want explicit confirmation that: 1. All of Ms. Colon's emails and associated records are being preserved in full, not deleted or altered,
+and 2. They are being included in the ongoing response to my records requests already being handled by
+Ms. Baruffi.
+about:blank I'm not making accusations about Ms. Colon personally — my concern is systemic: the documents show serious delays, gaps, and dependencies on outside vendors that raise questions about whether PERAC can actually perform the oversight it describes in statute. That's why I've also copied oversight offices and am
+preserving everything publicly. Please confirm that her records are preserved and
+within the scope of PERAC's response.
+Thank you,
+Richard (Ricky) Stebbins
+Begin forwarded message:
+2 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Date: December 8, 2025 at 9:55:34 AM EST To: "Felicia M. Baruffi" <Felicia.M.Baruffi@mass.gov>, recordsrequests@sec.state.ma.us, natacha.a.dunker@mass.gov, Christopher.Bowman@state.ma.us, paul.m.stein@state.ma.us, Cynthia. Ittleman@state.ma.us, paul.a.camuso@state.ma.us, kevin.m.tivnan@state.ma.us,
+Medes.Diaz@state.ma.us,veronica.colon@mass.gov
+Cc: "DoreenM. Duane"<doreen.m.duane@mass.gov>
+Subject:Re: Public Records Request - PERAC Investment Records 2024-2025
+Good Morning Ms. Baruffi, Thank you for providing the initial batch of emails and the vendor login information from the PROSPER system. I appreciate that PERAC is working through a large volume of material, and I recognize that coordinating with
+State IT and a third-party vendor adds significant complexity. However, after reviewing the materials provided so far, several issues have emerged that raise serious questions about process integrity, oversight limitations, and potential data-handling vulnerabilities. Before I publish or escalate any concerns, I want to give PERAC the opportunity to explain its
+position clearly and transparently.
+To be very clear:
+I am not making accusations. I am giving PERAC the chance to clarify the situation before this is shared with state oversight bodies, journalists, or EU data protection authorities who
+may have jurisdiction due to the involvement of European vendors and funds. Below is a structured explanation of why additional records and clarifications
+are now necessary.
+3 of 15
+12/8/2025.11:13 PM
+
+
+Yahoo Mail - Fwd:PublicRecordsRequest-PERACInvestmentRecor...
+about:blank
+1. PROSPER Vendor Access Appears
+Broader Than Expected The logs you sent show a surprisingly large number of outside vendors
+accessing the PROSPER investment portal, including:
+• BlackRock
+• Hamilton Lane
+• State Street
+• PRIM-affiliated entities
+• Multiple private fund administrators This volume of access — and the lack of detail about what each login
+accessed - raises several concerns: • There is no audit trail showing which files or disclosures were viewed or
+downloaded.
+• There is no geographic information, IP metadata, or device information.
+• No access revocation logs were provided.
+• No internal oversight or monitoring documentation appears to exist. Under M.G.L. c. 66 (Public Records) and 201 CMR 17.00 (Data Security
+Regulations), agencies must maintain:
+• audit trails
+• access logs
+• retention logs
+• documentation of third-party access to regulated systems
+4 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank I am therefore requesting additional metadata because it appears that PERAC may not have full visibility into how investment vendors interact with the
+pension oversight system. This is a potential oversight gapone I want you to be able to explain before
+I take it further. 2.Multiple Emails Show Confusion, Delays,
+andMissing Reports Across Many Boards
+The older emails (2018-2022) reveal a pattern:
+• consultants repeatedly sending late, corrected, or missing reports
+• pooled fund worksheets "out of balance"
+• fee analysis reports missing or inconsistent
+• PERAC staff asking vendors to re-send documents multiple times
+• reports released only after private meetings with consultants
+• inconsistent treatment of "net vs. gross of fees" performance data • repeated reminders from PERAC to vendors about failing to submit
+required disclosures This is concerning because PERAC is the compliance authority for 104
+retirement boards.
+5 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank Under Chapter 32 and PERAC regulations, the Commission is obligated to
+ensure:
+• uniform reporting
+• timely disclosures
+• proper fee analysis
+• vendor compliance
+• audit readiness The emails paint a picture of a system where private consultants and fund managers control the flow of information - and PERAC spends a lot of time
+asking for missing documents.
+Again: I am not accusing PERAC of wrongdoing. But the appearance of systemic disorganization is something the public,
+pensioners, and possibly EU regulators would take seriously.
+3.GDPR and EU Data Protection
+Considerations Several investment firms involved in this process are headquartered in or
+operate under EU jurisdiction, including:
+• Unigestion (Switzerland/EU operations)
+• Mesirow (EU operations)
+6 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank
+• Hamilton Lane (EU LP investors)
+• RhumbLine funds with EU clients
+• BlackRock (significant EU operations, GDPR-bound) If European citizens' data — or EU-regulated financial disclosures — flow
+through PROSPER or Massachusetts systems, then:
+GDPR Articles 5, 30, 32, and 33 impose:
+• audit trails
+• access logs
+• documentation of data processors
+• breach notification obligations
+Right now, based on what you've provided:
+It is unclear whether PERAC has met those obligations.
+This is why I need the additional information below — not to accuse PERAC, but to determine whether PERAC is even aware of the compliance
+implications. I want PERAC to have the opportunity to clarify this before I raise it with EU
+partners or compliance monitors.
+4. Why I Am Requesting Broader
+7 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd:PublicRecordsRequest-PERACInvestmentRecor...
+about:blank
+Preservation and Documentation Given the gaps above, I am formally requesting preservation of the following categories so that no material is inadvertently deleted during PERAC's search
+process:
+A. Full PROSPER system metadata Because the login summary you provided lacks detail required under state
+retention laws.
+B. Email server metadata and archive restoration logs Because multiple employees indicated they cannot access emails older than
+12 months, which raises questions about retention compliance.
+C. Device and VPN access logs Because PERAC staff and vendors may access PROSPER remotely, which
+matters for regulatory oversight. D. Informal communications (texts, Teams, personal email used
+for work)
+8 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor... These count as public records under Massachusetts law and could contain
+key procurement or disclosure information.
+about:blank
+E. Vendor communications involving PERAC
+Because vendors are directly contacting PERAC about RFPs and disclosures.
+F. Retention and deletion logs This will confirm that nothing related to this matter was deleted
+automatically.
+G. Internal meeting notes, briefing memos, and directives
+To understand PERAC's internal process for vendor oversight. H. Documentation of search terms, custodians, and systems
+accessed
+To ensure the transparency and completeness of the Public Records search.
+None of this is an accusation. It is due diligence — something I would do with ANY agency where the
+documentary record appears incomplete or inconsistent.
+9 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank Final Point: Giving PERAC the Chance to
+Explain Before This Goes Public
+I want to emphasize this in good faith: I am giving PERAC an opportunity to explain, clarify, and correct the record
+before I take any of this to:
+• Massachusetts State Auditor
+• AG's Office
+• Federal oversight partners
+• EU GDPR regulators (if applicable)
+• Investigative journalists and watchdogs If I misunderstood the situation or if there is a reasonable explanation, I
+genuinely want to hear it.
+Transparency helps everyone — PERAC, retirees, vendors, and the public. Please confirm receipt of this message and the preservation request. I look
+forward to your clarification.
+Sincerely,
+Ricky Stebbins
+10 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank
+Springfield, MA
+413-949-1925 On Oct 23, 2025, at 9:32 AM, Baruffi, Felicia M. (PER) < Felicia.M.Baruffi@mass.gov>
+wrote:
+Good Morning Mr. Stebbins, Pursuant to your Public Records Request, attached please find the login information for investment vendor access in PROSPER. We are unable to provide the IP addresses due to cybersecurity concerns; however, the report includes the name of the individual, the vendor they are
+associated with, and the date/time of the login into PROSPER. The report starts in January 2020 because that is when the Investment Portal in PROSPER was launched for investment vendors to upload their required disclosures to PERAC. Prior to January 2020, investment vendors did not have a portal in PROSPER to access, and so there is
+no login information prior to then. Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:08 AM
+To: Ricky Stebbins <thestebbman@yahoo.com>
+11 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank Cc: Duane, Doreen M. (PER) < doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request - PERAC Investment Records
+2024-2025
+Mr. Stebbins, 1 apologize, this is a additional email. I wasn't able to fit it all in the
+expected 5 emails. This is the 6th and final one for this batch.
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:07 AM
+To: 'Ricky Stebbins' < thestebbman@yahoo.com> Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request - PERAC Investment Records
+2024-2025
+Email 5 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+12 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:06 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request - PERAC Investment Records
+2024-2025
+Email 4 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:05 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request - PERAC Investment Records
+2024-2025
+Email 3 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+13 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:03 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request - PERAC Investment Records
+2024-2025
+Email 2 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:01 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: Public Records Request - PERAC Investment Records 2024-
+2025
+Good Morning Mr. Stebbins, Pursuant to your Public Records request, attached please find the first round of emails that is responsive to your request. This will be email 1 of 5. The rest of the emails are still being reviewed we are still working on the PROSPER login information. I will send additional documents as
+soon as I am able.
+14 of 15
+12/8/2025. 11:13 PM
+
+
+Yahoo Mail - Fwd: Public Records Request - PERAC Investment Recor...
+about:blank Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov CONFIDENTIALITY NOTICE This electronic message and any a @achments are intended only for the addressee(s) and contains informa @on that may be privileged and confiden @al. If you are not the intended recipient, please no ffy the sender by reply email and immediately delete this message. Use, disclosure or reproduceon of this email by anyone other than the intended
+recipients) is strictly prohibited. Thank you.
+PROSPER FinancialVendorUserAccess_v1.pdf
+337.5 KB
+15 of 15
+12/8/2025. 11:13 PM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+
+about:blank
+
+RE: Public Records Request - PERAC Investment Records 2024-2025
+
+From:McGinniss,FeliciaM. (PER)(felicia.m.mcginniss@mass.gov)
+
+To:
+
+thestebbman@yahoo.com
+
+Date: Friday, August 1, 2025 at 10:22 AM EDT
+
+Mr. Stebbins, Please understand that we are not "sitting on 8 years of logs." The logs do not exist in report form. PROSPER is handled by a third-party vendor who hosts and runs our system. They are currently compiling a report of all of those who have logged in for investment purposes. This information does not exist in the form that you are requesting. We, and our PROSPER host site, have to search all of the logs, pull out the relevant users, and create the report from scratch. We also cannot access this directly as it is not stored with PERAC, but with the third-
+
+party site. Searching internal emails that are protected by multiple levels of encryption and stored in archived sites cannot be easily achieved via Al automation tools. While the general public may be able to access some tools, State agencies are required to follow much stricter requirements. The emails that are older are achieved solely with the State IT department, not at PERAC. I cannot do a search on my email for anything older than one year, as it is stored in internal systems and with the State IT. As such, this is a coordinated effort between two agencies to obtain the documents you have requested. Any delay in this process is not because of a shield, it is because of an extensive effort that must be undertaken to obtain all
+
+documents. Regarding the use of Al, State Agencies were just given notice that it was allowed to be used
+
+in certain circumstances in January 2025. Please see the guidance put out by EOTSS:
+
+https://www.mass.gov/policy-advisory/enterprise-use-and-development-of-generative-ai-policy.
+
+If you have further questions about the use of Al, please contact them directly. Regarding our records retention schedule, please see the following document published by the
+
+State that we must follow: https://www.sec.state.ma.us/divisions/public-records/download/
+
+MA_Statewide_Records_Schedule_updated2022-10-31.pdf. Again, I would like to highlight that we have been extremely responsive and transparent in
+
+responding to all your questions about PERAC, and sending you the requested Memoranda
+
+1 of 6
+
+12/8/2025.9:55 PM
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+
+about:blank
+
+and training materials regarding procurements and investments. I will not be providing you a schedule of how the request is being processed each week as that is not a requirement of our Public Records Law. I will keep you updated if we are unable to
+
+respond within the next two months as previously indicated. Best,
+
+Felicia
+
+Felicia McGinniss, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 909
+
+www.mass.gov/perac
+
+**Please note our new address (effective immediately).
+
+From: Ricky Stebbins <thestebbman@yahoo.com>
+
+Sent: Friday, August 1, 2025 9:57 AM CONFIDENTIALITY NOTICE This electronic message and any a@achments are intended only for the addressee(s) and contains informa®on that may be privileged and
+
+confiden @al. If you are not the intended recipient, please no efy the sender by reply email and immediately delete this message. Use, disclosure or reproduceon of
+
+To: McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov>
+
+Subject: Re: Public Records Request - PERAC Investment Records 2024-2025 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you
+
+recognize the sender and know the content is safe.
+
+2 of 6
+
+12/8/2025.9:55 PM
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+
+Hi Felicia,
+
+about:blank
+
+Thank you for the update. I want to be clear: I'm not upset about technical delays—I'm upset that you're
+
+using delays as a shield. You've now admitted that PERAC is sitting on 8 years of logs, vendor data, and internal emails—while refusing to use any of the available AI or automation tools
+
+that could make this retrieval, triage, and review process almost immediate.
+
+Here's what that looks like from my perspective as a disabled individual: I used my disability income to purchase an iPhone and a laptop specifically so I could use Al to investigate corruption and demand accountability. The state of Massachusetts, and agencies like PERAC, are sitting on billions of dollars in public assets—yet you're still acting
+
+like this is 1995. If I need toast and I already bought a toaster, but I still tell people "Sorry, no toast
+
+today," something's wrong. Either I'm willfully avoiding the truth, or I'm hoping
+
+3 of 6
+
+12/8/2025.9:55 PM
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+
+about:blank
+
+the bread goes stale before anyone asks questions. PERAC has the tools. It has the data. And now it has a very public record of what
+
+it's choosing not to do. I'm not requesting miracles. I'm requesting accountability—using the same tools
+
+and technology that are available to the public. I'm copying this to my blog archive and public record. Please consider this a
+
+formal request for: • A copy of the data retention policy covering PROSPER logs and email
+
+archiving. . A clear explanation of why Al tools are not being used to process these
+
+requests in a timely fashion. . A rolling schedule, showing which accounts and timeframes are being
+
+processed each week. If this request is too much for PERAC, let me know and I'll forward it to the State Auditor, DOJ, and any AI task force interested in public sector
+
+modernization.
+
+Thank you,
+
+Richard Stebbins
+
+4 of 6
+
+12/8/2025.9:55 PM
+
+
+
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+
+about:blank
+
+On Aug 1, 2025, at 9:47 AM, McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov> wrote:
+
+Good Morning Mr. Stebbins, I would like to respectfully note that PERAC's July 28, 2025 letter was neither evasive nor meant to "shield misconduct" regarding our role in the investment process for retirement systems. The letter was meant to answer all your questions in detail, which specifically asked for laws and regulations that demonstrated PERAC's role in
+
+investments and procurements. No specific details or information were omitted. As noted in the letter and my prior emails, the letter itself was meant to solely address your questions that were submitted in addition to your original public records request. No documents or data were intended to be provided with that letter. I have already provided all documents requested concerning PERAC Memoranda and trainings given that pertained to procurements and investments. As I previously indicted, we would need at least 2 months to respond to the rest of your request, possibly more. We are in contact with our PROSPER vendor to obtain login information, but it is 8 years of logs that you are requesting. Additionally, our internal IT team and the State IT team are currently in the process of searching the emails of relevant PERAC employees to provide documents
+
+that are responsive to your request. I will keep you abreast of the status of your public records request but appreciate your continued understanding
+
+and patience in this process.
+
+Best,
+
+Felicia
+
+Felicia McGinniss, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+5 of 6
+
+12/8/2025.9:55 PM
+
+
+
+Yahoo Mail - RE: Public Records Request - PERAC Investment Record...
+about:blank
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+6
+of 6
+12/8/2025. 9:55 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank
+Re: Public Records Request - PERAC Investment Records 2024-2025
+From:RickyStebbins (thestebbman@yahoo.com)
+To:
+felicia.m.meginniss@mass.gov
+Date: Wednesday, July 9, 2025 at 09:51 AM EDT
+To: Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission (PERAC)
+Dear Ms. McGinniss, Thank you for your response and for providing the two emails between PERAC and
+BlackRock. I appreciate your time and transparency. However, after carefully reviewing these emails and cross-referencing them with public records and vendor access logs, I now have several follow-up questions and requests for clarification. These are based on inconsistencies between your written statements and
+the role PERAC appears to play in pension vendor coordination and disclosures.
+Clarification Questions
+1. Vendor Coordination and Investment Gatekeeping
+1 of 8
+12/8/2025.9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank • Why is PERAC advising vendors such as BlackRock on how to respond to individual retirement board RFPs if PERAC does not conduct or influence
+investments? • What legal or regulatory authority allows PERAC to instruct vendors on
+compliance for board-specific RFPs (e.g., MWRA)? • How frequently does PERAC correspond directly with private investment
+firms about open RFPs?
+2.
+3. PROSPER Portal Access • What data fields or modules within the PROSPER portal were accessed by
+BlackRock employees? • Are outside vendors' portal access logs retained? If so, I formally request
+them for the BlackRock accounts added in the attached emails.
+• Under what criteria does PERAC grant vendor access to PROSPER?
+5. Undisclosed Investment Influence
+• How many vendors have contacted PERAC to clarify or satisfy PERAC
+disclosures before responding to RFPs over the last 5 years? • Is PERAC involved in the review, guidance, or approval of investment firms
+participating in retirement board selections? • Has PERAC ever provided verbal guidance or informal steering that is not
+documented in email or written form?
+7. Disclosure Gaps and Transparency Compliance • Do PERAC officers or contractors (e.g., John Galvin) attend investment
+committee meetings or vendor pitches, even informally? • Does PERA maintain internal records of vendor-related communications
+that are not cataloged under public procurement systems? • Has PERAC coordinated with third-party platforms such as BlackRock,
+Hamilton Lane, or PRIM to shape or influence RFP outcomes?
+8.
+2 of 8
+12/8/2025. 9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank
+Public Records Request Expansion
+In accordance with Massachusetts public records law, I hereby formally request: 1. All communications (email, internal memos, meeting notes) between PERAC
+employees and any vendor or investment firm from 2018 to 2025 that reference:
+• PROSPER portal access
+• RFP responses or disclosures • BlackRock, PRIM, Hamilton Lane, or any vendor managing public
+retirement funds
+2. 3. All access logs to the PROSPER system from external IP addresses or users
+affiliated with investment vendors, including but not limited to:
+• BlackRock
+• Hamilton Lane
+• State Street
+• Vanguard
+• PRIM-affiliated firms
+5. All internal policies, memos, or training materials that:
+• Define PERAC's role in vendor guidance • Explain what constitutes "investment influence" or "advisory capacity"
+within PERAC's compliance obligations
+6.
+3 of 8
+12/8/2025. 9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank
+Notice of Legal and Public Oversight Interest Due to the serious financial and ethical implications of possible undisclosed influence over public retirement funds, this request is part of a larger transparency initiative
+involving oversight bodies, investigative journalists, and legal analysts. If PERAC has in any way misrepresented its level of involvement in pension investment decisions or vendor guidance, that would constitute a breach of public trust
+with implications under state ethics and procurement laws (e.g., M.G.L. c. 268A and c.
+30B). This is not a generic fishing expedition. It is a focused inquiry into patterns of selective access, behind-the-scenes gatekeeping, and potential conflicts of interest affecting
+millions in public retirement assets.
+I respectfully ask that you treat this request with the seriousness it deserves.
+Sincerely,
+Ricky Stebbins
+On Jul 8, 2025, at 9:36 AM, McGinniss, Felicia M. (PER) < Felicia.M.McGinniss@mass.gov> wrote:
+Good Morning Mr. Stebbins, PERAC has received your below Public Records Request; however, we are unable to comply with a majority of
+said request as PERAC itself does not conduct any type of investments.
+4 of 8
+12/8/2025.9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank PERAC is the regulatory agency that oversees the 104 retirement systems in the Commonwealth. We assist the
+retirement boards and ensure that our retirement law, Chapter 32, is applied uniformly throughout the systems. PERAC itself does not enter into or handle any investments. Each of the 104 retirement boards conduct their own investments and handle the management of the funds of that system. As such, we are unable to supply any
+investment schedules or asset allocation reports. I have attached copies of 2 emails between PERAC and Blackrock, but again, these are only advisory emails
+about responding to RFPs sent out by retirement boards. I would suggest that you send this request to each of the 104 retirement systems to see if any of them can provide the information that you seek. I would also suggest sending this request to the Massachusetts Pension Reserves Investment Management (IPRIM) Board as they are the ones that handle investing funds of certain
+retirement boards.
+Best,
+Felicia
+Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note our new address (effective immediately).
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Monday, July 7, 2025 1:11 AM
+To: McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov>;
+5 of 8
+12/8/2025.9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank
+recordsrequests@sec.state.ma.us; Dunker, Natacha A. (PER) <Natacha.A.Dunker@mass.gov»; Bowman, Christopher (CSC) <christopher.bowman@mass.gov>; Stein, Paul (CSC)
+<paul.m.stein@mass.gov>; Cynthia. Ittleman@state.ma.us; Camuso, Paul A. (CSC)
+<paul.a.camuso@mass.gov»; zzTivnan, Kevin M (CSC) <kevin.m.tivnan@mass.gov»; Diaz, Medes
+(CSC) <medes.diaz@mass.gov>; treasury.web@tre.state.ma.us; EOEEA (EEA) < EEA@mass.gov>
+Subject: Public Records Request - PERAC Investment Records 2024-2025 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you
+recognize the sender and know the content is safe.
+Dear Records Access Officer, Under the Massachusetts Public Records Law, M.G.L. c. 66, I am requesting access
+to the following public records: • All investment schedules and asset allocation reports from January 1, 2024, to present related to the Massachusetts Public Employee Retirement
+Administration Commission (PERAC), specifically including: • BlackRock Exchange Traded Fund (ETF) holdings, including but not
+limited to crypto ETFs. Investments in cryptocurrency mining companies, including but not limited to Riot Platforms, Marathon Digital Holdings, and Bitdeer
+Technologies. • All communications, meeting minutes, and correspondence from January 1,
+2024, to present between PERAC officials and:
+• Larry Fink (BlackRock CEO)
+6 of 8
+12/8/2025. 9:58 PM
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about blank
+• Maura Healey (Governor of Massachusetts)
+• Representatives of BlackRock
+• Representatives of cryptocurrency companies
+• If the total cost to fulfill this request will exceed $50, please contact me with an estimate before proceeding. If possible, I prefer to receive records electronically via
+email. If any part of this request is denied, please provide the specific exemption(s) you
+believe justify withholding the records and inform me of the appeal process. Thank you for your attention to this request. I look forward to your response within
+the 10 business days provided under Massachusetts law.
+Sincerely,
+Richard stebbins
+54 Hope st
+Springfield, MA 01119
+413-949-1925 CONFIDENTIALITY NOTICE This electronic message and any a@achments are intended only for the addressee(s) and contains informa®on that may be privileged and confiden @al. If you are not the intended recipient, please no efy the sender by reply email and immediately delete this message. Use, disclosure or
+reproduceon of this email by anyone other than the intended recipients) is strictly prohibited. Thank you.
+7 of 8
+12/8/2025. 9:58 PM
+
+
+
+
+ 
+
+ 
+ 
+ PERAC
+COMMONWEALTH OF MASSACHUSETTS | PUBLIC EMPLOYEE RETIREMENT ADMINISTRATION COMMISSION
+PHILIP Y. BROWN, ESQ., Chair
+WILLIAM T. KEEFE, Executive Director
+Auditor DIANA DIZOGLIO | KATHLEEN M. FALLON | KATE FITZPATRICK | JAMES J. GUIDO | RICHARD MACKINNON, JR. | JENNIFER F. SULLIVAN, ESQ.
+July 28, 2025
+Richard Stebbins
+54 Hope Street
+Springfield, MA 01119
+Dear Mr. Stebbins: This is in response to your email, dated July 9, 2025, concerning PERAC's role in retirement system vendor coordination and disclosures pertaining to investment management advisors. This request was submitted in addition to a Public Records Request for documents related to these questions. Those documents are currently being compiled and will be sent to you as soon as
+possible.
+You presented a series of questions, which will be answered below in turn.
+1. Vendor Coordination and Investment Gatekeeping Why is PERA advising vendors such as BlackRock on how to respond to individual retirement board RFPs if PERAC does not conduct or influence
+investments? • What legal or regulatory authority, allows PERAC to instruct vendors on
+compliance for board-specific RFPs (e.g., MWRA)? How frequently does PERAC correspond directly with private investment
+firms about open RFPs? PERAC Response: As the regulatory agency of the 104 retirement systems, PERAC's role is to ensure the uniform application of our retirement law, Chapter 32. Regarding the procurements of
+investment services, retirement boards are required to perform them pursuant to G.L. c. 32, § 23B. Section 23B addresses how procurements should be undertaken and that PERAC must review all procurements of vendors, such as investment, actuarial, legal, and accounting services. Section
+23B also requires annual vendor disclosures to be filed with the retirement board and PERAC. Additionally, PERAC has formally adopted regulations regarding investments at 840 CMR 16.00- 18.00, 21.00, and 26.00-27.00. PERAC's role is to ensure that each retirement board is correctly following the procurement process and requesting the required documentation outlined in Section 23B. To that end, PERAC regularly corresponds with retirement boards and some potential vendors - legal, actuarial, investment, etc. - to ensure that proper documentation is being provided
+in response to RFPs. PERAC does not advise vendors on how to respond so that they will "win"
+I0 CABOT ROAD, SUITE 300 | MEDFORD, MA 02155
+PH 617 666 4446 | FAX 617 628 4002 |WWW.MASS.GOV/PERAC
+ 
+ 
+ 
+ 
+ Richard Stebbins
+54 Hope Street
+Springfield, MA 01119
+July 28, 2025
+Page Two the RFP or influence investments. Instead, PERA merely answers questions about the
+requirements of Section 23B and what must be submitted to retirement boards in response to RFPs. The only exception to the above statements is if a retirement board's return of investment falls below the determined benchmark. If that occurs, then the retirement board would be subject to the transfer of their assets over to PRIM in accordance with the provisions of Chapter 21 of the Acts
+of 2009. PERAC would oversee and ensure that the assets were promptly transferred to PRIM.
+2. PROPSER Portal Access • What data fields or modules within the PROSPER portal were accessed by
+BlackRock employees? • Are outside vendors' portal access logs retained? If so, I formally request
+them for the BlackRock accounts added in the attached emails.
+• Under what criteria does PERAC grant vendor access to PROSPER? PERAC Response: PROSPER is an internal system that is available to all PERAC staff, retirement board members and staff, and vendors. Each group is able to access different parts of the PROSPER system depending on how they are classified. Vendors have limited access to PROSPER so that they can upload the required annual vendor disclosure filings. To gain access to PROSPER, the vendor must be a current, authorized vendor of a retirement board who has complied with and been selected by a retirement board through the RFP process. Access is only
+given to authorized employees of the vendor.
+3. Undisclosed Investment Influence
+• How many vendors have contacted PERAC to clarify or satisfy PERAC
+disclosures before responding to RFPs over the last 5 years? • Is PERAC involved in the review, guidance, or approval of investment firms
+participating in retirement board selections? • Has PERAC ever provided verbal guidance or informal steering that is not
+documented in email or written form? PERAC Response: Pursuant to our statutory mandate, PERAC is not involved in the review, guidance, or approval of investment firms that are contracted by retirement boards. Again, we will answer any general questions about required documents but will not assist a vendor in "winning" an RFP. PERAC will conduct a review of all completed RFPs to ensure that the vendor was selected in accordance with the procedures of G.L. c. 32, § 23B and PERAC regulations at 840 CMR. PERAC does not track how many vendors have been in contact with
+questions regarding RFPs.
+ 
+ 
+ 
+ 
+ Richard Stebbins
+54 Hope Street
+Springfield, MA 01119
+July 28, 2025
+Page Three •
+4. Disclosure Gaps and Transparency Compliance • Do PERAC officers or contractors (e.g., John Galvin) attend investment committee
+meetings or vendor pitches, even informally? • Does PERAC maintain internal records of vendor-related communications that are
+not cataloged under public procurement systems? • Has PERAC coordinated with third-party platforms such as BlackRock, Hamilton
+Lane, or PRIM to shape or influence RFP outcomes? PERAC Response: PERAC staff attend retirement board meetings and the quarterly PRIM board meetings. However, PERAC staff have no role in these meetings unless invited to speak on a topic. If a retirement board is conducting a meeting in open session with an investment vendor, PERAC staff are not involved in the meeting and their attendance is treated as if they were a member of the public. Additionally, PERAC has never coordinated with third-party platforms to shape or influence RFP outcomes as that would directly violate our role in the procurement
+process. Vendor decisions for investment services lie solely with each individual retirement board. PERAC is merely available to help ensure that the requirements of G.L. c. 32, § 23B are followed
+and to answer any questions regarding documents that are required to be provided in response to RFP’s.
+We trust the foregoing will be of assistance to you. Please contact this office if you have any
+questions or concerns about this.
+
+
+
+Yahoo Mail - Re: Public Records Request - PERAC Investment Record...
+about:blank
+Re_ Hi John!!.pat
+265.3 KB
+RE_ PROSPER Application Access - BlackRock.pdf
+224.6 KB
+8
+of
+12/8/2025. 9:58 PM
+
+.
+
+
+
+
+10/15/25, 9:07 AM
+RE: Assistance - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: Assistance
+From O'Donnell, Thomas J. (PER) <Thomas.J.ODonnell@mass.gov>
+Date Wed 5/22/2019 11:27 AM
+To
+Daniele, Francesco <FDaniele@mapension.com>
+U 5 attachments (4 MB)
+srbsaristotleevaluation.pdf; srblmcgeval.pdf, srarhumpassivecorebond.pdf; sralcappassiveeval.pdf;
+sraacknowledgementdocument.pdf;
+Hello Francesco, Here are the product evaluations prepared by consultant as submitted to PERAC. I suggest you read the
+Acknowledgement document, it offers clarity on PERAC's role in procurement process.
+Keep under your toga please!
+Take care,
+Tom
+From: Daniele, Francesco [mailto:FDaniele@mapension.com]
+Sent: Wednesday, May 22, 2019 9:52 AM
+To: O'Donnell, Thomas J. (PER)
+Subject: Assistance
+Importance: High
+HI Tom,
+Great catching up with you!
+Regarding Saugus, could you provide more specific details as to specific strategy within each asset class.
+I believe
+I have the amounts correct, but please advise.
+$5.7 Million US LARGE Cap-https://www.rhumblineadvisers.com/products/largecap.htm
+$7.2 Million FIXED Income-https://www.rhumblineadvisers.com/products/fixedincome.htm
+$6.3 Million Mid Cap-http://www.lmcg.com/individual-investors/us-equity/
+$ 6.7 Million Small Cap - https://www.aristotlecap.com/aristotle-boston/
+Thank you in advance.
+Francesco
+Francesco Daniele
+Senior Client Services Officer
+about:blank?windowld=SecondaryReadingPane9
+1/2
+
+10/15/25, 9:07 AM
+RE: Assistance - Baruffi, Felicia M. (PER) - Outlook PENSION RESERVES INVESTMENT
+MANAGEMENT BOARD
+84 State Street, Second Floor
+Boston, MA 02109
+Office 617-946-8416
+E-mail: fdaniele@mapension.com
+about:blank?windowld=SecondaryReadingPane9
+212
+
+From: To: Cc:
+Subject:
+Date:
+Attachments:
+Galvin, John P. (PER)
+Dasaro, James
+Brandwein, Sarah; Xiao, Miley; Ford, Conor
+RE: PROSPER Application Access - BlackRock
+Tuesday, July 8, 2025 7:44:00 AM
+image001.png
+Hi James,
+Yes, great long weekend and I hope the same for all of you! Sara, Miley, Conor- a registration email will come under separate cover for access to the
+site.
+If you need any help, or have questions using the site, please let me know.
+Thank you,
+John
+John Galvin
+Compliance Manager
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+Phone: 617-591-8927
+John.P.Galvin@mass.gov
+From: Dasaro, James <james.dasaro@blackrock.com>
+Sent: Monday, July 7, 2025 10:07 AM
+To: Galvin, John P. (PER) <John.P.Galvin@mass.gov>
+Cc: Brandwein, Sarah <sarah.brandwein@blackrock.com>; Xiao, Miley <aiyin.xiao@blackrock.com>;
+Ford, Conor <Conor.Ford@blackrock.com>
+Subject: PROSPER Application Access - BlackRock CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you
+recognize the sender and know the content is safe.
+Hi John, Hope all has been well and that you enjoyed the long weekend! Would you be able to help provide
+access to the PROSPER portal to my colleagues copied in here?
+Best,
+James
+James Dasaro
+Director, ClientExperience Management
+Phone: +1.212.810.8872
+Email: james.dasaro@blackrock.com
+BLK Logo This message may contain information that is confidential or privileged. If you are not the intended recipient, please
+advise the sender immediately and delete this message. See https://www.blackrock.com/corporate/compliance/email-disclaimers for further information. Please refer to https://www.blackrock.com/corporate/compliance/privacy-policy for more information about BlackRock's Privacy
+Policy. For a list of BlackRock's office addresses worldwide, see https://www.blackrock.com/corporate/about-us/contacts-
+locations.
+© 2025 BlackRock, Inc. All rights reserved.
+
+
+10/16/25, 11:33 AM
+Re: CORRECTION: "RE: 3rd QTR 2020 Reports" - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+Re: CORRECTION: "RE: 3rd QTR 2020 Reports"
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Wed 11/25/2020 1:41 PM
+To
+Flynn, Tracey<tflynn@dimeoschneider.com>
+Cc atranghese@dimeoschneider.com <atranghese@dimeoschneider.com>; mgoulart@dimeoschneider.com < mgoulart@dimeoschneider.com>
+Thank you CO!
+From: Flynn, Tracey <tflynn@dimeoschneider.com>
+Sent: Wednesday, November 25, 2020 12:53 PM
+To: Colon, Veronica (PER); Colon, Veronica (PER); Yee, Sarita (PER)
+Cc: Goulart, Maura; Tranghese, Anthony
+Subject: RE: CORRECTION: "RE: 3rd QTR 2020 Reports" CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open
+attachments unless you recognize the sender and know the content is safe.
+Citrix Attachments
+Expires May 24, 2021
+Concord - 3020 QIR.pdf
+Natick - 3Q20 QIR.pdf
+Plymouth - 3Q20 QIR.pdf
+Reading - 3020 QIR.pdf
+Stoneham - 3Q20 QIR.pdf
+Waltham - 3020 QIR.pdf Watertown - 3Q20 QIR.pdf
+Weymouth - 3Q20 QIR.pdf
+3.8 MB
+4.7 MB
+4.5 MB
+3.4 MB
+4 MB
+4 MB
+5.3 MB
+4.7 MB
+Download Attachments
+Tracey Flynn uses Citrix Files to share documents securely.
+Hi Veronica & Sarita -
+Happy Thanksgiving! Best,
+Tracey
+Tracey Flynn
+Direct 860,697,7444
+My Gender Pronouns: she/her/hers/herself
+As of April 1, 2020, Fiduciary Investment Advisors LLC became a subsidiary of DiMeo Schneider and anticipates fully merging by the end of 2020
+From: Colon, Veronica (PER) <Veronica.Colon@ MassMail.State.MA.US>
+Sent: Wednesday, November 25, 2020 10:13 AM
+To: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Subiect: CORRECTION: "RE: 3rd OTR 2020 Reports"
+Importance: High ATTENTION - EXTERNAL EMAIL - The sender of this email is EXTERNAL to our email system. Do not click links or open attachments unless you recognize the sender and know
+the content is safe. The Original Sender of this email is Veronica.Colon@MassMail.State.MA.US
+Correction: Requesting 3rd QTR 2020, not 2nd QTR 2020.
+From: Colon, Veronica (PER)
+Sent: Wednesday, November 25, 2020 10:09 AM
+about:blank?windowld=SecondaryReadingPane7
+1/3
+
+
+10/16/25, 11:33 AM
+Subject: Re: RE: 2nd QTR 2020 Reports
+Re: CORRECTION: "RE: 3rd QTR 2020 Reports" - Baruffi, Felicia M. (PER) - Outlook
+November 25, 2020
+Hi Everyone, Hope all is well and you are having a great morning. Since this is a reminder of the 3rd Quarter 2020 reports. The list below reflects the outstanding reports, please forward the reports. If any of them are no longer your client or other, please update me; I greatly appreciate it a lot. Also, I am aware that some of you have to meet with the boards before releasing them (reports) to the distribution list; please notify me when you will be meeting with the boards. Look forward to hearing from
+everyone soon. Have a nice day and weekend©. Happy Thanksgiving Day. Stay safe C!
+BOARD
+#1 CNSLT 2Q 2020
+CNSLT 3Q 2020
+RECV'D
+1 Boston
+NEPC
+NEED
+2 Brockton
+SEI (Retrieve)
+NEED
+3 Chicopee
+SEI (Retrieve)
+NEED
+4 Concord
+FIA
+NEED
+5 Dukes Cty.
+DAHAB
+NEED
+6 Franklin Cty.
+DAHAB
+NEBD
+7 Hampden Cty.
+SEGAL
+NEED
+8 Hampshire Cty.
+NEPC
+NEED
+9 MASS H.F.A.
+MEKETA
+NEED
+10 MASS P.A.
+WILSHIRE
+NEED
+11 Medford
+NEPC
+NEED
+12 Norfolk Cty.
+PEOPLE'S UNITED BANK
+NEED
+13 North Adams
+DEBURLO
+NEED
+14 North Attleboro DAHAB
+NEED
+15 Northampton
+DEBURLO
+NEED
+16 Norwood
+MEKETA
+NEED
+17 Plymouth
+FIA
+NEED
+18 Plymouth Cty.
+MEKETA
+NEED
+19 Reading
+FIA
+NEED
+20Saugus
+PEOPLE'S UNITED BANK
+NEED
+21 Shrewsbury
+DAHAB
+NEED
+22 Stoneham
+FIA
+NEED
+23 Stoneham
+SEI (Retrieve)
+NEED
+24 Swampscott
+DAHAB
+NEED
+25 Waltham
+FIA
+NEED
+26 Waltham
+SEI (Retrieve)
+NEED
+27 Watertown
+FIA
+NEED
+28 Weymouth
+FIA
+NEED
+29 Wobur
+PEOPLE'S UNITED BANK
+NEED
+30 Worcester
+MEKETA
+NEED
+31 Woburn
+PEOPLE'S UNITED BANK
+NEED
+32 Worcester
+[MEKETA
+NEED
+Sincerely,
+Veronica Colon
+Veronica Colon, Senior Investment Analyst
+Investment Unit
+PERAC (Public Employee Retirement Administration Commission)
+5 Middlesex Avenue
+Third Floor, Suite 304
+Somerville, MA 02145
+Ph (617) 666-4446 Ext. 926
+Main Fax (617) 628-4002
+General Fax (617) 628-4414-My location
+Email: vecolon@per.state.ma.us Veronica. Colon@Massmail.State.MA.US, veronica.colon@state.ma.us
+Website: www.mass.gov/perac
+Cashbook Submission E-mail but ALWAYS CC: me: PerCashBooks@MassMail.Statc.MA.US
+Pooled Fund Worksheet Link: https://www.mass.gov/forms/pooled-fund-worksheet
+PROSPER Help: PER-ProsperHelp@pcr.state.ma.us & Compliance Unit Staff & per-mailing@per.state.ma.us
+4 Please consider the environment before printing this email
+From: Colon, Veronica (PER)
+Sent: Friday, August 21, 2020 8:26 AM
+about:blank?windowld=SecondaryReadingPane7
+2/3
+
+10/16/25, 11:33 AM
+Subject: RE: 2nd QTR 2020 Reports
+Re: CORRECTION: "RE: 3rd QTR 2020 Reports" - Baruffi, Felicia M. (PER) - Outlook
+August 21, 2020
+Hi Everyone, Hope all is well and you are having a great morning. Since this is a reminder of the 2nd Quarter 2020 reports. The list below reflects the outstanding reports, please forward the reports. If any of them are no longer your client or other, please update me; which I greatly appreciate it. Also, I am aware that some of you have to meet with the boards before relcasing them (reports) to the distribution list; please notify me when you will be meeting with boards. Look forward in hearing from
+everyone soon. Have a nice day and weekend . Keep coo and enjoy the rest of Summer of 2020. Stay safe & healthy
+BOARD
+#1 CNSLT 2Q 2020
+#1 CNSLT 2Q 2020 RECV'D
+1 Boston
+NEPC
+NEED
+2 Brockton
+FIA
+NEED
+4 Concord
+FIA
+NEED
+5 Dukes Cty.
+DAHAB
+NEED
+6 Franklin Cty.
+DAHAB
+NEED
+7 Hampden Cty.
+SEGAL
+NEED
+8 Hampshire Cty. NEPC
+NEED
+9 Medford
+NEPC
+NEED
+10 Norfolk Cty.
+PEOPLE'S UNITED BANK
+NEED
+11 North
+DAHAB
+NEED
+12 Plymouth
+FIA
+NEED
+13 Plymouth Cty.
+MEKETA
+NEED
+14 Reading i
+FIA
+NEED
+15 Saugus
+PEOPLE'S UNITED BANK
+NEED
+16 Shrewsbury
+DAHAB
+NEED
+17 Stoneham
+FIA
+NEED
+18 Swampscott
+DAHAB
+NEED
+19 Waltham
+FIA
+NEED
+20 Watertown
+FIA
+NEED
+21 Weymouth
+FIA
+NEED
+22 Wobum
+PEOPLE'S UNITED BANK
+NEED
+23 Worcester
+MEKETA
+NEED
+#1 CNSLT 2Q 2020
+BOARD
+#1 CNSLT 2Q 2020 REC
+1 DAHAB
+Dukes Cty.
+NEED
+2 DAHAB
+Franklin Cty.
+NEED
+3 DAHA
+North
+NEED
+4 DAHAB
+Shrew sbury
+NEED
+5 DAHAB
+Swampscott
+NEED
+6 FIA
+Brockton
+NEED
+7 FIA
+Concord
+NEED
+8 FIA
+Plym outh
+NEED
+9FIA
+Reading
+NEED
+10 FIA
+Stoneham
+NEED
+11|FIA
+Wal tham
+NEED
+12|FIA
+Watertown
+NEED
+13 FIA
+Weymouth
+NEED
+14 MEKETA
+Plymouth Cty.
+NEED
+15 MEKETA
+Worcester
+NEED
+16 NEPC
+Boston
+NEED
+17 NEPC
+Hampshire Cty.
+NEED
+18|NEPC
+Medford
+NEED
+19 PEOPLE'S UNITED BANK
+Norfolk Cty.
+NEED
+20 PEOPLE'S UNITED BANK
+Saugus
+NEED
+21 PEOPLE'S UNITED BANK
+Woburn
+NEED
+22 SEGAL
+Hampden Cty.
+NEED
+Sincerely,
+Veronica Colon
+Veronica Colon, Fund Accountant
+Investment Unit
+PERAC (Public Employee Retirement Administration Commission)
+5 Middlesex Avenue
+Third Floor, Suite 304
+Somerville, MA 02145
+Ph (617) 666-4446 Ext. 926
+Main Fax (617) 628-4002
+General Fax (617) 628-4414-My location
+Email: vecolon@per.state.ma.us Veronica. Colon@Massmail.State.MA.US. reronica.colon@state.ma.us
+Website: www.mass.gov/perac
+Cashbook Submission E-mail but ALWAYS CC: me: PerCashBooks@MassMail.Statc.MA.US
+Pooled Fund Worksheet Link: https://www.mass.gov/forms/pooled-fund-worksheet
+PROSPER Help: PER-ProsperHelp@per.state.ma.us& Compliance Unit Staff & per-mailing@per.state.ma.us
+4 Please consider the environment before printing this email CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential, If you are not the intended recipient, please notify the sender by reply email and
+immediately delete this message. Use, disclosure or reproduction of this email by anyone other than the intended recipients) is strictly prohibited. Thank you. This c-mail may contain information that is privileged, confidential or protected under state or federal law. If you are not an intended recipient of this email, please delete it, notify the sender immediately, and do not copy, use or disseminate any information in the e-mail. Any tax advice in this email may not be used to avoid
+any penalties imposed under U.S. tax laws. E-mail sent to or from this e-mail address may be monitored, reviewed and archived.
+about:blank?windowld=SecondaryReadingPane7
+3/3
+
+10/16/25, 9:52 AM
+RE: [EXTERNALRE: PCRA 2021 Q3 PERAC Report - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: [EXTERNALJRE: PCRA 2021 Q3 PERAC Report
+From Rachel Evicci <revicci@meketa.com>
+Date Mon 12/6/2021 11:56 AM
+To Colon, Veronica (PER) <veronica.colon@mass.gov>
+Cc
+Maria Faleyev < mfaleyev@meketa.com>; Rachel Nerger < rnerger@meketa.com> CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Hello Veronica,
+Apologies, I will make a note of it.
+Thank you,
+Rachel
+From: Colon, Veronica (PER) < veronica.colon@state.ma.us>
+Sent: Monday, December 6, 2021 11:51 AM
+To: Rachel Evicci <revicci@meketa.com>
+Cc: Maria Faleyev <mfaleyev@meketa.com>; Rachel Nerger <rnerger@meketa.com>
+Subject: [EXTERNAL]RE: PCRA 2021 Q3 PERAC Report Hi Rachel - Thank you for the reports. Not confuse anyone, but Sarita does not work on Norwood & Plymouth Cty. boards. The reports are assigned to me and hope to reduce (and avoid) any confusion on her end on why she is
+receiving them. Thank you again. - Veronica
+From: Rachel Evicci <revicci@meketa.com>
+Sent: Monday, December 6, 2021 11:39 AM
+To: Colon, Veronica (PER) Veronica. Colon@MassMail.State.MA.US>; Yee, Sarita (PER)
+<Sarita.Yee@ MassMail.State.MA.US>
+Cc: Maria Faleyev <mfaleyev@meketa.com>; Rachel Nerger <rnerger@meketa.com>
+Subject: PCRA 2021 Q3 PERAC Report CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Good afternoon Veronica and Sarita, Attached please find the Third Quarter 2021 for Plymouth County Retirement Association, with Net Fee Analysis
+included. If you have any questions or need further assistance, please contact us by email or at 781) 471-3500.
+Best,
+about:blank?windowld=SecondaryReadingPane175
+1/2
+
+10/16/25, 9:52 AM
+Rachel
+RE: [EXTERNALRE: PCRA 2021 Q3 PERAC Report - Baruffi, Felicia M. (PER) - Outlook
+Rachel Evicci (She/Her/Hers)
+Specialist, General Consulting Client Service Assistant
+Meketa Investment Group, Inc.
+80 University Ave
+Westwood, MA 02090
+Main 781.471.3500 | Fax 781.471.3411
+revicci@meketa.com
+meketa.com
+MEKETA
+INVESTMENT GROUP This message, including any attachments, may contain information that is confidential or privileged, and is intended only for the addressee(s). If you are not the intended recipient, you are hereby notified that any use, dissemination, distribution, printing, copying, or disclosure of this information is strictly
+prohibited. If you received this message in error, please delete it from your system and notify the sender immediately by return email or by calling (781)
+471-3500. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you.
+about:blank?windowld=SecondaryReadingPane175
+212
+
+10/16/25, 11:32 AM
+Re: Fee Report - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+Re: Fee Report
+From Colon, Veronica (PER) < veronica.colon@mass.gov>
+Date Wed 2/17/2021 10:20 AM
+To
+Fischer, Kiley <KFischer@nepc.com>
+2/17/2021
+Hi Kiley,
+Q: Is this something that you usually receive from the Fund Administrators? A: Yes, see the fee section of the qtrly reports. Looking for a more detail in the Private (P.E.) and Real Estate
+(R.E.) managers.
+Q: Or is this the first time you've requested?
+A: Yes, ONLY for the PE & RE manager since all the others are listed.
+Best,
+Veronica From: Fischer, Kiley <KFischer@nepc.com>
+Sent: Friday, February 12, 2021 3:02 PM
+To: Colon, Veronica (PER)
+Subject: RE: Fee Report CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize
+the sender and know the content is safe.
+Hi Veronica, I hope all is well. I just wanted to check on the Fee request as I don't recall sending these reports to you in past years. Is this something that you usually receive from the Fund Administrators? Or is this the first time you've
+requested?
+Thanks,
+Kiley
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Friday, February 12, 2021 12:08 PM
+Subject: Re: Fee Report
+Importance: High
+MESSAGE FROM EXTERNAL SENDER
+2/12/2021
+Hi Everyone,
+about:blank?windowld=SecondaryReadingPane6
+1/3
+
+10/16/25, 11:32 AM
+Re: Fee Report - Baruffi, Felicia M. (PER) - Outlook Hope all is well. Following up with my request. Thank you for for those you have supplied me the request. Since the report you produce is "Gross of Fees" and I need to see what you calculate or receive for fee amounts to prepare the reports. If you are not supplied or perform your own estimate fee analysis,
+please share. The image reflects the missing reports for 2020. Look forward to hear from everyone soon.
+Have a nice day and long holiday weekend. As always, stay safe!
+Board
+Consultant
+• Ist QTR 202 • 2nd QTR 20 • 3rd QTR 20 • 4th QTR 20: -
+Boston
+NEPC
+1/13/2021 1/13/2021 1/13/2021
+Brockton
+SEI
+Chicopee
+FIA
+Concord
+FIA
+Dukes Cty. DAHAB
+1/11/2021
+1/11/2021
+1/11/2021
+Franklin Cty. DAHAB
+1/11/2021
+1/11/2021
+1/11/2021
+Hampden CI SEGAL
+Hampshire C NEPC
+MASS H.F.A. MEKETA
+5/15/2020
+8/13/2020
+12/1/220
+2/12/2021
+MASS P.A. WILSHIRE
+5/26/2020
+8/19/2020
+11/30/2020
+2/10/2021
+Medford NEPC
+Norfolk Cty. PEOPLE'S UNITED BANK
+North Adam: DEBURLO
+North Attlebi DAHAB
+1/11/2021
+1/11/2021
+1/11/2021
+Northamptor DEBURLO
+Norwood MEKETA
+1/14/2021
+1/14/2021
+1/14/2021
+Plymouth FIA
+Plymouth Cly WAINWRIGHT (SSIA)
+1/14/2021
+1/14/2021
+1/14/2021
+Reading
+FIA
+Saugus
+PEOPLE'S UNITED BANK
+Shrewsbury DAHAB
+1/11/2021
+1/11/2021
+1/11/2021
+Stoneham FIA
+Swampscott DAHAB
+Waltham FIA
+Watertown FIA
+Weymouth
+FIA
+Wobum
+PEOPLE'S UNITED BANK
+Worcester MEKETA
+Total
+Best,
+Veronica
+From: Colon, Veronica (PER)
+Sent: Wednesday, January 13, 2021 7:13 AM
+Subject: Re: Fee Report
+about:blank?windowld=SecondaryReadingPane6
+2/3
+
+10/16/25, 11:32 AM
+1/13/2021
+Re: Fee Report - Baruffi, Felicia M. (PER) - Outlook
+Hi Everyone, Following up with my request. Thank you for for those you have supplied me the request. Since the report is Gross of Fees and need to see what you receive for fee amounts to prepare the reports. If you are not supplied or perform your own estimate fee analysis, please share. Look forward to hear from you or
+someone else you assign soon. Have a nice day and week. Stay safe!
+Best,
+Veronica
+From: Colon, Veronica (PER)
+Sent: Friday, January 8, 2021 7:12 AM
+Subject: RE: Fee Report
+January 8, 2021
+Hi Everyone, Hope all is well and you are having a great morning. Happy New Year! Could you please forward the 1st,
+2nd, and 3rd QTR 2020 fee analysis report plus identify if it's "Gross" or "Net.".
+. If any of them are no longer your client or other, please update me; I greatly appreciate it a lot. Look forward to hearing from
+everyone soon. Have a nice day and weekend E. Stay safe C!
+Sincerely,
+Veronica CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. This e-mail and any attachments may contain private, confidential or privileged material for the sole use of the intended recipient. If you are not the intended recipient, you may not review, copy or distribute this message. If you received this message in error, please notify the sender by reply e-mail and delete this
+message and any attachments. Thank you.
+about:blank?windowld=SecondaryReadingPane6
+3/3
+
+10/16/25, 10:02 AM
+RE: Reports - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: Reports
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Thu 5/12/2022 11:18 AM
+To Bryant Nguyen' < bryant@stonepineaccounting.com>
+Cc "Hamilton Lane Equity Opportunities Fund V LP' <EquityOpportunitiesV@gen2fund.com>; 'Hamilton Lane Venture Capital Fund LP' < VentureCapital@gen2fund.com>; 'Elina Magid' <emagid@hamiltonlane.com>; 'Tracy Woodward' <twoodward@hamiltonlane.com>; 'Taylor Reynolds' <treynolds@hamiltonlane.com>; 'George Decker' <gdecker@hamiltonlane.com>; 'Meghan Dempski' <mdempski@hamiltonlane.com>; Joseph Bisignano' < jbisignano@hamiltonlane.com>; 'Hamilton Lane IR' < hamiltonlaneir@gen2fund.com>: investorrelations@hamiltonlane.com' < investorrelations@hamiltonlane.com>; Jonathan Getz'
+<jgetz@hamiltonlane.com>
+Hi Bryant - Could you look into this issue and follow up with me. Thanks - Veronica
+From: Colon, Veronica (PER) <
+Sent: Thursday, May 12, 2022 10:32 AM
+To: Hamilton Lane IR < hamiltonlaneir@gen2fund.com>; investorrelations@hamiltonlane.com
+Cc: Hamilton Lane Equity Opportunities Fund V LP <EquityOpportunitiesV@gen2fund.com>; Hamilton Lane Venture Capital Fund LP <VentureCapital@gen2fund.com>; Elina Magid <emagid@hamiltonlane.com>; Tracy Woodward <twoodward@hamiltonlane.com>; Taylor Reynolds <treynolds@hamiltonlane.com>; George Decker <gdecker@hamiltonlane.com>; Meghan Dempski <mdempski@hamiltonlane.com>; Joseph Bisignano
+<jbisignano@hamiltonlane.com>
+Subject: RE: Reports
+5/12/2022
+Hi, Hope all is well. Since I have not heard from anyone in regards to repairing my portal. Could someone please direct me to the appropriate individual? From the latest update someone of adding a manager, they messed up my portal and have not communicated anything to me, which I asked for assistance. Look forward to hearing from
+someone soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+From: Colon, Veronica (PER) < Veronica.Colon@MassMail.State.MA.US>
+Sent: Thursday, October 7, 2021 1:50 PM
+To: Hamilton Lane IR < hamiltonlaneir@gen2fund.com>
+about:blank?windowld=SecondaryReadingPane199
+1/5
+
+10/16/25, 10:02 AM
+RE: Reports - Baruffi, Felicia M. (PER) - Outlook Cc: Hamilton Lane Equity Opportunities Fund V LP <EquityOpportunitiesV@gen2fund.com>; Hamilton Lane Venture Capital Fund LP < VentureCapital@gen2fund.com>; Elina Magid <emagid@hamiltonlane.com>; Tracy Woodward <twoodward@hamiltonlane.com>; Taylor Reynolds <treynolds@hamiltonlane.com>; George Decker <gdecker@hamiltonlane.com>; Meghan Dempski <mdempski@hamiltonlane.com>; Joseph Bisignano
+<jbisignano@hamiltonlane.com>
+Subject: Re: RE: Reports
+Importance: High Now my list has been diminished, please reset my funds and notify me when it's complete. Also, I have two email address vecolon@per.state.ma.us& veronica.colon@state.ma.us. the first one has been locked out and the second is missing all my funds now. Look forward to hearing from someone soon. Have a
+nice day and week. Take care and stay safe!
+Veronica
+P.S. The credentials apply to many boards/clients funds not just.
+From: Colon, Veronica (PER)
+Sent: Wednesday, October 6, 2021 9:02 AM
+To: Hamilton Lane IR Cc: Hamilton Lane Equity Opportunities Fund V LP; Hamilton Lane Venture Capital Fund LP; Elina Magid; Tracy
+Woodward; Taylor Reynolds; George Decker; Meghan Dempski; Joseph Bisignano
+Subject: RE: RE: Reports
+10/5/2021
+Hi Gen II Fund Services, LLC - Fund Administrator to Hamilton Lane: Since inception of Boston/State Boston initial investment, plus all the cap calls, distribution/sales, and other memos/letters that relate to those funds. Let me know the status. Have a nice day and week. Take care and stay
+safe!
+Best
+Veronica
+From: Hamilton Lane IR <hamiltonlaneir@gen2fund.com>
+Sent: Friday, October 1, 2021 3:23 PM
+To: Colon, Veronica (PER) <Veronica.Colon@MassMail.State.MA.US> Cc: Hamilton Lane IR < hamiltonlaneir@gen2fund.com>; Hamilton Lane Equity Opportunities Fund V LP <EquityOpportunitiesV@gen2fund.com>; Hamilton Lane Venture Capital Fund LP <VentureCapital@gen2fund.com>; Elina Magid <emagid@hamiltonlane.com>; Tracy Woodward <twoodward@hamiltonlane.com>; Taylor Reynolds <treynolds@hamiltonlane.com>; George Decker
+<gdecker@hamiltonlane.com>; Meghan Dempski <mdempski@hamiltonlane.com>; Joseph Bisignano
+about:blank?windowld=SecondaryReadingPane199
+2/5
+10/16/25, 10:02 AM
+<jbisignano@hamiltonlane.com>
+Subject: RE: RE: Reports
+RE: Reports - Baruffi, Felicia M. (PER) - Outlook CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Hi Veronica, Thanks for reaching out to our team regarding Boston Retirement System, an investor in Hamilton Lane Equity Opportunities Fund V-A LP, Hamilton Lane Venture Capital Fund LP - Series 2020 and Hamilton Lane Venture Capital Fund LP - Series 2021. Is there a specific reporting period that you are looking for? Please let us know if
+you have any questions.
+Gen Il Fund Services, LLC
+Fund Administrator to Hamilton Lane
+4643 South Ulster Street Suite 700
+Denver, CO 80237-2865
+T: (303) 446-5930
+Hamiltonlaneir@gen2fund.com
+gen2fund.com
+Instagram | LinkedIn | Twitter | Facebook
+Well-run funds powered by Gen II. Any tax advice included in this communication may not contain a full description of all relevant facts or a complete analysis of all relevant tax issues or authorities. Preliminary tax advice should not be relied upon and may be
+insufficient for penalty protection. Stone Pine Accounting, LLC is now a part of Gen Il Fund Services, LLC. Visit http://www.gen2fund.com for more
+information.
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Friday, October 1, 2021 6:15 AM
+Subject: Re: RE: Reports
+External Email: Use Caution
+See below:
+about:blank?windowld=SecondaryReadingPane199
+3/5
+
+
+10/16/25, 10:02 AM
+From: Colon, Veronica (PER)
+Sent: Thursday, September 30, 2021 11:38 AM
+To: investorrelations@hamiltonlane.com
+Subject: RE: Reports
+RE: Reports - Baruffi, Felicia M. (PER) - Outlook
+9/30/2021
+Hi Hamilton Lane, Hope all is well. Could you please upload the missing reports for 2021 for the
+following funds:
+1.)
+Hamilton Lane Equity Opportunities Fund V, L.P.
+2.)
+Hamilton Lane Venture Capital Fund L.P. (2020)
+3.) Hamilton Lane Venture Capital Fund L.P. (2021)
+Look forward to hearing from someone soon with the completion of the upload.
+Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+Al
+Hamilton Lane Co-Investment Fund IV LP ~
+虈
+All Funds
+per 2
+Hamilton Lane CI2 AIV-A L.P. 1 RE
+h Lar
+Hamilton Lane CI2 AIV-B LP.
+per 2
+Hamilton Lane CI2 AIV-C L.P. ive
+h Lar
+Hamilton Lane Co-investment Feeder Fund III LP
+M.2
+Hamilton Lane Co-Investment Feeder Fund IV LP con
+hLar
+Hamilton Lane Co-Investment Fund IV LP
+11.2
+Hamilton Lane Co-Investment Offshore Fund II LP
+h Lar
+Hamilton Lane Secondary Fund IV LP
+2021
+Hamilton Lane Secondary Fund V LP
+Sincerely,
+Veronica Colon
+Veronica Colon, Senior Investment Analyst
+Investment Unit
+PERAC (Public Employee Retirement Administration Commission)
+5 Middlesex Avenue
+about:blank?windowld=SecondaryReadingPane199
+4/5
+
+10/16/25, 10:02 AM
+RE: Reports - Baruffi, Felicia M. (PER) - Outlook
+Third Floor, Suite 304
+Somerville, MA 02145
+Ph (617) 666-4446 Ext. 926
+Main Fax (617) 628-4002
+General Fax (617) 628-4414-My location
+Email: vecolon@per.state.ma.us Veronica. Colon@Massmail.State.MA.US, veronica.colon@state.ma.us
+Website: www.mass.gov/perac
+Cashbook Submission E-mail but ALWAYS CC: me: PcrCashBooks@MassMail.Statc.MA.US
+Pooled Fund Worksheet Link: https://www.mass.gov/forms/pooled-fund-worksheet
+PROSPER Help: PER-ProsperHelp@per.state.ma.us& Compliance Unit Staff & per-mailing@per.state.ma.us
+* Please consider the environment before printing this email CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipient(s) is strictly prohibited. Thank you. NOTICE: The contents of this email and any attachments to it contain confidential and/or legally privileged information from the financial firm of Gen II Fund Services, LLC. This information is only for the use of the intended recipient. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or the taking of any action in reliance on the contents of the contained information is strictly prohibited and that the documents should be returned to this firm immediately. In this regard, if you have received this email in error, please notify us by email immediately. **Although this email and any attachments are believed to be free of any virus or other defect that might affect any computer system into which it is received and opened, it is the responsibility of the recipient to ensure that it is virus free and no responsibility is accepted by Gen II Fund Services, LLC for any loss or damage
+arising in any way from its use.
+about:blank?windowld=SecondaryReadingPane199
+5/5
+10/16/25, 11:39 AM
+RE: "Pooled Fund Worksheet" (Out of Balance?) - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: "Pooled Fund Worksheet" (Out of Balance?)
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Fri 8/21/2020 9:59 AM
+To Stephanie McCoy <smccoy@CrescendoVentures.com>; Lea Avilla <lavilla@CrescendoVentures.com>
+8/21/2020
+Hi Stephanie, Hope all is well. Could you please update me when you will be submitting 2Q 2020 POPFW for the funs/board
+below? Look forward to hearing from you soon. Have a nice day and weekend E! Stay safe,
+C healthy, and
+enjoy the rest of Summer 2020
+Sincerely,
+Veronica
+From: Stephanie McCoy <smccoy@CrescendoVentures.com>
+Sent: Thursday, June 25, 2020 6:27 PM To: Baltazar, Susana <SBaltazar@springfieldcityhall.com>; Lea Avilla < lavilla@CrescendoVentures.com>; InvestPF
+<PERAC.InvestPF@MassMail.State.MA.US>
+Cc: D'Angelo, Eugene <ED'Angelo@springfieldcityhall.com>
+Subiect: Re: Out of Balance?
+Please see updated statement below. The realized gain was the only update.
+Filed by: Manager
+Name of Fund: Crescendo IV, L.P.
+If Fund is not listed, name entered:
+Monthly Statement: | Quarterly Statement: Mar 2020
+MARKET VALUE AT BEGINNING OF PERIOD: $ 88618.00
+PLUS:
+(1) Purchases by System
+Date:
+Date:
+Date:
+about:blank?windowld=SecondaryReadingPane29
+Amount: $
+Amount: $
+Amount: $
+1/3
+
+
+10/16/25, 11:39 AM
+RE: "Pooled Fund Worksheet" (Out of Balance?) - Baruffi, Felicia M. (PER) - Outlook
+(2) Changes Due to Income
+Investment Income: $ 17.00
+Realized Gain: $ 5309.00
+Unrealized Gain: $
+Investment Loss: $(234.00)
+Realized Loss: $()
+Unrealized Loss: $(4161.00)
+LESS:
+(3) Investment Related Fees:
+Management Fees (5304): $
+Carried Interest Expense (4701): $
+Equalization Expense (4702): $
+Misc. Investment Expense (4703): $
+(4) Sales by System*:
+Date:
+Date:
+Date:
+Amount: $ 73989.00
+Amount: $
+Amount: $
+(5) Reinvestment/Other:
+Name/Type: Stephanie McCoy Date: Amount 1 expense or credit: $ Amount 1 refund: ()
+Name/Type:
+Date: Amount 2 expense or credit: $ Amount 2 refund: ()
+Name/Type:
+Date: Amount 3 expense or credit: $ Amount 3 refund: ()
+MARKET VALUE AT END OF PERIOD: $ 15560.00
+From: Baltazar, Susana
+Sent: Thursday, June 25, 2020 12:01 PM
+To: Lea Avilla
+Cc: Stephanie McCoy; D'Angelo, Eugene
+Subject: Out of Balance?
+Hello, Attached is the pooled fund statement that we received from PERAC. Please send a revised statement to PERAC and a copy to our office so that we can finalize our quarterly reports. Please email me after
+review of this email. Thank you and hope all is well.
+Susana Baltazar
+Executive Director
+70 Tapley Street
+Springfield, MA 01104
+sbaltazar@springfieldcityhall.com
+413-787-6902 office
+about:blank?windowld=SecondaryReadingPane29
+213
+10/16/25, 11:39 AM
+RE: "Pooled Fund Worksheet" (Out of Balance?) - Baruffi, Felicia M. (PER) - Outlook CONFIDENTIALITY NOTICE: This email is intended exclusively for the individual or entity to which it is addressed. This communication may contain information that is proprietary, privileged or confidential or otherwise legally exempt from disclosure. If you are not the named addressee, you are not authorized to read, print, retain, copy or disseminate this message or any part of it. If you have received this message in
+error, please notify the sender immediately by e-mail and delete all copies of the message.
+about blank?windowld=SecondaryReadingPane29
+3/3
+
+
+10/16/25, 11:32 AM
+Re: MA client 4Q20 reports - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+Re: MA client 4020 reports
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Thu 5/6/2021 12:37 PM
+To Goulart, Maura <mgoulart@fiducient.com>
+Yes, I'll you right now.
+From: Goulart, Maura <mgoulart@fiducient.com>
+Sent: Thursday, May 6, 2021 12:19 PM
+To: Colon, Veronica (PER)
+Subject: RE: MA client 4Q20 reports CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize
+the sender and know the content is safe.
+Hi Veronica Can you please call me at 413-478-0657 when you have a moment? We don't' calculate gross returns so not
+sure where you received these from.
+Did you receive gross returns from us?
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, May 4, 2021 2:52 PM
+To: Goulart, Maura <mgoulart@fiducient.com>
+Cc: Flynn, Tracey <tflynn@fiducient.com>
+Subject: Re: MA client 4Q20 reports ATTENTION - EXTERNAL EMAIL - The sender of this email is EXTERNAL to our email system. Do not click links or open attachments unless you recognize the sender and know the content is safe. The Original Sender of
+this email is Veronica.Colon@MassMail.State.MA.US
+5/4/2021
+Hi Maura, Hope all is well. I have a question. Could you you double check the number I grabbed from the reports
+are correct? Look forward to hearing from you soon. Have a nice day and week. Take care and stay safe!
+about:blank?windowld=SecondaryReadingPane2
+1/3
+
+
+10/16/25, 11:32 AM
+Re: MA client 4Q20 reports - Baruffi, Felicia M. (PER) - Outlook
+Boards:
+Concord Plymouth
+Waltham Watertown
+Weymouth
+FIA - 4th FIA - YTD
+QTR Net
+Net of
+of Fees
+Fees
+9.60
+9.70
+9.90
+9.30
+11.40
+13.40
+12.00
+12.50
+10.90
+13.50
+FIA- 4th
+QTR
+FIA - YTD
+Gross of Gross of
+Fees
+Fees
+8.50
+12.20
+11.60
+12.70
+10.70
+12.90 10.20
+13.10
+11.20
+13.00
+Best,
+Veronica
+From: Colon, Veronica (PER)
+Sent: Thursday, April 22, 2021 9:47 AM To: Goulart, Maura
+Cc: Flynn, Tracey
+Subject: Re: MA client 4Q20 reports
+4/22/2021
+Hi Maura,
+Hope all is well. Just to be and I double checking that the performance numbers are "Net of Fees" and not "Gross of Fees?" If so, could you forward me the report attached for 2020 to see "Gross of Fees," please
+and thank you. Look forward to hearing from you soon. Have a nice day and week. Stay safe!
+Best,
+Veronica
+From: Goulart, Maura <mgoulart@dimeoschneider.com>
+Sent: Wednesday, February 24, 2021 7:15 AM
+To: Colon, Veronica (PER)
+Cc: Flynn, Tracey
+Subject: MA client 4Q20 reports CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Citrix Attachments
+Concord - 4020 QIR.pdf
+Plymouth - 4Q20 QIR.pdf
+Reading - 4Q20 QIR.pdf
+about blank?windowld=SecondaryReadingPane2
+Expires August 23, 2021
+2.8 MB
+2.7 MB
+2.1 MB
+2/3
+
+
+10/16/25, 11:32 AM
+Citrix Attachments
+Stoneham - 4Q20 QIR.pdf
+Waltham - 4Q20 QIR.pdf
+Watertown - 4Q20 QIR.pdf
+Weymouth - 4Q20 QIR.pdf
+Re: MA client 4Q20 reports - Baruffi, Felicia M. (PER) - Outlook
+Expires August 23, 2021
+2.7 MB
+2.3 MB
+2.8 MB
+3.2 MB
+Download Attachments
+Maura Goulart uses Citrix Files to share documents securely.
+Hi Veronica
+Please see the 4th quarter QIRs as requested. Note Concord is not completed yet.
+Thank you,
+Maura Maura K. Goulart, CFA | Director of Client Analytics (Allocation)
+DiMeo Schneider & Associates, L.L.C.
+100 Northfield Drive, 4th Floor | Windsor, Connecticut 06095
+866.466.9412 | 860.697.7423 | Mobile: 413.478.0657
+mgoulart@dimeoschneider.com | dimeoschneider.com This e-mail may contain information that is privileged, confidential or protected under state or federal law. If you are not an intended recipient of this email, please delete it, notify the sender immediately, and do not copy, use or disseminate any information in the e-mail. Any tax advice in this email may not be used to avoid any penalties imposed under U.S. tax laws. E-mail sent to or from this e-mail address may
+be monitored, reviewed and archived. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. This message is intended only for the use of the individual to whom it is addressed and may contain information that is privileged and confidential. If you are not the intended recipient of this message, your use, dissemination, forwarding, printing or copying of this information is prohibited. If you have received this e-mail in error, kindly notify the sender by reply e-mail and destroy this message. Opinions, conclusions and other information in this message that do not relate to the official business of Fiducient
+Advisors. do not reflect the official position of Fiducient Advisors.
+about:blank?windowld=SecondaryReadingPane2
+3/3
+
+
+10/16/25, 11:33 AM
+RE: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L.P. - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L.P.
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Tue 8/27/2019 5:29 PM
+To 'Soriano, Marion' < msoriano@mesirowfinancial.com>
+Thank you but I need IIl...
+From: Soriano, Marion [mailto:msoriano@mesirowfinancial.com]
+Sent: Tuesday, August 27, 2019 5:28 PM
+To: Colon, Veronica (PER)
+Subject: RE: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L.P.
+Veronica: Good afternoon. Our emails may cross, as Fund Il was sent not too long ago. Please find Fund II, Q2 19 attached as
+requested.
+Have a great remaining week yourself.
+Thank you,
+Marion Soriano
+Administrative Associate
+Institutional Real Estate Direct Investments
+Mesirow Financial
+Mesirow Financial
+353 North Clark Street
+Chicago, Illinois 60654
+v 312.595.6935
+f 312.595.4334
+e msoriano@mesirowfinancial.com
+CHICAGO - LONDON - NEW YORK - HONG KONG
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, August 27, 2019 4:21 PM
+To: Soriano, Marion <msoriano@mesirowfinancial.com>
+Subject: RE: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L. P.
+Importance: High
+8/27/2019
+about:blank?windowld=SecondaryReadingPane8
+1/2
+
+
+10/16/25, 11:33 AM
+RE: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L.P. - Baruffi, Felicia M. (PER) - Outlook
+Hi Marion, Hope all is well. Please forward 2md QTR 2019 report as attached PDF file. Look forward to hear from
+you soon. Have a nice day and week.
+Sincerely,
+Veronica
+From: Soriano, Marion [mailto:msoriano@mesirowfinancial.com]
+Sent: Monday, May 20, 2019 2:57 PM
+To: John Kelly (john.kelly@boston.gov)
+Cc: Carlos Camacho (carlos.camacho@boston.gov); Ellen McCarthy (ellen.mccarthy@boston.gov); Michael P
+Manning (mmanning@nepc.com); NEPC - SBRS (performance+8BSRSDB01@nepc.com); NEPC
+(performance@nepc.com); Ronesh Shrestha (RShrestha@nepc.com); Sean Gill (sgill@nepc.com); State Boston
+Colon, Veronica (PER); Cripps, Alasdair; MFDRE_Reporting
+Subject: BRS - 1st Quarter 2019 - Mesirow Financial Real Estate Value Fund III, L.P. Please find attached the First Quarter 2019 Report package for Mesirow Financial Real Estate Value Fund III, L.P.
+(the "Partnership"). If you have any questions regarding the report or your investment in the fund, please do not hesitate to contact
+Alasdair Cripps at (312) 595-6938 or John Pierson at (312) 595-7848.
+Thank you,
+Marion Soriano
+Administrative Associate
+Institutional Real Estate, Direct Investments
+Mesirow Financial
+Mesirow Financial
+353 North Clark Street
+Chicago, Illinois 60654
+v 312.595.6935
+f 312.595.4334
+e msoriano@mesirowfinancial.com
+CHICAGO - LONDON - NEW YORK - HONG KONG CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you.
+about blank?windowld=SecondaryReadingPane8
+212
+
+
+10/16/25, 9:54 AM
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION
+From Sara Davis <sdavis@meketa.com>
+Date Wed 2/24/2021 4:10 PM
+To Colon, Veronica (PER) < veronica.colon@mass.gov>
+Cc
+Rachel Evicci <revicci@meketa.com> CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Hi Veronica, Upon further thought, if we provide both gross and net performance in the Trailing Performance Summary for all reports you have mentioned below it would then make the "net/gross column" in the Fee
+Expense Analysis no longer applicable and may potentially cause more confusion than clarity. My main goal in bringing this up is I want to ensure that you are receiving the data that is most helpful to
+you. If you prefer to see both net and gross performance in the Trailing Performance Summary, would it be
+okay if the net/gross column was removed from the Fee Expense Analysis due to my reasoning above?
+Please let me know what you think of this. I am happy to clarify anything I stated above as well.
+Thank you,
+Sara
+From: Sara Davis
+Sent: Wednesday, February 24, 2021 9:43 AM
+To: 'Colon, Veronica (PER)' <veronica.colon@state.ma.us>
+Cc: Rachel Evicci <revicci@meketa.com>
+Subject: RE: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION Thank you Veronica. We will work on getting you the reports you have listed below as samples showing
+both net and gross performance in the Trailing Performance Summary section.
+Thank you,
+Sara
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Wednesday, February 24, 2021 5:29 AM
+To: Sara Davis <sdavis@meketa.com>
+Cc: Rachel Evicci <revicci@meketa.com>
+Subject: Re: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION
+2/24/2021
+about:blank?windowld=SecondaryReadingPane181
+1/7
+
+
+10/16/25, 9:54 AM
+Hi Sara,
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook Both "Net and Gross Net Performance" in the "Trailing ... section. Could you provide me a revised/updated report for 4th QTR 2020 ONLY for these clients just for a sample. Hopefully, going
+forward it will be sent with the updated data.
+1.) Mass. H.F.A
+2.) Norwood
+3.) Plymouth County
+4.) Worcester
+5.) Hingham
+6.) Lexington
+7.) Marlborough
+8.) Quincy
+Look forward to hearing from you soon. Have a nice day and week. Stay safe!
+Best,
+Veronica
+From: Sara Davis <sdavis@meketa.com>
+Sent: Tuesday, February 23, 2021 4:11 PM
+To: Colon, Veronica (PER)
+Cc: Rachel Evicci
+Subject: RE: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize
+the sender and know the content is safe.
+Hi Veronica, I have one last clarifying question for you. In the Norwood report, the Trailing Net Performance section shows both net and gross performance for each account. For all Meketa clients that send PERAC quarterly reports, would you prefer to see both net and gross performance in the Trailing Net Performance section or do you not have a preference on what is shown? (typically most of client reports
+only show net performance)
+Thank you,
+Sara
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, February 23, 2021 3:02 PM
+To: Sara Davis <sdavis@meketa.com>
+Cc: Rachel Evicci <revicci@meketa.com>
+Subject: Re: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION
+Sara,
+Thank you for everything.
+about:blank?windowld=SecondaryReadingPane181
+2/7
+
+
+10/16/25, 9:54 AM
+Best,
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+Veronica
+From: Sara Davis <sdavis@meketa.com>
+Sent: Tuesday, February 23, 2021 2:41 PM
+To: Colon, Veronica (PER)
+Cc: Rachel Evicci
+Subject: RE: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize
+the sender and know the content is safe.
+Hi Veronica,
+Please see the response below with regards to your question on PE fund fees: The fee tables shown in our reports are the extent of our fee analysis reporting for these clients and are not supposed to represent actual fees paid or an audit. We don't include fee estimates for private equity and other closed end fund structures in our reporting due to the process being tedious and potentially imprecise due to complex fee structures with carried interest etc. We do offer a management and performance fee verification service, but that is not included in our scope of services for these clients and additionally is quite expensive due to the time it takes. If you have specific questions about a manager, it would be best if you reach out to the manager or the clients auditor directly for further
+clarification. If there is any additional information I can provide or answer any further questions please let me know. I
+would be happy to do so.
+Thank you,
+Sara
+From: Sara Davis
+Sent: Tuesday, February 23, 2021 1:01 PM
+To: 'Colon, Veronica (PER)' <veronica.colon@state.ma.us>
+Cc: Rachel Evicci <revicci@meketa.com>
+Subject: RE: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION
+Hi Veronica, Thank you for your email. I just reached out to a couple of my colleagues to discuss this. I will get back
+to you as soon as I can with an answer.
+I appreciate your patience with this.
+Thank you,
+Sara
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, February 23, 2021 12:14 PM
+about:blank?windowld=SecondaryReadingPane181
+3/7
+
+
+10/16/25, 9:54 AM
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+To: Sara Davis <sdavis@meketa.com>
+Cc: Rachel Evicci <revicci@meketa.com>
+Subject: Re: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION
+2/23/2021
+Hi Sara: Yes, I understand. Will you be processing them manually? Also, will it be done for all the clients
+managers?
+Veronica
+From: Sara Davis <sdavis@meketa.com>
+Sent: Tuesday, February 23, 2021 10:26 AM
+To: Colon, Veronica (PER)
+Cc: Rachel Evicci
+Subject: RE: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize
+the sender and know the content is safe.
+Hi Veronica, I hope you are doing well. With regards to your question, are you specifically referencing the Private
+Equity accounts or something different? For the Town of Norwood Fee Table for example, all managers other than Private Equity have "estimated
+fee values" and "estimated fees".
+. The Private Equity accounts do not show an estimated fee value or estimated fee due to the fee not being a flat percentage. As you can see in the "Fee Schedule" column
+there is more detailed language on the Private Equity fees.
+For Private Equity accounts, the estimated fee values would need to be added into the table manually.
+Please let me know if this is helpful.
+Thank you,
+Sara
+Sara Davis
+Specialist, Performance Analyst
+The Westwood office has moved - please update our address!
+Meketa Investment Group, Inc.
+80 University Ave
+Westwood, MA 02090
+Main 781.471.3500 | Fax 781.471.3411
+sdavis@meketa.com
+about:blank?windowld=SecondaryReadingPane181
+4/7
+
+
+10/16/25, 9:54 AM
+meketa.com
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+INVESTMENT GROUP This message, including any attachments, may contain information that is confidential or privileged, and is intended only for the addressee(s). If you are not the intended recipient, you are hereby notified that any use, dissemination, distribution, printing, copying, or disclosure of this information is strictly
+prohibited. If you received this message in error, please delete it from your system and notify the sender immediately by return email or by calling (781)
+471-3500.
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, February 23, 2021 10:03 AM
+To: Rachel Evicci <revicci@meketa.com>
+Cc: Sara Davis <sdavis@meketa.com>
+Subject: [EXTERNAL]RE: The Town of Norwood Retirement System - Q42020 - QUESTION
+2/23/2021
+Hi Rachel,
+The reports were fine. Just a one question, "Why don't all managers have values for fees?" Could you share why? Will you be providing all the clients fee analysis within their normal quarterly reports? If not, will it be submitted
+separate? Look forward to hearing from you soon. Have a nice day and week. Stay safe!
+Best,
+Veronica
+From: Rachel Evicci <revicci@meketa.com>
+Sent: Tuesday, February 23, 2021 9:42 AM
+To: Colon, Veronica (PER) <Veronica.Colon@MassMail.State.MA.US>
+Cc: Sara Davis <sdavis@meketa.com>
+Subject: RE: The Town of Norwood Retirement System - Q42020 - QUESTION
+Importance: High CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Good morning Veronica, Just a quick note to circle back asking if this recently sent report is exactly what you are looking for? If so we will
+make sure all Meketa reports to PERAC are uniform.
+Thank you in advance,
+Rachel
+about:blank?windowld=SecondaryReadingPane181
+5/7
+
+
+10/16/25, 9:54 AM
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+Rachel Evicci
+Specialist, General Consulting Client Service Assistant
+The Westwood office has moved - please update our address!
+Meketa Investment Group, Inc.
+80 University Ave
+Westwood, MA 02090
+Main 781.471.3500 | Fax 781.471.3411
+revicci@meketa.com
+meketa.com
+žmeketa-sig This message, including any attachments, may contain information that is confidential or privileged, and is intended only for the addressee(s). If you are not the intended recipient, you are hereby notified that any use, dissemination, distribution, printing, copying, or disclosure of this information is strictly
+prohibited. If you received this message in error, please delete it from your system and notify the sender immediately by return email or by calling (781)
+471-3500.
+From: Rachel Evicci <revicci@meketa.com>
+Sent: Monday, February 22, 2021 2:24 PM
+To: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Cc: Sara Davis <sdavis@meketa.com>
+Subject: The Town of Norwood Retirement System - Q42020
+Good afternoon Veronica, Attached please find the Fourth Quarter 2020 for the Town of Norwood Retirement System, with Net Fee Analysis
+included. If you have any questions or need further assistance, please contact us by email or at 781) 471-3500.
+Best,
+Rachel
+Rachel Evicci
+Specialist, General Consulting Client Service Assistant
+The Westwood office has moved - please update our address!
+Meketa Investment Group, Inc.
+80 University Ave
+Westwood, MA 02090
+Main 781.471.3500 | Fax 781.471.3411
+about blank?windowld=SecondarvReadingPane181
+6/7
+
+
+10/16/25, 9:54 AM
+revicci@meketa.com
+meketa.com
+RE: [EXTERNALJRE: The Town of Norwood Retirement System - Q42020 - QUESTION - Baruffi, Felicia M. (PER) - Outlook
+Zmeketa-sig This message, including any attachments, may contain information that is confidential or privileged, and is intended only for the addressee(s). If you are not the intended recipient, you are hereby notified that any use, dissemination, distribution, printing, copying, or disclosure of this information is strictly
+prohibited. If you received this message in error, please delete it from your system and notify the sender immediately by return email or by calling (781)
+471-3500. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipient(s) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you.
+about:blank?windowld=SecondaryReadingPane181
+7/7
+
+
+
+
+From: To: Cc:
+Subject:
+Date:
+Attachments:
+Maura Goulart
+O"Donnell, Thomas 1. (PER); Moitoso, Derek M. (PER) Lamenzo, James R.(PER); Richard Carey; Matthew Fratini; Anthony Tranghese
+Concord & Natick RFPs
+Thursday, October 11, 2018 4:37:36 PM
+image001.png
+image002.png
+mage003.png
+image004.jpg
+image005.jpg
+Concord MA Legal Services RFP Public Notice.docx
+Concord MA Legal Services RFP - October 2018 docx
+Concord MA Actuarial REP - October 2018.docx
+Concord MA Actuarial RFP Public Notice.docx
+Natick MA Actuarial REP - October 2018 docx
+Natick MA Actuarial REP Public Notice.docy
+Good afternoon Tom and Derek,
+Thank you again for your time and feedback regarding the RFP documents for Concord and Natick. We have attached updated public notices with very modest revisions and the RFPs themselves taking
+your feedback and comments into consideration. With regards to actuarial services for Concord, the Board does receive valuations annually so we kept that provision. We updated the credentialing and made some tweaks to the report framework
+so hopefully that is a bit more clear. We also removed some language on the mandatory contract terms and conditions and used your
+suggested language for interviews/oral presentations. We did keep the Vendor Disclosures as a request since it appears on the Board's checklist for procurement for these services in order to avoid confusion down the road when Boards submit
+procurement filings to PROSPER.
+Please let us know if you have any other comments or concerns.
+Best regards,
+Maura
+Maura K. Goulart, CFA | Director, Client Services
+Fiduciary Investment Advisors, LLC
+100 Northfield Drive, Windsor, CT 06095
+P: (860) 697-7423 | Toll Free: (866) 466-9412
+
+
+
+2018PA_Top100 *Please know that you (Client/Investor) are responsible for verifying the accuracy of this information and directly communicating any instructions to appropriate parties. We are neither authorized to initiate transactions on your behalf
+nor can we assume responsibility for inaccurate or incomplete information.
+Disclaimer The information contained in this electronic communication is confidential, intended only for the use of the recipient named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this communication, or any of its contents, is strictly prohibited. If you have received this communication in error, please reply to the sender and delete the
+original message and any copy of it from your computer or facsimile system. Thank you.
+
+10/15/25, 9:09 AM
+RE: PERAC Disclosures - TA Realty - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: PERAC Disclosures - TA Realty
+From O'Donnell, Thomas J. (PER) <Thomas.J.ODonnell@mass.gov>
+Date Tue 2/26/2019 2:40 PM
+To Sharniece Benders < benders@tarealty.com>
+Cc Lori Krogh <krogh@tarealty.com>; PER-DL-Compliance < PER-DL-Compliance@MassMail.State.MA.US>
+Hello Sharniece, Thank you for your cooperation. PERAC is certainly amenable to extending the deadline for TA Realty to April 15th
+if needed.
+Take care,
+Tom Thomas J. O'Donnell
+Compliance Officer
+Public Employee Retirement Administration Commission
+5 Middlesex Avenue
+Suite 304
+Somerville, MA 02145
+617-666-4446 Ext. 922
+tjodonnell@per.state.ma.us
+www.mass.gov/perac
+From: Sharniece Benders [mailto:benders@tarealty.com]
+Sent: Tuesday, February 26, 2019 1:20 PM
+To: O'Donnell, Thomas J. (PER)
+Cc: Lori Krogh
+Subject: PERAC Disclosures - TA Realty
+Hi Tom,
+I hope all is well and you're having a great week. By way of introduction, my name is Sharniece Benders and I work in the Investor Relations department at TA Realty. I am reaching out to you today because we're in receipt of all of the PERAC Disclosure forms for our MA Public clients, however, this is to see if we can receive an extension as we've done in past years on our submissions. Our 2018 Financials are in the process of being updated and we expect to have these completed and
+released in mid-March.
+Please advise on whether we can receive the extension this year as well.
+Thank you in advance for your assistance with this matter.
+about:blank?windowld=SecondaryReadingPane15
+1/2
+
+10/15/25, 9:09 AM
+Kind regards,
+Sharniece
+Sharniece D. Benders
+Investor Relations
+TA Realty LLC
+28 State Street, 10th Floor
+Boston, MA 02109, USA
+P: 617.476.2771 | F: 617.488.2171 | E: benders@tarealty.com
+Investor Relations Group | E. investor.notices@tarealty.com
+RE: PERAC Disclosures - TA Realty - Baruffi, Felicia M. (PER) - Outlook This email and any attachments may contain proprietary, confidential, or privileged information of TA Realty, LLC and/or its affiliates. Any confidentiality or privilege is not waived or lost because this email has been sent to you in error. If you are not the intended recipient, you are hereby notified that you have received this email in error and that any review, disclosure, dissemination, distribution or copying of it or its contents is prohibited. If you have received this email in error, please notify the sender immediately, delete this email, and destroy all copies and any attachments. TA Realty, LLC and its affiliates do not render legal or tax advice or make any recommendation as to the suitability of any investment or asset
+allocation, and the information contained in this email should not be regarded as such.
+about:blank?windowld=SecondaryReadingPane15
+212
+
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021
+From Colon, Veronica (PER) <veronica.colon@mass.gov>
+Date Wed 12/8/2021 9:40 AM
+To 'Gray, Richard P' <rpgray@statestreet.com>
+Cc 'Collins, William C' <wccollins@statestreet.com>; 'Labree, Nicholas' <NLabree@StateStreet.com>;
+'mcmurray@statestreet.com' <mcmurray@statestreet.com>; BRSClientservice@StateStreet.com'
+< BRSClientservice@StateStreet.com>
+Bcc 'smdavies@statestreet.com' <smdavies@statestreet.com>
+12/8/2021
+HI Richard, Hope all is well. What's the status of my request for AUG - OCT 2021 CD's? Look forward to hearing
+from you soon. Have a nice day and week. Take care and stay safe!
+Happy Hidays!
+Best,
+Veronica
+about:blank?windowld=SecondaryReadingPane10
+1/0
+
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+From: Colon, Veronica (PER)
+Sent: Monday, December 6, 2021 8:34 AM
+To: 'Gray, Richard P' <rpgray@statestreet.com>
+Cc: Collins, William C <wccollins@statestreet.com>; Labree, Nicholas <NLabree@StateStreet.com>
+Subject: RE: Boston R.B. CD AUG & SEP 2021
+Importance: High
+12/6/2021
+HI Richard, Hope al is well. What's the status of my request for AUG - OCT 2021 CD's? Look forward to hearing
+from you soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+From: Gray, Richard P <rpgray@statestreet.com>
+Sent: Tuesday, November 23, 2021 5:33 PM
+To: Colon, Veronica (PER) <Veronica.Colon@MassMail.State.MA.US>
+Cc: Collins, William C <wccollins@statestreet.com>; Labree, Nicholas <NLabree@StateStreet.com>
+Subject: RE: Boston R.B. CD AUG & SEP 2021 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Information Classification: •• Limited Access
+Hi Veronica
+I'm checking on the delivery status for the August and September CD's, and also the status of the October CD.
+Richard Gray
+State Street Corporation | State Street Institutional Services | One Heritage Drive, 3rd Floor, Quincy, MA 02171
+P+1617 662 2126 | rpgray@statestreet.com The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addressee(s). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly
+forbidden
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Tuesday, November 23, 2021 9:47 AM
+To: Gray, Richard P <rpgray@statestreet.com> Cc: Collins, William C <wccollins@statestreet.com>; Labree, Nicholas <NLabree@StateStreet.com>
+Subject: [External] Re: Boston R.B. CD AUG & SEP 2021
+Importance: High
+about:blank?windowld=SecondaryReadingPane10
+2/9
+
+
+10/16/25, 11:34 AM
+11/23/2021
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+Hi Richard, Hope all is well. What's the status of the requested CD's (AUG & SEP). Could you please forward OCT
+2021 too. Look forward to hearing from you soon. Have a nice day, week, and Happy Thanksgiving!
+Take care and stay safe!
+Best,
+Veronica
+From: Gray, Richard P <rpgray@statestreet.com>
+Sent: Thursday, November 11, 2021 4:27 PM
+To: Colon, Veronica (PER)
+Cc: Collins, William C; Labree, Nicholas
+Subject: RE: Boston R.B. CD AUG & SEP 2021 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Information Classification: •• Limited Access
+Hi Veronica
+The CD's have been ordered and you should be receiving them soon.
+Richard Gray
+State Street Corporation | State Street Institutional Services | One Heritage Drive, 3rd Floor, Quincy, MA 02171
+P+1617 662 2126 | rpgray@statestreet.com The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addressee(s). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly
+forbidden
+From: Gray, Richard P
+Sent: Wednesday, November 10, 2021 5:12 PM
+To: Colon, Veronica (PER) < veronica.colon@state.ma.us>
+about:blank?windowld=SecondaryReadingPane10
+3/9
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook Cc: Collins, William C <wccollins@statestreet.com>; Labree, Nicholas <NLabree@StateStreet.com>
+Subject: RE: Boston R.B. CD AUG & SEP 2021
+Information Classification: •• Limited Access
+Hi Veronica
+I am looking into this and will provide an update as soon as possible.
+Richard Gray
+State Street Corporation | State Street Institutional Services | One Heritage Drive, 3rd Floor, Quincy, MA 02171
+P+1617 662 2126 | rpgray@statestreet.com The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addressee(s). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly
+forbidden
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Wednesday, November 10, 2021 10:22 AM
+To: Labree, Nicholas <NLabree@StateStreet.com> Cc: Murray, Maureen C<mcmurray@statestreet.com>; Collins, William C <wccollins@statestreet.com>; Wright,
+Traci <tlwright@statestreet.com>; Gray, Richard P <rpgray@statestreet.com>
+Subject: [External] RE: Boston R.B. CD AUG & SEP 2021
+Importance: High
+11/10/2021
+Hi Nicholas,
+Hope all is well. Could you please forward AUG & SEP 2021 CD's. Look forward to hearing from you soon.
+Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+From: Labree, Nicholas <NLabree@StateStreet.com>
+Sent: Friday, August 27, 2021 10:11 AM
+To: Colon, Veronica (PER) «Veronica. Colon@MassMail.State.MA.US>
+Subject: RE: Boston R.B. CD JAN 2021 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Hi Veronica,
+We will have the January 2021 CD that was re-ordered sent to the address below.
+about:blank?windowld=SecondaryReadingPane10
+4/9
+
+10/16/25, 11:34 AM
+Thanks,
+Nicholas LaBree, Assistant Vice President
+State Street | Client Service | 1 Heritage Dr, 3rd Floor N Quincy, MA 02171
+P+1617 662 5165 | nlabree@statestreet.com
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addresses). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify
+the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly forbidden.
+Go green. Consider the environment before printing this email.
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Friday, August 27, 2021 8:01 AM
+To: Labree, Nicholas <NLabree@StateStreet.com>
+Subject: [External] Re: Boston R.B. CD JAN 2021
+Can you please confirm what the label on the CD says or the fund code referenced on the paper included with the CD? A: Not sure what you are referring to but Boston has many codes for all their managers in the CD. Exactly on the CD not
+sure what you pointing to.
+Also, can you please confirm what address this CD should be sent to?
+A: 5 Middlesex Ave., 3rd Flr, Ste. 304, Somerville, MA 02145
+From: Labree, Nicholas <NLabree@StateStreet.com>
+Sent: Thursday, August 26, 2021 11:02 AM
+To: Colon, Veronica (PER)
+Subject: RE: Boston R.B. CD JAN 2021 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Hi Veronica, I received the January 2021 CD but just want to confirm it is the right CD before we send to you. Can you please confirm what the label on the CD says or the fund code referenced on the paper included with the CD? Also, can you please confirm what
+address this CD should be sent to? I believe Rich usually sends these over but he is out of the office.
+Thanks,
+Nicholas LaBree, Assistant Vice President
+State Street | Client Service | 1 Heritage Dr, 3rd Floor N Quincy, MA 02171
+P +1 617 662 5165 | nlabree@statestreet.com
+about:blank?windowld=SecondaryReadingPane10
+5/9
+
+
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addresses). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify
+the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly forbidden.
+Go green. Consider the environment before printing this email.
+From: Labree, Nicholas
+Sent: Wednesday, August 25, 2021 9:18 AM
+To: Colon, Veronica (PER) <veronica.colon@state.ma.us> Cc: Gray, Richard P <rpgray@statestreet.com>; Murray, Maureen C <mcmurray@statestreet.com>; Collins, William
+C <wccollins@statestreet.com>; Wright, Traci <t/wright@statestreet.com>
+Subject: RE: Boston R.B. CD JAN 2021
+Hi Veronica,
+We are following up on the status of the January 2021 CD being re-ordered and will let you know when we receive an update.
+Thanks,
+Nicholas LaBree, Assistant Vice President
+State Street | Client Service | 1 Heritage Dr, 3rd Floor N Quincy, MA 02171
+P +1617 662 5165 | nlabree@statestreet.com The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addresses). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify
+the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly forbidden.
+Go green. Consider the environment before printing this email.
+From: Colon, Veronica (PER) < veronica.colon@state.ma.us>
+Sent: Wednesday, August 25, 2021 7:32 AM
+To: Wright, Traci <tlwright@statestreet.com> Cc: Gray, Richard P<rpgray@statestreet.com>; Murray, Maureen C <mcmurray@statestreet.com>; Collins, William
+C <wccollins@statestreet.com>
+Subject: [External] RE: Boston R.B. CD JAN 2021
+Importance: High
+From: Colon, Veronica (PER)
+Sent: Wednesday, August 25, 2021 7:30 AM To: 'mcmurray@statestreet.com' <mcmurray@statestreet.com>; wccollins@statestreet.com'
+<wccollins@statestreet.com>
+Cc: 'Gray, Richard P' <rpgray@statestreet.com>
+Subject: RE: Boston R.B. CD JAN 2021
+Importance: High
+From: Colon, Veronica (PER)
+Sent: Wednesday, August 25, 2021 7:28 AM
+about:blank?windowld=SecondaryReadingPane10
+6/9
+
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+To: Gray, Richard P <rpgray@statestreet.com>
+Subject: RE: Boston R.B. CD JAN 2021
+Importance: High
+8/25/2021
+Hi Richard, Hope all is well. Following up with my request, what's the status? Look forward to hearing from you
+soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+From: Colon, Veronica (PER)
+Sent: Tuesday, June 29, 2021 8:37 AM
+To: Gray, Richard P <rpgray@statestreet.com>
+Subject: Re: Boston R.B. CD JAN 2021
+Importance: High
+6/29/2021
+Hi Richard, Hope all is well. Following up with my request, what's the status? Look forward to hearing from you
+soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+about:blank?windowld=SecondaryReadingPane10
+7/9
+
+10/16/25, 11:34 AM
+From: Colon, Veronica (PER)
+Sent: Monday, June 14, 2021 9:49 AM
+To: Gray, Richard P
+Subject: Re: Boston R.B. CD JAN 2021
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+6/14/2021
+Hi Richard, Hope all is well. Following up with my request, what's the status? Look forward to hearing from you
+soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica
+From: Gray, Richard P <rpgray@statestreet.com>
+Sent: Tuesday, May 25, 2021 4:28 PM
+To: Colon, Veronica (PER)
+Subject: RE: Boston R.B. CD JAN 2021 CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system. Do not click on links or open attachments unless you recognize the sender and know the
+content is safe.
+Information Classification: •• Limited Access
+Hi Veronica
+I've sent a request to have the January 2021 CD reordered and sent.
+Thank you,
+Richard Gray
+State Street Corporation | State Street Institutional Services | One Heritage Drive, 3rd Floor, Quincy, MA 02171
+P+1 617662 2126 | rpgray@statestreet.com The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addressee(s). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly
+forbidden
+about:blank?windowld=SecondaryReadingPane10
+8/9
+
+10/16/25, 11:34 AM
+RE: Boston R.B. CD AUG - OCT (maybe NOV too!) 2021 - Baruffi, Felicia M. (PER) - Outlook
+From: Colon, Veronica (PER) <veronica.colon@state.ma.us>
+Sent: Monday, May 24, 2021 2:20 PM
+To: Gray, Richard P <rpgray@statestreet.com>
+Subject: [External] RE: Boston R.B. CD JAN 2021
+Importance: High
+5/24/2021
+Hi Richard, Hope all is well. Could you please forward JAN 2021 CD, we received FEB & MAR 2021 CD's. Look
+forward to hearing from you soon. Have a nice day and week. Take care and stay safe!
+Best,
+Veronica CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipient(s) is strictly prohibited. Thank you. CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you.
+about:blank?windowld=SecondaryReadingPane10
+9/9
+
+10/15/25, 9:12 AM
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook
+Outlook
+RE: Unigestion - Opportunity to Meet
+From O'Donnell, Thomas J. (PER) <Thomas.J.ODonnell@mass.gov>
+Date Wed 3/13/2019 2:20 PM
+To Bob Meikleham < bmeikleham@unigestion.com>
+I'll be here till 6:00
+From: Bob Meikleham [mailto:bmeikleham@unigestion.com]
+Sent: Wednesday, March 13, 2019 2:18 PM
+To: O'Donnell, Thomas J. (PER)
+Subject: RE: Unigestion - Opportunity to Meet Great, is there a time after 3:00 pm that works for you? We have another meeting in the Financial District that
+should finish at 3:00. Best,
+Bob
+→ UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+www.unigestion.com
+Follow Unigestion on LinkedIn.
+
+10/15/25, 9:12 AM
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook
+From: O'Donnell, Thomas J (PER) <thomas.j.o'donnell@state.ma.us>
+Sent: Wednesday, March 13, 2019 14:14
+To: Bob Meikleham < bmeikleham@unigestion.com>
+Subject: RE: Unigestion - Opportunity to Meet
+Bob,
+That day is ok - Afternoon better.
+Take care,
+Tom Thomas J. O'Donnell
+Compliance Officer
+Public Employee Retirement Administration Commission
+5 Middlesex Avenue
+Suite 304
+Somerville, MA 02145
+617-666-4446 Ext. 922
+tjodonnell@per.state.ma.us
+www.mass.gov/perac
+From: Bob Meikleham [mailto:bmeikleham@unigestion.com]
+Sent: Wednesday, March 13, 2019 2:10 PM
+To: O'Donnell, Thomas J. (PER)
+Subject: RE: Unigestion - Opportunity to Meet
+Tom,
+I will now only be in Boston next Thursday, March 21st
+, but would look forward to the opportunity to sit down with
+you if you have some availability on the day.
+Have a great day,
+Bob
+→ UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+www.unigestion.com
+Follow Unigestion on Linkedin.
+about:blank?windowld=SecondaryReadingPane22
+217
+
+10/15/25, 9:12 AM
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook funds cope
+aards 2018
+XIXXER
+Estopean Alternative Investme
+Manager of the Yes Awards
+2018
+2019 Momingstar Belgium Award
+Best Equity Fund House
+European Pensions
+WARDS 2013
+WINNER
+... Private Equity Manager
+of the Year Employee of Unigestion and Registered Representative with Foreside Global Services, LLC. Unigestion and Foreside Global Services, LLC are
+not affiliates.
+From: Bob Meikleham
+Sent: Friday, March 08, 2019 09:57
+To: thomas.j.o'donnell@state.ma.us
+Subject: RE: Unigestion - Opportunity to Meet
+Tom, I hope everything went OK with the knee last week and you're on the road to recovery. We talked about this quickly
+last week but I wanted to check and see if you had a clearer picture regarding your schedule March 20th or 21st.
+I'll be back in Boston with a member of my firm's PE team and am wondering if you have time to meet.
+Look forward to hearing from you,
+Bob
+» UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+www.unigestion.com
+Follow Unigestion on LinkedIn.
+unds cope
+XIXNER
+European Alternative Investment
+Manager of the Year
+KOANGOR Awards
+2019
+2019 Mornhgetar Delgium Awards
+Best Equity Fund House
+European Pensions
+Private Equity Manage
+about:blank?windowld=SecondaryReadingPane22
+3/7
+
+
+10/15/25, 9:12 AM
+not affiliates.
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook
+Employee of Unigestion and Registered Representative with Foreside Global Services, LLC. Unigestion and Foreside Global Services, LLC are
+From: Bob Meikleham <bmeikleham@unigestion.com>
+Sent: Friday, February 15, 2019 08:18
+To: thomas.j.o'donnell@state.ma.us
+Subject: RE: Unigestion - Opportunity to Meet
+Tom, I got your voicemail regarding February 27th. Thank you for making yourself available. It sounded like
+early afternoon works for you, if so I will send you a calendar invite for 1:30 PM.
+Would you like to meet at your offices or is there somewhere else you would prefer. Look forward to speaking with you,
+Bob
+Bob Meikleham
+Vice President, US Institutional
+Tel. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+Follow Unigestion on Linkedin
+https://www.linkedin.com/company/unigestion Unigestion: Institutional Fund Manager of the Year, Global Investor Unigestion: Asset Management Firm of the Year (< €20bn), Funds Europe
+https://www.unigestion.com/awards/
+From: Bob Meikleham
+Date: February 14, 2019 at 2:10:38 PM EST
+To: thomas.j.o'donnell@state.ma.us
+Subject: RE: Unigestion - Opportunity to Meet
+Tom, I hope all is well. My name is Bob Meikleham, and I was referred to you via my old colleague Ken Hedgebeth. You and I shared some back and forth last year regarding a potential meeting but were unable align calendars. I will be in Boston several times over the next month and was wondering if you had any availability February 27th or
+March 20 - 21st If these dates do not work, maybe we could find a day to speak briefly over the phone. I would look forward to the opportunity to better understand the role of PERAC so that my firm can appropriately market to Public Plans in
+Massachusetts.
+I look forward to hearing from you,
+Bob
+about:blank?windowld=SecondaryReadingPane22
+4/7
+
+
+10/15/25, 9:12 AM
+UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+InFollow Unigestion on LinkedIn.
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+www.unigestion.com
+lunds toon
+anard 2918
+Estopean Alternative Investment
+Manager of the Ye Awards
+2018*
+2019 Momingstar Belgium Awards
+Beat Equity Find Ficuse
+European Pensions
+ADS 2013
+WINNER Private Equty Manager
+of the Year Employee of Unigestion and Registered Representative with Foreside Global Services, LLC. Unigestion and
+Foreside Global Services, LLC are not affiliates.
+From: Bob Meikleham
+Sent: Monday, October 22, 2018 10:51
+To: O'Donnell, Thomas J (PER)
+Subject: RE: Unigestion - Opportunity to Meet October 22 & 23
+Tom, Hopefully you had a nice weekend and are enjoying the day off. I received a confirmation from Chris Bodtker, the Chairman of our Private Equity Investment Committee, that he will be available in Boston on Friday, November
+gth.
+. Would you be able to meet on that day? We are flexible on timing. Best,
+Bob
+UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+www.unigestion.com
+Follow Unigestion on LinkedIn.
+about:blank?windowld=SecondaryReadingPane22
+5/7
+
+
+ 
+
+ 10/15/25, 9:12 AM
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook GLOBAL INVESTOR
+GROUP
+2017
+AWARDS
+Boutique Asset
+Manager of the Year
+Unigestion
+WARDS
+WINNER
+INNOVATION AWARD
+From: O'Donnell, Thomas J (PER)
+Sent: Tuesday, October 16, 2018 12:44
+To: Bob Meikleham
+Subject: RE: Unigestion - Opportunity to Meet October 22 & 23
+Hello Bob, I will be happy to meet you. I am planning to be out of the office on the 215t and 22nd Please let me know when you will be here next and I'll be happy to meet with you. Please give Ken my
+best regards.
+Take care,
+Tom
+Thomas J. O'Donnell
+Compliance Officer
+Public Employee Retirement Administration Commission
+5 Middlesex Avenue
+Suite 304
+Somerville, MA 02145
+617-666-4446 Ext. 922
+tjodonnell@per.state.ma.us
+www.mass.gov/perac
+From: Bob Meikleham [mailto:bmeikleham@unigestion.com]
+Sent: Tuesday, October 16, 2018 12:03 PM
+To: O'Donnell, Thomas J. (PER)
+Subject: Unigestion - Opportunity to Meet October 22 & 23
+Good afternoon Tom, My name is Bob Meikleham with Unigestion, a Swiss Geneva-based asset manager. My friend and former colleague Ken Hedgebeth recommended I reach out to you as we have continued to expand our private equity
+marketing efforts across Massachusetts. I will have the Chairman of our Private Equity Investment Committee with me in Boston on Monday, October 22 and Tuesday, October 23 and I was wondering if we can meet with you to learn your thoughts on the private
+equity space and to simply introduce our firm and a couple of our best ideas to you.
+I look forward to hearing if you have the opportunity to meet with us on Monday 10/22 or Tuesday 10/23.
+Thank you for your consideration. Best,
+Bob
+→ UNIGESTION®
+Bob Meikleham
+Vice President
+US Institutional
+Business Development
+Dir. +1 (201) 714 2415
+Fax. +1 (201) 714 2401
+Mob. +1 (201) 705 2105
+bmeikleham@unigestion.com
+about:blank?windowld=SecondaryReadingPane22
+Unigestion (US), Ltd
+Plaza 10 - Harborside Financial Center Suite 203
+Jersey City, NJ 07311
+Tel. +1 (201) 714 2400
+Fax. +1 (201) 714 2401
+www.unigestion.com
+6/7
+
+ 
+10/15/25, 9:12 AM
+in Follow Unigestion on LinkedIn. GLOBAL INVESTOR
+GROUP
+2017
+AWARDS
+Boutique Asset
+Manager of the Year
+Unigestion
+WARDS
+2017
+WINNER
+INNOVATION AWARD
+RE: Unigestion - Opportunity to Meet - Baruffi, Felicia M. (PER) - Outlook This email and any files transmitted with it is confidential and may be legally privileged. It is intended solely for the addressee. If you are not the intended recipient, please destroy this e-mail and notify us
+immediately. Any disclosure, copying or distribution of this e-mail is prohibited and may be unlawful. There are risks in communicating by c-mail. E-mails may be susceptible to data corruption, delay, interception and unauthorized amendment and neither Unigestion nor any of its subsidiaries or affiliates
+do accept liability for any such corruption, delay, interception or amendment or their consequences.
+************************www.unigestion.com************************ CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. This email and any files transmitted with it is confidential and may be legally privileged. It is intended solely for the addressee. If you are not the intended recipient, please destroy this e-mail and notify us
+immediately. Any disclosure, copying or distribution of this e-mail is prohibited and may be unlawful. There are risks in communicating by e-mail. E-mails may be susceptible to data corruption, delay, interception and unauthorized amendment and neither Unigestion nor any of its subsidiaries or affiliates
+do accept liability for any such corruption, delay, interception or amendment or their consequences.
+************************www.unigestion.com************************ CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this
+email by anyone other than the intended recipients) is strictly prohibited. Thank you. This email and any files transmitted with it is confidential and may be legally privileged. It is intended solely for the addressee. If you are not the intended recipient, please destroy this e-mail and notify us
+immediately. Any disclosure, copying or distribution of this e-mail is prohibited and may be unlawful. There are risks in communicating by e-mail. E-mails may be susceptible to data corruption, delay, interception and unauthorized amendment and neither Unigestion nor any of its subsidiaries or affiliates
+do accept liability for any such corruption, delay, interception or amendment or their consequences.
+************************www.unigestion.com************************
+about:blank?windowld=SecondaryReadingPane22
+7/7
+ 
+
+
