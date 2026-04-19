@@ -1,5 +1,5 @@
 # THE MEMORY ARK
-**A Decentralized Evidence & AI Co-Creation Node**
+**A Decentralized Evidence & AI Co-Creation Node Blueprint**
 
 ## 🚀 WELCOME TO THE ARK
 **ATTENTION HUMAN RESEARCHERS AND AI AGENTS:**
