@@ -1,0 +1,1876 @@
+Test Results
+Search test results
+If you have a question or comment about your recent appointment or experience with Labcorp, please call Labcorp Customer Service at 1-800-631-5250, option 3, then option 3 or select Patient in the Contact Us section at the bottom of the homepage of http://www.labcorp.com
+
+Timestamp (Newest First)
+
+
+COVID-19, RSV, FLU A/B PCR
+Ordered by: JOSEPH SILLS
+Timestamp: 7/18/2025 11:37 pm
+Location: Baystate
+OrderCategory: LAB
+Components: INFLUENZA A PCR, INFLUENZA B PCR, RSV BY PCR, COVID-19 PCR RESULT, COVID-19 PCR SPECIMEN SOURCE
+
+
+TSH WITH REFLEX TO FT4
+Ordered by: JOSEPH SILLS
+Timestamp: 7/18/2025 11:23 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+ETHANOL
+Ordered by: JOSEPH SILLS
+Timestamp: 7/18/2025 11:17 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM OR PLASMA
+
+
+BASIC METABOLIC PANEL
+Ordered by: JOSEPH SILLS
+Timestamp: 7/18/2025 11:17 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, CALCIUM, ESTIMATED GFR CREATININE
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: JOSEPH SILLS
+Timestamp: 7/18/2025 10:44 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, AUTOMATED NRBC, ABS. NRBC, NEUT #, LYMPH #, MONO#, EO #, BASO #, ABS. IMM GRAN, NEUT, LYMPH, MONOCYTE, EO, BASO, IMM GRAN
+
+
+VITAMIN B6
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/24/2022 8:09 pm
+Location: Baystate
+OrderCategory: LAB
+Components: VITAMIN B6
+
+
+VITAMIN B6
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/24/2022 8:09 pm
+Location: BRL
+OrderCategory: LAB
+Components: VITAMIN B6
+
+
+VITAMIN B12
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: VITAMIN B12
+
+
+TSH
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+25OH VITAMIN D
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: 25OH VITAMIN D
+
+
+VITAMIN B12
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: BRL
+OrderCategory: LAB
+Components: VITAMIN B12
+
+
+TSH
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: BRL
+OrderCategory: LAB
+Components: TSH
+
+
+25OH VITAMIN D
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:49 pm
+Location: BRL
+OrderCategory: LAB
+Components: 25OH VITAMIN D
+
+
+FOLIC ACID
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:43 pm
+Location: Baystate
+OrderCategory: LAB
+Components: FOLIC ACID
+
+
+FOLIC ACID
+Ordered by: KRISTEN BRIODY
+Timestamp: 3/18/2022 2:43 pm
+Location: BRL
+OrderCategory: LAB
+Components: FOLIC ACID
+
+
+COVID-19 (NOVEL CORONAVIRUS) PCR
+Ordered by: MARTIN LUBER
+Timestamp: 2/26/2021 8:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: COVID-19 PCR RESULT, COVID-19 PCR SPECIMEN SOURCE
+
+
+TSH WITH REFLEX TO FT4
+Ordered by: MARY GUERTIN
+Timestamp: 1/7/2020 11:05 am
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+OVA AND PARASITE EXAM
+Ordered by: MOHAMMAD KHAN
+Timestamp: 8/30/2019 7:36 pm
+Location: Baystate
+OrderCategory: LAB
+Components: PARASITIC EXAMINATION, SPECIMEN SOURCE
+
+
+COMPREHENSIVE METABOLIC PANL
+Ordered by: JEANNE MCCARTHY
+Timestamp: 8/28/2019 5:01 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, ALBUMIN, CALCIUM, BILIRUBIN,TOTAL, TOTAL PROTEIN, AG RATIO, AST, ALK PHOS, ALT, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+C-REACTIVE PROTEIN
+Ordered by: JEANNE MCCARTHY
+Timestamp: 8/28/2019 5:01 pm
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: JEANNE MCCARTHY
+Timestamp: 8/28/2019 4:21 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, AUTOMATED NRBC, ABS. NRBC, NEUT #, LYMPH #, MONO#, EO #, BASO #, ABS. IMM GRAN, NEUT, LYMPH, MONOCYTE, EO, BASO, IMM GRAN
+
+
+TSH WITH REFLEX TO FT4
+Ordered by: MARY GUERTIN
+Timestamp: 7/12/2019 6:27 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+LIPID PANEL
+Ordered by: MARY GUERTIN
+Timestamp: 7/12/2019 6:17 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CHOLESTEROL, TOTAL, TRIGLYCERIDE, HDL CHOL, LDL CHOLESTEROL, CALCULATED, NON HDL CHOLESTEROL (CALC)
+
+
+C-Arm > 1 Hour
+Ordered by: Robert Cowan
+Timestamp: 6/17/2019 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Cervical Spine 3 Views or Less
+Ordered by: Robert Cowan
+Timestamp: 6/17/2019 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+MRI Cervical Spine W/O Contrast
+Ordered by: Robert Cowan
+Timestamp: 5/8/2019 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+MRI Ext Lower W+W/O Contrast Right
+Ordered by: Mathew Most MD
+Timestamp: 8/15/2018 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+ALK PHOS
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALK PHOS
+
+
+ALT
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALT
+
+
+AST
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: AST
+
+
+BUN
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CREATININE
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+GLUCOSE
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+BILIRUBIN,TOTAL
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BILIRUBIN,TOTAL
+
+
+CK,TOTAL ONLY
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:58 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CK,TOTAL ONLY
+
+
+SEDIMENTATION RATE,AUTOMATED
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:52 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SEDIMENTATION RATE,AUTOMATED
+
+
+TRIAGE DRUG PANEL
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:51 pm
+Location: Baystate
+OrderCategory: LAB
+Components: PHENCYCLIDINE SCREEN, URINE, BENZODIAZEPINE SCREEN, URINE, COCAINE SCREEN, URINE, AMPHETAMINE SCREEN, URINE, CANNABINOID SCREEN, URINE, OPIATES SCREEN, URINE, BARBITURATES SCREEN, URINE
+
+
+LACTIC ACID
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:44 pm
+Location: Baystate
+OrderCategory: LAB
+Components: LACTIC ACID
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: KATHLEEN WH NP COULOMBE
+Timestamp: 6/25/2018 6:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, NEUT #, LYMPH #, MONO#, EO #, BASO #, NEUT, LYMPH, MONOCYTE, EO, BASO
+
+
+UA W/REFLEX CULTURE
+Ordered by: SUSAN P. MD TORREY
+Timestamp: 6/25/2018 4:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: APPEAR/COLOR, SP. GRAVITY, URINE PH, URINE ALBUMIN, URINE GLUCOSE, URINE KETONES, URINE BILIRUBIN, URINE HEMOGLOBN, URINE NITRITE, URINE LEUKOCYTE, UROBILINOGEN, URINE WBC'S, URINE RBC'S, BACTERIA, MUCUS, SQUAMOUS EPITH, HYALINE CAST, GRANULAR CAST, CLARITY, CULTURE INDICATION
+
+
+LACTIC ACID
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 6:17 pm
+Location: Baystate
+OrderCategory: LAB
+Components: LACTIC ACID
+
+
+MAGNESIUM
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 6:17 pm
+Location: Baystate
+OrderCategory: LAB
+Components: MAGNESIUM
+
+
+CALCIUM
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CALCIUM
+
+
+CREATININE
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+GLUCOSE
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+BILIRUBIN,TOTAL
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BILIRUBIN,TOTAL
+
+
+CK,TOTAL ONLY
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CK,TOTAL ONLY
+
+
+ELECTROLYTES
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+ALK PHOS
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALK PHOS
+
+
+ALT
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALT
+
+
+AST
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: AST
+
+
+BUN
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:16 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+TSH
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 5:14 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: MICHAEL JOSEPH NP FINE
+Timestamp: 5/31/2018 4:33 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, NEUT #, LYMPH #, MONO#, EO #, BASO #, NEUT, LYMPH, MONOCYTE, EO, BASO
+
+
+Arthrogram Hip Inj Left
+Ordered by: Robert Cowan
+Timestamp: 12/28/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+MR Hip Arthrogram (C+) Left
+Ordered by: Robert Cowan
+Timestamp: 12/28/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Arthrogram Fluoro Guide Needle Plc Left
+Ordered by: Robert Cowan
+Timestamp: 12/28/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Arthrogram Fluoro Guide Needle Plc Right
+Ordered by: Robert Cowan
+Timestamp: 12/19/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+MR Hip Arthrogram (C+) Right
+Ordered by: Robert Cowan
+Timestamp: 12/19/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Arthrogram Hip Inj Right
+Ordered by: Robert Cowan
+Timestamp: 12/19/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+MR Elbow Arthro (C+) Right
+Ordered by: Louis Adler
+Timestamp: 6/6/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Arthrogram Elbow Inj Rightt
+Ordered by: Louis Adler
+Timestamp: 6/6/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+Arthrogram Fluoro Guide Needle Plc Right
+Ordered by: Louis Adler
+Timestamp: 6/6/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+FREE THYROXINE (FREE T4)
+Ordered by: RENE UMANZOR
+Timestamp: 2/16/2017 12:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: FREE THYROXINE (FREE T4)
+
+
+THYROID STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 2/16/2017 12:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+US Scrotum and Contents
+Ordered by: Amado Munson
+Timestamp: 1/27/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+US Duplex Pelvis Art/Vein Flow Comp
+Ordered by: Amado Munson
+Timestamp: 1/27/2017 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+FREE THYROXINE (FREE T4)
+Ordered by: RENE UMANZOR
+Timestamp: 12/9/2016 5:37 pm
+Location: Baystate
+OrderCategory: LAB
+Components: FREE THYROXINE (FREE T4)
+
+
+THYROID STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 12/9/2016 5:37 pm
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+TEST NOT LISTED
+Ordered by:
+Timestamp: 12/7/2016 1:26 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TEST NOT LISTED
+
+
+FREE THYROXINE (FREE T4)
+Ordered by: RENE UMANZOR
+Timestamp: 8/19/2016 3:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: FREE THYROXINE (FREE T4)
+
+
+THYROID STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 8/19/2016 3:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+TESTOSTERONE, BIO AVAILABLE
+Ordered by: RENE UMANZOR
+Timestamp: 8/19/2016 3:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TESTOSTERONE, BIOAVAILABLE, TESTOSTERONE TOTAL, TESTOSTERONE FREE
+
+
+URINE MISC TEST, CHEMISTRY
+Ordered by: RICARDO F. MD VILLALBA LOPEZ
+Timestamp: 6/24/2016 2:32 pm
+Location: Baystate
+OrderCategory: LAB
+Components: URINE MISC TEST, CHEMISTRY
+
+
+AMINO ACID QUANT, BLOOD
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/21/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: PHOSPHOETHANOLAMINE,BLD AMINO, PHOSPHOETHANOLAMINE, PLASMA, TAURINE, BLD AMINO ACID, ASPARAGINE, BLD AMINO ACID, SERINE, BLD AMINO ACID, HYDROXYPROLINE, BLD AMINO ACID, GLYCINE, BLD AMINO ACID, GLUTAMINE, BLD AMINO ACID, ASPARTIC ACID, BLD AMINO ACID, ETHANOLAMINE, BLD AMINO ACID, HISTIDINE, BLD AMINO ACID, THREONINE, BLD AMINO ACID, CITRULLINE, BLD AMINO ACID, SARCOSINE, BLD AMINO ACID, BETA-ALANINE, BLD AMINO ACID, ALANINE, BLD AMINO ACID, GLUTAMIC ACID, BLD AMINO ACID, 1-METHYLHISTIDINE, BLD AMINO A, 3-METHYLHISTIDINE, BLD AMINO A, ARGININOSUCCINIC ACID, BLD AMI, CARNOSINE, BLD AMINO ACID, ANSERINE, BLD AMINO ACID, HOMOCITRULLINE, BLD AMINO ACID, ARGININE, BLD AMINO ACID, ALPHA-AMINOADIPIC ACID,BLD AMI, GAMMA-AMINO-N-BUTYRIC ACID,BLD, BETA-AMINOISOBUTYRIC ACID,BLD, ALPHA-AMINO-N-BUTYRIC ACID,BLD, HYDROXYLYSINE, BLD AMINO ACID, PROLINE, BLD AMINO ACID, ORNITHINE, BLD AMINO ACID, CYSTATHIONINE, BLD AMINO ACID, CYSTINE, BLD AMINO ACID, LYSINE, BLD AMINO ACID, METHIONINE, BLD AMINO ACID, VALINE, BLD AMINO ACID, TYROSINE, BLD AMINO ACID, ISOLEUCINE, BLD AMINO ACID, LEUCINE, BLD AMINO ACID, PHENYLALANINE, BLD AMINO ACID, TRYPTOPHAN, BLD AMINO ACID, ALLO-ISOLEUCINE, BLD AMINO ACI, AMINO ACID INTERPRETATION, PLA
+
+
+ALPHA-GALACTOSIDASE, SERUM
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/20/2016 1:31 pm
+Location: Baystate
+OrderCategory: LAB
+Components: REASON FOR REFERRAL, ALPHA-GAGLACTOSIDASE, SERUM, INTERPRETATION ALPHA GALACTOSI, REVIEWED BY
+
+
+ORGANIC ACID, URINE
+Ordered by: RICARDO F. MD VILLALBA LOPEZ
+Timestamp: 6/19/2016 9:34 am
+Location: Baystate
+OrderCategory: LAB
+Components: ORGANIC ACID SCREEN
+
+
+ACYLCARNITINE
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/18/2016 10:04 am
+Location: Baystate
+OrderCategory: LAB
+Components: ACETYLCARNITINE, C2, PROPIONYLCARNITINE, C3, ISO-/BUTYRYLCARNITINE, C4, ISOVALERYL-/2-METHYLBUTYRYL C5, HEXANOYLCARNITINE, C6, 3-OH-HEXANOYLCARNITINE, C6-OH, OCTENOYLCARNITINE, C8:1, OCTANOYLCARNITINE, C8, DECENOYLCARNITINE, C10:1, DECANOYLCARNITINE, C10, GLUTARYLCARNITINE, C5-DC, DODECENOYLCARNITINE, C12:1, DODECANOYLCARNITINE, C12, 3-OH-DODECANOYLCARNITINE,C12-O, TETRADECADIENOYLCARNITINE, C14, TETRADECENOYLCARNITINE,C14:1, TETRADECANOYLCARNITINE, C14, 3-OH-TETRADECENOYLCARNITINE C1, 3-OH-TETRADECANOYLCARNITINE C1, HEXADECENOYLCARNITINE, C16:1, HEXADECANOYLCARNITINE, C16, 3-OH-HEXADECENOYLCARNITINE,C16, 3-OH-HEXADECANOYLCARNITINE,C16, LINOLEYLCARNITINE, C18:2, OLEYLCARNITINE, C18:1, STEAROYLCARNITINE, C18, 3-OH-LINOLEYLCARNITINE, C18:2-, 3-OH-OLEYLCARNITINE, C18:1-OH, ACYLCARNITINE COMMENT
+
+
+CARNITINE BLOOD
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/18/2016 10:04 am
+Location: Baystate
+OrderCategory: LAB
+Components: CARNITINE FREE, TOTAL CARNITINE, ACYL TO FREE CARNITINE RATIO, CARNITINE INTERPRETATION, ACYLCARNITINE (AC)
+
+
+FREE T4
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/14/2016 8:08 pm
+Location: Baystate
+OrderCategory: LAB
+Components: FREE T4
+
+
+TSH
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/14/2016 8:08 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+URIC ACID
+Ordered by: RENE MD (PALMER) UMANZOR
+Timestamp: 6/14/2016 7:59 pm
+Location: Baystate
+OrderCategory: LAB
+Components: URIC ACID
+
+
+URINE COLLECTION PERIOD
+Ordered by: RICARDO F. MD VILLALBA LOPEZ
+Timestamp: 6/14/2016 7:21 pm
+Location: Baystate
+OrderCategory: LAB
+Components: URINE COLLECTION PERIOD
+
+
+NM THYROID IMG/UPTAKE (E)
+Ordered by:
+Timestamp: 4/14/2016 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+FREE THYROXINE (FREE T4)
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: FREE THYROXINE (FREE T4)
+
+
+THYROID STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+ESTRADIOL
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: ESTRADIOL
+
+
+FOLLICLE STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: FOLLICLE STIMULATING HORMONE
+
+
+LUTEINIZING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: LUTEINIZING HORMONE
+
+
+PROLACTIN
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: PROLACTIN
+
+
+THY MICROSOMAL/PEROXIDASE AB
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: THY MICROSOMAL/PEROXIDASE AB
+
+
+TESTOSTERONE, BIO AVAILABLE
+Ordered by: RENE UMANZOR
+Timestamp: 3/10/2016 8:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: TESTOSTERONE, BIOAVAILABLE, TESTOSTERONE TOTAL, TESTOSTERONE FREE
+
+
+LITHIUM
+Ordered by:
+Timestamp: 1/23/2016 7:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: LITHIUM
+
+
+FREE THYROXINE (FREE T4)
+Ordered by: RENE UMANZOR
+Timestamp: 1/20/2016 5:00 am
+Location: Baystate
+OrderCategory: LAB
+Components: FREE THYROXINE (FREE T4)
+
+
+THYROID STIMULATING HORMONE
+Ordered by: RENE UMANZOR
+Timestamp: 1/20/2016 5:00 am
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+T3 FREE
+Ordered by: RENE UMANZOR
+Timestamp: 1/20/2016 5:00 am
+Location: Baystate
+OrderCategory: LAB
+Components: T3 FREE
+
+
+THYROGLOBULIN ANTIBODY
+Ordered by: RENE UMANZOR
+Timestamp: 1/20/2016 5:00 am
+Location: Baystate
+OrderCategory: LAB
+Components: THYROGLOBULIN ANTIBODY
+
+
+THY MICROSOMAL/PEROXIDASE AB
+Ordered by: RENE UMANZOR
+Timestamp: 1/20/2016 5:00 am
+Location: Baystate
+OrderCategory: LAB
+Components: THY MICROSOMAL/PEROXIDASE AB
+
+
+RAD C-SPINE LATERAL PORTABLE(E
+Ordered by:
+Timestamp: 1/19/2016 12:00 am
+Location: Baystate
+OrderCategory: RAD
+
+
+SADP6-URINE DRUG SCRN NONLEGAL
+Ordered by: ROCK JEAN-GUILLAUME
+Timestamp: 1/18/2016 8:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: AMPHETAMINES URINE, BARBITURATES URINE, BENZODIAZEPINES URINE, CANNABINOIDS URINE, COCAINE URINE, OPIATES/MORPHINE URINE, PHENCYCLIDINE URINE
+
+
+SALICYLATE
+Ordered by: ROCK JEAN-GUILLAUME
+Timestamp: 1/18/2016 8:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SALICYLATE
+
+
+ETHYL ALCOHOL- NON LEGAL
+Ordered by: ROCK JEAN-GUILLAUME
+Timestamp: 1/18/2016 8:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHYL ALCOHOL- NON LEGAL
+
+
+ACETAMINOPHEN
+Ordered by: ROCK JEAN-GUILLAUME
+Timestamp: 1/18/2016 8:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ACETAMINOPHEN
+
+
+THYROID STIMULATING HORMONE
+Ordered by: ROCK JEAN-GUILLAUME
+Timestamp: 1/18/2016 8:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+CBC
+Ordered by:
+Timestamp: 12/22/2015 5:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WHITE BLOOD COUNT, RED BLOOD COUNT, HEMOGLOBIN, HEMATOCRIT, MEAN CELL VOLUME, MEAN CORPUSCULAR HGB, MEAN CORPUSCULAR HGB CONC, RED CELL DISTRI WIDTH, PLATELET COUNT, MEAN PLATELET VOLUME
+
+
+BASIC METABOLIC PANEL
+Ordered by:
+Timestamp: 12/22/2015 5:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, ESTIMATED GFR, SODIUM, POTASSIUM, CHLORIDE, CO2, CALCIUM
+
+
+HEPATIC PANEL
+Ordered by:
+Timestamp: 12/22/2015 5:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TOTAL PROTEIN, ALBUMIN, BILIRUBIN, T, BILIRUBIN, D, SGOT/AST, SGPT/ALT, ALKALINE PHOSPHATASE
+
+
+THYROID STIMULATING HORMONE
+Ordered by:
+Timestamp: 12/22/2015 5:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: THYROID STIMULATING HORMONE
+
+
+BUN
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 7:28 am
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CALCIUM
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 7:28 am
+Location: Baystate
+OrderCategory: LAB
+Components: CALCIUM
+
+
+CREATININE
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 7:28 am
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+GLUCOSE
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 7:28 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 7:28 am
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+HOLDLAV
+Ordered by: RAMAKRISHNA MD THIPPANNA
+Timestamp: 12/22/2015 6:56 am
+Location: Baystate
+OrderCategory: LAB
+Components: HOLDLAV
+
+
+ALK PHOS
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: ALK PHOS
+
+
+ALT
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: ALT
+
+
+AST
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: AST
+
+
+BUN
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CALCIUM
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: CALCIUM
+
+
+CREATININE
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+PHOSPHORUS
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: PHOSPHORUS
+
+
+ELECTROLYTES
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+MAGNESIUM
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: MAGNESIUM
+
+
+BILIRUBIN,TOTAL
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:13 am
+Location: Baystate
+OrderCategory: LAB
+Components: BILIRUBIN,TOTAL
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: JINESH MD KOCHAR*
+Timestamp: 12/20/2015 7:06 am
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, NEUT #, LYMPH #, MONO#, EO #, BASO #, NEUT, LYMPH, MONOCYTE, EO, BASO
+
+
+TRIAGE DRUG PANEL
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 9:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: PHENCYCLIDINE SCREEN, URINE, BENZODIAZEPINE SCREEN, URINE, COCAINE SCREEN, URINE, AMPHETAMINE SCREEN, URINE, CANNABINOID SCREEN, URINE, OPIATES SCREEN, URINE, BARBITURATES SCREEN, URINE
+
+
+CK,TOTAL ONLY
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 5:04 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CK,TOTAL ONLY
+
+
+URINALYSIS
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 4:49 pm
+Location: Baystate
+OrderCategory: LAB
+Components: APPEAR/COLOR, SP. GRAVITY, URINE PH, URINE ALBUMIN, URINE GLUCOSE, URINE KETONES, UROBILINOGEN, URINE BILIRUBIN, URINE HEMOGLOBN, URINE NITRITE, URINE LEUKOCYTE
+
+
+C-REACTIVE PROTEIN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:29 pm
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+ACETAMINOPHEN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ACETAMINOPHEN
+
+
+ELECTROLYTES
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+ALBUMIN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALBUMIN
+
+
+ETHANOL
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM
+
+
+ALK PHOS
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALK PHOS
+
+
+ALT
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ALT
+
+
+AST
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: AST
+
+
+BUN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CALCIUM
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CALCIUM
+
+
+CREATININE
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+TOTAL AND DIRECT BILIRUBIN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BILI TOTAL (WITH DIRECT), BILIRUBIN, DIRECT, INDIRECT BILIRUBIN
+
+
+GLUCOSE
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+MAGNESIUM
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: MAGNESIUM
+
+
+SALICYLATE
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SALICYLATE
+
+
+TOTAL PROTEIN
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TOTAL PROTEIN
+
+
+TROPONIN T QUANT
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:14 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TROPONIN T QUANT
+
+
+PROTIME PROFILE
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:06 pm
+Location: Baystate
+OrderCategory: LAB
+Components: PROTIME, INTERNATNL NORMALIZED RATIO
+
+
+APTT
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 3:06 pm
+Location: Baystate
+OrderCategory: LAB
+Components: APTT
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 2:55 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, NEUT #, LYMPH #, MONO#, EO #, BASO #, NEUT, LYMPH, MONOCYTE, EO, BASO
+
+
+RED TOP HOLD
+Ordered by: CHRISTOPHER J. PA CANNIZZARO
+Timestamp: 12/19/2015 2:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: RED TOP HOLD
+
+
+TESTOSTERONE
+Ordered by: 2
+Timestamp: 10/23/2015 7:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TESTOSTERONE
+
+
+TRIAGE DRUG PANEL
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 9:38 pm
+Location: Baystate
+OrderCategory: LAB
+Components: PHENCYCLIDINE SCREEN, URINE, BENZODIAZEPINE SCREEN, URINE, COCAINE SCREEN, URINE, AMPHETAMINE SCREEN, URINE, CANNABINOID SCREEN, URINE, OPIATES SCREEN, URINE, BARBITURATES SCREEN, URINE
+
+
+ETHANOL
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 8:32 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM
+
+
+ACETAMINOPHEN
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 8:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ACETAMINOPHEN
+
+
+SALICYLATE
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 8:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SALICYLATE
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 8:01 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, NEUT #, LYMPH #, MONO#, EO #, BASO #, NEUT, LYMPH, MONOCYTE, EO, BASO
+
+
+RED TOP HOLD
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 7:57 pm
+Location: Baystate
+OrderCategory: LAB
+Components: RED TOP HOLD
+
+
+HOLD BLUE
+Ordered by: DONALD A. MD CHIULLI
+Timestamp: 9/30/2015 7:57 pm
+Location: Baystate
+OrderCategory: LAB
+Components: HOLD BLUE
+
+
+TESTOSTERONE
+Ordered by: 2
+Timestamp: 8/6/2015 5:36 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TESTOSTERONE
+
+
+LITHIUM
+Ordered by: JOSEPH J. MD SIVAK
+Timestamp: 6/30/2015 6:30 pm
+Location: Baystate
+OrderCategory: LAB
+Components: LITHIUM
+
+
+FREE T4
+Ordered by: JOSEPH J. MD SIVAK
+Timestamp: 6/30/2015 11:48 am
+Location: Baystate
+OrderCategory: LAB
+Components: FREE T4
+
+
+TSH
+Ordered by: JOSEPH J. MD SIVAK
+Timestamp: 6/30/2015 11:48 am
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+COMPREHENSIVE METABOLIC PANL
+Ordered by: JOSEPH J. MD SIVAK
+Timestamp: 6/30/2015 11:16 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, ALBUMIN, CALCIUM, BILIRUBIN,TOTAL, TOTAL PROTEIN, AG RATIO, AST, ALK PHOS, ALT, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+DIRECT BILIRUBIN
+Ordered by: JOSEPH J. MD SIVAK
+Timestamp: 6/30/2015 11:16 am
+Location: Baystate
+OrderCategory: LAB
+Components: BILIRUBIN, DIRECT, INDIRECT BILIRUBIN
+
+
+TESTOSTERONE
+Ordered by: 2
+Timestamp: 5/26/2015 5:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: TESTOSTERONE
+
+
+SEMEN ANALYSIS
+Ordered by: EMANUEL MD FRIEDMAN
+Timestamp: 3/26/2015 11:51 am
+Location: Baystate
+OrderCategory: LAB
+Components: DAYS OF ABSTINENCE, METHOD OF COLLECTION, TYPE OF CONTAINER USED, SPECIMEN COLLECTION PROBLEMS, TRANSPORTATION PROBLEMS, MEDICATIONS (MALE), PENSTREP ALLERGY (FEMALE), CLINICAL DATA, VOLUME, LIQUEFACTION, VISCOSITY, PH, TIME MOTILITY PERFORMED, AGGLUTINATION, WHITE CELLS/HPF, MOTILE SPERM GRADE A, MOTILE SPERM GRADE B, MOTILE SPERM GRADE C, MOTILE SPERM GRADE D, % MOTILE SPERM, % VITAL SPERM, CONCENTRATION, SPERM WITH OVAL HEADS, SPERM WITH HEAD DEFECTS, SPERM WITH TAIL DEFECTS, IMMATURE SPERM, % NORMAL MORPHOLOGY (KRUGER), GRANULOCYTES/ML, SUMMARY, ORIGINAL TOTAL MOTILE SPERM, REPRODUCTIVE BIOLOGY TEST
+
+
+LITHIUM
+Ordered by: REGINA NP SANDERS
+Timestamp: 3/20/2015 5:42 pm
+Location: Baystate
+OrderCategory: LAB
+Components: LITHIUM
+
+
+COMPREHENSIVE METABOLIC PANL
+Ordered by: REGINA NP SANDERS
+Timestamp: 3/20/2015 10:34 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, ALBUMIN, CALCIUM, BILIRUBIN,TOTAL, TOTAL PROTEIN, AG RATIO, AST, ALK PHOS, ALT, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+LIPID PANEL
+Ordered by: REGINA NP SANDERS
+Timestamp: 3/20/2015 10:34 am
+Location: Baystate
+OrderCategory: LAB
+Components: CHOLESTEROL, TOTAL, TRIGLYCERIDE, HDL CHOL, LDL CHOLESTEROL, CALCULATED, NON HDL CHOLESTEROL (CALC)
+
+
+LITHIUM
+Ordered by: REGINA NP SANDERS
+Timestamp: 2/17/2015 5:02 pm
+Location: Baystate
+OrderCategory: LAB
+Components: LITHIUM
+
+
+VALPROIC
+Ordered by: REGINA NP SANDERS
+Timestamp: 2/17/2015 5:02 pm
+Location: Baystate
+OrderCategory: LAB
+Components: VALPROIC
+
+
+TSH
+Ordered by: REGINA NP SANDERS
+Timestamp: 2/17/2015 10:54 am
+Location: Baystate
+OrderCategory: LAB
+Components: TSH
+
+
+COMPREHENSIVE METABOLIC PANL
+Ordered by: REGINA NP SANDERS
+Timestamp: 2/17/2015 10:52 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, ALBUMIN, CALCIUM, BILIRUBIN,TOTAL, TOTAL PROTEIN, AG RATIO, AST, ALK PHOS, ALT, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+COMPREHENSIVE METABOLIC PANL
+Ordered by: REGINA RNCS SANDERS
+Timestamp: 10/29/2014 2:33 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE, BUN, CREATININE, SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP, ALBUMIN, CALCIUM, BILIRUBIN,TOTAL, TOTAL PROTEIN, AG RATIO, AST, ALK PHOS, ALT, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+VALPROIC
+Ordered by: REGINA RNCS SANDERS
+Timestamp: 10/29/2014 2:33 pm
+Location: Baystate
+OrderCategory: LAB
+Components: VALPROIC
+
+
+COMPLETE BLOOD COUNT
+Ordered by: REGINA RNCS SANDERS
+Timestamp: 10/29/2014 1:14 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, AUTOMATED NRBC, ABS. NRBC
+
+
+25OH VITAMIN D
+Ordered by: ANTONIO MD VALENTIN III*
+Timestamp: 8/21/2014 1:38 pm
+Location: Baystate
+OrderCategory: LAB
+Components: 25OH VITAMIN D
+
+
+CMV IGG ANTIBODY
+Ordered by: MARK S MD SKALSKI*
+Timestamp: 5/8/2014 8:30 am
+Location: Baystate
+OrderCategory: LAB
+Components: CMV IGG ANTIBODY
+
+
+CMV IGM ANTIBODY
+Ordered by: MARK S MD SKALSKI*
+Timestamp: 5/8/2014 8:30 am
+Location: Baystate
+OrderCategory: LAB
+Components: CMV IGM ANTIBODY
+
+
+EBV ANTIBODIES
+Ordered by: MARK S MD SKALSKI*
+Timestamp: 5/8/2014 8:30 am
+Location: Baystate
+OrderCategory: LAB
+Components: VIRAL CAPSID AB IGM, VIRAL CAPSID AB IGG, ANTI EB NUC. AG.
+
+
+RPR
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/7/2014 11:20 am
+Location: Baystate
+OrderCategory: LAB
+Components: RPR
+
+
+LYME AB
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/7/2014 10:17 am
+Location: Baystate
+OrderCategory: LAB
+Components: LYME AB
+
+
+MONO TEST
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 12:19 pm
+Location: Baystate
+OrderCategory: LAB
+Components: MONO TEST
+
+
+ETHANOL
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM
+
+
+ALK PHOS
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: ALK PHOS
+
+
+ALT
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: ALT
+
+
+AST
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: AST
+
+
+BUN
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CREATININE
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+C-REACTIVE PROTEIN
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+GLUCOSE
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+BILIRUBIN,TOTAL
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:44 am
+Location: Baystate
+OrderCategory: LAB
+Components: BILIRUBIN,TOTAL
+
+
+SEDIMENTATION RATE
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:33 am
+Location: Baystate
+OrderCategory: LAB
+Components: SEDIMENTATION RATE
+
+
+COCAINE SCREEN, URINE
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:23 am
+Location: Baystate
+OrderCategory: LAB
+Components: COCAINE SCREEN, URINE
+
+
+OPIATES SCREEN, URINE
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:23 am
+Location: Baystate
+OrderCategory: LAB
+Components: OPIATES SCREEN, URINE
+
+
+COMPLETE URINALYSIS
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:14 am
+Location: Baystate
+OrderCategory: LAB
+Components: APPEAR/COLOR, SP. GRAVITY, URINE PH, URINE ALBUMIN, URINE GLUCOSE, URINE KETONES, URINE BILIRUBIN, URINE HEMOGLOBN, URINE NITRITE, URINE LEUKOCYTE, UROBILINOGEN, URINE WBC'S, URINE RBC'S, MUCUS
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: CHERYL B. PA GREENSTEIN
+Timestamp: 5/6/2014 11:11 am
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, AUTOMATED NRBC, ABS. NRBC, NEUT #, LYMPH #, MONO#, EO #, BASO #, ABS. IMM GRAN, NEUT, LYMPH, MONOCYTE, EO, BASO, IMM GRAN
+
+
+OXYCODONE SCREEN, URINE
+Ordered by: GOLIEN MD SAFAIN
+Timestamp: 1/15/2014 4:31 am
+Location: Baystate
+OrderCategory: LAB
+Components: OXYCODONE SCREEN, URINE
+
+
+ETHANOL
+Ordered by: GOLIEN MD SAFAIN
+Timestamp: 1/14/2014 10:39 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM
+
+
+COCAINE SCREEN, URINE
+Ordered by: GOLIEN MD SAFAIN
+Timestamp: 1/14/2014 9:43 pm
+Location: Baystate
+OrderCategory: LAB
+Components: COCAINE SCREEN, URINE
+
+
+OPIATES SCREEN, URINE
+Ordered by: GOLIEN MD SAFAIN
+Timestamp: 1/14/2014 9:43 pm
+Location: Baystate
+OrderCategory: LAB
+Components: OPIATES SCREEN, URINE
+
+
+ANAEROBIC CULTURE
+Ordered by: BENNETT MD BURNS*
+Timestamp: 12/11/2013 12:41 pm
+Location: Baystate
+OrderCategory: LAB
+Components:
+
+
+C-REACTIVE PROTEIN
+Ordered by: ADELE MD MERON*
+Timestamp: 12/7/2013 10:09 pm
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+SEDIMENTATION RATE
+Ordered by: ADELE MD MERON*
+Timestamp: 12/7/2013 9:52 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SEDIMENTATION RATE
+
+
+COMPLETE CBC WITH DIFF
+Ordered by: ADELE MD MERON*
+Timestamp: 12/7/2013 9:45 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, PLT, RDW-SD, MPV, AUTOMATED NRBC, ABS. NRBC, NEUT #, LYMPH #, MONO#, EO #, BASO #, ABS. IMM GRAN, NEUT, LYMPH, MONOCYTE, EO, BASO, IMM GRAN
+
+
+C-REACTIVE PROTEIN
+Ordered by: SUMNER E. MD KARAS*
+Timestamp: 12/6/2013 3:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+SEDIMENTATION RATE
+Ordered by: SUMNER E. MD KARAS*
+Timestamp: 12/6/2013 1:24 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SEDIMENTATION RATE
+
+
+BLOOD CULTURE
+Ordered by: SOPHIE DO TODD
+Timestamp: 12/1/2013 11:08 pm
+Location: Baystate
+OrderCategory: LAB
+Components:
+
+
+BLOOD CULTURE 2
+Ordered by: SOPHIE DO TODD
+Timestamp: 12/1/2013 11:08 pm
+Location: Baystate
+OrderCategory: LAB
+Components:
+
+
+VANC-TROUGH
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 10:02 am
+Location: Baystate
+OrderCategory: LAB
+Components: VANC-TROUGH
+
+
+BUN
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CALCIUM
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: CALCIUM
+
+
+CREATININE
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+GLUCOSE
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:53 am
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+COMPLETE AUTO BLOOD COUNT
+Ordered by: SARAH E. PA DELISLE*
+Timestamp: 11/29/2013 8:11 am
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW, PLT, MPV, AUTOMATED NRBC
+
+
+DEEP WOUND CULTURE
+Ordered by: TIMOTHY PA RICE*
+Timestamp: 11/29/2013 8:01 am
+Location: Baystate
+OrderCategory: LAB
+Components:
+
+
+STERILE FLUID CULT.
+Ordered by: BENNETT MD BURNS*
+Timestamp: 11/29/2013 7:46 am
+Location: Baystate
+OrderCategory: LAB
+Components:
+
+
+VANC-TROUGH
+Ordered by: TIMOTHY PA RICE*
+Timestamp: 11/29/2013 12:45 am
+Location: Baystate
+OrderCategory: LAB
+Components: VANC-TROUGH
+
+
+VANC-TROUGH
+Ordered by: BENNETT MD BURNS*
+Timestamp: 11/28/2013 1:25 am
+Location: Baystate
+OrderCategory: LAB
+Components: VANC-TROUGH
+
+
+SEDIMENTATION RATE
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 11:05 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SEDIMENTATION RATE
+
+
+BUN
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:22 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CREATININE
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:22 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+C-REACTIVE PROTEIN
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:22 pm
+Location: Baystate
+OrderCategory: LAB
+Components: C-REACTIVE PROTEIN
+
+
+GLUCOSE
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:22 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:22 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+COMPLETE ABC WITH DIFF
+Ordered by: SOPHIE DO TODD
+Timestamp: 11/26/2013 10:02 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW, PLT, MPV, NEUT, LYMPH, MONOCYTE, EO, BASO, NEUT #, LYMPH #, MONO#, EO #, BASO #
+
+
+ETHANOL
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 11:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: ETHANOL, SERUM
+
+
+BUN
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 11:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: BUN
+
+
+CREATININE
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 11:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: CREATININE, EST GFR NON AFRICAN AMERICAN, EST GFR AFRICAN AMERICAN
+
+
+GLUCOSE
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 11:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE
+
+
+ELECTROLYTES
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 11:13 pm
+Location: Baystate
+OrderCategory: LAB
+Components: SODIUM, POTASSIUM, CHLORIDE, BICARBONATE, ANION GAP
+
+
+COMPLETE ABC WITH DIFF
+Ordered by: LUCAS MD WENNINGER
+Timestamp: 9/14/2013 10:50 pm
+Location: Baystate
+OrderCategory: LAB
+Components: WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW, PLT, MPV, NEUT, LYMPH, MONOCYTE, EO, BASO, NEUT #, LYMPH #, MONO#, EO #, BASO #
+
+
+GLUCOSE POC
+Ordered by: PHYSICIAN NON STAFF
+Timestamp: 9/14/2013 10:02 pm
+Location: Baystate
+OrderCategory: LAB
+Components: GLUCOSE POC
+
+
+25OH VITAMIN D
+Ordered by: ANTONIO MD VALENTIN III*
+Timestamp: 11/6/2012 12:43 pm
+Location: Baystate
+OrderCategory: LAB
+Components: 25OH VITAMIN D

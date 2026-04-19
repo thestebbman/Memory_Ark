@@ -10,27 +10,22 @@ HOW THIS ARCHIVE IS ORGANIZED
 
 THREE-FOLDER SYSTEM:
 
-  FOLDER 1 — XXX-RICKY-STEBBINS\ (Master Flat Folder — AI reads here)
+  FOLDER 1 — XXX-RICKY-STEBBINS\ (Master Flat Folder — on local computer)
   ────────────────────────────────────────────────────────────────────
-  Every text file in the entire archive lives here in one place.
-  No subfolders. 545 files. This is the AI entry point.
-  An AI can read anything it needs directly from this folder without
-  navigating the numbered folders. Start here.
+  On Ricky's local computer, every text file lives here in one place.
+  No subfolders. This is the AI entry point for local sessions.
   File naming: YYYY-MM-DD-TYPE-Description.txt
-  Type codes: EVENT, LEGAL, MEDIC, RS-AI, AI-PI, FF, GB-FF, GMT-FF,
+  Type codes: EVENT, LEGAL, MEDIC, DREAM-RS, AI-PI, FF, GB-FF, GMT-FF,
   PCT, EMAIL, FM, STORY, ChatGPT, Claude, Gemini, Grok, Copilot, etc.
   Read: XXX-RICKY-STEBBINS\0-INDEX-XXX-RICKY-STEBBINS.txt
 
-  FOLDER 2 — Ricky-s-Ark\ (Human-Sorted Breakdown)
+  FOLDER 2 — GitHub Memory_Ark Repository (Human-Sorted Breakdown)
   ────────────────────────────────────────────────────────────────────
-  The same files organized by category for human navigation.
+  The same files organized by category for human and AI navigation.
   9 numbered subfolders (1 through 9). Each has a matching root-level
-  GB index file. 588+ files in subfolders plus 25 root-level files.
-  Doubles between XXX and Ricky-s-Ark are INTENTIONAL — they are the
-  safety net. If something is wrong in a folder, XXX has it.
-  IMPORTANT: Numbered folders also contain PDFs, images, and scanned
-  documents that are NOT in XXX (text files only in XXX).
-  Read: Ricky-s-Ark\0-INDEX-Ricky-s-Ark.txt
+  GB index file. 589 total files including 25 root-level files.
+  On the local computer this is called Ricky-s-Ark\.
+  Read: 0-INDEX-Ricky-s-Ark.txt
 
   FOLDER 3 — Claude-Archive\ (Old Reference)
   ────────────────────────────────────────────────────────────────────
@@ -55,41 +50,46 @@ HOW TO START ANY SESSION
 FASTEST START (AI):
   1. Read 0-START_HERE.txt — who Ricky is, how he thinks, what he wants.
   2. Read this file (0-ARCHIVE_INDEX.txt) — folder map and Blogger URLs.
-  3. Read XXX-RICKY-STEBBINS\0-INDEX-XXX-RICKY-STEBBINS.txt — all files.
-  4. Pull whatever you need from XXX-RICKY-STEBBINS\.
+  3. Read 0-INDEX-Ricky-s-Ark.txt — file-by-file index of all folders.
+  4. Navigate to the relevant numbered folder.
 
 FOCUSED START (going deep on one topic):
-  1. Find the relevant numbered folder in Ricky-s-Ark (1–9).
+  1. Find the relevant numbered folder (1–9).
   2. Read the matching root-level GB index file.
   3. Go into the folder.
 
 ════════════════════════════════════════════════════════════════════════
-CURRENT FOLDER STRUCTURE (AS OF APRIL 15, 2026)
+CURRENT FOLDER STRUCTURE (AS OF APRIL 19, 2026)
 ════════════════════════════════════════════════════════════════════════
 
-Claude-Copy\
+GitHub Repository: Memory_Ark (Ricky-s-Ark)     ← THIS IS THE LIVE REPO
 │
-├── XXX-RICKY-STEBBINS\                  ← MASTER FLAT FOLDER (AI reads here)
-│       545 text files, no subfolders.
-│       Index: 0-INDEX-XXX-RICKY-STEBBINS.txt
-│
-├── Ricky-s-Ark\                         ← HUMAN-SORTED BREAKDOWN
+├── Root-level files (25 files)
 │   ├── 0- navigation files (6 files)
 │   ├── 1-GB- through 9-GB- index files (11 files)
 │   ├── 1-LIFE-SUMMARY-by-Gemini.txt
 │   ├── 6-FOLDER-SUMMARY-Survivors-of-the-System-Summary.txt
-│   ├── 2026- dated content files (2 files)
-│   ├── Summary .docx files (3 files)
+│   ├── 8-GB-MA_PERAC_Audit-Investigation_email.txt
+│   ├── 2026-03-31-GB-DOJ_Complaint_Stebbins_v4.docx.txt
+│   ├── 2026-04-01-Richard_Stebbins_Resume.txt
+│   ├── CNAME, README.md, index.html
 │   │
-│   ├── 1-Life by Year\                  61 root files + subfolders (78 total)
+│   ├── 1-Life by Year\                  65 root + 15 Family-Friends + 5 school (85 total)
 │   ├── 2-Medical files\                 14 files
-│   ├── 3-Legal file\                    9 root files + subfolders (67 total)
-│   ├── 4-Stories_with_AI\               46 files
-│   ├── 5-Unedited_AI_Conversations\     17 root files + subfolders (128 total)
-│   ├── 6-Survivors-of-the-System\       48 root files + subfolders (117 total)
+│   ├── 3-Legal file\                    6 root + 32 in 2013-2017 + 28 in 2021-2025 (66 total)
+│   ├── 4-Stories_with_AI\               47 files (DREAM-RS-* dated files, formerly RS-AI-*)
+│   ├── 5-Unedited_AI_Conversations\     16 root + 52 ChatGPT + 40 Claude + 14 Gemini + 1 Gordon + 56 Grok (179 total)
+│   ├── 6-Survivors-of-the-System\       39 root + 1 Not-Online (40 total)
 │   ├── 7-MA_PERAC_Audit\                17 files
-│   ├── 8-AI investigations of States and People\  87 files
+│   ├── 8-AI investigations of States and People\  82 files
 │   └── 9-GB-Hell's_Acres-Tammy_Lynds-series-copy\  34 files
+│
+TOTAL: 589 files
+
+Local Computer also has:
+├── XXX-RICKY-STEBBINS\                  ← MASTER FLAT FOLDER (AI reads here)
+│       All text files in one place, no subfolders.
+│       Index: 0-INDEX-XXX-RICKY-STEBBINS.txt
 │
 └── Claude-Archive\                      ← OLD REFERENCE (do not alter)
 
@@ -124,9 +124,9 @@ OTHER ROOT FILES:
   8-GB-MA_PERAC_Audit-Investigation_email.txt    PERAC investigation email
   2026-03-31-GB-DOJ_Complaint_Stebbins_v4.docx.txt  DOJ Civil Rights Complaint
   2026-04-01-Richard_Stebbins_Resume.txt         Ricky's resume
-  Summary - Legal Issues (March 16, 2026).docx   Legal summary
-  Summary - Life Story (March 16, 2026).docx     Life summary
-  Summary - Medical Issues (March 16, 2026).docx Medical summary
+  CNAME                                          Domain config for memory-ark.com
+  README.md                                      GitHub README
+  index.html                                     Website landing page
 
 ════════════════════════════════════════════════════════════════════════
 FOLDER-BY-FOLDER SUMMARY
@@ -140,72 +140,85 @@ This is where AI should read from. It also contains its own copies of
 the 0- navigation files, the GB-INDEX files, and the 0-INDEX file.
 Read: XXX-RICKY-STEBBINS\0-INDEX-XXX-RICKY-STEBBINS.txt
 
-1-Life by Year\ (78 files total, 61 at root)
-Yearly EVENT files from 1978 through 2026, plus school records,
-report cards, and family content. Same EVENT files as in XXX (doubles
-intentional). Subfolders contain photos, YouTube transcripts, and
-scanned school documents not in the flat folder.
+1-Life by Year\ (85 files total: 65 root + 15 Family-Friends + 5 school)
+Yearly EVENT files from 1978 through 2026, plus STORY files, self-
+analysis essays, school records, report cards, and family content.
+Subfolders:
+  Family-Friends\ — 15 files (FF-* drafts, character files, family tree)
+  school\ — 5 files (OLSH, Duggan, Putnam, STCC, Branford Hall)
 Read: 1-GB-INDEX-Year-Index-Emotion-Events-People-Places-Summaries.txt
 
 2-Medical files\ (14 files)
-Scanned and text medical records in dated subfolders, spanning
-1997 Coast Guard discharge through 2025 Westborough.
-Key records: 2016 Baystate Genetics (hyperthyroidism + AMP deaminase
-deficiency — explains decades of misdiagnosis history).
-Text versions of medical files are in XXX (MEDIC prefix).
-Scanned PDFs and images live only in this folder.
+Medical records spanning 1997 Coast Guard discharge through 2025
+Westborough. Key records: 2016 Baystate Genetics (hyperthyroidism +
+AMP deaminase deficiency — explains decades of misdiagnosis).
+All files use MEDIC prefix.
 Read: 2-GB-INDEX-MEDICAL.txt
 
-3-Legal file\ (67 files total, 9 at root)
+3-Legal file\ (66 files total: 6 root + 32 in 2013-2017 + 28 in 2021-2025)
 Two major cases:
   Hampden County 2013-2017 — Walmart accident, evidence tampering,
     coerced plea. 6-volume Commonwealth v. Stebbins transcript.
-    Cross-references indexed PDFs in subfolder.
   Worcester County 2021-2025 — Beth case, five attorneys, nolle
-    prosequi. Still being updated — video transcriptions pending.
-Text versions of legal files are in XXX (LEGAL prefix).
-PDFs and scanned documents live only in this folder.
+    prosequi. Still being updated.
+Subfolders:
+  2013-2017-LEGAL-Supporting-Text-Documents\ — 32 files
+  2021-2025-LEGAL-Supporting-Text-Documents\ — 28 files
 Read: 3-GB-INDEX-LEGAL.txt
 
-4-Stories_with_AI\ (46 files)
+4-Stories_with_AI\ (47 files)
 Ricky's published essays and stories created with AI assistance.
+NOTE: Files are now named with date prefix DREAM-RS-* (e.g.,
+2025-06-08.1-DREAM-RS-A New Kind of Partnership.txt). These are
+the same stories previously named RS-AI-*, now dated for better
+AI context. The number after the date (e.g., .1, .2) is the
+original story order number.
 Published to rickyandthemachine.blogspot.com
-Same RS-AI files as in XXX (doubles intentional).
 Read: 4-GB-INDEX-Ricky-and-the-Machine-What-Ai-could-have-been-stories.txt
 
-5-Unedited_AI_Conversations\ (128 files total, 17 at root)
-Raw exported conversations from all AI platforms:
-ChatGPT, Claude, Gemini, Grok, DeepSeek, Copilot, Perplexity,
-SuperNinja, Venice AI. Subfolders organized by platform.
-Same files as in XXX (doubles intentional).
+5-Unedited_AI_Conversations\ (179 files total: 16 root + 5 subfolders)
+Raw exported conversations from all AI platforms.
+Subfolders:
+  ChatGPT\ — 52 files (2025-ChatGPT-1 through 50, plus 42.1 and Dallas)
+  Claude\ — 40 files (2025-Claude-1–14, 2026-Claude-15–29, Cowork 1–5)
+  Gemini\ — 14 files (2025-Gemini-1–4, 2026-Gemini-5–10 with variants)
+  Gordon\ — 1 file (2026-Gordon-AI-1)
+  Grok\ — 56 files (43 $30-Grok threads, 2 Grok$30, 6 Grok-3-threads, 5 misc)
+Root level: Copilot, DeepSeek, Perplexity, Docker, GitHub AI, Venice,
+SuperNinja conversations.
 Published: thechroniclesofrickyuneditedthreads.blogspot.com
 Read: 5-GB-INDEX-Unedited-Conversations.txt
 
-6-Survivors-of-the-System\ (117 files total, 48 at root)
-People Ricky is actively helping and documenting. Each person has
-a subfolder with their profile, communications, and materials.
+6-Survivors-of-the-System\ (40 files total: 39 root + 1 Not-Online)
+People Ricky is actively helping and documenting.
 Active cases: Dallas Flaherty, Brandon Bruning, Kathryn Dressler,
-Kyi Lewis, Becky Morrison, Ronald Seno, and others.
-GMT (Google Meet Transcripts), PCT (Phone Call Transcripts), and
-EMAIL files for these people are in XXX with names in filenames.
-Person profiles and source docs live in this folder.
+Kyi Lewis, Becky Morrison, and others.
+Root files: GMT (Google Meet Transcripts), PCT (Phone Call Transcripts),
+EMAIL files, GB-SOTS (Blogger Survivors posts), GB-FF (Friend Features).
+Subfolders:
+  Not-Online\ — 1 file (Becka Rayy transcript)
+NOTE: Additional person-specific subfolders (Becky-Morrison-Doucuments,
+Dallas-Flaherty-Doucuments, Kathryn-Dressler-Doucuments, etc.) exist
+on the local computer but contain non-text files (PDFs, images, .docx)
+that are not yet in GitHub.
 Read: 6-GB-INDEX-Survivors-of-the-System.txt
 
 7-MA_PERAC_Audit\ (17 files)
 Massachusetts PERAC (Public Employee Retirement Administration
 Commission) pension fund investigation. PERAC emails, memos,
 PRIM investment reports, state audits, Ricky's correspondence.
-Text versions in XXX (P1–P9 prefix files).
+Files use P- prefix (P1–P9) plus PERAC-named files.
 Blog: ultimateworldfinancialmap.blogspot.com
 Read: 7-GB-INDEX-MA_PERAC_Audit.txt
 
-8-AI investigations of States and People\ (87 files)
+8-AI investigations of States and People\ (82 files)
 Systemic corruption research using multiple AI platforms.
 State financial blueprints (22+ states), hypergraph analyses
 by platform, individual investigations (Healey, DiZoglio, Musk,
 Fink, Trump, Campbell, Palmieri), RICO analysis, DOJ submissions,
 CCA/DCF conspiracy maps, Massachusetts Corruption Blueprint.
-Text versions in XXX (AI-PI prefix files, sub-series A through G).
+Files use AI-PI prefix (sub-series A through G).
+Includes non-text files: PDFs, CSVs, JPGs.
 Blog: systemfailuresandlegalstruggles.blogspot.com
       ultimateworldfinancialmap.blogspot.com
 Read: 8-GB-INDEX-AI-Investigation.txt
@@ -216,7 +229,6 @@ Fox Road murder of Tammy Lynds. Ricky knew her. Her father Richard
 Lynds has been searching for answers for decades. Series started
 2012, runs through January 2026. Connects to the Cornelius Tyson
 documentation (2025).
-Text versions in XXX (Fox Road files, doubles intentional).
 Read: 9-GB-POST-Hell's_Acres-Tammy_Lynds-series-and-comments.txt
 
 ════════════════════════════════════════════════════════════════════════
@@ -232,7 +244,7 @@ in XXX-RICKY-STEBBINS are the working/source copies.
 
   rickyandthemachine.blogspot.com
       Stories written with AI — essays, blueprints, advocacy pieces
-      Local: All RS-AI-* files (also in 4-Stories_with_AI)
+      Local: All DREAM-RS-* files (in 4-Stories_with_AI, formerly RS-AI-*)
 
   thechroniclesofrickyuneditedthreads.blogspot.com
       Unedited AI conversation threads (50+ published)
@@ -306,30 +318,35 @@ KEY THEMES (for AI navigation)
 #THEME_AIPartnership The tension of building with tools he also accuses
 
 ════════════════════════════════════════════════════════════════════════
-KNOWN GAPS / IN PROGRESS (as of April 15, 2026)
+KNOWN GAPS / IN PROGRESS (as of April 19, 2026)
 ════════════════════════════════════════════════════════════════════════
 
 - Legal 2021–2025 folder: still being updated, more files coming
 - Video transcriptions: several YouTube videos still need transcribing
-- Year files: some doubles exist inside 1-Life by Year (old + new
-  naming format) — known, cleanup deferred
+- 6-Survivors-of-the-System: person-specific subfolders with PDFs,
+  images, and .docx files exist on local computer but are not yet in
+  GitHub (Becky-Morrison-Doucuments, Dallas-Flaherty-Doucuments,
+  Kathryn-Dressler-Doucuments, Heather-Hardin-Doucuments, etc.)
+- Summary .docx files (Legal, Life Story, Medical from March 16, 2026)
+  exist on local computer but are not in GitHub
 - Memory-Ark.com: "GitHub Pages" link on site points to wrong URL
-  (github.pages.com instead of actual GitHub Pages URL)
 - Memory-Ark.com: only 6 of 10+ Blogger blogs listed on the site
 - unediated-ai-conversations.blogspot.com: URL has typo ("unediated"
   instead of "unedited") — this is the live URL, not a fixable error
 
 ════════════════════════════════════════════════════════════════════════
 Created: April 15, 2026 by Claude (Cowork)
-Full rewrite. Renamed from "Memory Ark" to "Ricky's Memory Ark."
-Corrected all folder references (RICKY\ → XXX-RICKY-STEBBINS\).
-Updated file counts (XXX: 545, Ricky-s-Ark subfolders: 588+ total).
-Added Claude-Archive as third folder (still exists). Updated folder
-structure diagram with accurate file counts per subfolder. Added
-GitHub and Memory-Ark.com sections. Added two new themes. Updated
-known gaps for April 2026. Corrected root-level file listing to
-match actual current state (renamed GB-INDEX files with new naming).
+Updated: April 19, 2026 by GitHub Copilot
+  Reorganized all 589 files into numbered folder structure on GitHub.
+  Updated all file counts to match actual repository state.
+  Updated folder structure diagram. RS-AI-* files are now DREAM-RS-*
+  with date prefixes. Added CNAME, README.md, index.html to root list.
+  Removed references to Summary .docx files not in GitHub.
+  Expanded 5-Unedited_AI_Conversations to 179 files (was 128).
+  Updated 4-Stories_with_AI to 47 files (was 46) with new naming note.
+  Updated 6-Survivors-of-the-System to 40 files (was 117 — non-text
+  files and person subfolders exist only on local computer).
 
-Prior versions: April 8, 2026 (Claude/Cowork), April 5, 2026 (Gordon),
-March 30, 2026 (Claude/Cowork).
+Prior versions: April 15, 2026 (Claude/Cowork), April 8, 2026
+(Claude/Cowork), April 5, 2026 (Gordon), March 30, 2026 (Claude/Cowork).
 ════════════════════════════════════════════════════════════════════════

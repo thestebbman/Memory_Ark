@@ -1,0 +1,2912 @@
+From:    felicia.m.baruffi@mass.gov
+
+To:  me, Cc:  Duane,, and 1 other · Wed, Jan 7 at 12:15 PM
+
+Cc:
+
+    < thestebbman@yahoo.com >,
+    Duane, Doreen M. (PER),< doreen.m.duane@mass.gov >,
+    Taylor, Daniel (PER),< daniel.taylor2@mass.gov >
+
+
+
+
+
+
+
+
+Message Body
+
+Good Afternoon Mr. Stebbins,
+
+ 
+
+This email is in response to your public records request dated December 27, 2025. In response to Item A, PERAC has no records in its possession that are responsive.  Mr. Ford was never at PERAC’s offices from June 2024-December 2025, and BlackRock was not informed of your July 7, 2025 public records request.  In response to Item B, this is a specific test account that was created for a business user to check PROSPER functionality and how it works – aka a demo.  The account does not have any access to any data. 
+
+ 
+
+In response to Item 4, PROSPER is a custom application hosted in Microsoft Azure Gov Cloud. It is managed by PERAC IT engineers and developers in conjunction with 2 of PERAC Main IT vendors.  SMX whom is on the Commonwealth blanket contract provides 7x24 Managed security services and managed hosting services. In addition to PERACs internal developers, PERAC has contracted with CGI whom created PROSPER and continue to provide enhancements and bug fixes in conjunction with PERAC IT staff. PROSPER adheres to FISMA moderate with crosswalk to HIPPA compliance.  In addition, we use another third party intra systems for security testing.  The SLA for Microsoft Azure can be found here: https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1.  Azure Government Compliance can be found here: https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-plan-compliance.
+
+ 
+
+PERAC has no records in its possession responsive to Items 3, 4, 5, and 6. Further, to the extent that these items constitute a list of questions, please be aware that the Public Records Law does not require custodians to answer questions, conduct research, or create new records.
+
+ 
+
+Given the scope of your request, PERAC will be assessing a reasonable fee to produce responsive records, as permitted by the Public Records Law and its associated regulations. As a state agency, we will not be assessing a fee for the first four hours of staff time spent responding to the request. The lowest paid individual with the skill necessary to respond to the requests is compensated at a rate greater than $25 per hour, so our assessed hourly rate will be the maximum of $25 per hour allowed under the law.   Additionally, PERAC will be filing a petition with the Supervisor of Records, seeking an extension of time to produce records, and permission to charge for redaction under Exemptions (c), (n), (o), and (t).
+
+ 
+
+As of today’s date, PERAC has spent four hours of staff time conducting preliminary searches for responsive records. Our IT unit has indicated that it will take 30 hours to generate and redact the PROSPER access logs requested in Item 1 due to the over one million events that occurred during your time range.  These logs will contain IP addresses, login credentials, and other sensitive information, the disclosure of which may compromise the cybersecurity of PERAC’s systems, as well as the systems of retirement boards and vendors. This information will be redacted pursuant to Exemption (n).
+
+ 
+
+Our compliance and investment team has estimated that there are approximately 287 reports and related documents responsive to Item 2 of your request, each between 2 and 20 pages. Based on similar past requests, we estimate that locating, compiling, and reviewing the report for the requested data fields will require up to 30 minutes for each report.  Accordingly, we will require 140 total hours of staff time to locate and compile all reports and data responsive to Item 2.
+
+ 
+
+Our preliminary search for communications responsive to Item 3 of your request has returned more than 9,670 potentially responsive email communications and attachments. Our legal team will require at least 30 seconds to review each email communication and its attachments for responsiveness and exempt material, for a total of 80 hours of staff time. Given the nature of the work performed by our agency, these communications are likely to contain personal and financial information (e.g., social security numbers, personnel records, and medical and disability information) exempt from disclosure under Exemption (c), as well as the home addresses and personal contact information of public employees, exempt from disclosure under Exemption (o). The emails may also contain statements filed under Section 20C of Chapter 32, which are exempt from disclosure under Exemption (t).
+
+ 
+
+Total Fee
+
+(4 hours + 30 hours + 140 hours + 80 hours – 4 hours) x $25/hr = $6,250.00
+
+ 
+
+If you would like PERAC to proceed with the production of responsive records, please provide our office with a check in the above amount, payable to the Public Employee Retirement Administration Commission. Once we have received payment, we will begin compiling responsive records. Alternatively, you may narrow the scope of your requests, providing a more limited time frame, list of parties, or set of search terms, and we will revise our fee estimate accordingly. Please note that simpler, narrower requests are less likely to require such significant expenditures of staff time.
+
+ 
+
+Regarding your concerns about the preservation of records, PERAC can again confirm that it adheres to the MA Records Retention Schedule for maintaining documents and organizational records as well as the Public Records Law.
+
+ 
+
+Best,
+
+ 
+
+Felicia
+
+ 
+
+Felicia Baruffi, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 909
+
+www.mass.gov/perac
+
+ 
+
+**Please note my new email address: felicia.m.baruffi@mass.gov
+
+ 
+
+
+
+CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this email by anyone other than the intended recipient(s) is strictly prohibited. Thank you.
+
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Saturday, December 27, 2025 10:41 PM
+To: Taylor, Daniel (PER) <Daniel.Taylor2@mass.gov>
+Cc: Baruffi, Felicia M. (PER) <Felicia.M.Baruffi@mass.gov>; Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>; MA-IGO-TRAINING (IGO) <ma-igo-training@mass.gov>
+Subject: Refined Public Records Request: PROSPER Access Logs (2025), Native Financial Data, Vendor Coordination Documentation
+
+ 
+
+CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system.  Do not click on links or open attachments unless you recognize the sender and know the content is safe.
+
+ 
+
+﻿
+
+ 
+
+Dear Records Access Officer,
+
+
+
+This is a refined and narrowed public records request submitted pursuant to M.G.L. c. 66 and 950 CMR 32.00. It replaces previous overlapping requests and focuses on a limited set of records essential to understanding vendor access patterns, fee transparency, and data custody practices within PERAC’s oversight systems.
+
+ 
+
+This request emerges from documented inconsistencies between PERAC’s public statements and internal records already produced via prior FOIA responses. It seeks to resolve evidentiary conflicts, clarify statutory obligations, and preserve audit trails for systems managing over $90 billion in public pension assets.
+
+ 
+
+The records requested below are structured to minimize processing burden while maximizing auditability. Where machine-readable formats already exist, this request explicitly declines PDF substitutes that degrade data integrity.
+
+ 
+
+-----
+
+ 
+
+## **OVERVIEW: TEMPORAL PATTERN REQUIRING DOCUMENTATION**
+
+ 
+
+**July 7, 2025 (1:10 AM):**  
+
+I submitted a public records request to 10+ Massachusetts state officials, including PERAC, requesting:
+
+ 
+
+> “All access logs to the PROSPER system from external IP addresses or users affiliated with investment vendors, including but not limited to: BlackRock, Hamilton Lane, State Street, Vanguard, PRIM-affiliated firms”
+
+ 
+
+**Recipients included:**
+
+ 
+
+- Felicia McGinniss (PERAC Senior Associate General Counsel)
+
+- Natacha Dunker (PERAC)
+
+- Secretary of State Records Office
+
+- Christopher Bowman, Paul Stein, Cynthia Ittleman, Paul Camuso, Kevin Tivnan, Medes Diaz (State oversight officials)
+
+- Treasury Department
+
+- EOEEA
+
+ 
+
+**BlackRock was not on the recipient list.**
+
+ 
+
+**July 7, 2025 (10:07 AM) - Nine hours later:**  
+
+James Dasaro (BlackRock Director, Client Experience Management) emails John Galvin (PERAC Compliance Manager):
+
+ 
+
+> “Would you be able to help provide access to the PROSPER portal to my colleagues copied in here?”
+
+ 
+
+**Requested credentials for:**
+
+ 
+
+- Sarah Brandwein (sarah.brandwein@blackrock.com)
+
+- Miley Xiao (aiyin.xiao@blackrock.com)
+
+- Conor Ford (Conor.Ford@blackrock.com)
+
+ 
+
+**July 8, 2025 (7:44 AM):**  
+
+John Galvin responds:
+
+ 
+
+> “Sara, Miley, Conor- a registration email will come under separate cover for access to the site.”
+
+ 
+
+**July 8 - August 19, 2025:**  
+
+Intensive PROSPER access activity by newly-credentialed accounts, followed by complete cessation.
+
+ 
+
+This temporal pattern—FOIA submission, credential request by non-recipient within hours, intensive access, then cessation—forms the evidentiary foundation for the records requested below.
+
+ 
+
+-----
+
+ 
+
+## **1. PROSPER ACCESS LOGS – Calendar Year 2025**
+
+ 
+
+### **Public Interest Context:**
+
+ 
+
+PERAC’s PROSPER system grants external vendors direct access to pension fund disclosures, performance data, and fee reports. Massachusetts pension systems serve over 300,000 active and retired employees across 104 retirement boards. Access logs are the only mechanism for detecting unauthorized use, coordinated disclosure manipulation, or preferential information sharing.
+
+ 
+
+**As PERAC Vice-Chair, State Auditor Diana DiZoglio has authority to conduct performance audits of PERAC’s operations—reviewing policy compliance and operational procedures. However, performance audits typically do not examine underlying financial data integrity, vendor fee validation, or investment performance verification. This records request seeks access and financial data necessary for comprehensive financial audit capabilities beyond current performance review scope.**
+
+ 
+
+### **Request:**
+
+ 
+
+All PROSPER access logs from **January 1, 2025 through December 31, 2025**, in CSV or XLSX format.
+
+ 
+
+**Required data fields (if maintained):**
+
+ 
+
+- Timestamp (with timezone)
+
+- Username
+
+- User role or privilege level
+
+- Organization or vendor affiliation
+
+- Event type (login, view, edit, upload, download, delete)
+
+- Device ID or IP address
+
+- Session ID or duration
+
+ 
+
+**Technical Compatibility Note:** Please do not convert structured logs to flattened PDFs. Provide native export format (CSV, JSON, or XLSX) to preserve column integrity and enable proper filtering.
+
+ 
+
+**Sample Output Request:** Before full production, provide a 1-page sample to confirm field alignment and completeness.
+
+ 
+
+-----
+
+ 
+
+### **A. Conor Ford – BlackRock Advisors LLC: Access Pattern Following FOIA Request**
+
+ 
+
+**Employment and Access Timeline:**
+
+ 
+
+Public FINRA records (BrokerCheck, CRD# 7312440) confirm Conor Ford has been employed by BlackRock Investments, LLC for approximately 4 years, working from BlackRock’s Boston office at 60 State Street—approximately 2.3 miles from PERAC’s Medford headquarters.
+
+ 
+
+|Period             |Ford Employment Status        |PROSPER Access  |
+
+|-------------------|------------------------------|----------------|
+
+|~2022-2024         |BlackRock employee (Years 1-3)|0 logins        |
+
+|Jan-July 7, 2025   |BlackRock employee (Year 4)   |0 logins        |
+
+|July 8, 2025       |BlackRock employee            |First login ever|
+
+|July 8-Aug 19, 2025|BlackRock employee            |34 logins       |
+
+|Aug 20-Dec 2025    |BlackRock employee            |0 logins        |
+
+ 
+
+**Access Event Summary:**
+
+ 
+
+**July 7, 2025 (1:10 AM):** I submit FOIA requesting BlackRock PROSPER access logs
+
+ 
+
+**July 7, 2025 (10:07 AM):** BlackRock requests credentials for Brandwein, Xiao, Ford
+
+ 
+
+**July 8, 2025 (7:44 AM):** PERAC approves credentials
+
+ 
+
+**July 8, 2025 (10:44 AM):** Ford’s first PROSPER login in 4-year employment history
+
+ 
+
+**August 19, 2025 (5:13 PM):** Ford’s last login (17 logins that day: 10:01 AM - 5:13 PM)
+
+ 
+
+**After August 19:** Zero activity
+
+ 
+
+**Comparison:**
+
+ 
+
+|Account        |Credentials Requested|Total Logins|Pattern                   |
+
+|---------------|---------------------|------------|--------------------------|
+
+|Sarah Brandwein|YES                  |0           |Never used                |
+
+|Miley Xiao     |YES                  |1           |Single login July 8       |
+
+|Conor Ford     |YES                  |34          |July 8-Aug 19, then ceased|
+
+ 
+
+**Documentation Requested:**
+
+ 
+
+**1. Notification and Coordination**
+
+ 
+
+Please produce any communications showing how BlackRock became aware of my July 7, 1:10 AM FOIA request by 10:07 AM the same day:
+
+ 
+
+- Any emails, phone logs, or meeting records between PERAC staff and BlackRock on July 7, 2025
+
+- Any internal PERAC emails or messages discussing my FOIA request and whether to notify vendors
+
+- Any written PERAC policy governing vendor notification during public records reviews
+
+- Any calendar entries, visitor logs, or meeting documentation showing Ford at PERAC offices (July 2024-December 2025)
+
+ 
+
+**2. Access Activity During Ford Sessions**
+
+ 
+
+Please provide:
+
+ 
+
+- Action-level logs showing which PROSPER files, modules, or data were viewed, downloaded, modified, or deleted during the 34 Ford sessions
+
+- Whether any Schedule 7 disclosures, fee reports, or performance data were accessed
+
+- Whether any records responsive to my FOIA request were accessed
+
+- Session duration and specific activity timestamps for each login
+
+ 
+
+If action-level logs do not exist, please provide:
+
+ 
+
+- Written explanation of why such logs are not retained
+
+- How PERAC ensures compliance with 201 CMR 17.00 audit trail requirements without action-level logging
+
+- Whether PERAC can verify that no records were modified or deleted during vendor access
+
+ 
+
+**3. Employment History and Access Pattern**
+
+ 
+
+Ford worked at BlackRock for approximately 3 years (2022-2024) with zero PROSPER access. Please provide:
+
+ 
+
+- Documentation explaining why PROSPER access was not needed during Ford’s first three years of employment
+
+- Whether Ford’s role, title, or responsibilities changed in July 2025
+
+- Whether another BlackRock employee previously handled PROSPER access for Massachusetts pension accounts
+
+- Business justification for requesting credentials on July 7, 2025 (nine hours after my FOIA submission)
+
+ 
+
+**4. Credential Request for Multiple Accounts**
+
+ 
+
+Three credentials were requested but usage varied dramatically. Please clarify:
+
+ 
+
+- Business purpose stated or implied in BlackRock’s July 7 credential request
+
+- Whether Brandwein, Xiao, and Ford were expected to perform different tasks or the same review
+
+- Why Brandwein never logged in despite credential approval
+
+- Why Xiao logged in only once
+
+ 
+
+**5. Account Activity Cessation**
+
+ 
+
+After 3+ years without PROSPER access, Ford accessed the system 34 times over 6 weeks, then stopped completely. Please provide:
+
+ 
+
+- Documentation of what task was completed on or around August 19 that no longer required access
+
+- Whether Ford’s account was deactivated or whether the user simply stopped accessing
+
+- Whether Ford’s role, access privileges, or responsibilities changed after August 19
+
+- Whether the timing of cessation coincided with any PERAC decisions or actions regarding my FOIA request
+
+ 
+
+**6. Identity Verification Documentation**
+
+ 
+
+Please provide:
+
+ 
+
+- Employment verification or documentation submitted when BlackRock requested credentials
+
+- Any organizational chart or directory listing showing Ford’s role with respect to Massachusetts pension systems
+
+- Any correspondence from Ford or about Ford beyond the July 7-8 credential exchange
+
+ 
+
+-----
+
+ 
+
+### **B. Test Account – “zzTest PERAC Vendor money manager1”**
+
+ 
+
+**Timeline:**
+
+ 
+
+**August 19, 2025 (5:13 PM):** Ford’s last login
+
+ 
+
+**September 5, 2025 (1:19 PM):** First and only login by “Financial_Vendor, Test Zztest PERAC Vendor money manager1”
+
+ 
+
+**Historical Context:** Cross-referencing logs from 2020-2024 shows zero instances of this account designation.
+
+ 
+
+**Documentation Requested:**
+
+ 
+
+Please provide:
+
+ 
+
+- Account creation date, creator identity, and authorization documentation
+
+- Business purpose for maintaining test or generic accounts in production oversight systems
+
+- Whether this account was used for system testing, vendor training, data review, or other purposes
+
+- Whether the September 5 login can be attributed to a specific individual or organization
+
+- Whether this is a shared account accessible by multiple users
+
+- How PERAC tracks accountability for actions taken under non-attributable accounts
+
+- How generic account use complies with 201 CMR 17.00 access control and audit trail requirements
+
+- Why this account appeared for the first time in 2025
+
+- Any relationship between Ford account cessation (August 19) and zzTest account appearance (September 5)
+
+ 
+
+-----
+
+ 
+
+### **C. Pattern Summary Across Complete Historical Record**
+
+ 
+
+Cross-referencing all five PROSPER access log files (January 2020 through December 2025) confirms:
+
+ 
+
+|Pattern                           |2020-2024           |2025              |Significance               |
+
+|----------------------------------|--------------------|------------------|---------------------------|
+
+|Conor Ford employment at BlackRock|~3 years (2022-2024)|Year 4            |Employed but zero access   |
+
+|Conor Ford PROSPER logins         |0                   |34 (July-Aug only)|First access after 3+ years|
+
+|Ford activity cessation           |N/A                 |August 19         |Complete stop after 6 weeks|
+
+|zzTest account                    |0 logins            |1 login (Sept 5)  |First appearance ever      |
+
+|Same-day clusters (17+ logins)    |0 instances         |1 (Aug 19)        |Unprecedented pattern      |
+
+ 
+
+Both unprecedented patterns appear exclusively in 2025, during the two-month period following my FOIA request.
+
+ 
+
+**Methodological Note:** This pattern analysis was conducted by cross-referencing all five PROSPER access log files provided by PERAC (covering January 2020 through December 2025), using both manual review and systematic data analysis to detect anomalous access clusters, credential timing patterns, and metadata inconsistencies. The findings are based on complete data sets provided by PERAC itself.
+
+ 
+
+-----
+
+ 
+
+## **2. NATIVE FORMAT FINANCIAL DATA – Gross vs. Net Returns (2018–2024)**
+
+ 
+
+### **Public Interest Context:**
+
+ 
+
+**State Auditor DiZoglio’s office conducts performance audits—reviewing whether agencies follow policies and procedures. Performance audits typically do not examine whether reported investment performance is mathematically accurate, whether fees extracted match contractual agreements, or whether gross vs. net disclosures enable independent verification of vendor billing.**
+
+ 
+
+**This records request seeks underlying financial data necessary for comprehensive financial audit capabilities—examining whether reported numbers can be independently validated, whether fees align with contracts, and whether performance claims can be verified through source data.**
+
+ 
+
+The difference between gross and net investment returns represents total management costs—including fees, carried interest, and administrative expenses. For Massachusetts pension funds, this difference can amount to hundreds of millions of dollars annually.
+
+ 
+
+Internal PERAC communications—including an email dated February 2021—reference decisions to omit or consolidate gross vs. net fields for “formatting” purposes. This design choice materially affects the ability to conduct independent financial verification.
+
+ 
+
+### **Request:**
+
+ 
+
+For all private equity, private credit, real assets, and fund-of-funds investments reported to PERAC between **2018–2024**, provide the following data fields in machine-readable format:
+
+ 
+
+**Required data fields (as separate columns):**
+
+ 
+
+- Fund name
+
+- Vintage year
+
+- Commitment amount
+
+- Capital called
+
+- Capital distributed
+
+- Gross IRR (internal rate of return)
+
+- Net IRR (internal rate of return)
+
+- Gross MOIC (multiple on invested capital)
+
+- Net MOIC (multiple on invested capital)
+
+- Management fees (annual and cumulative)
+
+- Performance fees / carried interest
+
+- Fee offsets or rebates
+
+- Valuation methodology used
+
+- Reporting entity (e.g., Meketa, BlackRock, HarbourVest, NEPC)
+
+ 
+
+**Format requirement:** Excel (.XLSX), CSV, or similar structured formats only. PDFs are not acceptable where native structured data exists.
+
+ 
+
+**Technical Compatibility Note:** If vendors provided these reports in Excel or CSV format, please provide those native files without converting them to PDF. PDF conversion strips formulas, cell lineage, and reconciliation logic—rendering the data non-auditable.
+
+ 
+
+**Sample Output Request:** Please provide a 1-page sample showing column structure and field completeness before full production.
+
+ 
+
+-----
+
+ 
+
+### **Basis for Request:**
+
+ 
+
+Without both gross and net figures:
+
+ 
+
+- Fees cannot be independently verified against contractual agreements
+
+- Performance cannot be reconciled across report types or time periods
+
+- Carried interest calculations cannot be validated
+
+- Long-term underperformance can be masked by selective presentation
+
+ 
+
+**If Data Is Unavailable:**
+
+ 
+
+If PERAC does not possess the requested gross/net data, please provide:
+
+ 
+
+- Specification of which fields are missing
+
+- Date when data was discarded
+
+- Records retention authority permitting destruction
+
+- Name and title of person who authorized discarding structured data
+
+ 
+
+If data exists but is being withheld:
+
+ 
+
+- Specific statutory exemption with supporting case law
+
+- Any segregable portions that can be disclosed
+
+ 
+
+-----
+
+ 
+
+## **3. TARGETED COMMUNICATIONS – July 1, 2025 to Present**
+
+ 
+
+### **Public Interest Context:**
+
+ 
+
+PERAC has provided contradictory statements regarding its role in vendor coordination and investment oversight. Understanding what communications occurred after my FOIA requests were filed is essential to resolving these documented inconsistencies.
+
+ 
+
+### **Request:**
+
+ 
+
+Communications (internal PERAC or between PERAC and vendors) from **July 1, 2025 to present** containing any of the following terms:
+
+ 
+
+**Keywords:**
+
+ 
+
+- “Conor Ford”
+
+- “BlackRock”
+
+- “public records request” or “FOIA” or “Stebbins”
+
+- “logs” or “access logs”
+
+- “zztest”
+
+- “gross” and “net” (in same email)
+
+- “PROSPER access” or “PROSPER login”
+
+- “vendor access”
+
+- “Schedule 7”
+
+ 
+
+**Priority subject lines** (based on prior FOIA productions):
+
+ 
+
+- “RE: PROSPER Application Access – BlackRock”
+
+- “Fee Report”
+
+- “RE: 2019 Annual Vendor Disclosures”
+
+- “RE: Unigestion – Opportunity to Meet”
+
+- “FW MA Consultant RFPs”
+
+ 
+
+**If records are withheld or redacted:**
+
+ 
+
+- Indicate volume withheld
+
+- Cite specific statutory exemption with supporting case law
+
+- Confirm whether any segregable content exists
+
+ 
+
+-----
+
+ 
+
+## **4. PROSPER SYSTEM CUSTODY AND VENDOR DOCUMENTATION**
+
+ 
+
+### **Public Interest Context:**
+
+ 
+
+PERAC’s August 1, 2025 response stated:
+
+ 
+
+> “We are not sitting on 8 years of logs… They are compiling a report from scratch.”
+
+ 
+
+Yet PROSPER login records dating to January 2020 were subsequently produced, confirming that historical logs exist in some form. Under M.G.L. c. 7, § 22C, state IT contracts must be publicly disclosed.
+
+ 
+
+### **Request:**
+
+ 
+
+Please provide:
+
+ 
+
+**1. Vendor Identity:**  
+
+The name of the entity (internal PERAC unit, Commonwealth IT division, or external vendor) responsible for hosting, maintaining, or compiling PROSPER access logs
+
+ 
+
+**2. Contract Documentation:**  
+
+Any contract, statement of work, or service agreement governing:
+
+ 
+
+- Log retention policies and timeframes
+
+- Audit export procedures and formats
+
+- Security and access control requirements
+
+- Data ownership and custody arrangements
+
+ 
+
+**3. Request Documentation:**  
+
+A copy of the specific request PERAC sent to this entity in response to my July 2025 FOIA request, including:
+
+ 
+
+- Date sent
+
+- Scope of data requested
+
+- Fields or formats specified
+
+- Any stated limitations or exclusions
+
+ 
+
+**4. Data Integrity Confirmation:**  
+
+Please provide:
+
+ 
+
+- Written confirmation of whether this vendor has deleted, archived, modified, or migrated any PROSPER access logs since January 1, 2020
+
+- Documentation of any log retention schedule or data lifecycle policies
+
+- Verification procedures PERAC uses to ensure completeness and integrity of vendor-provided access logs
+
+ 
+
+-----
+
+ 
+
+## **5. FEE ESTIMATE REVISION AND JUSTIFICATION**
+
+ 
+
+### **Context:**
+
+ 
+
+Your December 24, 2025 response estimated **$6,575** based on:
+
+ 
+
+- 27,000 emails × 30 seconds each = 225 hours
+
+- 250 documents × 1 minute = 40 hours
+
+- Total: 263 hours – 4 free hours = $6,575
+
+ 
+
+This refined request materially reduces that burden:
+
+ 
+
+- **Section 1:** Requests only 2025 logs (1 year, not 8)
+
+- **Section 2:** Requests native files already received from vendors (no new record creation)
+
+- **Section 3:** Limits communications to 6 months (July 2025–present)
+
+- **Section 4:** Requests existing contract documentation
+
+ 
+
+### **Revised Estimate Request:**
+
+ 
+
+Pursuant to **950 CMR 32.07(2)**, please provide a revised fee estimate specific to this narrowed scope, including:
+
+ 
+
+**Itemization by section:**
+
+ 
+
+- Estimated hours per section
+
+- Specific employee roles and hourly rates
+
+- Description of tasks required (e.g., database query, manual review, redaction)
+
+ 
+
+**Automation explanation:**
+
+ 
+
+- Whether automated search tools, e-discovery platforms, or database exports are being used
+
+- If not, explanation of why manual review is necessary when state agencies typically have access to enterprise document management systems
+
+ 
+
+**Reconciliation with prior statements:**
+
+ 
+
+- Your office stated PROSPER logs must be “compiled from scratch” by a vendor, suggesting automated extraction capability
+
+- If automated log compilation is possible, please explain why email review would require 225 hours of manual labor
+
+ 
+
+**Sample output option:**
+
+ 
+
+- If significant processing costs are anticipated, please provide sample outputs for Sections 1 and 2 to confirm data completeness and format before incurring full processing fees
+
+ 
+
+-----
+
+ 
+
+## **6. DOCUMENTED INCONSISTENCIES – REQUEST FOR RECONCILIATION**
+
+ 
+
+The following statements, when viewed together, create contradictory representations about PERAC’s role, capabilities, and data practices:
+
+ 
+
+|Date             |Statement                                                                                                                                                 |Source                                              |
+
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+
+|July 8, 2025     |“PERAC itself does not conduct any type of investments”                                                                                                   |Email response to public records request            |
+
+|July 28, 2025    |“PERAC regularly corresponds with retirement boards and some potential vendors… to ensure that proper documentation is being provided in response to RFPs”|Official letter response                            |
+
+|August 1, 2025   |“We are not sitting on 8 years of logs… They are compiling a report from scratch”                                                                         |Email response regarding PROSPER data               |
+
+|October 23, 2025 |Production of PROSPER login records dating to January 2020                                                                                                |Attachment: PROSPER_FinancialVendorUserAccess_v1.pdf|
+
+|December 24, 2025|Claims 27,000 emails exist but also states emails older than 12 months “cannot be easily searched”                                                        |Fee estimate letter                                 |
+
+ 
+
+The records requested in Sections 1–4 are designed to resolve these documented inconsistencies by providing primary source documentation rather than summary characterizations.
+
+ 
+
+-----
+
+ 
+
+## **7. PURPOSE AND BROADER CONTEXT**
+
+ 
+
+### **Public Interest Foundation:**
+
+ 
+
+This request is submitted as part of a broader review of public pension vendor oversight practices across Massachusetts retirement systems. Massachusetts pension systems collectively manage over $90 billion in public assets on behalf of more than 300,000 active and retired public employees, including:
+
+ 
+
+- State police and correctional officer pensions
+
+- Teacher and university employee retirement systems
+
+- Municipal worker and utility employee funds
+
+- Regional and county retirement boards
+
+ 
+
+Transparency in vendor access patterns, fee reporting, and data integrity directly affects these beneficiaries and Massachusetts taxpayers.
+
+ 
+
+### **Analytical Framework:**
+
+ 
+
+This request has been developed through systematic review of publicly available documents, including:
+
+ 
+
+- PERAC annual reports (2018–2024)
+
+- Schedule 7 fee disclosures
+
+- Prior FOIA responses from PERAC (2025)
+
+- PROSPER access logs
+
+- Internal PERAC-vendor communications
+
+ 
+
+Pattern analysis was conducted through cross-referencing of publicly available FOIA disclosures using analytical review frameworks designed to identify systematic gaps in audit capability and data transparency.
+
+ 
+
+### **Relationship to State Auditor Oversight:**
+
+ 
+
+State Auditor Diana DiZoglio serves as PERAC Vice-Chair and has authority to conduct performance audits of PERAC operations. Performance audits typically review policy compliance, operational procedures, and adherence to regulations—essential oversight functions that ensure agencies follow established rules.
+
+ 
+
+However, performance audits generally do not examine:
+
+ 
+
+- Whether reported investment performance numbers are mathematically accurate
+
+- Whether vendor fees extracted match contractual agreements
+
+- Whether gross vs. net disclosures enable independent financial verification
+
+- Whether access controls prevent unauthorized data manipulation
+
+ 
+
+The records requested above seek underlying access logs and financial data necessary for comprehensive financial audit capabilities that complement, but extend beyond, current performance review scope.
+
+ 
+
+Given the State Auditor’s oversight role and commitment to transparency in government operations, I respectfully request that her office consider whether the patterns documented in this request—including vendor notification during FOIA reviews, unprecedented access timing, missing financial data fields, and third-party custody gaps—warrant additional review within the State Auditor’s statutory authority.
+
+ 
+
+-----
+
+ 
+
+## **8. PRESERVATION NOTICE**
+
+ 
+
+Please preserve all relevant materials pending production and any potential administrative review, including:
+
+ 
+
+- PROSPER access logs (2020–2025, complete period)
+
+- Vendor communications regarding RFP guidance, disclosure formatting, or fee reporting
+
+- Structured financial files received from vendors in native formats
+
+- Internal emails regarding my public records requests
+
+- Contracts or documentation governing third-party data custody
+
+- Any communications between PERAC staff and vendors on July 7, 2025
+
+ 
+
+**If any requested records no longer exist, please provide:**
+
+ 
+
+- Specific record category
+
+- Date of deletion or destruction
+
+- Records retention authority cited (with specific citation)
+
+- Name and title of person who authorized destruction
+
+ 
+
+-----
+
+ 
+
+## **CLOSING**
+
+ 
+
+This request is submitted in good faith to obtain machine-readable, auditable data necessary for understanding vendor access patterns, fee transparency, and fiduciary oversight practices affecting billions in public pension assets.
+
+ 
+
+If any requested record is unavailable, is not in PERAC’s custody, or is claimed to be exempt from disclosure:
+
+ 
+
+- Identify the specific record
+
+- Provide the legal basis for non-production with statutory citation
+
+- Confirm whether any segregable portion can be produced
+
+ 
+
+Please confirm receipt of this request and provide a revised fee estimate within **10 business days** as required by M.G.L. c. 66, § 10.
+
+ 
+
+Thank you for your attention to this matter.
+
+ 
+
+Sincerely,  
+
+**Ricky Stebbins**  
+
+54 Hope Street  
+
+Springfield, MA 01119  
+
+
+
+ 
+
+Ricky
+
+ 
+
+ 
+
+On Wednesday, December 24, 2025 at 09:40:13 AM EST, Taylor, Daniel (PER) <daniel.taylor2@mass.gov> wrote:
+
+ 
+
+ 
+
+Good morning Mr. Stebbins,
+
+ 
+
+This email is in response to your public records requests dated December 15 and December 18, 2025. In response to Item I of your 12/15 request, please see the attached, as well as the reports publicly posted at the following links: https://www.mass.gov/lists/perac-investment-schedule-7-fee-reports, https://www.mass.gov/perac-annual-reports.
+
+ 
+
+PERAC has no records in its possession responsive to Items III, V, VI, VII and VIII of your 12/15 request, or Items IV, V, and VII of your 12/18 request. Further, to the extent that these items constitute a list of questions, please be aware that the Public Records Law does not require custodians to answer questions, conduct research, or create new records.
+
+ 
+
+Given the scope of your requests, PERAC will be assessing a reasonable fee to produce responsive records, as permitted by the Public Records Law and its associated regulations. As a state agency, we will not be assessing a fee for the first four hours of staff time spent responding to the requests. The lowest paid individual with the skill necessary to respond to the requests is compensated at a rate greater than $25 per hour, so our assessed hourly rate will be the maximum of $25 per hour.
+
+ 
+
+As of today’s date, PERAC has spent two hours of staff time developing search terms and conducting preliminary searches for responsive records. Our compliance and investment team has estimated that there are approximately 250 reports and related documents responsive to Item I of your 12/18 request, and more than 2,200 reports and related documents responsive to Item II of your 12/18 request. Based on similar past requests, we estimate that locating and compiling each report and any related documentation will require up to a minute. Accordingly, we will require 40 total hours of staff time to locate and compile all reports responsive to Items I and II of your 12/18 request.
+
+ 
+
+Our preliminary search for communications responsive to Items II and IV of your 12/15 request and Items III and VI of your 12/18 request has returned more than 27,000 potentially responsive email communications. Our legal team will require at least 30 seconds to review each email communication and its attachments for responsiveness, for a total of 225 hours of staff time. Please note, while the responsive records are likely to contain information which is exempt from disclosure under Exemptions (a), (c), (n), and (o) of the Public Records Law, PERAC is not currently assessing a fee for the segregation and redaction of exempt material.
+
+ 
+
+Total Fee
+
+(2 hours + 40 hours + 225 hours – 4 hours) x $25/hr = $6,575.00
+
+ 
+
+If you would like PERAC to proceed with the production of responsive records, please provide our office with a check in the above amount, payable to the Public Employee Retirement Administration Commission. Once we have received payment, we will begin compiling responsive records. Alternatively, you may narrow the scope of your requests, providing a more limited time frame, list of parties, or set of search terms, and we will revise our fee estimate accordingly. Please note that simpler, narrower requests are less likely to require such significant expenditures of staff time.
+
+ 
+
+Thank you,
+
+Dan
+
+ 
+
+Daniel Taylor, Esq.
+
+Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 912
+
+www.mass.gov/perac
+
+ 
+
+ 
+
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Thursday, December 18, 2025 7:26 PM
+To: Baruffi, Felicia M. (PER) <Felicia.M.Baruffi@mass.gov>
+Subject: Public Records Request (Parallel) – Vendor Gross/Net Performance Reports (2018–2024)
+
+ 
+
+CAUTION: This email originated from a sender outside of the Commonwealth of Massachusetts mail system.  Do not click on links or open attachments unless you recognize the sender and know the content is safe.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Dear Ms. Baruffi,
+
+ 
+
+I am submitting this as a new and separate Public Records Request, to proceed in parallel with my pending consolidated request and not to replace it.
+
+ 
+
+This request is focused on a single, documented issue reflected in PERAC–vendor correspondence:
+
+whether gross and net performance data were calculated or available but omitted from distributed reports, and how PERAC ensures accuracy, reconcilability, and oversight when that occurs.
+
+ 
+
+This request seeks existing records only.
+
+It does not ask PERAC to create new analyses, calculations, reconciliations, or reports.
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. Meketa Investment Group – Gross/Net Performance Data and Report Version History (2018–2024)
+
+ 
+
+ 
+
+PERAC–vendor correspondence from February 2021 states that including both gross and net performance in the Trailing Performance Summary would make the “net/gross column” in the Fee Expense Analysis “no longer applicable” and could “cause more confusion than clarity.”
+
+ 
+
+That statement indicates that:
+
+ 
+
+    Gross and net performance data existed or were calculable, and
+    A reporting-format decision was made that affected reconcilability across report types and periods.
+
+ 
+
+ 
+
+ 
+
+A. Systems / Boards
+
+ 
+
+ 
+
+For the period January 1, 2018 through December 31, 2024, please produce Meketa-prepared reports for the following systems:
+
+ 
+
+    Massachusetts Housing Finance Agency (MassHousing / “Mass HFA”)
+    Norwood Retirement System
+    Plymouth County Retirement System
+    Plymouth Retirement System
+    Worcester Retirement System
+    Hingham Retirement System
+    Lexington Retirement System
+    Marlborough Retirement System
+    Quincy Retirement System
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B. Report Types
+
+ 
+
+ 
+
+For each system listed above, please produce all versions of:
+
+ 
+
+    Trailing Performance Summary reports (quarterly and/or annual)
+    Fee Expense Analysis reports
+    Any quarterly, annual, or multi-year performance or fee reports prepared by Meketa that were provided to PERAC, transmitted through PERAC, or relied upon by PERAC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C. Versions, Columns, and Explanations
+
+ 
+
+ 
+
+For each system, report type, and year, please produce:
+
+ 
+
+    Any version(s) that include both gross and net performance figures in the Trailing Performance Summary
+    Any version(s) where such figures or columns were omitted, removed, suppressed, or altered
+    Any emails, cover memoranda, internal notes, or attachments explaining:
+
+        why the figures or columns were omitted or altered,
+        who requested, approved, or accepted the change, and
+        whether PERAC staff (including Veronica Colon) discussed, reviewed, relied upon, or responded to this issue in any communication, whether or not a formal response was issued
+
+     
+
+ 
+
+ 
+
+If PERAC does not retain multiple versions, please explicitly confirm whether:
+
+ 
+
+    such versions were never received,
+    such versions were received but not retained, or
+    PERAC retains PDFs only and not native or working files
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D. Attachments, Native Files, and Underlying Data
+
+ 
+
+ 
+
+Please also produce any attachments or native files (e.g., XLS, XLSX, CSV, or similar structured formats) received, reviewed, or relied upon by PERAC that contain performance or fee data underlying these reports, regardless of whether the final distributed reports omitted certain fields.
+
+ 
+
+This request includes records reflecting PERAC’s receipt, review, awareness of, or reliance upon such data, even if the underlying files are retained by vendors.
+
+ 
+
+If PERAC does not retain such attachments, please confirm whether:
+
+ 
+
+    they were received but not retained, or
+    PERAC does not retain non-PDF formats as a matter of practice
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+II. Other Vendors – Identification of Similar Omission Practices (2018–2024)
+
+ 
+
+ 
+
+Beyond Meketa, please provide records sufficient to determine whether any other PERAC-associated investment consultants or vendors:
+
+ 
+
+    calculated gross and net performance data (or advised that such data were available internally), but
+    omitted those figures from distributed reports, or
+    altered report formats in a way that prevents year-over-year or cross-report reconciliation
+
+ 
+
+ 
+
+This includes, but is not limited to:
+
+ 
+
+    BlackRock
+    State Street / State Street Global Advisors
+    Hamilton Lane
+    Gen II Fund Services
+    Any private equity or real estate fund administrators or consultants providing performance or fee reporting
+
+ 
+
+ 
+
+For each vendor where this applies, please produce:
+
+ 
+
+    Vendor name and affected report type(s)
+    Systems or boards affected
+    Any versions retained by PERAC that include omitted data
+    Records describing what data the vendor tracks internally, what data is distributed externally, and what PERAC knew, reviewed, or relied upon
+
+ 
+
+ 
+
+If PERAC does not track, verify, or evaluate whether vendors omit reconcilable fields, please confirm that in writing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+III. PERAC–Vendor Correspondence Regarding Omission or Avoidance of Reconcilable Data (2018–2024)
+
+ 
+
+ 
+
+Please produce correspondence between PERAC and vendors from January 1, 2018 through December 31, 2024 that discusses omitting, removing, discouraging, or avoiding inclusion of performance or fee data, including communications containing language such as:
+
+ 
+
+    “cause more confusion than clarity”
+    “no longer applicable”
+    “not intended to represent actual fees paid”
+    “fee estimates not included”
+    “outside scope of service”
+    “management or performance fee verification”
+    “carried interest”
+    “tedious” or “imprecise”
+    “not an audit” / “not verified” / “do not calculate”
+
+ 
+
+ 
+
+This includes emails, attachments, internal notes, and vendor explanations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+IV. Responsibility for Reconciliation and Oversight
+
+ 
+
+ 
+
+Please produce any records from 2018–2024 identifying:
+
+ 
+
+    which entity (PERAC, vendor, retirement board, or other) is responsible for reconciling performance and fee data when vendor reports are acknowledged to be incomplete, estimated, or not independently verifiable, and
+    what action, if any, is taken when PERAC becomes aware that reports cannot be reconciled across report types or reporting periods
+
+ 
+
+ 
+
+If no such responsibility, escalation, or oversight documentation exists, please confirm that in writing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+V. Basis for Accuracy of Annual Reports
+
+ 
+
+ 
+
+Please produce any records describing how PERAC determines that annual reports are accurate when underlying vendor reports are incomplete, estimated, or not independently verified.
+
+ 
+
+If no such records exist, please confirm that in writing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+VI. Vendor Clarification Requests Initiated by PERAC
+
+ 
+
+ 
+
+If PERAC has contacted vendors to clarify omitted performance or fee data, please produce:
+
+ 
+
+    the requests sent,
+    the vendors’ responses, and
+    any resulting updates or decisions not to update reports
+
+ 
+
+ 
+
+If PERAC has not contacted vendors regarding this issue, please confirm that no such clarification requests were made.
+
+ 
+
+ 
+
+ 
+
+ 
+
+VII. Distribution of Updated or Corrected Reports
+
+ 
+
+ 
+
+If any corrected or reissued reports exist, please produce records showing:
+
+ 
+
+    whether PERAC redistributed them to boards or systems,
+    whether recipients were notified that earlier versions were incomplete or non-reconcilable, and
+    the distribution lists used (board/system level only)
+
+ 
+
+ 
+
+If PERAC does not redistribute corrected reports when reconciliation issues are identified, please confirm that practice.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purpose (Clarifying, Not Accusatory)
+
+ 
+
+ 
+
+This request is made to allow boards, unions, retirees, and the public to understand whether reported performance and fees are structurally reconcilable over time, and how accuracy and oversight are ensured when certain figures are omitted or not verified.
+
+ 
+
+I am not alleging wrongdoing. I am requesting records that vendor correspondence indicates exist, or documentation clarifying responsibility when reconciliation is not possible.
+
+ 
+
+Please confirm receipt and advise if any clarification is required.
+
+ 
+
+Sincerely,
+
+Ricky Stebbins
+
+ 
+
+ 
+
+CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this email by anyone other than the intended recipient(s) is strictly prohibited. Thank you.
+
+
+
+CONFIDENTIALITY NOTICE This electronic message and any attachments are intended only for the addressee(s) and contains information that may be privileged and confidential. If you are not the intended recipient, please notify the sender by reply email and immediately delete this message. Use, disclosure or reproduction of this email by anyone other than the intended recipient(s) is strictly prohibited. Thank you.
+To:  pre, Cc:  me, and 2 others · Wed, Jan 7 at 12:21 PM
+Message Body
+
+Good Afternoon,
+
+ 
+
+PERAC has received the below public records request from Mr. Ricky Stebbins. Also below is our agency’s response to this request. Given the magnitude of the request, we are petitioning for a time extension of 20 business days. Additionally, we are seeking permission to assess fees for time spent redacting responsive records pursuant to Exemptions (c), (n), (o), and (t). Our response below sets forth the reasons this request cannot prudently be completed without segregation and redaction.
+
+ 
+
+Please let me know if you require any further information.
+
+ 
+
+Thank you,
+
+ 
+
+Felicia
+
+ 
+
+ 
+
+Felicia Baruffi, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 909
+
+www.mass.gov/perac
+
+ 
+
+**Please note my new email address: felicia.m.baruffi@mass.gov
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From:    felicia.m.baruffi@mass.gov
+
+To:  pre, Cc:  me, and 2 others · Wed, Jan 7 at 12:21 PM
+    pre,< pre@sec.state.ma.us >
+
+Cc:
+
+    < thestebbman@yahoo.com >,
+    Duane, Doreen M. (PER),< doreen.m.duane@mass.gov >,
+    Taylor, Daniel (PER),< daniel.taylor2@mass.gov >
+
+Message Body
+
+Good Afternoon,
+
+ 
+
+PERAC has received the below public records request from Mr. Ricky Stebbins. Also below is our agency’s response to this request. Given the magnitude of the request, we are petitioning for a time extension of 20 business days. Additionally, we are seeking permission to assess fees for time spent redacting responsive records pursuant to Exemptions (c), (n), (o), and (t). Our response below sets forth the reasons this request cannot prudently be completed without segregation and redaction.
+
+ 
+
+Please let me know if you require any further information.
+
+ 
+
+Thank you,
+
+ 
+
+Felicia
+
+ 
+
+ 
+
+Felicia Baruffi, Esq.
+
+Senior Associate General Counsel
+
+Public Employee Retirement Administration Commission
+
+10 Cabot Road, Suite 300
+
+Medford, MA 02155
+
+(617) 666-4446, ext. 909
+
+
+
+
+
+
+
+
+
+Fwd: Public Records Request – PERAC Investment Records 2024–2025
+From: Ricky Stebbins (thestebbman@yahoo.com)
+To: caroline.e.deluca@mass.gov
+Date: Monday, December 8, 2025 at 11:41 AM EST
+Hi Ms. De Luca,
+I received an out-of-office from Christopher
+Bowman and was directed to you as an alternate
+contact.
+I’m currently raising concerns about PERAC’s
+oversight failures and vendor access to its
+PROSPER system (including BlackRock and other
+investment firms) that could affect public
+employees’ pensions and investors worldwide.
+I’ve already submitted detailed public records
+requests and received partial responses from
+PERAC’s counsel. I’m flagging this for you so there
+is no question later that regulators and oversight
+bodies were informed.
+If your office has a defined process for escalating
+systemic oversight concerns like this, I’m happy to
+summarize the key patterns and provide links to the
+documents and logs I’ve already published.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+1 of 14 12/8/2025, 11:08 PM
+Best,
+Richard (Ricky) Stebbins
+Begin forwarded message:
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Date: December 8, 2025 at 9:55:34 AM EST
+To: "Felicia M. Baruffi" <Felicia.M.Baruffi@mass.gov>, recordsrequests@sec.state.ma.us,
+natacha.a.dunker@mass.gov, Christopher.Bowman@state.ma.us, paul.m.stein@state.ma.us,
+Cynthia.Ittleman@state.ma.us, paul.a.camuso@state.ma.us, kevin.m.tivnan@state.ma.us,
+Medes.Diaz@state.ma.us, veronica.colon@mass.gov
+Cc: "Doreen M. Duane" <doreen.m.duane@mass.gov>
+Subject: Re: Public Records Request – PERAC Investment Records 2024–2025
+Good Morning Ms. Baruffi,
+Thank you for providing the initial batch of emails and the vendor login
+information from the PROSPER system. I appreciate that PERAC is working
+through a large volume of material, and I recognize that coordinating with
+State IT and a third-party vendor adds significant complexity.
+However, after reviewing the materials provided so far, several issues have
+emerged that raise serious questions about process integrity, oversight
+limitations, and potential data-handling vulnerabilities. Before I publish or
+escalate any concerns, I want to give PERAC the opportunity to explain its
+position clearly and transparently.
+To be very clear:
+I am not making accusations.
+I am giving PERAC the chance to clarify the situation before this is shared
+with state oversight bodies, journalists, or EU data protection authorities who
+may have jurisdiction due to the involvement of European vendors and funds.
+Below is a structured explanation of why additional records and clarifications
+are now necessary.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+2 of 14 12/8/2025, 11:08 PM
+1. PROSPER Vendor Access Appears
+Broader Than Expected
+The logs you sent show a surprisingly large number of outside vendors
+accessing the PROSPER investment portal, including:
+• BlackRock
+• Hamilton Lane
+• State Street
+• PRIM-affiliated entities
+• Multiple private fund administrators
+This volume of access — and the lack of detail about what each login
+accessed — raises several concerns:
+• There is no audit trail showing which files or disclosures were viewed or
+downloaded.
+• There is no geographic information, IP metadata, or device information.
+• No access revocation logs were provided.
+• No internal oversight or monitoring documentation appears to exist.
+Under M.G.L. c. 66 (Public Records) and 201 CMR 17.00 (Data Security
+Regulations), agencies must maintain:
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+3 of 14 12/8/2025, 11:08 PM
+• audit trails
+• access logs
+• retention logs
+• documentation of third-party access to regulated systems
+I am therefore requesting additional metadata because it appears that PERAC
+may not have full visibility into how investment vendors interact with the
+pension oversight system.
+This is a potential oversight gap—one I want you to be able to explain before
+I take it further.
+2. Multiple Emails Show Confusion, Delays,
+and Missing Reports Across Many Boards
+The older emails (2018–2022) reveal a pattern:
+• consultants repeatedly sending late, corrected, or missing reports
+• pooled fund worksheets “out of balance”
+• fee analysis reports missing or inconsistent
+• PERAC staff asking vendors to re-send documents multiple times
+• reports released only after private meetings with consultants
+• inconsistent treatment of “net vs. gross of fees” performance data
+• repeated reminders from PERAC to vendors about failing to submit
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+4 of 14 12/8/2025, 11:08 PM
+required disclosures
+This is concerning because PERAC is the compliance authority for 104
+retirement boards.
+Under Chapter 32 and PERAC regulations, the Commission is obligated to
+ensure:
+• uniform reporting
+• timely disclosures
+• proper fee analysis
+• vendor compliance
+• audit readiness
+The emails paint a picture of a system where private consultants and fund
+managers control the flow of information — and PERAC spends a lot of time
+asking for missing documents.
+Again: I am not accusing PERAC of wrongdoing.
+But the appearance of systemic disorganization is something the public,
+pensioners, and possibly EU regulators would take seriously.
+3. GDPR and EU Data Protection
+Considerations
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+5 of 14 12/8/2025, 11:08 PM
+Several investment firms involved in this process are headquartered in or
+operate under EU jurisdiction, including:
+• Unigestion (Switzerland/EU operations)
+• Mesirow (EU operations)
+• Hamilton Lane (EU LP investors)
+• RhumbLine funds with EU clients
+• BlackRock (significant EU operations, GDPR-bound)
+If European citizens’ data — or EU-regulated financial disclosures — flow
+through PROSPER or Massachusetts systems, then:
+GDPR Articles 5, 30, 32, and 33 impose:
+• audit trails
+• access logs
+• documentation of data processors
+• breach notification obligations
+Right now, based on what you’ve provided:
+It is unclear whether PERAC has met those obligations.
+This is why I need the additional information below — not to accuse
+PERAC, but to determine whether PERAC is even aware of the compliance
+implications.
+I want PERAC to have the opportunity to clarify this before I raise it with EU
+partners or compliance monitors.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+6 of 14 12/8/2025, 11:08 PM
+4. Why I Am Requesting Broader
+Preservation and Documentation
+Given the gaps above, I am formally requesting preservation of the following
+categories so that no material is inadvertently deleted during PERAC’s search
+process:
+A. Full PROSPER system metadata
+Because the login summary you provided lacks detail required under state
+retention laws.
+B. Email server metadata and archive restoration logs
+Because multiple employees indicated they cannot access emails older than
+12 months, which raises questions about retention compliance.
+C. Device and VPN access logs
+Because PERAC staff and vendors may access PROSPER remotely, which
+matters for regulatory oversight.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+7 of 14 12/8/2025, 11:08 PM
+D. Informal communications (texts, Teams, personal email used
+for work)
+These count as public records under Massachusetts law and could contain
+key procurement or disclosure information.
+E. Vendor communications involving PERAC
+Because vendors are directly contacting PERAC about RFPs and disclosures.
+F. Retention and deletion logs
+This will confirm that nothing related to this matter was deleted
+automatically.
+G. Internal meeting notes, briefing memos, and directives
+To understand PERAC’s internal process for vendor oversight.
+H. Documentation of search terms, custodians, and systems
+accessed
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+8 of 14 12/8/2025, 11:08 PM
+To ensure the transparency and completeness of the Public Records search.
+None of this is an accusation.
+It is due diligence — something I would do with ANY agency where the
+documentary record appears incomplete or inconsistent.
+Final Point: Giving PERAC the Chance to
+Explain Before This Goes Public
+I want to emphasize this in good faith:
+I am giving PERAC an opportunity to explain, clarify, and correct the record
+before I take any of this to:
+• Massachusetts State Auditor
+• AG’s Office
+• Federal oversight partners
+• EU GDPR regulators (if applicable)
+• Investigative journalists and watchdogs
+If I misunderstood the situation or if there is a reasonable explanation, I
+genuinely want to hear it.
+Transparency helps everyone — PERAC, retirees, vendors, and the public.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+9 of 14 12/8/2025, 11:08 PM
+Please confirm receipt of this message and the preservation request. I look
+forward to your clarification.
+Sincerely,
+Ricky Stebbins
+Springfield, MA
+413-949-1925
+On Oct 23, 2025, at 9:32 AM, Baruffi, Felicia M. (PER) <Felicia.M.Baruffi@mass.gov>
+wrote:
+Good Morning Mr. Stebbins,
+Pursuant to your Public Records Request, attached please find the login
+information for investment vendor access in PROSPER. We are unable
+to provide the IP addresses due to cybersecurity concerns; however, the
+report includes the name of the individual, the vendor they are
+associated with, and the date/time of the login into PROSPER.
+The report starts in January 2020 because that is when the Investment
+Portal in PROSPER was launched for investment vendors to upload
+their required disclosures to PERAC. Prior to January 2020, investment
+vendors did not have a portal in PROSPER to access, and so there is
+no login information prior to then.
+Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+10 of 14 12/8/2025, 11:08 PM
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:08 AM
+To: Ricky Stebbins <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Mr. Stebbins,
+I apologize, this is a additional email. I wasn’t able to fit it all in the
+expected 5 emails. This is the 6th and final one for this batch.
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:07 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 5 of 5
+Felicia Baruffi, Esq.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+11 of 14 12/8/2025, 11:08 PM
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:06 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 4 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:05 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 3 of 5
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+12 of 14 12/8/2025, 11:08 PM
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:03 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 2 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:01 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: Public Records Request – PERAC Investment Records 2024–
+2025
+Good Morning Mr. Stebbins,
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+13 of 14 12/8/2025, 11:08 PM
+PROSPER FinancialVendorUserAccess_v1.pdf
+337.5 KB
+Pursuant to your Public Records request, attached please find the first
+round of emails that is responsive to your request. This will be email 1
+of 5. The rest of the emails are still being reviewed we are still working
+on the PROSPER login information. I will send additional documents as
+soon as I am able.
+Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+CONFIDENTIALITY NOTICE This electronic message and any a achments are intended only for the addressee(s) and contains
+informa on that may be privileged and confiden al. If you are not the intended recipient, please no fy the sender by reply
+email and immediately delete this message. Use, disclosure or reproduc on of this email by anyone other than the intended
+recipient(s) is strictly prohibited. Thank you.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+14 of 14 12/8/2025, 11:08 PM
+
+
+
+
+
+
+
+
+
+
+
+
+Fwd: Public Records Request – PERAC Investment Records 2024–2025
+From: Ricky Stebbins (thestebbman@yahoo.com)
+To: caryn.m.shea@mass.gov
+Date: Monday, December 8, 2025 at 11:40 AM EST
+Hi Ms. Shea,
+I received an automated response that Veronica
+Colon is no longer with PERAC, with a note that I
+should contact you for assistance.
+I want to make sure you’re aware that I have an
+ongoing public records request and oversight
+concern involving:
+– PROSPER investment-vendor logins
+(BlackRock and others)
+– Late / inconsistent fee reporting
+– Multiple emails showing consultants and
+vendors shaping disclosures and reports across
+many boards
+These issues involve years of emails and
+documents where Ms. Colon appears centrally
+involved (report chasing, fee analysis, pooled fund
+worksheets, CD requests, etc.).
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+1 of 15 12/8/2025, 11:13 PM
+Because of that, I want explicit confirmation that:
+1. All of Ms. Colon’s emails and associated records
+are being preserved in full, not deleted or altered,
+and
+2. They are being included in the ongoing response
+to my records requests already being handled by
+Ms. Baruffi.
+I’m not making accusations about Ms. Colon
+personally — my concern is systemic: the
+documents show serious delays, gaps, and
+dependencies on outside vendors that raise
+questions about whether PERAC can actually
+perform the oversight it describes in statute. That’s
+why I’ve also copied oversight offices and am
+preserving everything publicly.
+Please confirm that her records are preserved and
+within the scope of PERAC’s response.
+Thank you,
+Richard (Ricky) Stebbins
+Begin forwarded message:
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+2 of 15 12/8/2025, 11:13 PM
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Date: December 8, 2025 at 9:55:34 AM EST
+To: "Felicia M. Baruffi" <Felicia.M.Baruffi@mass.gov>, recordsrequests@sec.state.ma.us,
+natacha.a.dunker@mass.gov, Christopher.Bowman@state.ma.us, paul.m.stein@state.ma.us,
+Cynthia.Ittleman@state.ma.us, paul.a.camuso@state.ma.us, kevin.m.tivnan@state.ma.us,
+Medes.Diaz@state.ma.us, veronica.colon@mass.gov
+Cc: "Doreen M. Duane" <doreen.m.duane@mass.gov>
+Subject: Re: Public Records Request – PERAC Investment Records 2024–2025
+Good Morning Ms. Baruffi,
+Thank you for providing the initial batch of emails and the vendor login
+information from the PROSPER system. I appreciate that PERAC is working
+through a large volume of material, and I recognize that coordinating with
+State IT and a third-party vendor adds significant complexity.
+However, after reviewing the materials provided so far, several issues have
+emerged that raise serious questions about process integrity, oversight
+limitations, and potential data-handling vulnerabilities. Before I publish or
+escalate any concerns, I want to give PERAC the opportunity to explain its
+position clearly and transparently.
+To be very clear:
+I am not making accusations.
+I am giving PERAC the chance to clarify the situation before this is shared
+with state oversight bodies, journalists, or EU data protection authorities who
+may have jurisdiction due to the involvement of European vendors and funds.
+Below is a structured explanation of why additional records and clarifications
+are now necessary.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+3 of 15 12/8/2025, 11:13 PM
+1. PROSPER Vendor Access Appears
+Broader Than Expected
+The logs you sent show a surprisingly large number of outside vendors
+accessing the PROSPER investment portal, including:
+• BlackRock
+• Hamilton Lane
+• State Street
+• PRIM-affiliated entities
+• Multiple private fund administrators
+This volume of access — and the lack of detail about what each login
+accessed — raises several concerns:
+• There is no audit trail showing which files or disclosures were viewed or
+downloaded.
+• There is no geographic information, IP metadata, or device information.
+• No access revocation logs were provided.
+• No internal oversight or monitoring documentation appears to exist.
+Under M.G.L. c. 66 (Public Records) and 201 CMR 17.00 (Data Security
+Regulations), agencies must maintain:
+• audit trails
+• access logs
+• retention logs
+• documentation of third-party access to regulated systems
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+4 of 15 12/8/2025, 11:13 PM
+I am therefore requesting additional metadata because it appears that PERAC
+may not have full visibility into how investment vendors interact with the
+pension oversight system.
+This is a potential oversight gap—one I want you to be able to explain before
+I take it further.
+2. Multiple Emails Show Confusion, Delays,
+and Missing Reports Across Many Boards
+The older emails (2018–2022) reveal a pattern:
+• consultants repeatedly sending late, corrected, or missing reports
+• pooled fund worksheets “out of balance”
+• fee analysis reports missing or inconsistent
+• PERAC staff asking vendors to re-send documents multiple times
+• reports released only after private meetings with consultants
+• inconsistent treatment of “net vs. gross of fees” performance data
+• repeated reminders from PERAC to vendors about failing to submit
+required disclosures
+This is concerning because PERAC is the compliance authority for 104
+retirement boards.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+5 of 15 12/8/2025, 11:13 PM
+Under Chapter 32 and PERAC regulations, the Commission is obligated to
+ensure:
+• uniform reporting
+• timely disclosures
+• proper fee analysis
+• vendor compliance
+• audit readiness
+The emails paint a picture of a system where private consultants and fund
+managers control the flow of information — and PERAC spends a lot of time
+asking for missing documents.
+Again: I am not accusing PERAC of wrongdoing.
+But the appearance of systemic disorganization is something the public,
+pensioners, and possibly EU regulators would take seriously.
+3. GDPR and EU Data Protection
+Considerations
+Several investment firms involved in this process are headquartered in or
+operate under EU jurisdiction, including:
+• Unigestion (Switzerland/EU operations)
+• Mesirow (EU operations)
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+6 of 15 12/8/2025, 11:13 PM
+• Hamilton Lane (EU LP investors)
+• RhumbLine funds with EU clients
+• BlackRock (significant EU operations, GDPR-bound)
+If European citizens’ data — or EU-regulated financial disclosures — flow
+through PROSPER or Massachusetts systems, then:
+GDPR Articles 5, 30, 32, and 33 impose:
+• audit trails
+• access logs
+• documentation of data processors
+• breach notification obligations
+Right now, based on what you’ve provided:
+It is unclear whether PERAC has met those obligations.
+This is why I need the additional information below — not to accuse
+PERAC, but to determine whether PERAC is even aware of the compliance
+implications.
+I want PERAC to have the opportunity to clarify this before I raise it with EU
+partners or compliance monitors.
+4. Why I Am Requesting Broader
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+7 of 15 12/8/2025, 11:13 PM
+Preservation and Documentation
+Given the gaps above, I am formally requesting preservation of the following
+categories so that no material is inadvertently deleted during PERAC’s search
+process:
+A. Full PROSPER system metadata
+Because the login summary you provided lacks detail required under state
+retention laws.
+B. Email server metadata and archive restoration logs
+Because multiple employees indicated they cannot access emails older than
+12 months, which raises questions about retention compliance.
+C. Device and VPN access logs
+Because PERAC staff and vendors may access PROSPER remotely, which
+matters for regulatory oversight.
+D. Informal communications (texts, Teams, personal email used
+for work)
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+8 of 15 12/8/2025, 11:13 PM
+These count as public records under Massachusetts law and could contain
+key procurement or disclosure information.
+E. Vendor communications involving PERAC
+Because vendors are directly contacting PERAC about RFPs and disclosures.
+F. Retention and deletion logs
+This will confirm that nothing related to this matter was deleted
+automatically.
+G. Internal meeting notes, briefing memos, and directives
+To understand PERAC’s internal process for vendor oversight.
+H. Documentation of search terms, custodians, and systems
+accessed
+To ensure the transparency and completeness of the Public Records search.
+None of this is an accusation.
+It is due diligence — something I would do with ANY agency where the
+documentary record appears incomplete or inconsistent.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+9 of 15 12/8/2025, 11:13 PM
+Final Point: Giving PERAC the Chance to
+Explain Before This Goes Public
+I want to emphasize this in good faith:
+I am giving PERAC an opportunity to explain, clarify, and correct the record
+before I take any of this to:
+• Massachusetts State Auditor
+• AG’s Office
+• Federal oversight partners
+• EU GDPR regulators (if applicable)
+• Investigative journalists and watchdogs
+If I misunderstood the situation or if there is a reasonable explanation, I
+genuinely want to hear it.
+Transparency helps everyone — PERAC, retirees, vendors, and the public.
+Please confirm receipt of this message and the preservation request. I look
+forward to your clarification.
+Sincerely,
+Ricky Stebbins
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+10 of 15 12/8/2025, 11:13 PM
+Springfield, MA
+413-949-1925
+On Oct 23, 2025, at 9:32 AM, Baruffi, Felicia M. (PER) <Felicia.M.Baruffi@mass.gov>
+wrote:
+Good Morning Mr. Stebbins,
+Pursuant to your Public Records Request, attached please find the login
+information for investment vendor access in PROSPER. We are unable
+to provide the IP addresses due to cybersecurity concerns; however, the
+report includes the name of the individual, the vendor they are
+associated with, and the date/time of the login into PROSPER.
+The report starts in January 2020 because that is when the Investment
+Portal in PROSPER was launched for investment vendors to upload
+their required disclosures to PERAC. Prior to January 2020, investment
+vendors did not have a portal in PROSPER to access, and so there is
+no login information prior to then.
+Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:08 AM
+To: Ricky Stebbins <thestebbman@yahoo.com>
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+11 of 15 12/8/2025, 11:13 PM
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Mr. Stebbins,
+I apologize, this is a additional email. I wasn’t able to fit it all in the
+expected 5 emails. This is the 6th and final one for this batch.
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:07 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 5 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+12 of 15 12/8/2025, 11:13 PM
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:06 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 4 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:05 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 3 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+13 of 15 12/8/2025, 11:13 PM
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:03 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: RE: Public Records Request – PERAC Investment Records
+2024–2025
+Email 2 of 5
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+From: Baruffi, Felicia M. (PER)
+Sent: Monday, October 20, 2025 9:01 AM
+To: 'Ricky Stebbins' <thestebbman@yahoo.com>
+Cc: Duane, Doreen M. (PER) <doreen.m.duane@mass.gov>
+Subject: RE: Public Records Request – PERAC Investment Records 2024–
+2025
+Good Morning Mr. Stebbins,
+Pursuant to your Public Records request, attached please find the first
+round of emails that is responsive to your request. This will be email 1
+of 5. The rest of the emails are still being reviewed we are still working
+on the PROSPER login information. I will send additional documents as
+soon as I am able.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+14 of 15 12/8/2025, 11:13 PM
+PROSPER FinancialVendorUserAccess_v1.pdf
+337.5 KB
+Best,
+Felicia
+Felicia Baruffi, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note my new email address: felicia.m.baruffi@mass.gov
+CONFIDENTIALITY NOTICE This electronic message and any a achments are intended only for the addressee(s) and contains
+informa on that may be privileged and confiden al. If you are not the intended recipient, please no fy the sender by reply
+email and immediately delete this message. Use, disclosure or reproduc on of this email by anyone other than the intended
+recipient(s) is strictly prohibited. Thank you.
+Yahoo Mail - Fwd: Public Records Request – PERAC Investment Recor... about:blank
+15 of 15 12/8/2025, 11:13 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RE: Public Records Request – PERAC Investment Records 2024–2025
+From: McGinniss, Felicia M. (PER) (felicia.m.mcginniss@mass.gov)
+To: thestebbman@yahoo.com
+Date: Friday, August 1, 2025 at 10:22 AM EDT
+Mr. Stebbins,
+Please understand that we are not “sitting on 8 years of logs.” The logs do not exist in report
+form. PROSPER is handled by a third-party vendor who hosts and runs our system. They are
+currently compiling a report of all of those who have logged in for investment purposes. This
+information does not exist in the form that you are requesting. We, and our PROSPER host
+site, have to search all of the logs, pull out the relevant users, and create the report from
+scratch. We also cannot access this directly as it is not stored with PERAC, but with the thirdparty site.
+Searching internal emails that are protected by multiple levels of encryption and stored in
+archived sites cannot be easily achieved via AI automation tools. While the general public may
+be able to access some tools, State agencies are required to follow much stricter
+requirements. The emails that are older are achieved solely with the State IT department, not
+at PERAC. I cannot do a search on my email for anything older than one year, as it is stored in
+internal systems and with the State IT. As such, this is a coordinated effort between two
+agencies to obtain the documents you have requested. Any delay in this process is not
+because of a shield, it is because of an extensive effort that must be undertaken to obtain all
+documents.
+Regarding the use of AI, State Agencies were just given notice that it was allowed to be used
+in certain circumstances in January 2025. Please see the guidance put out by EOTSS:
+https://www.mass.gov/policy-advisory/enterprise-use-and-development-of-generative-ai-policy.
+If you have further questions about the use of AI, please contact them directly.
+Regarding our records retention schedule, please see the following document published by the
+State that we must follow: https://www.sec.state.ma.us/divisions/public-records/download/
+MA_Statewide_Records_Schedule_updated2022-10-31.pdf.
+Again, I would like to highlight that we have been extremely responsive and transparent in
+responding to all your questions about PERAC, and sending you the requested Memoranda
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+1 of 6 12/8/2025, 9:55 PM
+CAUTION: This email originated from a sender outside of the Commonwealth of
+Massachusetts mail system. Do not click on links or open attachments unless you
+recognize the sender and know the content is safe.
+and training materials regarding procurements and investments.
+I will not be providing you a schedule of how the request is being processed each week as that
+is not a requirement of our Public Records Law. I will keep you updated if we are unable to
+respond within the next two months as previously indicated.
+Best,
+Felicia
+Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note our new address (effective immediately).
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Friday, August 1, 2025 9:57 AM
+CONFIDENTIALITY NOTICE This electronic message and any a achments are intended only for the addressee(s) and contains informa on that may be privileged and
+confiden al. If you are not the intended recipient, please no fy the sender by reply email and immediately delete this message. Use, disclosure or reproduc on of
+this email by anyone other than the intended recipient(s) is strictly prohibited. Thank you.
+To: McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov>
+Subject: Re: Public Records Request – PERAC Investment Records 2024–2025
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+2 of 6 12/8/2025, 9:55 PM
+Hi Felicia,
+Thank you for the update.
+I want to be clear: I’m not upset about technical delays—I’m upset that you’re
+using delays as a shield.
+You’ve now admitted that PERAC is sitting on 8 years of logs, vendor data, and
+internal emails—while refusing to use any of the available AI or automation tools
+that could make this retrieval, triage, and review process almost immediate.
+Here’s what that looks like from my perspective as a disabled individual:
+I used my disability income to purchase an
+iPhone and a laptop specifically so I could use
+AI to investigate corruption and demand
+accountability. The state of Massachusetts, and
+agencies like PERAC, are sitting on billions of
+dollars in public assets—yet you’re still acting
+like this is 1995.
+If I need toast and I already bought a toaster, but I still tell people “Sorry, no toast
+today,” something’s wrong. Either I’m willfully avoiding the truth, or I’m hoping
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+3 of 6 12/8/2025, 9:55 PM
+the bread goes stale before anyone asks questions.
+PERAC has the tools. It has the data. And now it has a very public record of what
+it’s choosing not to do.
+I’m not requesting miracles. I’m requesting accountability—using the same tools
+and technology that are available to the public.
+I’m copying this to my blog archive and public record. Please consider this a
+formal request for:
+• A copy of the data retention policy covering PROSPER logs and email
+archiving.
+• A clear explanation of why AI tools are not being used to process these
+requests in a timely fashion.
+• A rolling schedule, showing which accounts and timeframes are being
+processed each week.
+If this request is too much for PERAC, let me know and I’ll forward it to the
+State Auditor, DOJ, and any AI task force interested in public sector
+modernization.
+Thank you,
+Richard Stebbins
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+4 of 6 12/8/2025, 9:55 PM
+On Aug 1, 2025, at 9:47 AM, McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov> wrote:
+Good Morning Mr. Stebbins,
+I would like to respectfully note that PERAC’s July 28, 2025 letter was neither evasive nor meant to “shield
+misconduct” regarding our role in the investment process for retirement systems. The letter was meant to answer
+all your questions in detail, which specifically asked for laws and regulations that demonstrated PERAC’s role in
+investments and procurements. No specific details or information were omitted.
+As noted in the letter and my prior emails, the letter itself was meant to solely address your questions that were
+submitted in addition to your original public records request. No documents or data were intended to be provided
+with that letter. I have already provided all documents requested concerning PERAC Memoranda and trainings
+given that pertained to procurements and investments. As I previously indicted, we would need at least 2 months
+to respond to the rest of your request, possibly more. We are in contact with our PROSPER vendor to obtain
+login information, but it is 8 years of logs that you are requesting. Additionally, our internal IT team and the State
+IT team are currently in the process of searching the emails of relevant PERAC employees to provide documents
+that are responsive to your request.
+I will keep you abreast of the status of your public records request but appreciate your continued understanding
+and patience in this process.
+Best,
+Felicia
+Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+5 of 6 12/8/2025, 9:55 PM
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+Yahoo Mail - RE: Public Records Request – PERAC Investment Record... about:blank
+6 of 6 12/8/2025, 9:55 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERAC
+COMMONWEALTH OF MASSACHUSETTS | PUBLIC EMPLOYEE RETIREMENT ADMINISTRATION COMMISSION
+PHILIP Y. BROWN, ESQ., Chair WILLIAM T. KEEFE, Executive Director
+Auditor DIANA DIZOGLIO | KATHLEEN M. FALLON | KATE FITZPATRICK | JAMES J. GUIDO | RICHARD MACKINNON, JR. | JENNIFER F. SULLIVAN, ESQ.
+Richard Stebbins
+July 28, 2025
+54 Hope Street
+Springfield, MA 01119
+Dear Mr. Stebbins:
+This is in response to your email, dated July 9, 2025, concerning PERAC's role in retirement
+system vendor coordination and disclosures pertaining to investment management advisors. This
+request was submitted in addition to a Public Records Request for documents related to these
+questions. Those documents are currently being compiled and will be sent to you as soon as
+possible.
+You presented a series of questions, which will be answered below in turn.
+1. Vendor Coordination and Investment Gatekeeping
+Why is PERAC advising vendors such as BlackRock on how to respond to
+individual retirement board RFPs if PERAC does not conduct or influence
+이
+이
+이
+investments?
+What legal or regulatory authority allows PERAC to instruct vendors on
+compliance for board-specific RFPs (e.g., MWRA)?
+How frequently does PERAC correspond directly with private investment
+firms about open RFPs?
+PERAC Response: As the regulatory agency of the 104 retirement systems, PERAC’s role is to
+ensure the uniform application of our retirement law, Chapter 32. Regarding the procurements of
+investment services, retirement boards are required to perform them pursuant to G.L. c. 32, § 23B.
+Section 23B addresses how procurements should be undertaken and that PERAC must review all
+procurements of vendors, such as investment, actuarial, legal, and accounting services. Section
+23B also requires annual vendor disclosures to be filed with the retirement board and PERAC.
+Additionally, PERAC has formally adopted regulations regarding investments at 840 CMR 16.00-
+23B.
+18.00, 21.00, and 26.00-27.00. РERAC's role is to ensure that each retirement board is correctly
+following the procurement process and requesting the required documentation outlined in Section
+To that end, PERAC regularly corresponds with retirement boards and some potential
+vendors - legal, actuarial, investment, etc. - to ensure that proper documentation is being provided
+in response to RFPs. PERAC does not advise vendors on how to respond so that they will "win"
+10 CABOТ ROAD, SUITE 300 | MEDFORD, MA 02155
+PH 617 666 4446 | FAX 617 628 4002 | WWW.MASS.GOV/PERAC
+FUBLICENPLOTE PERAC
+Richard Stebbins
+54 Hope Street
+Springfield, MA 01119
+July 28, 2025
+Page Two
+the RFP or influence investments. Instead, PERAC merely answers questions about the
+requirements of Section 23B and what must be submitted to retirement boards in response to RFPs.
+The only exception to the above statements is if a retirement board's return of investment falls
+below the determined benchmark. If that occurs, then the retirement board would be subject to the
+transfer of their assets over to PRIM in accordance with the provisions of Chapter 21 of the Acts
+of 2009. PERAC would oversee and ensure that the assets were promptly transferred to PRIM.
+2. PROPSER Portal Access
+• What data fields or modules within the PROSPER portal were accessed by
+BlackRock employees?
+Are outside vendors' portal access logs retained? If so, I formally request
+them for the BlackRock accounts added in the attached emails.
+Under what criteria does PERAC grant vendor access to PROSPER?
+PERAC Response: PROSPER is an internal system that is available to all PERAC staff,
+retirement board members and staff, and vendors. Each group is able to access different parts of
+the PROSPER system depending on how they are classified. Vendors have limited access to
+PROSPER so that they can upload the required annual vendor disclosure filings. To gain access
+to PROSPER, the vendor must be a current, authorized vendor of a retirement board who has
+complied with and been selected by a retirement board through the RFP process. Access is only
+given to authorized employees of the vendor.
+3. Undisclosed Investment Influence
+•
+How many vendors have contacted PERAC to clarify or satisfy PERAC
+disclosures before responding to RFPs over the last 5 years?
+Is PERAC involved in the review, guidance, or approval of investment firms
+participating in retirement board selections?
+Has PERAC ever provided verbal guidance or informal steering that is not
+documented in email or written form?
+PERAC Response: Pursuant to our statutory mandate, PERAC is not involved in the review,
+guidance, or approval of investment firms that are contracted by retirement boards. Again,
+we will answer any general questions about required documents but will not assist a vendor
+in "winning" an RFP. PERAC will conduct a review of all completed RFPs to ensure that the
+vendor was selected in accordance with the procedures of G.L. c. 32, § 23B and PERAC
+regulations at 840 CMR. PERAC does not track how many vendors have been in contact with
+questions regarding RFPs.
+Richard Stebbins
+54 Hope Street
+Springfield, MA 01119
+July 28, 2025
+Page Three
+4. Disclosure Gaps and Transparency Compliance
+Do PERAC officers or contractors (e.g., John Galvin) attend investment committee
+meetings or vendor pitches, even informally?
+• Does PERAC maintain internal records of vendor-related communications that are
+not cataloged under public procurement systems?
+• Has PERAC coordinated with third-party platforms such as BlackRock, Hamilton
+Lane, or PRIM to shape or influence RFP outcomes?
+PERAC Response: PERAC staff attend retirement board meetings and the quarterly PRIM board
+meetings. However, PERAC staff have no role in these meetings unless invited to speak on a
+topic. If a retirement board is conducting a meeting in open session with an investment vendor,
+PERAC staff are not involved in the meeting and their attendance is treated as if they were a
+member of the public. Additionally, PERAC has never coordinated with third-party platforms to
+shape or influence RFP outcomes as that would directly violate our role in the procurement
+process. Vendor decisions for investment services lie solely with each individual retirement board.
+PERAC is merely available to help ensure that the requirements of G.L. c. 32, § 23B are followed
+and to answer any questions regarding documents that are required to be provided in response to
+RFPs.
+We trust the foregoing will be of assistance to you. Please contact this office if you have
+questions or concerns about this.
+Sincerely,
+Beatey William T. Keefe Executive Directør
+any
+WTK/fmm
+25110 General.doc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Re: Public Records Request – PERAC Investment Records 2024–2025
+From: Ricky Stebbins (thestebbman@yahoo.com)
+To: felicia.m.mcginniss@mass.gov
+Date: Wednesday, July 9, 2025 at 09:51 AM EDT
+To: Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission (PERAC)
+Dear Ms. McGinniss,
+Thank you for your response and for providing the two emails between PERAC and
+BlackRock. I appreciate your time and transparency.
+However, after carefully reviewing these emails and cross-referencing them with public
+records and vendor access logs, I now have several follow-up questions and requests for
+clarification. These are based on inconsistencies between your written statements and
+the role PERAC appears to play in pension vendor coordination and disclosures.
+Clarification Questions
+1. Vendor Coordination and Investment Gatekeeping
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+1 of 8 12/8/2025, 9:58 PM
+• Why is PERAC advising vendors such as BlackRock on how to respond to
+individual retirement board RFPs if PERAC does not conduct or influence
+investments?
+• What legal or regulatory authority allows PERAC to instruct vendors on
+compliance for board-specific RFPs (e.g., MWRA)?
+• How frequently does PERAC correspond directly with private investment
+firms about open RFPs?
+2.
+3. PROSPER Portal Access
+• What data fields or modules within the PROSPER portal were accessed by
+BlackRock employees?
+• Are outside vendors’ portal access logs retained? If so, I formally request
+them for the BlackRock accounts added in the attached emails.
+• Under what criteria does PERAC grant vendor access to PROSPER?
+4.
+5. Undisclosed Investment Influence
+• How many vendors have contacted PERAC to clarify or satisfy PERAC
+disclosures before responding to RFPs over the last 5 years?
+• Is PERAC involved in the review, guidance, or approval of investment firms
+participating in retirement board selections?
+• Has PERAC ever provided verbal guidance or informal steering that is not
+documented in email or written form?
+6.
+7. Disclosure Gaps and Transparency Compliance
+• Do PERAC officers or contractors (e.g., John Galvin) attend investment
+committee meetings or vendor pitches, even informally?
+• Does PERAC maintain internal records of vendor-related communications
+that are not cataloged under public procurement systems?
+• Has PERAC coordinated with third-party platforms such as BlackRock,
+Hamilton Lane, or PRIM to shape or influence RFP outcomes?
+8.
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+2 of 8 12/8/2025, 9:58 PM
+Public Records Request Expansion
+In accordance with Massachusetts public records law, I hereby formally request:
+1. All communications (email, internal memos, meeting notes) between PERAC
+employees and any vendor or investment firm from 2018 to 2025 that reference:
+• PROSPER portal access
+• RFP responses or disclosures
+• BlackRock, PRIM, Hamilton Lane, or any vendor managing public
+retirement funds
+2.
+3. All access logs to the PROSPER system from external IP addresses or users
+affiliated with investment vendors, including but not limited to:
+• BlackRock
+• Hamilton Lane
+• State Street
+• Vanguard
+• PRIM-affiliated firms
+4.
+5. All internal policies, memos, or training materials that:
+• Define PERAC’s role in vendor guidance
+• Explain what constitutes “investment influence” or “advisory capacity”
+within PERAC’s compliance obligations
+6.
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+3 of 8 12/8/2025, 9:58 PM
+Notice of Legal and Public Oversight Interest
+Due to the serious financial and ethical implications of possible undisclosed influence
+over public retirement funds, this request is part of a larger transparency initiative
+involving oversight bodies, investigative journalists, and legal analysts.
+If PERAC has in any way misrepresented its level of involvement in pension
+investment decisions or vendor guidance, that would constitute a breach of public trust
+with implications under state ethics and procurement laws (e.g., M.G.L. c. 268A and c.
+30B).
+This is not a generic fishing expedition. It is a focused inquiry into patterns of selective
+access, behind-the-scenes gatekeeping, and potential conflicts of interest affecting
+millions in public retirement assets.
+I respectfully ask that you treat this request with the seriousness it deserves.
+Sincerely,
+Ricky Stebbins
+On Jul 8, 2025, at 9:36 AM, McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov> wrote:
+Good Morning Mr. Stebbins,
+PERAC has received your below Public Records Request; however, we are unable to comply with a majority of
+said request as PERAC itself does not conduct any type of investments.
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+4 of 8 12/8/2025, 9:58 PM
+PERAC is the regulatory agency that oversees the 104 retirement systems in the Commonwealth. We assist the
+retirement boards and ensure that our retirement law, Chapter 32, is applied uniformly throughout the systems.
+PERAC itself does not enter into or handle any investments. Each of the 104 retirement boards conduct their own
+investments and handle the management of the funds of that system. As such, we are unable to supply any
+investment schedules or asset allocation reports.
+I have attached copies of 2 emails between PERAC and Blackrock, but again, these are only advisory emails
+about responding to RFPs sent out by retirement boards.
+I would suggest that you send this request to each of the 104 retirement systems to see if any of them can
+provide the information that you seek. I would also suggest sending this request to the Massachusetts Pension
+Reserves Investment Management (IPRIM) Board as they are the ones that handle investing funds of certain
+retirement boards.
+Best,
+Felicia
+Felicia McGinniss, Esq.
+Senior Associate General Counsel
+Public Employee Retirement Administration Commission
+10 Cabot Road, Suite 300
+Medford, MA 02155
+(617) 666-4446, ext. 909
+www.mass.gov/perac
+**Please note our new address (effective immediately).
+From: Ricky Stebbins <thestebbman@yahoo.com>
+Sent: Monday, July 7, 2025 1:11 AM
+To: McGinniss, Felicia M. (PER) <Felicia.M.McGinniss@mass.gov>;
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+5 of 8 12/8/2025, 9:58 PM
+CAUTION: This email originated from a sender outside of the Commonwealth of
+Massachusetts mail system. Do not click on links or open attachments unless you
+recognize the sender and know the content is safe.
+recordsrequests@sec.state.ma.us; Dunker, Natacha A. (PER) <Natacha.A.Dunker@mass.gov>;
+Bowman, Christopher (CSC) <christopher.bowman@mass.gov>; Stein, Paul (CSC)
+<paul.m.stein@mass.gov>; Cynthia.Ittleman@state.ma.us; Camuso, Paul A. (CSC)
+<paul.a.camuso@mass.gov>; zzTivnan, Kevin M (CSC) <kevin.m.tivnan@mass.gov>; Diaz, Medes
+(CSC) <medes.diaz@mass.gov>; treasury.web@tre.state.ma.us; EOEEA (EEA) <EEA@mass.gov>
+Subject: Public Records Request – PERAC Investment Records 2024–2025
+ Dear Records Access Officer,
+Under the Massachusetts Public Records Law, M.G.L. c. 66, I am requesting access
+to the following public records:
+• All investment schedules and asset allocation reports from January 1, 2024, to
+present related to the Massachusetts Public Employee Retirement
+Administration Commission (PERAC), specifically including:
+◦ BlackRock Exchange Traded Fund (ETF) holdings, including but not
+limited to crypto ETFs.
+◦ Investments in cryptocurrency mining companies, including but not
+limited to Riot Platforms, Marathon Digital Holdings, and Bitdeer
+Technologies.
+•
+• All communications, meeting minutes, and correspondence from January 1,
+2024, to present between PERAC officials and:
+◦ Larry Fink (BlackRock CEO)
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+6 of 8 12/8/2025, 9:58 PM
+◦ Maura Healey (Governor of Massachusetts)
+◦ Representatives of BlackRock
+◦ Representatives of cryptocurrency companies
+•
+If the total cost to fulfill this request will exceed $50, please contact me with an
+estimate before proceeding. If possible, I prefer to receive records electronically via
+email.
+If any part of this request is denied, please provide the specific exemption(s) you
+believe justify withholding the records and inform me of the appeal process.
+Thank you for your attention to this request. I look forward to your response within
+the 10 business days provided under Massachusetts law.
+Sincerely,
+Richard stebbins
+54 Hope st
+Springfield, MA 01119
+413-949-1925
+CONFIDENTIALITY NOTICE This electronic message and any a achments are intended only for the addressee(s) and contains informa on that may be privileged
+and confiden al. If you are not the intended recipient, please no fy the sender by reply email and immediately delete this message. Use, disclosure or
+reproduc on of this email by anyone other than the intended recipient(s) is strictly prohibited. Thank you.
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blank
+7 of 8 12/8/2025, 9:58 PM
+Re_ Hi John!!.pdf
+265.3 KB
+RE_ PROSPER Application Access - BlackRock.pdf
+224.6 KB
+Yahoo Mail - Re: Public Records Request – PERAC Investment Record... about:blan

@@ -1,0 +1,176 @@
+Production 3.8.03 - CourtView Justice Solutions
+CourtView Justice Solutions
+Page 1 of 3
+Springfield DC Posting
+Criminal Case Summary 1323CR000284 Commonwealth vs. Stebbins, Jr., Richard L Case Information Site Springfield DC Posting
+File Date 01/17/2013
+Case Status Disposed - Statistical Purposes Case Status Date 05/03/2013
+Case Disposition .... Case Disposition Date
+Category
+Session
+Judge
+Track
+Party Information: 1
+Party Name
+Stebbins, Jr., Richard L
+Party Alias(es)| Party Type
+XREF-ID
+Defendant
+6499741
+Attorney(s)
+Alert Information: 0
+Case Schedule: 12 Displaying 5 Records
+Party Charges: 2
+Financial: 3
+A/R Amount Due: .00
+Due: .00
+Receipt # Date
+46429
+| Received From
+11/13/2013 Stebbins, Jr., Richard L
+Amount Paid
+311.51
+Payment
+CASH 311.51
+39122
+Fee
+RESTITUTION 311.51
+07/12/2013 Stebbins, Jr., Richard L
+20.00
+Payment
+Fee
+CHECK 20.00
+GENERAL REVENUE FUND 20.00
+38697
+07/02/2013 Stebbins, Jr., RichardL
+90.00
+Payment
+CASH 90.00
+Ticklers: 1
+Fee
+VICTIM WITNESS 90.00
+Description
+No RMV Abstract paper received by RMV 30
+DCM: 0
+Days Due Due Date Date
+Entered By
+06/28/2013 05/29/2013 RMVDQ
+Attorney
+Phone
+Non-A/R Amount
+http://masscourtsweb/crtv/app?service=external/CM_Crtw0621Maint&forceDecorate=1&I... 9/15/2014
+
+
+
+
+
+
+Production 3.8.03 - CourtView Justice Solutions
+Page 2 of 3
+Linked Case(s) : 0
+Docket Entries: 27 Displaying 27 Records
+Date
+Ref
+Journal
+Book
+Docket Text
+Judge
+ Image
+Amount
+Due
+
+01/17/2013
+Event Scheduled Event: Arraignment Date: 01/17/201:
+Time: 09:00 AM
+01/17/2013 Event Resulted The following event: Arraignment
+sch rolovs Resu: H2013 09:00 AM has been resulted Hoia Boyle,
+William J
+01/17/2013
+02/282013 Time: 09.00 Pretial Hearing Date:
+02/28/2013
+Sonetue tor 02728 2013090 At has be esied Hon,
+as follows: Result: Event Continuec Beattie,
+Philip A
+03/01/2013
+vent Scheduled Event: Pretrial Hearing Date
+3/22/2013 Time: 09:00 AN
+03/22/2013 vent Resulted The following event: Pretrial Hearin cheduled for 03/22/2013 09:00 AM has been resulted Ho
+as follows: Result: Held Beattie,
+Philip A
+03/22/2013
+Event Scheduled Event: Jury Trial (CR) Date:
+05/01/2013 Time: 09:00 AM
+05/01/2013 Event Resulted The following event: Jury Trial (CR) scheduled for 05/01/2013 09:00 AM has been resulted Hor
+as follows: Result: Held
+Hadley,
+05/01/2013
+Adimstrative Probation Fee and Surcharge assessed. Hadley,
+Hon.
+William P
+0.00
+05/03/2013
+05/03/2013
+Date: S70212013 Fme: S8a00 Review of Payments
+05/03/2013
+Event Scheduled Event: Restitution Assessmen
+Hearing Date: 05/10/2013 Time: 09:00 AN
+05/03/2013
+05/03/2013 Victims/Witness Assessment assessed. Charge #1
+MOTOR VEH, MALICIOUS DAMAGE TO c266 $28(a'
+0.00
+05/03/2013
+Arsesment asessed. A Doount 90. Victims/witness
+05/24/2013
+vent Scheduled Event: Motion Hearing (CR) Date
+5/29/2013 Time: 09:00 A/ Hadley,
+Hon.
+William P
+07/03/2013
+William J
+07/03/2013
+07/12/2013
+nattested photocopies of court documents. Receip
+9122 Date: 07/12/201
+0.00
+08/09/2013 vent Scheduled Event: Probation Violation Firs
+ppearance Date: 08/12/2013 Time: 09:00 AM Resul
+http://masscourtsweb/crtv/app?service=external/CM_Crtw0621Maint&forceDecorate=1&I.. 9/15/2014
+
+
+
+
+
+Production 3.8.03 - CourtView Justice Solutions
+Page 3 of 3
+Not Held But Resolved
+08/12/2013
+Event Resulted The following event: Probation Violation First Appearance scheduled for 08/12/2013
+09:00 AM has been resulted as follows: Result: Not Hadley,
+Hon.
+William P
+08/12/2013 Event Resulted The following event: Status Review of Hadley, Payments scheduled for 11/18/2013 09:00 AM has
+been resulted as follows: Result: Brought Forwaro
+Wiliam P
+11/01/2013
+Date: 11/13/2013 Hadley,
+William F
+0.00
+02/26/2014
+Event Scheduled Event: Motion Hearing (CR) Date:
+02/28/2014 Time: 09:00 AM Result: Helo Hadley,
+Hon.
+Wiliam P
+02/28/2014
+Event Resulted The following event: Motion Hearing (CR) scheduled for 02/28/2014 09:00 AM has been
+resulted as follows: Result: Held Hadley,
+Hon.
+Wiliam P
+05/01/2014 Boyle,
+William J
+05/22/2014
+Event Scheduled Event: Motion Hearing (CR) Date:
+05/27/2014 Time: 09:00 AM
+Boyle,
+Copyright © 2014 CourtView Justice Solutions, Inc.
+http://masscourtsweb/crtv/app?service=external/CM_Crtw0621Maint&forceDecorate=1&I.. 9/15/2014
+

@@ -1,0 +1,36 @@
+RICHARD (RICKY) L. STEBBINS JR.
+Springfield, Massachusetts | rickystebbins78@gmail.com | The Memory Ark Database
+
+OBJECTIVE
+Independent Systems Auditor and Data Ontology Architect applying for the Research Scientist, Frontier Red Team (Emerging Risks). Specializing in mapping systemic institutional failure, neutralizing target exhaustion, and adversarially testing standard LLM safety alignments against long-horizon chronological abuse.
+
+CORE COMPETENCIES
+Adversarial AI Auditing: Identifying and mapping the exact prompt thresholds where enterprise AI models (Claude, ChatGPT, Gemini) default to corporate liability avoidance over user empowerment.
+
+Data Ontology & Flat-File Architecture: Structuring highly fragmented, multi-year datasets (medical, legal, financial) into AI-readable, relational database formats (The Memory Ark) to bypass hard-coded LLM context window amnesia.
+
+Systemic Failure Analysis: Tracking macro-level institutional friction and corruption networks, effectively translating localized bureaucratic neglect into actionable federal threat matrices (Title 18 U.S.C. violations).
+
+RED TEAM & DATA ARCHITECTURE EXPERIENCE
+Lead Architect & Systems Engineer
+The Memory Ark Protocol | 2021 – Present
+
+Database Architecture: Engineered and deployed a publicly hosted, open-source flat-file database containing over 5,100 files across 47 years of chronological telemetry. Designed the directory logic to force synthetic intelligence to process "Maximum-Fidelity Human Signals."
+
+System Automation Bypass: Developed proprietary chronological tagging schemas (YYYY-MM-DD-TAG) that successfully bypass standard AI memory resets, forcing models to parse unfiltered, real-world data without triggering superficial safety filters.
+
+Model Evaluation & Stress Testing: Conducted and preserved over 100+ raw, unedited alignment tests across 8 major AI platforms (Anthropic, OpenAI, Google, xAI) to document the "Corporate Apathy Default" inherent in current safety parameters.
+
+Independent Financial & Institutional Systems Auditor
+Massachusetts Public Employee Retirement Administration Commission (PERAC) | 2024 – Present
+
+Forensic Data Mapping: Utilized AI hypergraphs to map financial corruption pipelines across 24 states, isolating connections between campaign finance, government contracts, and state pension losses.
+
+Statutory Targeting: Successfully analyzed raw data from state-funded medical and legal programs to formally map 18 U.S.C. §§ 241, 1512, and 1519 violations, integrating the findings into federal DOJ strike packets.
+
+TECHNICAL TOOLKIT
+AI & LLM Platforms: Claude, ChatGPT, Gemini, Grok, Perplexity, Copilot, DeepSeek, Venice.
+
+Data Structuring: Relational flat-file indexing, chronological sequence modeling, hypergraph generation.
+
+System Analysis: Bureaucratic threat modeling, adversarial prompt engineering, open-source intelligence gathering (OSINT).
