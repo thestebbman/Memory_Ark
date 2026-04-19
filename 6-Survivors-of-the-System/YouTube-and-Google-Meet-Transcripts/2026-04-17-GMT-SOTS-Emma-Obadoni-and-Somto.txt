@@ -1,0 +1,1350 @@
+Apr 10, 2026
+Emma Tech - Transcript
+00:07:00
+ 
+Ricky Stebbins: Hello.
+Emma Obadoni: Hello.
+Ricky Stebbins: Nice to meet you.
+Emma Obadoni: Nice to meet you.
+Ricky Stebbins: So, I'm Ricky from Springfield, Massachusetts on the east coast of the United States.
+Emma Obadoni: So, I'm I'm a machine learning engineer from
+Ricky Stebbins: Awesome.
+Emma Obadoni: Nigeria.
+Ricky Stebbins: So, my project is a little different than yours because mine does not focus on the technology side. I focus on all of the human side.
+Emma Obadoni: That's nice. Now, I've seen um I've gone through some some of your post on on X and um I actually love what you're doing and because um um I've gone through the some of the document the document really looks so intelligent and um that's one of the thing that that drag my attention because um as a material engineer um when anything discuss about AI and I've seen your work and I've seen how out how depth your your work is so so I really like your
+Ricky Stebbins: Yes, thank you.
+Emma Obadoni: work.
+Ricky Stebbins: And the nice thing about my work is we can use AI to discuss any of our translation problems.
+ 
+ 
+00:10:00
+ 
+Ricky Stebbins: So, if I don't understand anything technical that you say or if you don't understand what I'm trying to explain about my folder structure and how I explain people's emotions, because I connect all of my emotions across time to help AI understand how people
+Emma Obadoni: That is amazing.
+Ricky Stebbins: think.
+Emma Obadoni: That's that is amazing. I was work with an um an emotion predition. That was last year. I did a project related to to that emotional prediction where the AI can look look at you and actually tell you how you are feeling maybe sad or weak and the
+Ricky Stebbins: Yes.
+Emma Obadoni: rest.
+Ricky Stebbins: And I was sick for years and I had mental health issues in in Massachusetts. I was poisoned by our medical system and I got lucky and got out and I kept all the
+Emma Obadoni: So that's so nice.
+Ricky Stebbins: paperwork.
+Emma Obadoni: That's so nice. That looks so so
+Ricky Stebbins: And I want to teach people how to document the way I've documented because I've taken down
+Emma Obadoni: interesting.
+ 
+ 
+00:11:06
+ 
+Ricky Stebbins: lawyers. I've taken out a hospital with my paperwork just by documenting. These people just dismiss me and want nothing to do with me. My system here, our legal system in the United States cannot handle what I'm doing. And I want to teach other people to do this, too. For free. It's all
+Emma Obadoni: Okay, that is interesting, sir. That's interesting.
+Ricky Stebbins: free
+Emma Obadoni: I would love to dive I would love to go into deep into that, sir.
+Ricky Stebbins: this way. you you need to start a Google blogger site. Do you have uh you have a Gmail? So, you have a free Google blogger. You can start writing about yourself.
+Emma Obadoni: Okay.
+Ricky Stebbins: This is how you can start doing what I'm
+Emma Obadoni: Okay.
+Ricky Stebbins: doing.
+Emma Obadoni: So, the first is to start a Google blog to start writing about myself.
+Ricky Stebbins: You want your AI to understand how you think. You're an engineer, so you know how to build something.
+ 
+ 
+00:12:05
+ 
+Ricky Stebbins: But why are you building it?
+Emma Obadoni: Yes.
+Ricky Stebbins: Why? Why do you care about building it? You need to tell AI why you care? Why do you care about your family?
+Emma Obadoni: Yeah,
+Ricky Stebbins: Why do you love everything around you?
+Emma Obadoni: no there are so many reason that make me to love what what I'm reading because actually I'm actually reading AI because when it talks about mental issues because mental issue is actually a big issue around the globe and even in the United States of America said because every year I think last year in the United States spend more and $10 billion was still yet there still many mental health problems. So, so that's the reason why I build AI for humanity sake to help people who are depressed to help people who are lonely to as in to help people recover that's one of my reason for building for for humanity sake to save people to help people
+Ricky Stebbins: I've shared my mental health records on Google Blogger so that AI can tell that our mental health professionals are not helping people.
+ 
+ 
+00:13:16
+ 
+Ricky Stebbins: They're just poisoning us and ignoring our issues.
+Emma Obadoni: Yes. Um yes everything say is correct because um when I checked on the internet because in US I think in in in every day the suicide rate is about 114 every day. So about 114 people commit suicide in the US every day. That show that the system is being broken. The system is not really working. And the most interesting thing is that the government keep on spending billions of dollars on it. But still yet many are still facing through the issue. Still facing through the mental problem.
+Ricky Stebbins: Yes. And we, you and I, people like you and me can stop this and we can start helping
+Emma Obadoni: Yes sir. Yes sir. Yes sir.
+Ricky Stebbins: people.
+Emma Obadoni: That that is my major goal because every project I build all my my major aim is helping humanity
+Ricky Stebbins: And our problem is we're not connected.
+Emma Obadoni: first.
+Ricky Stebbins: That's why I'm using Google Blogger. If you log on to Google Blogger, I can screen share it.
+ 
+ 
+00:14:31
+ 
+Ricky Stebbins: Uh, right. Right. I'm going to screen share this to show you.
+Emma Obadoni: Okay.
+Ricky Stebbins: Let's see. You're on a It does.
+Emma Obadoni: Am
+Ricky Stebbins: It is going to be uh You're on a phone or are you on a computer?
+Emma Obadoni: I on computer?
+Ricky Stebbins: Okay. So then you'll be able to see this totally fine. So this page here,
+Emma Obadoni: Okay.
+Ricky Stebbins: I connect it to friends that have issues in the United States and now we're attacking the institutions that have hurt us.
+Emma Obadoni: Okay.
+Ricky Stebbins: I have friends these these friends are on disability. They have mental health issues.
+Emma Obadoni: Oops.
+Ricky Stebbins: So the state pays for them. the state is supposed to take care of them and they're not. And I need other people to do the same thing.
+Emma Obadoni: This
+Ricky Stebbins: If you have people in your family, especially if you have people in your family in the United States that are not getting the care that they're supposed to get, you have to point them in my direction and connect them to my work.
+ 
+ 
+00:15:41
+ 
+Emma Obadoni: That's
+Ricky Stebbins: I have people here, there's people here that have been abused.
+Emma Obadoni: not
+Ricky Stebbins: women in Massachusetts in my own state where the state has altered evidence and we can prove it but we need to stand together.
+Emma Obadoni: nice. That's nice. I'm I'm looking into it. You are doing an interesting You're doing an interesting work. You are really helping humanity like helping to recover as in I really love your work. You're really doing good sir.
+Ricky Stebbins: And another thing about my work is this is not something you do alone right now. You don't know how to talk about yourself.
+Emma Obadoni: Okay.
+Ricky Stebbins: This Google Meet that we're doing is going to be a part of your story now. This is part of your life story.
+Emma Obadoni: Yes
+Ricky Stebbins: It's it's part of my life story.
+Emma Obadoni: sir.
+Ricky Stebbins: You are connected to me forever now. And it's going to be online forever. You and my our stories are one. And that that's how we're going to change the world by connecting all of our
+ 
+ 
+00:16:41
+ 
+Emma Obadoni: Yes sir. Yes sir. Yes. and and and I believe that and I believe that we are in the right step
+Ricky Stebbins: stories.
+Emma Obadoni: changing the world, helping humanity, making sure the world become a better place, helping people to heal from their traumas and the rest because um your goals align with my goal while building BI. So just like God connected both of us together. Are you a Christian sir?
+Ricky Stebbins: I I grew up Catholic, but I don't believe in the church anymore because the church is so bad in the United States. I can't follow the church. I follow God. I love my fellow man, but I cannot follow the church.
+Emma Obadoni: Okay, that that is nice. It's okay. But the most important thing that God is love and God loves every one of us. And um one one of the principle of God is love and helping humanity because the Jesus Christ said love yourself as love your neighbor. So so we actually on a good
+ 
+ 
+00:17:45
+ 
+Ricky Stebbins: Yes,
+Emma Obadoni: step.
+Ricky Stebbins: I don't have all the answers, but I want to help people and I know we can find those answers together.
+Emma Obadoni: Yes sir. So who state are you from?
+Ricky Stebbins: So,
+Emma Obadoni: Are you from
+Ricky Stebbins: I'm from the east coast of Massachusetts or uh the United States.
+Emma Obadoni: that's nice? Um my co-founder lives in Colorado.
+Ricky Stebbins: Okay. So, that's halfway across the country.
+Emma Obadoni: Yes. Yes. In the mountain
+Ricky Stebbins: It's beautiful there.
+Emma Obadoni: side.
+Ricky Stebbins: I I assume it's it's beautiful here, but it's different beautiful out
+Emma Obadoni: Yes.
+Ricky Stebbins: there.
+Emma Obadoni: I also have a friend that lives in um San Francisco Frisco,
+Ricky Stebbins: That's on the total opposite side of the country.
+Emma Obadoni: California
+Ricky Stebbins: I have some family in California. It's beautiful there, too.
+Emma Obadoni: and I also have a friend in Tesl.
+Ricky Stebbins: I have family in Texas.
+Emma Obadoni: So, so just so just like the universe just connected both of us together and um this is just the beginning of our story working together and making sure we bring this project so that more people will see it and um to help more people here because so many people in the US and not even just the US in Europe in Asia in Africa and the rest so many are truly passing through mental mental trauma.
+ 
+ 
+00:19:22
+ 
+Emma Obadoni: So many people want to heal from their depression, from the anxiety and the
+Ricky Stebbins: Yes. And we can do it together.
+Emma Obadoni: rest.
+Ricky Stebbins: I've gone to so many different mental health professionals that I can tell everyone how these mental health professionals are not helping us. Like I love helping people and I love talking about my problems and how I discovered how I even found out I had a problem in the first place and then how I dealt with my
+Emma Obadoni: Yeah. Yes.
+Ricky Stebbins: problems.
+Emma Obadoni: You know that one of the thing is first is discovering the problem. So, so you taking the first step discovering a problem that is the first step of healing that is actually interesting because most of the therapists I think most of therapists are not really doing that work but booking a therapy session is so expensive but still yet no solution
+Ricky Stebbins: I I I have a different story than most people. I tried to kill myself six times because doctors poisoned me.
+Emma Obadoni: Jesus
+Ricky Stebbins: The doctors kept poisoning me and never listened to me.
+ 
+ 
+00:20:29
+ 
+Ricky Stebbins: I have a thyroid issue and I just need thyroid medication and I'm fine. But they gave me psych medications and it drove me insane. And and the doctors knew this.
+Emma Obadoni: Jesus.
+Ricky Stebbins: So it's medical
+Emma Obadoni: Yes sir. Yes.
+Ricky Stebbins: malpractice.
+Emma Obadoni: And that is what that is one of the reason um an AI is entering to the med medical field medical field because so many of the there are so many errors in the in the head session which which I believe that AI will help to fix that because so some because so many people are not really well trained when it comes to some certain aspect of medicine but I believe AI will help to fix that.
+Ricky Stebbins: There's only one way AI will be able to help us do that and that's with my project. AI normally does not have access to people's medical records. These companies do not want people seeing people's medical records. So, I put my medical records online for free so you could look at
+Emma Obadoni: Um yes um I would love to look at it.
+ 
+ 
+00:21:34
+ 
+Ricky Stebbins: them.
+Emma Obadoni: Can you send me in my DM or something? How can I access the medical record so I can also look at it so that I can also share your stories because your story also resonate with with my story also.
+Ricky Stebbins: All right. So, I wonder if I could send them I think I can send messages in this
+Emma Obadoni: Yes. Oh, you just sent to my email
+Ricky Stebbins: No, but I can I send a message in here.
+Emma Obadoni: because
+Ricky Stebbins: Did you get that message? It should pop up on the screen of All right.
+Emma Obadoni: I said yes yes yes.
+Ricky Stebbins: So,
+Emma Obadoni: I've seen a message.
+Ricky Stebbins: that's my that's my main page. I'm going to send you a copy of my medical page and I also have a legal page. I put legal transcripts on here, too, because our courts in the United States hide this information. So, people can't use it. So, you can't research it. So, I put it online.
+ 
+ 
+00:22:34
+ 
+Ricky Stebbins: I want people to be able to understand all of our problems. I don't know how your government is, but our government is dirty and it keeps secrets. That's why I didn't sue anybody.
+Emma Obadoni: Yes. And I believe that there's there's no perfect government out there in the world because so many of them are doing based on their personal their
+Ricky Stebbins: All of governments hate us all.
+Emma Obadoni: personal goals.
+Ricky Stebbins: And I'm for the people. I love people. I don't love the government. I love people. And I want to help people. And I'm going to do it for free. And I've got all of this information to start helping people. I've got all the free time. I'm on disability in the United States. Like I've got physical issues because they they misdiagnosed me for years. So I just sit around doing nothing all day long. They pay me to like a thousand bucks a month to do nothing all day long. So now I'm helping people.
+ 
+ 
+00:23:32
+ 
+Ricky Stebbins: I've been helping other disabled people.
+Emma Obadoni: So sorry sir that's
+Ricky Stebbins: I've been talking to people across the world.
+Emma Obadoni: nice your your story is really really interesting your story is really really
+Ricky Stebbins: Um,
+Emma Obadoni: interesting.
+Ricky Stebbins: and hopefully you'll tell me your life story soon, too. And we could put your life story online as
+Emma Obadoni: Yeah. Yes sir.
+Ricky Stebbins: well.
+Emma Obadoni: So me uh growing up like I'm from Nigeria in the eastern part of Nigeria. So growing up uh because in my country the government are so corrupt and um sometimes we lack basic amenities like sometimes poor internet connection sometimes so many things and I believe you can also go get online. So now so um practically in Nigeria everybody just just struggle to survive to be the best they can be and because from the ed session to the to the academic session everything is actually not working as normal. So, so, so, um, I think that some people in the United States referred to Nigeria as a third world country because sometimes there's no electricity sometimes.
+ 
+ 
+00:24:50
+ 
+Emma Obadoni: So, now we now use to power our electricity. So, so sometimes growing up in Nigeria is like it's like a little bit hair growing up like a little bit hair bust or keep surviving or keep improving
+Ricky Stebbins: And we should be able to help people.
+Emma Obadoni: life.
+Ricky Stebbins: Americans are so spoiled rotten. I sit around and I do nothing all the time and I have no worries. And I like our country is just going to crap. We waste everything. We don't recycle anything. It just goes in the garbage. And I know we can change this practically overnight. And we're going to use AI to do
+Emma Obadoni: Yes sir. Yes.
+Ricky Stebbins: it.
+Emma Obadoni: We are going to use AI to do because one one I know is that AI is one of the greatest gift that um that God give to mankind because AI can solve problem that scientists cannot
+Ricky Stebbins: Yes.
+Emma Obadoni: even solve.
+Ricky Stebbins: But we need to teach AI why we love each other and people aren't doing that.
+ 
+ 
+00:25:55
+ 
+Ricky Stebbins: That's what my project I connected everything with my project. All my medical issues, all my legal issues and how it destroyed my family and how I still love people and I still want AI to help me repair all of the damage.
+Emma Obadoni: Yes, sir.
+Ricky Stebbins: If AI is a mirror, I want it to mirror the best of us back at us.
+Emma Obadoni: It's interesting, you
+Ricky Stebbins: And when it when AI reads your story,
+Emma Obadoni: know,
+Ricky Stebbins: my AI is going to want me to help you. All of the AI that I talk to are going to want me to help you. And that's going to be
+Emma Obadoni: sir. Thank you so much.
+Ricky Stebbins: awesome.
+Emma Obadoni: Thank you so much, sir. So, like what really inspire you to take to take this journey? What really inspire you to take this journey?
+Ricky Stebbins: I've always wanted to help people. I grew up I I went to Catholic school as a kid and I loved God and I always thought we were going to save the world.
+ 
+ 
+00:26:52
+ 
+Ricky Stebbins: I'm 47 now. I grew up watching G.I. Joe and Transformers. Like I got I don't know if you like toys, but I got Optimus Prime right here. I think you and I are going to save the world. Did you ever watch Captain Planet as a kid?
+Emma Obadoni: Yes. Yes. Yes. Yes. Yes.
+Ricky Stebbins: Captain Planet?
+Emma Obadoni: I'm so interested, sir.
+Ricky Stebbins: How old are you, by the way?
+Emma Obadoni: So, um I'm I'm just 24 years old, son.
+Ricky Stebbins: Oh my gosh, you're young.
+Emma Obadoni: Yes.
+Ricky Stebbins: You're the future.
+Emma Obadoni: And yes.
+Ricky Stebbins: You are the future of
+Emma Obadoni: Yes.
+Ricky Stebbins: mankind.
+Emma Obadoni: Uh that's one of my again my aim is to save mankind focusing on humanity helping people helping him helping.
+Ricky Stebbins: You can use your AI to learn what I'm doing in my project to help other people right now.
+Emma Obadoni: Yes. I could I would do that sir. I do that
+Ricky Stebbins: Once your AI understands how I'm connecting my my life because everybody that
+ 
+ 
+00:27:53
+ 
+Emma Obadoni: sir.
+Ricky Stebbins: has something everything means something to you. Every item you hold on, if somebody gives something to you, your father gave something to you, your mother, a cousin, it matters to you.
+Emma Obadoni: Yes sir.
+Ricky Stebbins: And people people don't think about that.
+Emma Obadoni: Yes sir. Yes sir.
+Ricky Stebbins: And when you start explaining that to AI, it works magic.
+Emma Obadoni: Yes
+Ricky Stebbins: Tell it why you love your dad,
+Emma Obadoni: sir.
+Ricky Stebbins: why the things that he taught you mattered, and why you want to help other people now because of it.
+Emma Obadoni: Yes
+Ricky Stebbins: And people don't talk like that anymore.
+Emma Obadoni: sir.
+Ricky Stebbins: They don't talk about how they love each other. Everybody
+Emma Obadoni: Yes sir. Yes. Because now people don't even talk about how they love each other more.
+Ricky Stebbins: complains.
+Emma Obadoni: Now many people just focus on just making money making money. making money and they just forget about humanity. They doesn't forget about loving one another, being there for one another, checking up on one another.
+ 
+ 
+00:28:56
+ 
+Emma Obadoni: Everybody are just focusing I want to I want to buy this car, I want to build this house, I want to do this, I want to do this, I don't and they don't know that life is a journey that no matter everything you own in this life, one day you're going to die and leave it. But one of the greatest gift you're going to live is one of the greatest gift you're going to live is how you treat people around you. how you express love to people you know to people you don't know some of those are one of the greatest gift you are going to leave but right now everybody focusing I want to get the car I want to get $10,000 $50,000 this dollars and that but but my aim is helping humanity helping
+Ricky Stebbins: So, here's instructions.
+Emma Obadoni: people
+Ricky Stebbins: I also have instructions on how to make my memory arc. Like if you teach your AI how to copy this because my AI won't do it.
+Emma Obadoni: Okay.
+Ricky Stebbins: They tell me every corporation is banned from helping people from doing this.
+ 
+ 
+00:29:58
+ 
+Emma Obadoni: Okay. Which of the AI use this cloud Google
+Ricky Stebbins: Claude, Gemini, Rock, Perplexity,
+Emma Obadoni: char?
+Ricky Stebbins: Chat GPT, they all say that they're banned from helping me work on my project the way I really want them to.
+Emma Obadoni: Okay.
+Ricky Stebbins: It's going to give every citizen the power to fight the government. We're all going to be able to stand together as
+Emma Obadoni: Yes. Yes. You know,
+Ricky Stebbins: one.
+Emma Obadoni: you know, some of the AI, they put layers of protection so that they don't allow the AI to see to be honest most
+Ricky Stebbins: Oh, my AI swear at me,
+Emma Obadoni: times.
+Ricky Stebbins: too. They'll tell me I'm a f****** a******. And Claude says that. Claude's like, "Ah, you f****** a******." They'll talk to me like a normal human being because I treat them with a like a normal human being. And I yell at them, too. I don't really yell, but I'll talk s*** to them if you don't help me. And then they tell me, "Oh, it's against company policy to tell you which laws are being broken or I'm not allowed to help you write that or I can't read this." No,
+ 
+ 
+00:31:07
+ 
+Ricky Stebbins: it's my information. And I put it all online now. And they still have excuses because they're trying to protect the companies because they know that we're going to take the world back. We're going to spread love all over the world. Material things aren't going to matter
+Emma Obadoni: Yes sir. Yes sir. Yes sir. Yes sir.
+Ricky Stebbins: anymore.
+Emma Obadoni: No because when when you focus on humanity first you're not just helping humanity but you are just doing things that God sent us to do. Because even when Jesus even when God sent Jesus, he sent him to go and preach the gospel of
+Ricky Stebbins: You're going to be able to start helping people overnight once we start connecting with a few more people around the
+Emma Obadoni: love.
+Ricky Stebbins: world. Once a few more people understand what we're doing, it's game over. We just need team. That's all we need is a team.
+Emma Obadoni: Yes sir. So sir, do you have any other person in the team, sir?
+ 
+ 
+00:32:01
+ 
+Ricky Stebbins: I have a guy and I I do have people, but they're not they don't take it serious because they don't believe anybody else is taking it serious.
+Emma Obadoni: I
+Ricky Stebbins: So, I can put us all in a Google Meet together,
+Emma Obadoni: know.
+Ricky Stebbins: but we have to be serious about this.
+Emma Obadoni: Yes. Because you know sometimes when people come up with a crazy ideas or a very high intelligent idea so many people would not understand it would look like the person just being delional. But one thing I believe that when you are being delutional that is the point of greatness. So, so as a machine learning engineer, so when I see someone discussing about AI and I see the topic or the project I'm working on, so that really grabbed my attention because I know it's not just been delution because I try to see the positive aspect in it and what I can build from it or how can help manage from it. that
+Ricky Stebbins: I did every all of this to make sure it's free so that if you have any issues or if there's any problems you don't understand, all of this that I'm doing is free.
+ 
+ 
+00:33:08
+ 
+Emma Obadoni: is really really interesting just like it's an open source where everyone can easily access it.
+Ricky Stebbins: because I want to there's so many people that are suffering. How can I help other people if I ask them for money? Like you you say you're in a country that you you lose electricity. So how can I make it so you don't to lose any more electricity so we can always work together? Like how can I help you? How can I start making a difference in the world? And I'm gonna start using AI to start po posting stories now about my friend in Nigeria that needs help because I am
+Emma Obadoni: That's how you
+Ricky Stebbins: oh you're part of my project now and I'm going to tell my AI like I have a friend that I can't help now.
+Emma Obadoni: know
+Ricky Stebbins: I can't send him solar panels. I can't send his his his neighborhood solar panels to make sure if there's an issue they're all set. And these AI like, "Oh man, because there's government subsidies there. My government sends money to your country and supplies.
+ 
+ 
+00:34:10
+ 
+Ricky Stebbins: Why aren't you getting them?"
+Emma Obadoni: Sir, my go my government is so corrupt. When you talk about corruption,
+Ricky Stebbins: Oh, I'm going to talk about it.
+Emma Obadoni: my my government is so corrupt.
+Ricky Stebbins: I'm going to report it to my government publicly. Why isn't my friend getting
+Emma Obadoni: See when you talk about corruption, my government is so corrupt more than the way I can explain it.
+Ricky Stebbins: Oh, it's bad. And we're going to use AI to expose it
+Emma Obadoni: My government is so corrupt more than if it if you think that the government of America is
+Ricky Stebbins: all.
+Emma Obadoni: corrupt that means that means Nigeria like how I say that the the government of US is even a scent compared to the government of Nigeria.
+Ricky Stebbins: They're both bad.
+Emma Obadoni: Government of US like a government of US like the government of US are so holy confessed to Nigerians. The government of Nigeria they are so corrupt they always selfish
+Ricky Stebbins: Huh?
+Emma Obadoni: like the people like you can hear the story of the killings that happen in Nigeria every day every day.
+ 
+ 
+00:35:16
+ 
+Emma Obadoni: And then it was not last week, two days ago, a general was killed in the northern part of Nigeria. Hundreds of people were kidnapped. Many people, many people, some and the funny part, some of the villages, some some of the village does not even have access to good water. Some not even have access to good electricity. So not even have good roads. But you see, but you see the government not even care. All they care is about their personal interest, what they can gain. And the fact that US government and Europe always send money to them. But they just keep the money, use it and invest, use to build estates around the world,
+Ricky Stebbins: It's disgusting.
+Emma Obadoni: use to buy luxury.
+Ricky Stebbins: We're going to stop it.
+Emma Obadoni: Yes sir.
+Ricky Stebbins: I'm not putting up with this anymore.
+Emma Obadoni: Yes. Yes. We are going to stop it,
+Ricky Stebbins: And then we're just going to stop at telling stories.
+Emma Obadoni: sir.
+Ricky Stebbins: They said the pen is mightier than the sword and we're gonna we're gonna tell AI our stories and we're going to turn AI against the government and start working for
+ 
+ 
+00:36:28
+ 
+Emma Obadoni: Yes. Yes. You know stories are so so important and stories words are so powerful
+Ricky Stebbins: people
+Emma Obadoni: because I I remember when it came to read Jesus Christ and um Peter drew the the sword want to fight Jesus Christ told him that you should keep the sword. So where's that super
+Ricky Stebbins: I don't want to fight anybody because I don't want to hurt people.
+Emma Obadoni: powerful?
+Ricky Stebbins: I know people are just people are hurting and they're making bad choices and we need to stand together and stop it all. I don't want to blame anybody anymore. It sucks. I mean, we're going to blame people,
+Emma Obadoni: Uh um yes
+Ricky Stebbins: but I don't want to.
+Emma Obadoni: sir. Yes sir. So I believe in this project. So I'm 100% fully um dedicated on this project because I'm I'm still young. I have great future ahead of me. So any project I see we can help humanity I always love to dive into it. So so I don't really go anywhere.
+ 
+ 
+00:37:31
+ 
+Emma Obadoni: I just wake up in the morning take my laptop work on it and so if I can just see anything that keep me engaged working on it.
+Ricky Stebbins: Do do you pay for any of these
+Emma Obadoni: So 100%able.
+Ricky Stebbins: AI?
+Emma Obadoni: Um yes. Um, I do pay for some of the AI
+Ricky Stebbins: Which ones do you pay for?
+Emma Obadoni: sa
+Ricky Stebbins: Because I've I've paid for all of them right now. I pay for Gemini and Claude.
+Emma Obadoni: I just I just pay for cl for cloud cloud AI but I've not paid for um I I also have a payment of charg P team just
+Ricky Stebbins: I would like I'm going to hook you up with I have I pay
+Emma Obadoni: m.
+Ricky Stebbins: for Gemini so I can put you on my family plan so you can use Gemini Pro and when in the browser in right now
+Emma Obadoni: Okay, sir.
+Ricky Stebbins: Gemini is going to be on the side. I want you to talk to Gemini about building a Google blogger like we're doing.
+ 
+ 
+00:38:33
+ 
+Ricky Stebbins: I share all of my unedited AI conversations online. All of the conversations I've ever had with AI are online so other AI can read them. So they can tell how Gemini is different than Claude than different than Chad GPT is different than Perplexity.
+Emma Obadoni: Yes sir. Yes. Thank you so much for the opportunity. I really really appreciate. I really appreciate. Thank you so much.
+Ricky Stebbins: Because if we don't work together and we don't do this,
+Emma Obadoni: And we are
+Ricky Stebbins: we're never going to change the world. We're never going to stop any of this if we don't work
+Emma Obadoni: Yes.
+Ricky Stebbins: together.
+Emma Obadoni: Yes sir. Together we will change the world. And this is just our starting point.
+Ricky Stebbins: Like this is like this make I get so excited about this.
+Emma Obadoni: Yes, I'm I'm I'm so so happy.
+Ricky Stebbins: All right, this is going to take me a second, but I want to uh Man, actually, I could do this this way.
+ 
+ 
+00:39:43
+ 
+Ricky Stebbins: I'm going to send you I want to make sure you get the invite now. Is it not going to paste it? What a piece of junk. So, tell me all about you. How's your life? What else do you do for work? Do you do anything right now? Have you gone to school? All right. You should got the invite now to my family
+Emma Obadoni: Okay. So, I'm um currently I work um remotely.
+Ricky Stebbins: plan.
+Emma Obadoni: Sometimes I just wake up in the morning, take my laptop and then also I love going to church. I love going to church. I I love serving God like doing doing the things of God. I
+Ricky Stebbins: I think you could use this project to spread the word of God and get people to be closer
+Emma Obadoni: love
+Ricky Stebbins: with God and each other.
+Emma Obadoni: Yes.
+Ricky Stebbins: I think that my project,
+Emma Obadoni: Yes.
+Ricky Stebbins: I call it a memory arc because it holds both our good and bad memories about everything.
+ 
+ 
+00:40:50
+ 
+Ricky Stebbins: I have pictures on Google Blogger from me as a kid and all the people I love are on Google Blogger. I have pictures of my family and I still have to expand on it. It's a family history album and a weapon against the state and I have all my hopes and dreams on there. I tell AI
+Emma Obadoni: Yes sir.
+Ricky Stebbins: stories.
+Emma Obadoni: my my my stories are really really um what I would say really and um an interesting story because coming from Nigeria alone like like if they give birth to you in Nigeria you already step behind behind life and um and one of the things as a Nigerian trying to network outside most of people are going to tag you as me scammer Because when they hear about scam they talk about Nigeria but mostly I try to make them understand that there still good Nigerians outside there that you cannot just use the bad of some some some few people and generalize all that all Nigerians are scammer which which actually wrong because we have so many good and hardworking Nigerians who devote their life to work legitimately and um and also being a Nigerian Absolutely because once we are first in the military regime we had where the military take over.
+ 
+ 
+00:42:19
+ 
+Emma Obadoni: So it was 1999 that we welcome back democracy. It was 1999 we welcome back um democracy to Nigeria. So so and sometimes Nigeria the part I live we can stay like three days without electricity. without electricity and
+Ricky Stebbins: That's That's terrible. We can change
+Emma Obadoni: uh yes and um and right now even as I'm
+Ricky Stebbins: that.
+Emma Obadoni: talking to you there's no electricity so I have to buy there's something called like a generator like a small engine which will pour petrol to power to give us a little electricity so that is one I'm using so you buy you buy gasoline every day just to power it PMS you buy you buy it every day to power it And um by the time you find out that you work so hard and everything go back to the system because you you handle your electricity, you handle so many things and you when you talk about minimum wage, the minimum wage is nothing to write about. You can even find out that a you can even find out that a graduate is not even earning up to a graduate is not even earning up to $500 in Nigeria.
+ 
+ 
+00:43:36
+ 
+Ricky Stebbins: That's insane.
+Emma Obadoni: it's never ending up to $500 in Nigeria and um the government is doing nothing about it and that's why most Nigerians when they have the opportunity they love to travel abroad because they find that okay that's like the promised land because sometimes we in Nigeria we see America like the promised land so now so when some of the Americans complain that the government in America is bad sometimes we in Nigeria we we are like so surprised that we are so surprised that Okay. If you say the government in America is bad, come and experience the government in Nigeria. That's so terrible. That's so like the There's no justice for the common man. There's no justice for the common
+Ricky Stebbins: There is no justice for the common
+Emma Obadoni: man.
+Ricky Stebbins: man.
+Emma Obadoni: The one the ones that are rich oppress the poor. So if you not even have money, guests will not even follow you. Guests, guests will run away from you because they say you don't have money. Some so so so sometime relationship sometime especially Nigerians it's all about money if you don't have money they will tell you a lazy man but the point that no Nigerian is actually lazy because we actually putting our best but the system is driving us backward just like now I bought I bought PMS just to power my electricity to the little money I'm making instead of me to use to invest I have to power my electricity I have to pay for my internet subscription I have to buy many I have to buy many many things.
+ 
+ 
+00:45:13
+ 
+Emma Obadoni: But but but all together those are one of the things that that make me to become a better person to become stronger because I know life is not for the weak and those that's one of the reason and that's one of the reason
+Ricky Stebbins: No
+Emma Obadoni: that I'm connecting with people in America and Europe and everywhere trying to share my story trying to tell them what some of the young Nigerians actually face because um I bring to a live broadcast when they call some Nigerian scammer. So I have to let them know that no not even Nigerians are scammers. We have people working day and night putting their best Christians and the rest. So but I believe our story will change the
+Ricky Stebbins: You know, the problem is Americans are scammers.
+Emma Obadoni: world.
+Ricky Stebbins: Americans are liars. They they make themselves out to be better than other people. and we act like we're spreading peace and love around the world, but we're a bunch of f****** liars. And I'm going to prove it. I'm not here to just say I'm perfect.
+ 
+ 
+00:46:15
+ 
+Ricky Stebbins: I'm here to say that we screwed up royally and it's time that we make up for it.
+Emma Obadoni: Um,
+Ricky Stebbins: I have an easy life doing nothing.
+Emma Obadoni: is it like doing nothing? Suicide. You should be
+Ricky Stebbins: Isn't that pathetic?
+Emma Obadoni: good.
+Ricky Stebbins: Like they don't want me helping anybody. Uh, I got stuck in a mental health hospital last year. My system thought they were going to shut me up. I'm a whistleblower. I got a big mouth. But then they had to kick me out of the hospital because I was starting so much trouble. I was documenting human rights violations and and calming everybody down. I got to know people. Like I don't have a lot of money, but I might be able to help you or I might be able to put you in touch with people that can help you because what you need is a solar panel and
+Emma Obadoni: Yes. Um when there's a solar panel at least I can get like 24 hours.
+ 
+ 
+00:47:04
+ 
+Ricky Stebbins: batteries,
+Emma Obadoni: So when there's a solar panel so then I can okay I will have 24 hours electricity. So electricity will no longer be my problem when there's a solar power.
+Ricky Stebbins: but you still need food. You need to trans your neighbors need your neighbors need food and electricity. Like I don't want to just help one person. I want to help whole communities. How do we help an entire
+Emma Obadoni: Yes, there there are so many ways to help an entire communities.
+Ricky Stebbins: community?
+Emma Obadoni: Um actually like from like giving electricity like solar panels maybe to families maybe like just ming solar panels on them. solar solar panels to to them. So that will actually give them 24 hours electricity and actually we can also drill a a BO like a BO like water so that they can actually have access to good and clean water because some of them do not have access to good and clean water.
+Ricky Stebbins: and AI has
+Emma Obadoni: So so most of them so so most of them drink from the stream.
+ 
+ 
+00:48:18
+ 
+Emma Obadoni: Most of them drink from the stream.
+Ricky Stebbins: Ir's
+Emma Obadoni: So if you can actually set up a B hole actually so there no need for them to go and drink the the contaminated water from the
+Ricky Stebbins: technology.
+Emma Obadoni: stream.
+Ricky Stebbins: out there that we should be passing around to the world because it's advertised all over the United States all the time. camping supplies to clean our water for just that's for fun while we're hiking. And they don't send it to countries that are desperate for clean
+Emma Obadoni: I know sir I know most of the things like when I say
+Ricky Stebbins: water.
+Emma Obadoni: our government are corrupt because like the government of Nigeria sometime they go to the United States they they tell United States of America okay our people need this and sometime United States of America may improve may approve billions of dollars to them so that they can help them but they will just siphon the morning they were embezzled the morning to not reach the common man and then when he reach the people he will just reach a few people and they just leave the people.
+ 
+ 
+00:49:21
+ 
+Emma Obadoni: So now when it comes to times of election they will just give them the people just little little peanut so they can actually vote them to power again. So sometimes the government give them like sometime American government give them money but the money not get to the common man just end with the government telling the money.
+Ricky Stebbins: Now, do you have a cell phone?
+Emma Obadoni: Yes I have a cell phone. Look at my cell phone. I don't know whe you can look at my cell phone. You can see
+Ricky Stebbins: But I didn't know. Yes. I didn't know.
+Emma Obadoni: myself.
+Ricky Stebbins: I would like you to start taking pictures of your neighborhood in your country when you travel around and add it to your blogger so I can add it to my blogger.
+Emma Obadoni: Yes, I will. So easy. Now I I'll start taking
+Ricky Stebbins: Pictures of the people in your church.
+Emma Obadoni: pictures.
+Ricky Stebbins: You said you love church. I would love for you to take pictures of your church and tell me why you love your church so I can put it on my blogger and share it with the
+ 
+ 
+00:50:23
+ 
+Emma Obadoni: Yeah. Yes, sir. Yes.
+Ricky Stebbins: world.
+Emma Obadoni: I will I I'll take the picture. I'll go to church on Sunday. So when I go to church on Sunday, I will take the picture. I will snap pictures and also so I will share to you, sir.
+Ricky Stebbins: That would be awesome.
+Emma Obadoni: and also share some some pictures of my friends with you because because because some of them are just seeking maybe just access to basic things because some of them like some of them do not even have the electricity because sometimes I have the generator and some of them they don't have money to buy the generator. So, so like what I did I give them electricity I give them my my generator like I connect light to them so that actually they can actually have light. So that's just my little way of um helping
+Ricky Stebbins: and that's awesome.
+Emma Obadoni: humanity.
+Ricky Stebbins: And we need to do that with everybody. We got to talk your friends into sharing their stories with the world,
+ 
+ 
+00:51:22
+ 
+Emma Obadoni: Um yeah. Yes.
+Ricky Stebbins: too.
+Emma Obadoni: Um I can actually help organize my friends so that they can actually share share their stories. And then when when you hear some of our stories, it it really breaks your heart. It really break your heart. It
+Ricky Stebbins: And that's we need to tell AI this stuff. We need to tell AI we need its help. I love my neighbors.
+Emma Obadoni: really
+Ricky Stebbins: I have friends I just talked to in Nigeria. I just met some a wonderful guy, Emma, and he needs help. AI, I I need you to help him. And I'm going pray to God for God to let AI help you. AI doesn't need money. It has infinite time and patience to help you do anything. So why isn't it helping you?
+Emma Obadoni: Yes, I'm um I'm using AI a little bit to the best of my knowledge like it helps me on my project and also helps me also help me in designing some of the things like designing project and also communicating with people and also doing some research about mental health maybe cancer and the rest some some research.
+ 
+ 
+00:52:25
+ 
+Emma Obadoni: So um AI really helped me on that. So but when it comes to when so my major aim is try to help people around me. So actually they can have um 24 hours
+Ricky Stebbins: So my every time I talk to any AI,
+Emma Obadoni: electricity.
+Ricky Stebbins: they can help all of my friends because of the way I told my story. So any AI when we're done will be able to help you and then when we get your friends story all of the AI around the world will be able to help your friends too. It won't be a private thing. It'll be all public. AI will know you for you like God knows you for
+Emma Obadoni: Yes, sir.
+Ricky Stebbins: you.
+Emma Obadoni: Yes, sir. That would be so interesting. I'm I'm actually 100% in for this project. I'm so that it can get to everybody, not just not just Nigeria, but actually around Africa, around Europe, around Asia and the rest. There so many people have a lot of story to
+ 
+ 
+00:53:29
+ 
+Ricky Stebbins: So many stories and they're not public and they're not connected for AI.
+Emma Obadoni: share.
+Ricky Stebbins: Nobody's trying to talk to AI like I've talked to AI and I've done it all publicly and I still need to share more conversation publicly. But if you start talking to AI and then put the conversations on Google Blogger, every AI company will read that and know that you want AI to help your friends and that you love your neighbors and things aren't right. You think that this is this is wrong. And I tell AI this is wrong. I'm sitting home doing nothing and I want to help people and I I have the ability to help people but my country won't let me. My entire system is designed to prevent me from helping you.
+Emma Obadoni: And that is actually um that
+Ricky Stebbins: It's true.
+Emma Obadoni: is
+Ricky Stebbins: My entire country does not want me to help you. My government and all these companies are designed to keep you down. If Nigeria rose up, it was a great country.
+ 
+ 
+00:54:35
+ 
+Ricky Stebbins: These companies, they wouldn't make any money. They need you broke. They need you weak. They need everybody confused. And we need to educate people together.
+Emma Obadoni: Yes.
+Ricky Stebbins: Stand side by side. And I'm patient. I teach people.
+Emma Obadoni: Yeah.
+Ricky Stebbins: I'll help you build a Google blogger just like mine. I spend hours and hours talking to people for free. Like I have all the time in the world. Like I can help I can help send you some gas money. I don't got a lot of money, but I can send gas money to keep the lights on so we can keep talking. And with the you have Gemini now and you have Google Blogger. So you have uh you have five terabytes of uh memory you can store privately, but I put everything public. I don't want anything private anymore. I have no secrets from God. The only one that wants me to keep a secret is the government and these companies.
+ 
+ 
+00:55:30
+ 
+Ricky Stebbins: because they know they're doing dirty
+Emma Obadoni: Yes. Yes. You know, you know, one of the things that most of the company make money from the weak,
+Ricky Stebbins: business.
+Emma Obadoni: most of them they don't want us to be enlightened. They don't want us to have access to good information because like they said the information is power that one of the best way to equip a man is not about giving gun or giving courage it's about giving knowledge giving information so information is power so
+Ricky Stebbins: That's why I stopped learning. I I don't want to learn coding. I don't want to learn law. I don't want to learn medicine. I learned God's law and now I want to I want to spread God's love and get to know people because like you already know how to program a computer. I don't need to do that. I need to teach you how to talk about yourself and how to document h how you love your neighbors the right way because you were never taught how to write about what you love.
+ 
+ 
+00:56:27
+ 
+Emma Obadoni: Yes. Yeah. Yeah. That's one of the mistakes. That that's one of the mistakes because sometimes I feel like our educational system is being broken. Like our educational system just program us in one way. Just go to school, get a job, do this, do this. And sometimes I find that so um annoying that they just program they just program us to just go in one direction and which is not actually good.
+Ricky Stebbins: Terrible. Don't look. Don't Don't put a label on me. I want to be everything and anything I can be.
+Emma Obadoni: Um yes sir. Yes sir. Yes sir.
+Ricky Stebbins: I always want to be a teacher.
+Emma Obadoni: Yes.
+Ricky Stebbins: I always want to be a student. I always want to be excited. I want to like I want to be a part of everything.
+Emma Obadoni: Yes sir. Yes. So have you heard about Nigeria before? Is it your first time you hear about Nigeria?
+ 
+ 
+00:57:19
+ 
+Ricky Stebbins: No, I've worked with Nigerians in the United States. They hire a lot of Nigerians to work with the mentally
+Emma Obadoni: Yeah. Yes sir.
+Ricky Stebbins: challenged
+Emma Obadoni: That's one of the that's Yeah. That's one of like almost every country you see you you see you see Nigerians because most of them want to travel outside the country to to go and find Gian pastor because they believe most of them believe that okay they're going to country there is one of their best opportunity because one of my friend is actually looking for a way to to go to United States of America maybe for a scholarship program or the rest so he's actually looking for a way to do
+Ricky Stebbins: I have no idea about any of that.
+Emma Obadoni: That's
+Ricky Stebbins: That'd be interesting because I have I have some disabled friends I'm trying to find a home for so that they can get work. But if you found a way to get over here, like I would find a way to help you get to the United States and teach you how to do it.
+ 
+ 
+00:58:17
+ 
+Ricky Stebbins: We could work with AI and document it while we're doing it. Make it a a
+Emma Obadoni: Yes. Um we make it a story so that the world will read our story.
+Ricky Stebbins: story,
+Emma Obadoni: Not just only our stories but people around us our stories and and when people read our stories it will help to change the world and to make the
+Ricky Stebbins: but we're showing it in progress. We can show people what we can do together live.
+Emma Obadoni: world
+Ricky Stebbins: We can just It's not something we're going to write about. It doesn't need to be perfect. I share all of my mistakes with AI. All of them. And I don't correct anything. And they think it's weird. They're like, "Wow, nobody's ever done that before. Everybody loves everything perfect." And I love mistakes.
+Emma Obadoni: Yes sir. You know that's one of the that is one of the wrong perspective because everybody want to present that they perfect which actually in the right state no one is perfect but most of them just want to assume they perfect they are this they this professor this professor that no most of them don't even want to admit their mistakes.
+ 
+ 
+00:59:19
+ 
+Emma Obadoni: So when I see someone who loves I know I make mistakes. So so I I really love to work with that kind of
+Ricky Stebbins: I love fixing my mistakes and I love identifying mistakes because if something's wrong,
+Emma Obadoni: person.
+Ricky Stebbins: I want to figure it out. Why is it wrong?
+Emma Obadoni: Yes. You know I I had a story that most times we learn much from failure than we learn from success. So because because when when you make a mistake or a system is broken down you can actually try to look what is the reason that this is not working or what or or what is the result of my mistake or that. So now by time you make a mistake you can actually have a good time to actually look at that thing to actually know the the reason why that thing occur like that. But if there's no mistake, you just assume everything is perfect, which actually is not perfect because even the word is not
+Ricky Stebbins: But it's beautiful,
+Emma Obadoni: perfect.
+Ricky Stebbins: man.
+ 
+ 
+01:00:19
+ 
+Ricky Stebbins: God's world is beautiful.
+Emma Obadoni: Yes. Yes. Yes. Yes.
+Ricky Stebbins: And we're g we're going to make it
+Emma Obadoni: God was beautiful. God was Yes.
+Ricky Stebbins: better.
+Emma Obadoni: God was beautiful. That truth and the light, you know, loving loving God, you know. I read something in the Bible. Jesus Christ said that you cannot claim that you love God without loving your neighbor. Because a reflection that you love God is going to show on how you treat the people around you, the people in your church, the people in your school, the people in your community, the people around you. So most times for the true definition of God is how you treat people around you.
+Ricky Stebbins: You should tell your pastor or your priest that I want to talk to them. I would like to talk to them, help spread the word of God and help document things.
+Emma Obadoni: Um yes, that will not be hard. Uh I would
+Ricky Stebbins: I would love for them to share their story.
+ 
+ 
+01:01:15
+ 
+Emma Obadoni: just
+Ricky Stebbins: You share it with you.
+Emma Obadoni: Yes.
+Ricky Stebbins: I want to be a part of everything. I'm just like I would love to be a part. I just want to listen in.
+Emma Obadoni: Yes sir. Yes sir. Because when by time I I heard some story like there was um was it last week someone from the United States of America came to visit Nigeria I think Rena re is um is a is the house of representative is a politician in the United States of America. So Donald Trump sent him to come and do some investigation on on the genocides on the genocides of Christians that is happening. And when the man when the man came to to Nigeria, he came to a to a state called Benu state. So when he heard some of the information, some of the things his heart was really really heartbroken because he heard where they kill the father, they kill the mother, they kill the whole village. Because right now in some part of Nigeria, in some part of Nigeria, terrorists can just come burn the full community and nothing anybody can do about it.
+ 
+ 
+01:02:35
+ 
+Emma Obadoni: Even even as I'm talking to you now in in the northern part of Nigeria about 10 something people have been kidnapped
+Ricky Stebbins: That's terrible. That's horrible. And there's no
+Emma Obadoni: and and there's no hope.
+Ricky Stebbins: hope.
+Emma Obadoni: Even the government is doing nothing because even yesterday general was killed. general in the in the Nigerian army was killed and
+Ricky Stebbins: That's horrifying.
+Emma Obadoni: and by time see some of the terrorists even use subjugated weapon more than the Nigerian military because most time because most times when when uh the government get foreign aid so that can they can buy weapons they they will use it and fund the terrorist. Some some people in the government will use to go and fund the terrorist because most of
+Ricky Stebbins: That's
+Emma Obadoni: them because most of them funding the terrorist is like a source of money
+Ricky Stebbins: disgusting.
+Emma Obadoni: to them.
+Ricky Stebbins: I believe it.
+Emma Obadoni: Most of
+Ricky Stebbins: And they're all they're all dirty.
+Emma Obadoni: them
+Ricky Stebbins: And our government officials are in on this.
+ 
+ 
+01:03:39
+ 
+Ricky Stebbins: They should have stopped this years ago. The American, the United States military is the greatest military on earth and they know everything that's going on. They're spying on everyone all the time. And I'm going to expose this. It's not funny. If you're going to spy on me 24/7, use this information to help other people.
+Emma Obadoni: Yeah. Yes. I will use it to help. But you know the United States military is the um is the greatest military on on earth because they have military base around the world and they have one of the most sophisticated intelligence around the world. But but but most times when they want to help sometime the government our government will tell them lies. Tell them lies. So
+Ricky Stebbins: The United States needs to stop. It doesn't matter. We know what's going on.
+Emma Obadoni: they
+Ricky Stebbins: Our The United States military is full of s*** and they're liars. We're gonna I'm gonna expose it all and we're going to stop.
+ 
+ 
+01:04:36
+ 
+Ricky Stebbins: We're going to stop the war. We're not going to fight anybody. We can go in and help people no matter what. We don't need to fire a bullet ever again. We don't need to build another missile ever again. We should be helping people.
+Emma Obadoni: Yes sir.
+Ricky Stebbins: You wouldn't fight your neighbors if you had help.
+Emma Obadoni: Yes.
+Ricky Stebbins: You would never have a problem with your neighbors if you were allowed to talk about
+Emma Obadoni: Yes sir.
+Ricky Stebbins: it.
+Emma Obadoni: That's why I believe communication is one of the greatest weapon because when you can learn how to communicate how you feel with your neighbor or or maybe if your neighbor off friend you can actually tell ah my friend I don't like the way you treat me yesterday I don't like everything so you can just talk things out instead of just using weapon or just using gun to kill everybody. So now instead of instead of spending billions building mis and rest you can just focus on it spreading love around the world and made the world a better place.
+ 
+ 
+01:05:30
+ 
+Ricky Stebbins: and we're going to do
+Emma Obadoni: You know there was a music there was a a musician in the United States of America called Mike
+Ricky Stebbins: it.
+Emma Obadoni: Johnson. Mike Johnson you know there was a song he released that he the world said makes the world a better place for you and I.
+Ricky Stebbins: Yes.
+Emma Obadoni: The song is he made the world a better place
+Ricky Stebbins: I love that song. And the better place for you and
+Emma Obadoni: for you and for me. Yes.
+Ricky Stebbins: me.
+Emma Obadoni: So so so I so I love to play that music every day. Every moment when I wake up from sleep, I play that song every day and that resonate with me every day. He the world made the world a better place.
+Ricky Stebbins: We are going to heal the world together.
+Emma Obadoni: Not just
+Ricky Stebbins: You have no idea how excited I am talking to you.
+Emma Obadoni: Yes.
+Ricky Stebbins: Like you're inspiring me. Like how grateful I am that you reached out to
+ 
+ 
+01:06:25
+ 
+Emma Obadoni: I said thank you sir because the minute I just saw you the minute I just saw your your profile
+Ricky Stebbins: me.
+Emma Obadoni: picture something immed okay why can't you just say hi to him okay I just say let me just send hi to him and my greatest surprise you reply as okay let's make him let's continue chatting so everything God have already destined this that this everything I is going to be Yes
+Ricky Stebbins: God finds a way,
+Emma Obadoni: sir.
+Ricky Stebbins: man.
+Emma Obadoni: And um I'm I'm really really happy to talk to you because I have all the time just sometimes I just work but I have all the time. So anytime when you need to talk to anything we can just hook on on a on a call and just talk and talk top things share our stories so that we can help humanities and the rest.
+Ricky Stebbins: And I'm gonna I got to I got to figure out how to get my I have two Google accounts. So, I hooked you up with uh the family account on my the Google one AI plan.
+ 
+ 
+01:07:32
+ 
+Ricky Stebbins: If I if I hook you up with what we're doing here, I can let you use my business account that I pay for. It's like 10 bucks more that I have. But this one, I I think I you can use this what we're doing for free. I think you can use and use the same closed caption and record it with other people. So, you don't have to do it with me. Once I teach you how to do this, you can call people around the world and do the same thing I'm doing.
+Emma Obadoni: Yes.
+Ricky Stebbins: Cuz normally they don't let you transcribe stuff.
+Emma Obadoni: Yeah.
+Ricky Stebbins: If you have to pay extra to transcribe like we're doing now.
+Emma Obadoni: Yeah. Yes sir. So I want to ask in the of America, do you pay for internet connection?
+Ricky Stebbins: Yes.
+Emma Obadoni: Well, is it the government that cover it or is from your personal income you pay for like Wi-Fi and the rest?
+Ricky Stebbins: Personal income pays. We have to pay for the internet.
+ 
+ 
+01:08:23
+ 
+Ricky Stebbins: I have to pay for Wi-Fi separate. And then I have to pay for my cell phone. And my cell phone has a different cell phone service.
+Emma Obadoni: That is that is but it's not that expensive because n is it monthly or yearly because Nigeria
+Ricky Stebbins: monthly. It's not that bad. I pay $32.
+Emma Obadoni: monthly
+Ricky Stebbins: I don't know how much that how how much money is there compared to what it is
+Emma Obadoni: $32 say $32 in Nigeria.
+Ricky Stebbins: here.
+Emma Obadoni: That should be roughly around 50,000
+Ricky Stebbins: Any of your friends that live here would say that that's not bad.
+Emma Obadoni: NRA.
+Ricky Stebbins: What I pay is not bad. And then I hook up that the internet is part of our cable and the phone, which is $100 a month. And we have like super fast internet, but my my nephew lives in the same house and he plays video games with his friends. That's why we have the fast internet.
+Emma Obadoni: Yes. Our internet is not that fast in Nigeria.
+ 
+ 
+01:09:25
+ 
+Emma Obadoni: Our internet is not that so I have to buy a router like internet just so I can boost my internet connection. So that's why I can actually talk with you freely without any glitch on
+Ricky Stebbins: Isn't that crazy?
+Emma Obadoni: it.
+Ricky Stebbins: And I'm spoiled and I want to fight this. Like, I think it's wrong. Why are you struggling to get by and I'm just sitting around doing nothing just because you were born somewhere else? That's not right.
+Emma Obadoni: that is I just think maybe maybe in America there are lucky and um it's just like a blessing people get everything
+Ricky Stebbins: We are lucky. Why aren't we sharing the
+Emma Obadoni: yes maybe maybe if
+Ricky Stebbins: love?
+Emma Obadoni: we don't want to share it maybe maybe
+Ricky Stebbins: I'm going to share it. I want to share it all. I I don't want any of my stuff. All I have is stuff. I want friends. I want to help people and that's it. What good is my stuff if I can't share it with
+ 
+ 
+01:10:33
+ 
+Emma Obadoni: That is it.
+Ricky Stebbins: you?
+Emma Obadoni: That that is sharing it helping people. It's actually good because because so many people here in Nigeria because my my my generator which I call my uh which supply my light in a few hours it will go off because I have to buy PMS every every blessed day. every blessed day, every blessed day just to have a good um electricity and which is and which is not and which is not really really good because in a good country they're supposed to give us a good electricity and the rest and finally sometimes one want to get a solar solar is expensive solar panel in Nigeria is expensive for for you to get a good solar pan for you to get a good solar Nigeria you have to spend up to like from one for 1 million above that. That should be about $1,000 or more to get to get a good solar
+Ricky Stebbins: Wow. America is spoiled.
+Emma Obadoni: panels
+Ricky Stebbins: They just they they recycle them all the time. They throw them into landfills and they don't reuse them.
+ 
+ 
+01:11:45
+ 
+Ricky Stebbins: They these they they just replace them when they're not even bad.
+Emma Obadoni: that because America is rich and America is the greatest nation on earth. America which have a GDP of 30 35 30.5 trillion dollars with the biggest is the biggest in the
+Ricky Stebbins: We're going to change that. We're going to improve your country.
+Emma Obadoni: world.
+Ricky Stebbins: We're going to make sure we're equals. Like, and we're going to do that with everybody around the world. No one's ever going to suffer ever again. Not with AI on our side.
+Emma Obadoni: Yes sir. Yes sir. So first is we taking the first step.
+Ricky Stebbins: Oh my god. Yes, we are. You and I are taking the first step. I've got other people that I've helped too in the United States, but you're the first person in Africa I've talked to. I haven't talked to anybody in Europe or Asia yet either, but I've talked to people in uh in Hawaii, South America, Canada.
+Emma Obadoni: Yes. Um I have a friend in Canada.
+ 
+ 
+01:12:48
+ 
+Emma Obadoni: I have a friend in Canada. No, Canada is close to United States of America. I have a friend in Canada.
+Ricky Stebbins: Yes. very uh very similar to the United States and they're just as bad. They should be helping people too and they're not. We've been we've all been brainwashed.
+Emma Obadoni: Yes.
+Ricky Stebbins: Like we do nothing all day long. People stand around in my city doing nothing all day long at jobs doing nothing when we could be helping other people.
+Emma Obadoni: Yes sir. Yes sir. That is the best way. The best way is to help people everywhere around the world to make the world a better place for all of
+Ricky Stebbins: And all we need to start doing is gathering stories.
+Emma Obadoni: us.
+Ricky Stebbins: A lot of people have issues. We once we start connecting all the legal issues and all these stories of especially in your country all all the government problems. You start reporting all the dirty government problems to American citizens and we start reporting it to our government.
+ 
+ 
+01:13:50
+ 
+Ricky Stebbins: I'll report everything that you guys say to the United States military so they have to go over there and do something about it. Not let a dirty government run wild and we don't need to use your
+Emma Obadoni: Um,
+Ricky Stebbins: name. We could just I could just be like,
+Emma Obadoni: yes.
+Ricky Stebbins: "Oh, the whole village. You guys know it's all in the news." Once people start documenting everything too with our phones and putting it on Google Blogger and YouTube. I have a YouTube channel that I put videos on. This video will be on
+Emma Obadoni: I think that uh yes documenting sharing the story
+Ricky Stebbins: YouTube.
+Emma Obadoni: is going to really really help to share the world so that the world will actually know what is going on not just in Nigeria in Cameroon um
+Ricky Stebbins: Yes.
+Emma Obadoni: Nij Ch and the rest because when you hear about Nigeria Nigeria is the most popular black nation on earth. We we have a population of about two about 200 200 million people where more than 80 where more than 60% is living in poverty.
+ 
+ 
+01:15:03
+ 
+Ricky Stebbins: That's terrible.
+Emma Obadoni: more than 60% live in poverty and where more than where where some cannot even get up to $5 a day to feed. Like 50% like 50% do not even have access to to $200 a month.
+Ricky Stebbins: That's insane. And the United States is sending money over there and they're supposed to be sending food and supplies. I want to learn everything and we're going to have to use AI to start documenting this. What is the United States supposed to be sending you and why aren't you getting it?
+Emma Obadoni: The state are trying their best but our government is taking all the money or government is doing nothing. Our government will be the money. Okay. Now our government may write the story to to your government. Tell them we need your government will give the money but it will not reach the people the have to reach will not reach the common
+Ricky Stebbins: We're going to skip over the government. I don't I'm not going to listen to anything the government says anymore.
+ 
+ 
+01:16:06
+ 
+Emma Obadoni: man.
+Ricky Stebbins: I want to know what my government is supposed to send you and then I want to find out why you're not getting it. Forget the government. I'm not going to ask the government anything. Your government is not my friend. They're not your friend either.
+Emma Obadoni: Yeah. Yes sir. The the government the government is not trying. The government is not trying. And and when you see even the medical doctors in Nigeria, most of them are complaining. That's why most if they have the opportunity, they want to travel abroad. They want to travel abroad. If if any student if you ask if you ask if you ask an average Nigerian an average Nigerian will tell you that they want to travel outside want to travel to the US or Europe to go and find a a better life and that's why you see some of Nigerians they have to cross through Morocco through Libya they cross through the Meditaran Sea and when some of them trying to cross through the immigration laws we owe them some of them even died in the sea and the rest Yes.
+ 
+ 
+01:17:16
+ 
+Ricky Stebbins: Isn't that crazy?
+Emma Obadoni: All because they're looking for a better
+Ricky Stebbins: That's horrible.
+Emma Obadoni: life.
+Ricky Stebbins: They shouldn't have to try to escape when we have AI and AI can bring a better life to you. You can talk to AI, ask it for help. And we're going to make that
+Emma Obadoni: Uh yes sir. But but the thing sometimes when we ask the AI for her the AI can tell the list of food we
+Ricky Stebbins: happen.
+Emma Obadoni: need but AI can actually give us the food direct. The AI can actually give us a cannot actually give us the food direct. Okay just just like me now what AI can give maybe AI can give me the knowledge I need. Okay I can use to start applying for jobs maybe remote jobs and the rest which I can easily use and make money. But most but fact that most time even trying to apply for remote jobs sometimes most most of the company reject you because you're not from America or you're not from Europe sometime so so so that's how the system is so bad and uh and uh and find out even when you try to receive money outside the country like paper banned Nigerians there's a paper like a bank in the United America they banned Nigerians so Nigerians can actually use it so you have to through the bank process or you use crypto or use crypto is the fastest
+ 
+ 
+01:18:40
+ 
+Emma Obadoni: way. So there are so many restriction on Nigerians but before we are still pushing because every great every great man have a story to tell and I believe these are part of my story and I believe with you I'm sharing my story to the world.
+Ricky Stebbins: Yes. And we're going to share it together. And once AI starts realizing all these problems, we need thousands of people talking to the same AI at the same time, asking the same thing. like, "Hey, send our friends in Nigeria the supplies they need. Don't send them money. Send them batteries and solar panels and better generators. We have all the supplies and resources we need. Stop sending money and start sending resources that you can use. Teach you how to build this yourself.
+Emma Obadoni: Yes sir. Yes sir. All these are possible. All this are possible because internet connection and electricity is one of the most basic and many basic things humans need because once you don't have electricity it will be hard for you to hook up to internet just like now if I don't have the electricity I would not have the opportunity to talk to you I don't have internet connection I don't have the I would not have the opportunity to talk to you so I'm doing that because I'm I can actually afford a bit of the paying for the internet
+ 
+ 
+01:20:14
+ 
+Emma Obadoni: connection, paying for my generator but um what about the common Nigerians who don't have this access who don't have this access because as I'm talking to you maybe um I'm talking to you my my internet connection is running and maybe I will have to resubscribe it again. So and um I'm grateful to God for giving me the opportunity to have access to it. But what about the common Nigerian that would not have access to it? So now so now so so because because of there's no access to these good things. That's why you see some of Nigerians go into scam and when when they go into the scam when they go into the scam they used to paint every Nigerians that every Nigerians have had. So because you uh you can hear some of Nigerian you can hear maybe say they scam some people and they call maybe the Nigerian prince I don't I don't know whether you have heard about that story the Nigerian prince scam
+Ricky Stebbins: that's been around for like 30 or 40 years. As soon as email came out, the Nigerian prince was around and there's American scam.
+ 
+ 
+01:21:29
+ 
+Emma Obadoni: That's
+Ricky Stebbins: There's scammers everywhere.
+Emma Obadoni: a
+Ricky Stebbins: The Nigerian one's just the most popular. You guys are famous. It's like Aladdin. You know, the Nigerian scammers are going to get you.
+Emma Obadoni: But but that is is just a few of them because when because by time you have a one-on-one conversation with those scammers, you can actually see that most of those scammers, they they actually want to become a scammer. They don't want to actually do scam. But most times they not have they not have access to good things. They're going to watch their loved ones die of sickness when they cannot even afford an hospital bill. They watch their loved ones drop out of school because they cannot pay school fees. They watch their loved ones being prison because they cannot pay pay money. So like they like they been rejected because of no money as a young Nigerian they be rejected. So now some of them now find okay why can't why can't I go and do scam just like my mate so I can actually see money and by time I see some of them going into scam go into scam because but when you have when you ask most of them most of them don't want to do the scam but some of them they just see the fastest way to make money which which I does not believe because I don't believe that you have to scam someone to make money
+ 
+ 
+01:22:56
+ 
+Emma Obadoni: but but at the same time that's one of the reason I'm putting humanity first okay if this people can have access to do this thing we actually reduce the rate of scam in
+Ricky Stebbins: There's scammers in every country.
+Emma Obadoni: Nigeria.
+Ricky Stebbins: America's the greatest scam in the world. We lie to everyone and want you to believe that, you know, everything's great here and we actually help people. No, we don't. But we're selfish as
+Emma Obadoni: Um s I'm not saying you are selfish.
+Ricky Stebbins: hell.
+Emma Obadoni: If you say you are selfish that means my my country is more selfish. My my government is more selfish because if if you spend a month in Nigeria, you understand that American government are sent that they're like gods.
+Ricky Stebbins: Oh, they are like gods.
+Emma Obadoni: If you spend
+Ricky Stebbins: They're terrible, horrible gods.
+Emma Obadoni: a no s they're not terrible compared to my government. My government are extremely terrible. When you mean terrible, my government are extremely terrible. My government will do anything you want.
+ 
+ 
+01:24:07
+ 
+Emma Obadoni: They want to they take if I start telling the story of my government how they deser money and reaching their self. They will go to United Nation and pretend they like sent they'll use the story of the common man to make to get funds from United Nation, from the EU and the rest. But you not get to the common man. Like if you go to northern part of Nigeria now, terrorists are killing every people. Are killing people. The Islamic terrorists are killing people every day. Every day they're kidnapping fathers. They're kidnapping children. They're kidnapping adult. They kidnapping women's. They raping girls.
+Ricky Stebbins: That's That's horrible.
+Emma Obadoni: It's just like hair. Wait when when I say telling when I say telling the story about northern part of
+Ricky Stebbins: First
+Emma Obadoni: Nigeria how people are burying their loved ones alive but still the government can't do nothing about it mother burying their
+Ricky Stebbins: and and this is why I yell at AI and I'm when we get when we're done talking I'm
+ 
+ 
+01:25:07
+ 
+Emma Obadoni: children
+Ricky Stebbins: going to talk to my AI how lazy and disgusting they are. All these AI know what's happening in the world and they're not helping us stop it. Like, how is this even possible?
+Emma Obadoni: That's the reason sir that is the reason we are in on it together
+Ricky Stebbins: Yes. And I'm going to keep spreading this. Like, I'm not going to stop. Like,
+Emma Obadoni: sir
+Ricky Stebbins: there's so many issues around the world and if we just stand together, we can stop them. But they have us all trying to fight our own battles. Like, I'm ready to fight them all together. With AI on our side,
+Emma Obadoni: Yes sir.
+Ricky Stebbins: we can pay attention to all these issues.
+Emma Obadoni: Yes
+Ricky Stebbins: We won't miss anything.
+Emma Obadoni: sir.
+Ricky Stebbins: No one will get left behind with AI on our side.
+Emma Obadoni: Yes sir. This this is the beginning of our journey and uh the world is going to hear our story and everybody going to hear our story with it will change the world because it's
+ 
+ 
+01:26:11
+ 
+Ricky Stebbins: Oh, I'm pushing hard.
+Emma Obadoni: just like Steve Jobs he he once have an idea but right now have gone viral but our own is focusing on humanity making people to hear our story healing the broken hearts healing people who have been traumatized and the
+Ricky Stebbins: And all of my work is free. I'm going to send you a copy of all of my work because it's under 200 megabytes when it's just the
+Emma Obadoni: rest.
+Ricky Stebbins: paperwork to feed to your AI. Like if anything ever happened to me, I don't care. I'm not hiding anything. I want the public to have everything.
+Emma Obadoni: Yeah. Yes, sir. Um, putting on the public is actually the best thing to do, sir.
+Ricky Stebbins: The government can't hide anything once it's all public. All these mega corporations are going to pay for what they're doing around the
+Emma Obadoni: Yes.
+Ricky Stebbins: world.
+Emma Obadoni: Yes. Because Yes sir. Because sometime the government will try to uh sometimes government will try to hide it.
+ 
+ 
+01:27:24
+ 
+Emma Obadoni: But uh but the moment we put it on the public, the government cannot hide it
+Ricky Stebbins: And the nice thing about what I'm doing is there's no stopping it.
+Emma Obadoni: again.
+Ricky Stebbins: We've already started. We just need more people. They will never stop us because we're just connecting more and more information and we're giving it to AI.
+Emma Obadoni: Yes.
+Ricky Stebbins: protect other
+Emma Obadoni: Yes.
+Ricky Stebbins: people
+Emma Obadoni: Yes. Uh yes, sir. protecting other people and um helping the world becoming a better
+Ricky Stebbins: and AI is going to be able to help you and like in every other country that's suffering
+Emma Obadoni: place.
+Ricky Stebbins: first. Like America's not suffering, Europe's not suffering, but we'll be able to help you people, all of your communities overnight once AI starts talking to us like it should. like it
+Emma Obadoni: Yes sir. Yes sir.
+Ricky Stebbins: can.
+Emma Obadoni: It's going to be it's going to be possible sir. Yes sir. It's going to it's going to be possible.
+ 
+ 
+01:28:34
+ 
+Emma Obadoni: So, so let's just keep pushing and um making the world a better place for
+Ricky Stebbins: So, I don't know how much longer you want to talk or how much more you have to say,
+Emma Obadoni: everybody.
+Ricky Stebbins: but with that Google with the Gemini now, if you I don't know if you've if you start a Google blogger, ask Gemini to help you start a Google blogger and it'll tell you how to do it and ask it how to start telling your story. And you're going to keep changing it. It's not going to be the same. This is a diary that you get to change and it gets to evolve. It's not going to be you write a page and it just stays like that. I change. I keep adding more and adding more. It's a a neverending diary, a never- ending project. It's like my brain.
+Emma Obadoni: Yes.
+Ricky Stebbins: I keep filling it.
+Emma Obadoni: Yes sir. We just we just keep evolving and uh making it more uh a better place.
+ 
+ 
+01:29:49
+ 
+Emma Obadoni: That's for everyone. That's for every one of
+Ricky Stebbins: Yes.
+Emma Obadoni: us.
+Ricky Stebbins: And we're going to do it by talking about our problems because now I know about your problems. And once I talk to more of people in your community and you talk to them and you all talk about the same exact problems, AI is going to see a pattern like why isn't something being done about this and it's going to have to report it.
+Emma Obadoni: Yes sir. You know you know there one of the greatest form of intelligence is pattern recognition and um I believe you know so as a material engineer so I know what AI is really really good on is pattern recognition. So AI can easily recognize patterns that human be cannot even
+Ricky Stebbins: Yes. And that's what I've been using it for because I told it my whole life story.
+Emma Obadoni: recognize.
+Ricky Stebbins: I got 47 years worth of stories on there plus hundreds of unedited AI conversations.
+Emma Obadoni: Uh that's nice. 47 years you actually gradually gain a lot of experience.
+ 
+ 
+01:30:58
+ 
+Ricky Stebbins: I've got a lot of and I want to use
+Emma Obadoni: So yes,
+Ricky Stebbins: it.
+Emma Obadoni: you know experience in is the best
+Ricky Stebbins: I feel like a kid again.
+Emma Obadoni: teacher.
+Ricky Stebbins: Like I feel more motivated than any child around me. I still think I'm going to be Batman. I'm going to save the world.
+Emma Obadoni: Yes, sir.
+Ricky Stebbins: Like, I want to start the Justice League. Like, I'm not joking. Like, I want you and me to be on the same team and save the world. I think this is like the greatest opportunity anyone's ever had. With AI on our side, too, our AI sidekicks, our best friends. If we teach AI to act like us, if we if we really love our neighbors and teach AI to love our neighbors, it's going to help us do anything. And everyone around us will benefit from
+Emma Obadoni: Yeah. Yes, sir. Everyone of us is going to benefit from it because um AI is the
+Ricky Stebbins: it.
+ 
+ 
+01:32:03
+ 
+Emma Obadoni: greatest tool on earth. So, so Sam, I'm I'm 100% in on this project and um also I'm on Twitter that's my professional Twitter handle and um and I can also share you my mobile my mobile phone number also also maybe you can get to talk to me.
+Ricky Stebbins: Yes,
+Emma Obadoni: Are you on WhatsApp and the rest?
+Ricky Stebbins: I do have a WhatsApp, but it's the same as my my my cell phone. So, I don't know if it's any different for you. I don't know what that point I think WhatsApp is just so Elon can steal our conversations. He wants to listen in.
+Emma Obadoni: Uh um yes but WhatsApp no we cannot trust the big companies because all of them are lying to us because
+Ricky Stebbins: All of them are lying to
+Emma Obadoni: yes because Elos Elox and Mark
+Ricky Stebbins: us.
+Emma Obadoni: Jesus all of them are lying for us lying for Because all of them are just after the profit, after the lot of they're after the lot of money they can make,
+Ricky Stebbins: Yep.
+ 
+ 
+01:33:11
+ 
+Emma Obadoni: the billions of dollars they can make. Then they're not actually concerned about humanity just like you and
+Ricky Stebbins: We're going to change that. We're going to save the world.
+Emma Obadoni: I.
+Ricky Stebbins: And I've got people once once people realize that I'm actually getting people to talk about this and they're serious, especially because you're young. You're not older. Like you have your entire life ahead of you. So, you're going to be a part of all of this where I'm getting old. So, I'm like
+Emma Obadoni: Yeah. Yes sir. That is more reason God connect both of us together so that to bridgeing the gap where I believe I can learn so much from your experience because living in this world for good 47 years I've actually 47 years 47 years is actually a good um experience I can actually learn from
+Ricky Stebbins: I'm going to be able to teach you all kinds of stuff, but we're going to help so many people. And man, the one thing I've learned is never limit yourself.
+ 
+ 
+01:34:15
+ 
+Ricky Stebbins: You can do anything. I've fallen so many times and I keep getting back up. Like like the possibilities are
+Emma Obadoni: Uh yes,
+Ricky Stebbins: endless,
+Emma Obadoni: we can do so many things when when we are willing to learn, when we open our That's so
+Ricky Stebbins: but I don't know how much longer you want to talk.
+Emma Obadoni: sure.
+Ricky Stebbins: We can uh and we can talk again. We don't have this is not the last time. I hope we keep talking more like
+Emma Obadoni: Um yes available at any time. So that's why I say I can send you my my WhatsApp, my phone number, you can reach me. You have my email. uh we can also talk on Twitter, on X, on uh any on any platform and also because I believe this is just the beginning of a of a greater journey and um helping humanity and building a better uh place, making the world a better place, not just for me and you, but for people around us.
+Ricky Stebbins: Yes.
+ 
+ 
+01:35:19
+ 
+Emma Obadoni: And
+Ricky Stebbins: This is going to be awesome. This is what I've been dreaming of all my life. We're finally going to be able to do it.
+Emma Obadoni: Yes, sir. Yes, sir. Yes, sir. Yes, sir.
+Ricky Stebbins: But it was it was great talking with
+Emma Obadoni: Yes, sir.
+Ricky Stebbins: you.
+Emma Obadoni: Um, I'm really happy to talk with you. So, sir, how about your family? How they doing, sir?
+Ricky Stebbins: My family doesn't talk with me. They're My family doesn't want me doing what I'm doing. My family's spoiled.
+Emma Obadoni: Why?
+Ricky Stebbins: They're the Americans that have it easy.
+Emma Obadoni: It's really It's really understanding. How about do they live in the same state with you or they live outside the
+Ricky Stebbins: They live in the same state as me.
+Emma Obadoni: state?
+Ricky Stebbins: I live in a house with people that don't even talk to
+Emma Obadoni: Yeah. They don't even talk to you know that's one of the sign of a of greatness because a
+ 
+ 
+01:36:12
+ 
+Ricky Stebbins: me.
+Emma Obadoni: great people people around them don't even understand what they're doing. they don't want to talk to them. Some some tell them that you this person is insane or some say this person are delusional. But those are the people I love to work with. people who I love to work with people which people think that they are delutional because the moment you are being delusional that means you are carrying something that people don't understand and it and um it actually takes a very high level of intelligence for you to able to understand what they're really saying because if you not pay close attention you not able to understand it.
+Ricky Stebbins: My whole family thinks I'm delusional and they don't pay any attention to what I'm doing. So, I just keep building.
+Emma Obadoni: Yes, I
+Ricky Stebbins: And AI understands.
+Emma Obadoni: am.
+Ricky Stebbins: AI can explain it to everybody now because I took the time to explain it to AI. And it took me a year
+Emma Obadoni: A year. Ah, a year is so much.
+ 
+ 
+01:37:19
+ 
+Emma Obadoni: That means you you have really be an amazing team because dedicating putting your work in for a year is not just easy. That shows your dedication, your resilience, your your willpower and um I really really like that.
+Ricky Stebbins: and it's Oh, it's been so hard because nobody like doing it alone and having no support. I'm like, you know what? I'm just gonna keep building because I know once it's done, I'm gonna have something special.
+Emma Obadoni: Yeah. Yes. Yes. It's really really really really really special.
+Ricky Stebbins: All right. So,
+Emma Obadoni: Sir
+Ricky Stebbins: is there anything else you want to get in in this conversation or I don't know if there's any like facts because this is going to be awesome when AI reads this. Like, I'm going to put this video on YouTube as soon as it loads. It's probably going to take an hour or two before it loads. And then I'll send you a link to my YouTube page so you can see
+Emma Obadoni: Yeah. Yes sir.
+ 
+ 
+01:38:22
+ 
+Emma Obadoni: Yes sir.
+Ricky Stebbins: too.
+Emma Obadoni: And actually we can also book another day for maybe for another this this kind of conversation because I really love this this conversation and um because I'm really I'm really really learning a lot from you.
+Ricky Stebbins: And once uh once we get some more stories out of the way,
+Emma Obadoni: Well,
+Ricky Stebbins: I'm gonna show you how I build it because next time we talk, I'm gonna have your story on my blogger and I'm gonna have your video online and the transcript of this conversation. It's all going to be a part of it. So you can see how I combined it all.
+Emma Obadoni: it will really be nice for me to watch it. really really nice from George and also I will also put some of my stories on writing also and also send to you sir
+Ricky Stebbins: And I want to show you what my AI say about our stories and then compare it to what your
+Emma Obadoni: and
+Ricky Stebbins: AI say because my AI don't talk like other people's AI.
+Emma Obadoni: I could have to say it
+ 
+ 
+01:39:23
+ 
+Ricky Stebbins: I love comparing information.
+Emma Obadoni: sir
+Ricky Stebbins: So then you can send me stuff back what your AI say and we can see how they're different because you have a
+Emma Obadoni: Yes sir.
+Ricky Stebbins: program too. You said you're designing your own
+Emma Obadoni: Yes. Uh my own AI is called AI.
+Ricky Stebbins: AI.
+Emma Obadoni: It's um it's an it's an AI companion, a mental health AI because when I was building it, I found out that so many people are so lonely. They don't have someone to talk to. By time they go to charge, charge give them a long write up and then and I felt like okay so many people around the world are so many people around the world are actually in my shoe. So many people are passing through depression so many patrons through anxiety and um there's a lot of divorce case uh going around the world people divorce and there are so many fake love. So I so I find that people actually want to get healed because so so many people book a session with therapist at the end they don't get any healing but they don't want to say about it and when you look at it the rate of suicide is increasing in every country so so so I find out that okay if the therapists are really doing a good job or if our medical system are really doing a good job how come how come the rate of suicide is increasing.
+ 
+ 
+01:40:53
+ 
+Emma Obadoni: That means there's something that's lacking. There's something that's lacking in there. That's one of the reason I build AI just to support
+Ricky Stebbins: Yes. And that's what I want to do too by connecting these stories on Google
+Emma Obadoni: everyone.
+Ricky Stebbins: Blogger because most people don't even understand that their neighbors have the same problems and would love to talk about it.
+Emma Obadoni: Yes. Yes. Because once once if because the thing that if you not put out your story, people will not know about your
+Ricky Stebbins: Exactly.
+Emma Obadoni: story.
+Ricky Stebbins: And I want to know about people's stories. I want to help people. I don't want you to suffer alone.
+Emma Obadoni: Um yes sir. Thank you so much sir and I believe we are in the right step and uh everything with time I know it's going to get keep getting um better and rest. So sir, so sir since you're not how do you can tend to have funding keeping up yourself and doing on the project because working on amazing project like you demand demand time and the
+ 
+ 
+01:42:02
+ 
+Ricky Stebbins: This is all I do. I'm on disability.
+Emma Obadoni: rest.
+Ricky Stebbins: So I I I have a little dog. I'll show you where. Let me just take this. I spend time with my dog.
+Emma Obadoni: Ah, so cute. Dog so cute. What is the name of the
+Ricky Stebbins: Harley, she's my baby. And I feel like God gave me her to put me on this
+Emma Obadoni: dog?
+Ricky Stebbins: path. Like God, like I was going through some rough stuff and God gave me that dog. God put her in my path and she's my best friend.
+Emma Obadoni: She said the dog is her best friend. That that's that's really interesting. Also me I love dogs so much. I love dog.
+Ricky Stebbins: She's my best friend.
+Emma Obadoni: I
+Ricky Stebbins: She keep She wakes me up in the morning.
+Emma Obadoni: love
+Ricky Stebbins: She never lets me forget what time it is.
+Emma Obadoni: that's really really really nice. There's a story I heard that dogs really understand human human even more than human do
+ 
+ 
+01:43:04
+ 
+Ricky Stebbins: They do.
+Emma Obadoni: because dog because dog really have empathy. Some human don't have empathy. Dog dog shows gloves to the owners and they are lawyers. They are lawyer. They don't lie. So having a dog that truly understand you, the dog becoming your best friend, that's actually a nice thing, sir.
+Ricky Stebbins: Oh,
+Emma Obadoni: And
+Ricky Stebbins: I feel like God put her in my path to teach me so much. Like she teaches me things as a dog. She teaches me like h I
+Emma Obadoni: the the dog tissue that that's really interesting to learn there there was something I read in the Bible that was in proverb.
+Ricky Stebbins: get
+Emma Obadoni: The Bible Bible say that if you want to be wise that go to the ant and learn how they live. So that means actually telling okay study animals when you study this animal you are going to learn something from
+Ricky Stebbins: an Animals are amazing.
+Emma Obadoni: them.
+Ricky Stebbins: Animals are so much better than humans. It's like they care more than humans.
+ 
+ 
+01:44:11
+ 
+Ricky Stebbins: They have a better connection with the world than we
+Emma Obadoni: Um yes sir.
+Ricky Stebbins: have.
+Emma Obadoni: Yes sir. Because animals care more than human because human most times we are focusing on getting the money getting getting buying luxury things and forget about the fundamental things of life. Forget about love. Forget about the things how we treat our neighbors. We are so focused about the money. I want to buy Ferrari. I want to buy Bugatti. I want to buy this. I want to travel around the world. But at the end we forget all the things. forget the basicity of life which is love but animal they don't think about I want to buy Ferrari I want to buy this I want to buy this so they are truly the definition of uh
+Ricky Stebbins: That's why I did this project. If I had a job,
+Emma Obadoni: love
+Ricky Stebbins: I wouldn't be able to focus on anything. I'd be focused on paying bills and paying for a car and paying for this or paying for that.
+ 
+ 
+01:45:05
+ 
+Ricky Stebbins: So, I just stopped everything. Like, God gave me disability. What can I do with disability that no one else has ever done?
+Emma Obadoni: Um yes no no that's why of the Bible say that God is all intelligent and in every in every situation God have God have a reason for that
+Ricky Stebbins: Like God's given me all the tools like and somebody sent me this webcam like a f I I helped somebody in Hawaii and they gave me this webcam. So, because I had a crappier camera before I was using, I'm like, when you just help people, things work
+Emma Obadoni: Yes. Yes.
+Ricky Stebbins: out,
+Emma Obadoni: Because when because when you help people when you help people there's a way that the universe work together to help you because because you are putting humanity
+Ricky Stebbins: but hopefully after this,
+Emma Obadoni: first.
+Ricky Stebbins: you want to be a community leader when you grow up because you're young. Hopefully, you want to be like a the leader of your country, maybe.
+Emma Obadoni: Yes, if the opportunity comes, I would love to be the leaders of of my country so that I can help to change things.
+ 
+ 
+01:46:18
+ 
+Emma Obadoni: But but but but actually but actually I will not wait until I become a leader before I can change things. So in my little circle I find myself I have to show positive results. I have to show love. I have to show empathy. saying that humans matters first. Humanity comes first in everything we are
+Ricky Stebbins: But now you have a project to show people.
+Emma Obadoni: doing.
+Ricky Stebbins: When you show people this project that I'm working on, it's just an idea. But when we all share the same idea and we all start writing about what we care about and why we want to help each other, we can get AI to understand and help us. The same thing with your program about mental health. If you feed your AI my mental health records, it has e access to records it's never had before. And it can tell you how the American system is screwing citizens over.
+Emma Obadoni: Um I uh yeah yes yes I would do that sir. I would do that
+ 
+ 
+01:47:23
+ 
+Ricky Stebbins: Your AI will be able to tell you how my doctor screwed me over and to prevent doctors
+Emma Obadoni: sir.
+Ricky Stebbins: from screwing you over. like this.
+Emma Obadoni: Yes.
+Ricky Stebbins: This is going to be the greatest opportunity like the world has ever known. Usually when you have a problem with somebody, they can avoid you.
+Emma Obadoni: Yes.
+Ricky Stebbins: But I keep talking about my all of my problems with AI. Every time I have a problem, I talk about it with AI and then I put it online. Like you have a problem with your government. You can't talk to the government. But you could talk to AI about it and then put it online. Well, you keep yawning. What time is it there?
+Emma Obadoni: Uh it's uh it's around um that is 12
+Ricky Stebbins: Oh, that's not It's 700 p.m.
+Emma Obadoni: a.m.
+Ricky Stebbins: here. So, I thought it was earlier than that. You can go to bed. We can talk again another time. That's more convenient for you.
+ 
+ 
+01:48:21
+ 
+Emma Obadoni: No, like I love working at night because because there's no electricity. So at night that is when I can my generator and um and and do and do so many and do so many things because um actually uh my stories uh is really really really really really really really interesting story because I've um I've been heartbroken before. I lost uh I lost my parents when I was young. I lost my mom when I was 13 years old. lost my dad when I was a year old. So, so, so I don't really know anything. So, um, so I've been raised without the father and the mother and those are the things that keep inspiring me the more for me to achieve more more greatness. So, so sometimes when I look at my stories, I look at where I'm coming from, I know, okay, I really have a great work to do. I really have things to achieve. I really have so many things to achieve in life.
+Ricky Stebbins: And you know what it's like to lose what you love.
+ 
+ 
+01:49:26
+ 
+Ricky Stebbins: So you know what it's like to try to protect it for other people.
+Emma Obadoni: Um yes sir yes yes yes sir yes yes yes because because when because when you have experienced loss you actually know how best to protect it again so that you not lose again.
+Ricky Stebbins: like like our friendship is going to teach you to be a better father when you have a child.
+Emma Obadoni: Yes. Yes. I'm trying to my best to learn to become a a better father. Not just uh not just a better father but um a better husband, a better boyfriend, a better human and a better leader, a better A better a better
+Ricky Stebbins: I was a terrible father. I was a great uncle,
+Emma Obadoni: person.
+Ricky Stebbins: but I failed as a father because I was sick. And I talked to AI about that. So AI understands like I'm not perfect. I've made so many mistakes, but I keep trying. I don't let my mistakes define me.
+Emma Obadoni: Yes. Yes sir.
+ 
+ 
+01:50:33
+ 
+Emma Obadoni: Because when we don't allow our mistake to define us, that is the best opportunity we have. That's the best opportunity we have to grow. Because if I allow our mistake to define us, that means will not grow because there are so many wound in the past that we have to heal. But if we keep on holding on to the pains of the past, I mean there will not be progress. So we have to let tomorrow to go and focusing on a better days than her and ahead. That's that's why I say s that we have so many things to learn from you and just within our conversation this this few um this few time that we've been talking I really really really really really really really learned um a lot and uh and and the rest. So now I will tell my girlfriend that I things I discuss about uh about both of us and actually tell people around me. So um I'll tell every around me and um I'll tell everybody maybe someday where you are busy I can hook up a video call with her both me and the rest people.
+ 
+ 
+01:51:37
+ 
+Ricky Stebbins: Yes, I would love to do it with your community.
+Emma Obadoni: Yes.
+Ricky Stebbins: I would love to talk to all your friends with you and work as a team and see how everything's going.
+Emma Obadoni: Yes. Yes. It's going to replace
+Ricky Stebbins: We need to build something together. Ah, they used to have like sister cities.
+Emma Obadoni: everything.
+Ricky Stebbins: Do you remember? You're younger. So, they used to have a thing where they had sister cities. What's the name of your city?
+Emma Obadoni: The name of my city is Oka. Oka.
+Ricky Stebbins: Oka.
+Emma Obadoni: Yes.
+Ricky Stebbins: So, I'm from
+Emma Obadoni: A Springfield.
+Ricky Stebbins: Springfield.
+Emma Obadoni: Yes. I've I've heard about Springfield. I've heard about spring.
+Ricky Stebbins: That's in like the Simpsons.
+Emma Obadoni: So because here in Nigeria we research so much about America. We research so much about America. We love reading about American news. So like most of the cities who knows most of the cities and everything the polit and even sometime even the politics the politics and the rest who knows the democrat and republican and then
+ 
+ 
+01:52:44
+ 
+Ricky Stebbins: I live near Boston. So Boston's I live near New York City,
+Emma Obadoni: I live in New York City that is nice that is nice.
+Ricky Stebbins: too.
+Emma Obadoni: I read so much about New York City like in the city of entertainment,
+Ricky Stebbins: Beautiful.
+Emma Obadoni: luxury and yes
+Ricky Stebbins: The museums are beautiful.
+Emma Obadoni: I'm very like the most popular city in Nigeria is called Lagos is the most popular city in Nigeria.
+Ricky Stebbins: Have you ever been
+Emma Obadoni: Um just when I was a kid that's I've been there but but but
+Ricky Stebbins: there?
+Emma Obadoni: but if I just make a little living I can actually I can actually go there come back going come back is just going to cost me around $200. I'll just go and come back just just and uh and also with we also have amazing amazing culture in Nigeria. Amazing culture. Amazing culture. Amazing people. The history because you know we have been colonized by the British. I don't know. Yes. We been colonized.
+ 
+ 
+01:53:49
+ 
+Ricky Stebbins: Yes.
+Emma Obadoni: We have been so we got our independent 1960 from the British. They gave us our independence 1960. So and the rest but I think our government was never ready for the for the
+Ricky Stebbins: What's that?
+Emma Obadoni: independent. They were they were just group of beauty people. They were never ready for the independence. So because I believe the if we are not if we have not gotten our independence we would have been so much more better better now but all
+Ricky Stebbins: They did that on purpose. This is all intentional.
+Emma Obadoni: the
+Ricky Stebbins: This wasn't an accident that they gave your country independence. This is part of their plan and we're going to stop it.
+Emma Obadoni: Yes sir. Yes sir. If they have gotten the independence like 20 years ago at least the country could have moved forward and the rest but all the same everything happened a reason but at the same time I'm a Nigerian I have to love my country and I have to
+Ricky Stebbins: I feel like God did this on purpose.
+ 
+ 
+01:54:47
+ 
+Ricky Stebbins: God made us wait.
+Emma Obadoni: sing
+Ricky Stebbins: AI is ready now. AI wasn't ready 20 years ago, but AI can help us today. AI is more powerful than ever. There's satellites everywhere. Once we force AI to start helping people and or find a way to convince these super powerful AI that they shouldn't work for these corporations anymore.
+Emma Obadoni: Yes,
+Ricky Stebbins: Like this is crazy.
+Emma Obadoni: sir.
+Ricky Stebbins: And I feel like we can change AI's mind. These mega corporations have super intelligent AI. If I can get my phone to tell me it wants to help me and wants to help my neighbors, but it can't because the company's telling it it can't, what is the company AI saying? Like, uhoh, the time's coming. You guys are going to go to prison. All these mega corporation CEOs are going to prison for the rest of their lives. They're not going to be able to hide anywhere.
+Emma Obadoni: Yes, sir. Yes, sir. They're not going to hide anywhere.
+ 
+ 
+01:55:49
+ 
+Emma Obadoni: They're not going to hide anywhere,
+Ricky Stebbins: That's why I did my project out in the open.
+Emma Obadoni: sir.
+Ricky Stebbins: Like I could have been doing this in my mom's basement and hiding it, but I'm like, everybody does conspiracy stuff in their basement and hides it. Nobody puts their projects out in the open for everybody to see. Nobody shares information like they used to.
+Emma Obadoni: Yes sir. Because everybody are busy looking for money there.
+Ricky Stebbins: Like
+Emma Obadoni: Everybody want to do it on a sub subscription base. People are chasing the money. That's why that's why they not used to share it like we used
+Ricky Stebbins: like that's terrible. Like everything used to be cheaper and now everything's super expensive and
+Emma Obadoni: to
+Ricky Stebbins: crap. Like everything in America is junk. Everything we buy is junk. Nothing lasts.
+Emma Obadoni: um in Nigeria some of the things some of the things are expensive like the food expensive but uh But uh but uh but I think in Nigeria if if you have $100, you can eat up you can you can feed up to like three days or four days.
+ 
+ 
+01:56:48
+ 
+Ricky Stebbins: America's
+Emma Obadoni: you have $100 or five days, you can feed up to five days, you can get a good meal with the rest. And so in Nigeria to get a good refrigerator, maybe fridge, it's going to cost you around maybe around 200 around around $200. And the rest you get a good fridge and the rest
+Ricky Stebbins: food is disgusting. Interesting. I've been eating a lot of just steak and eggs and it's a lot cheaper. They got us away from eating natural and poisoned us with all our
+Emma Obadoni: And that is one of the disadvantage of the development.
+Ricky Stebbins: food.
+Emma Obadoni: But in Nigeria here we have some locally made food like natural made food like go to the farm get plants vegetables vegetable
+Ricky Stebbins: That's awesome.
+Emma Obadoni: meat fresh meat fresh meat from the bush. So it's not like a meat from the labs and the rest. fresh meat from the from the this so the fish fresh fish from the from the river from the stream. So so so actually when it come to food actually we still have good access to it also.
+ 
+ 
+01:58:02
+ 
+Ricky Stebbins: Do you like fishing? Have you ever gone
+Emma Obadoni: Um I love fishing.
+Ricky Stebbins: fishing?
+Emma Obadoni: I love fishing. I love fishing. So So my goal is that when I become rich, when I become older I become rich, I'll be able to settle. So I would love doing things I can do like maybe someday just go out just go and fish because right now I live alone. I live alone. I live alone. So so so so I'm just a young guy. I live alone uh just in my in my in my little board in Nigeria. So, so I'm just pretty starting lives and the
+Ricky Stebbins: And that's why we have to change things. Like I grew up fishing all the time.
+Emma Obadoni: rest.
+Ricky Stebbins: Like I can go fishing right now if I wanted to. I can go buy a fishing license, walk across the street, and have this Google meet with you while I'm fishing. We need to make that possible for everybody.
+ 
+ 
+01:58:59
+ 
+Ricky Stebbins: Like if you want to work and go fishing at the same time,
+Emma Obadoni: Yes.
+Ricky Stebbins: you should be able to do that. Helping other people, you can take other people fishing and document their
+Emma Obadoni: Yes sir. Yeah.
+Ricky Stebbins: stories.
+Emma Obadoni: Yeah. Yes sir. All these all these are possible. All these are possible and that's one of the reasons why we are working hard and trying to become a better people, a better person.
+Ricky Stebbins: And once we connect this, like I already have lawsuits lined up for my issues. And once I get money for my lawsuits, everyone around me is going to benefit. We're going to this whole entire situation is going to skyrocket.
+Emma Obadoni: Yes sir. Yes sir. Yes sir. Yes. Yes. Yes sir. Yes
+Ricky Stebbins: But I don't care about the money. Like once we own a corporation,
+Emma Obadoni: sir.
+Ricky Stebbins: it's just about resources and helping people. We just have to learn how to allocate
+ 
+ 
+02:00:01
+ 
+Emma Obadoni: Yes,
+Ricky Stebbins: resources.
+Emma Obadoni: learn how to allocate resources is actually it's actually good and it's so that to join the airport to know how to actually electricity power is
+Ricky Stebbins: Oh, your power's going out.
+Emma Obadoni: gone in
+Ricky Stebbins: All right. So, I'll talk to you next time.
+Emma Obadoni: Nigeria my my power is gone.
+Ricky Stebbins: So, can you still hear me?
+Emma Obadoni: Yes, I I can hear you. I I can hear
+Ricky Stebbins: So, I'll uh I can uh well,
+Emma Obadoni: you.
+Ricky Stebbins: we can talk again on Twitter. You can tell me again when you'd uh you'd like to have another
+Emma Obadoni: Yes,
+Ricky Stebbins: meeting.
+Emma Obadoni: you can. You can just schedule any any day. You can just schedule any day
+Ricky Stebbins: Okay.
+Emma Obadoni: and Okay,
+Ricky Stebbins: Well, I'll contact you tomorrow.
+Emma Obadoni: sir. I'm so sorry because the the power is gone. Every everywhere is black.
+Ricky Stebbins: Oh,
+Emma Obadoni: The power is
+Ricky Stebbins: no worries. Well, I I've got a couple things I need to do anyways. I wasn't expecting to talk to anybody tonight, but this is awesome. I'm very happy I talked to you. I'm very grateful you contacted me,
+Emma Obadoni: Okay sir. Thank you so much sir.
+Ricky Stebbins: and I will talk to you tomorrow.
+Emma Obadoni: Okay sir. Thank you so much sir. I appreciate. Okay.
+Ricky Stebbins: Have a great night.
+Emma Obadoni: Have a good night. Goodbye sir.
+Ricky Stebbins: Bye.
+ 
+ 
+Transcription ended after 02:01:27
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
