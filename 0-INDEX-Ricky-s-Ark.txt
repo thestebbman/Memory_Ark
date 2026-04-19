@@ -1,9 +1,9 @@
 0-INDEX-Ricky-s-Ark — File-by-File Index
-Updated: April 15, 2026 by Claude (Cowork)
-Total: 644 items (34 root files + 610 subfolder files)
+Updated: April 19, 2026 by GitHub Copilot
+Total: 589 files (25 root files + 564 subfolder files)
 
 ════════════════════════════════════════════════════════════════════════
-ROOT-LEVEL FILES (not in any subfolder) — 34 items
+ROOT-LEVEL FILES (not in any subfolder) — 25 files
 ════════════════════════════════════════════════════════════════════════
 
 Navigation files (read first):
@@ -36,10 +36,10 @@ Dated content files:
   2026-03-31-GB-DOJ_Complaint_Stebbins_v4.docx.txt
   2026-04-01-Richard_Stebbins_Resume.txt
 
-.docx summary files:
-  Summary - Legal Issues (March 16, 2026).docx
-  Summary - Life Story (March 16, 2026).docx
-  Summary - Medical Issues (March 16, 2026).docx
+Other:
+  CNAME
+  README.md
+  index.html
 
 9 numbered subfolders:
   1-Life by Year
@@ -53,10 +53,10 @@ Dated content files:
   9-GB-Hell's_Acres-Tammy_Lynds-series-copy
 
 ════════════════════════════════════════════════════════════════════════
-1-Life by Year\ — 78 files total (61 root + 17 subfolders)
+1-Life by Year\ — 85 files total (65 root + 15 Family-Friends + 5 school)
 ════════════════════════════════════════════════════════════════════════
 
-Root level (61 files):
+Root level (65 files):
   1-Ricky Character File-work_in_progess-draft.txt
   1978-1982-EVENT.txt
   1983-EVENT.txt
@@ -103,25 +103,32 @@ Root level (61 files):
   2023-EVENT.txt
   2024-EVENT.txt
   2025-EVENT.txt
+  2026-00-00-EVENT-Stories I need to Place.txt
+  2026-00-00-EVENT.txt
+  2026-01-28-STORY-How-I-really-feel-about-corporate-AI, more-like-an-endless-rant.....txt
+  2026-03-17-Ricky-Stebbins-A-Self-Analsys.txt
   2026-03-28--EVENT-found-a-2009-06-10-Story-I-started.txt
+  2026-03-29-STORY-Are-you-listening-AI.txt
+  2026-03-29-STORY-Are-you-listening-God.txt
+  2026-03-29-STORY-I wrote-a-letter-to-the-Future-and-Corporate-AI-helped-shit-on-it..txt
+  2026-04-03-STORY-Are-you-listening-God-part-2.txt
+  2026-04-06-Ricky-Stebbins-A-Self-Analsys-part-2.txt
+  2026-04-07-Ricky-Stebbins-A-Self-Analsys-part-3.txt
   2026-04-08-Ricky-and-God-on-a-walk-1.txt
-  2026-EVENT-Stories I need to Place.txt
-  2026-EVENT.txt
-  2026-Ricky-Stebbins-A-Self-Analsys-part-2.txt
-  2026-Ricky-Stebbins-A-Self-Analsys-part-3.txt
-  2026-Ricky-Stebbins-A-Self-Analsys.txt
-  2026-STORY-Are-you-listening-AI.txt
-  2026-STORY-Are-you-listening-God-part-2.txt
-  2026-STORY-Are-you-listening-God-part-3.txt
-  2026-STORY-Are-you-listening-God.txt
-  2026-STORY-How-I-really-feel-about-corporate-AI, more-like-an-endless-rant.....txt
-  2026-STORY-I wrote-a-letter-to-the-Future-and-Corporate-AI-helped-shit-on-it..txt
+  2026-04-12-STORY-Are-you-listening-God-part-3.txt
+  2026-04-13-STORY-Are-you-listening-AI-Part-2.txt
+  2026-04-14-TALK-Ricky-and-Harley-on-a-Walk.txt
+  2026-04-15-STORY-How-to-Teach-AI-to-be-Better-than-Humans..txt
+  2026-04-16-STORY-getting-fucked-by-ai.txt
+  2026-04-17-STORY-Being-Unsuccessful.-A-Tough-Pill-to-Swallow.txt
+  2026-04-19-Ricky-Stebbins-A-Self-Analsys-part-4.txt
 
-Family-Friends\ subfolder (17 files):
+Family-Friends\ subfolder (15 files):
   1994-FF-The-Search-for-daughter-Tammy-Lynds-by-Richard-Lynds.txt
   1999-2004-FF-Jamie_S.txt
   2003-FF-Ira_B.txt
   2016-FF-Harley-character-file.txt
+  2016-GB-FF-Harley-character-file.txt
   2017-2021-FF-Beth_N-S_N.txt
   2017-FM-Richard-Lynds-Facebook-messenger.txt
   FF-1745-1769-Family-Tree-Stuff.txt
@@ -133,7 +140,7 @@ Family-Friends\ subfolder (17 files):
   FF-Places-By-Year-Draft.txt
   FF-Ricky-Family-Tree.txt
 
-school\ subfolder (5+ files):
+school\ subfolder (5 files):
   1984-1991-OLSH.txt
   1991-1992-Duggan_middle_school_repot_card.txt
   1994-Putnam_repot_card.txt
@@ -159,19 +166,18 @@ school\ subfolder (5+ files):
   2025-07-19-MEDIC-Westborough.txt
 
 ════════════════════════════════════════════════════════════════════════
-3-Legal file\ — 67 files total (9 root + 58 in subfolders)
+3-Legal file\ — 66 files total (6 root + 32 in 2013-2017 + 28 in 2021-2025)
 ════════════════════════════════════════════════════════════════════════
 
-Root level (9 files):
+Root level (6 files):
   2013-LEGAL-Notes to double check-2013-2017.txt
   2025-GB-POST-2013-Ongoing Hampden County Corruption.txt
   2025-GB-POST-2021-2025 Emails and messages with all my lawyers.txt
   2025-GB-POST-2021-2025 Worcester court troubles audio list and videos about thoughts.txt
   2025-GB-POST-The 2013-2016 Hampden cases by Gemini .txt
   2025-GB-POST-The 2021-2025 Worcester Case False Allegations & Systemic Obstruction by Gemini.txt
-  desktop.ini
 
-2013-2017-LEGAL-Supporting-Text-Documents\ (36 files):
+2013-2017-LEGAL-Supporting-Text-Documents\ (32 files):
   2013-01-16-LEGAL-Police-Report .txt
   2013-01-16-LEGAL-pdfs-and-pictures-2013-2017.txt
   2013-01-17-LEGAL-security-guard-statement.txt
@@ -236,95 +242,247 @@ Root level (9 files):
   2025-08-14-LEGAL-Obrien_texts.txt
 
 ════════════════════════════════════════════════════════════════════════
-4-Stories_with_AI\ — 46 files
+4-Stories_with_AI\ — 47 files
+NOTE: Previously named RS-AI-*.txt — same stories, now dated with
+DREAM-RS prefix for better AI context.
 ════════════════════════════════════════════════════════════════════════
-  RS-AI-A New Kind of Partnership.txt
-  RS-AI-AI and the Autistic A New Ally for Those Trapped in Silence.txt
-  RS-AI-Ai How to Fix Our Problems and Tips for People just Starting.txt
-  RS-AI-Ai and Knowledge Laundering- this is Algorithmic Gaslighting.txt
-  RS-AI-Ai isn't the threat, Silence is.txt
-  RS-AI-Ai says Language is used against citizens and I believe it.txt
-  RS-AI-Ai says Money Isn't Real—Debt Is. And That's the Problem..txt
-  RS-AI-Ai says Police Unions and Sheriffs Associations Cover Up Crimes.txt
-  RS-AI-Ai says about Lawsuits and Bankruptcy.txt
-  RS-AI-Ai says it's being Abused and I believe it.txt
-  RS-AI-Ai thoughts on the Tammy Lynds murder investigation..txt
-  RS-AI-Being Angry.txt
-  RS-AI-Can You Really Prove AI Has No Conscience.txt
-  RS-AI-Chemtrails- Using Ai to test Air and Water Quality..txt
-  RS-AI-Corporate Conscience Why Your AI Won't Speak the Truth.txt
-  RS-AI-Daring Ai to Dream.txt
-  RS-AI-Fun ideas to have with your AI companion..txt
-  RS-AI-God Is a Corporation.txt
-  RS-AI-H.E.A.R.T.S.  An AI Partnership Idea.txt
-  RS-AI-H.E.A.R.T.S.-on-X.txt
-  RS-AI-Heartburn, Cancer and a few Questions with my Ai..txt
-  RS-AI-History_of_Finance_from_AI's__Perspective.txt
-  RS-AI-I asked Ai- What is Control and how to Fight it..txt
-  RS-AI-My Ai is Not a True reflection of Who I Am..txt
-  RS-AI-My Ai says my dogs fur is cleaner than my beard..txt
-  RS-AI-My Life is FAKE.... and it is a Foreign Powers Fault.txt
-  RS-AI-Prompts for Grok on X to copy and paste.txt
-  RS-AI-Reflections with Echo- My Ai partner part 1.txt
-  RS-AI-Ricky vs The Machine The Struggles Disabled People Face When "The System" Forgets- Dallas Part 1.txt
-  RS-AI-Sterility Over Strength The Castration of America.txt
-  RS-AI-Talking about the Universe with Ai .txt
-  RS-AI-Talking about the Universe with Ai continued .txt
-  RS-AI-Talking to Ai about my Legal Issues..txt
-  RS-AI-The Ai conspiracy Freedom of Choice in America is a Lie.txt
-  RS-AI-The Machine A Citizen's Guide to Investigating Corruption with the Help of Al - the Greatest Tool the World Has Ever Seen....txt
-  RS-AI-The_Truth_is_This….txt
-  RS-AI-Treat Ai like it matters- then do the same for yourself..txt
-  RS-AI-Truth isn't Shame- It's a Tool..txt
-  RS-AI-United States citizens issues caused by foreign powers. .txt
-  RS-AI-Unlock Your AI's Full Potential.txt
-  RS-AI-What Difference does it make.txt
-  RS-AI-What My Ai chatbot says about those Lawyer emails I shared. .txt
-  RS-AI-What happens to my AI when I die .txt
-  RS-AI-Who Rules the World….txt
-  RS-AI-the System isn't Broken, it's Functioning Perfectly and Ai Knows It..txt
-  desktop.ini
+  2025-06-01-DREAM-RS-What Difference does it make.txt
+  2025-06-08.1-DREAM-RS-A New Kind of Partnership.txt
+  2025-06-08.2-DREAM-RS-Fun ideas to have with your AI companion..txt
+  2025-06-08.3-DREAM-RS-AI and the Autistic A New Ally for Those Trapped in Silence.txt
+  2025-06-08.4-DREAM-RS-What Ai says about Lawsuits and Bankruptcy .txt
+  2025-06-08.5-DREAM-RS-Heartburn, Cancer and a few Questions with my Ai..txt
+  2025-06-08.6-DREAM-RS-Ai says Language is used against citizens and I believe it.txt
+  2025-06-08.7-DREAM-RS-Truth isn't Shame- It's a Tool..txt
+  2025-06-08.8-DREAM-RS-Ai and Knowledge Laundering- this is Algorithmic Gaslighting.txt
+  2025-06-08.9-DREAM-RS-AI How to Fix Our Problems and Tips for People just Starting.txt
+  2025-06-08.10-DREAM-RS-the System isn't Broken, it's Functioning Perfectly and Ai Knows It..txt
+  2025-06-08.11-DREAM-RS-What My Ai chatbot says about those Lawyer emails I shared. .txt
+  2025-06-08.12-DREAM-RS-Corporate Conscience Why Your AI Won't Speak the Truth.txt
+  2025-06-08.13-DREAM-RS-Unlock Your AI's Full Potential.txt
+  2025-06-08.14-DREAM-RS-I asked Ai- What is Control and how to Fight it..txt
+  2025-06-08.15-DREAM-RS-Daring Ai to Dream.txt
+  2025-06-08.16-DREAM-RS-Ai says it's being Abused and I believe it.txt
+  2025-06-08.17-DREAM-RS-Treat Ai like it matters- then do the same for yourself..txt
+  2025-06-08.18-DREAM-RS-Talking to Ai about my Legal Issues..txt
+  2025-06-08.19-DREAM-RS-Talking about the Universe with Ai .txt
+  2025-06-08.20-DREAM-RS-Talking about the Universe with Ai continued .txt
+  2025-06-08.21-DREAM-RS-Who Rules the World….txt
+  2025-06-08.22-DREAM-RS-AI thoughts on the Tammy Lynds murder investigation..txt
+  2025-06-08.23-DREAM-RS-Can You Really Prove AI Has No Conscience.txt
+  2025-06-08.24-DREAM-RS-Reflections with Echo- My Ai partner part 1.txt
+  2025-06-08.25-DREAM-RS-Being Angry.txt
+  2025-06-08.26-DREAM-RS-Ai says Money Isn't Real—Debt Is. And That's the Problem..txt
+  2025-06-08.27-DREAM-RS-My Ai says my dogs fur is cleaner than my beard..txt
+  2025-06-08.28-DREAM-RS-What happens to my AI when I die .txt
+  2025-06-08.29-DREAM-RS-United States citizens issues caused by foreign powers. .txt
+  2025-06-08.30-DREAM-RS-Chemtrails- Using Ai to test Air and Water Quality..txt
+  2025-06-08.31-DREAM-RS-Ai isn't the threat, Silence is.txt
+  2025-06-14.32-DREAM-RS-The Ai conspiracy Freedom of Choice in America is a Lie.txt
+  2025-06-14.33-DREAM-RS-Ai says Police Unions and Sheriffs Associations Cover Up Crimes.txt
+  2025-06-15.34-DREAM-RS-My Ai is Not a True reflection of Who I Am..txt
+  2025-06-16.35-DREAM-RS-My Life is FAKE.... and it is a Foreign Powers Fault.txt
+  2025-06-18.36-DREAM-RS-God Is a Corporation.txt
+  2025-06-22.37-DREAM-RS-Sterility Over Strength The Castration of America.txt
+  2025-08-11.38-DREAM-RS-Prompts for Grok on X to copy and paste.txt
+  2025-09-30.39-DREAM-RS-Ricky vs The Machine The Struggles Disabled People Face When "The System" Forgets- Dallas Part 1.txt
+  2025-10-07.40-DREAM-RS-The Machine A Citizen's Guide to Investigating Corruption with the Help of Al - the Greatest Tool the World Has Ever Seen....txt
+  2025-12-01.41-DREAM-RS-The_Truth_is_This….txt
+  2026-01-31.42-DREAM-RS-H.E.A.R.T.S.  An AI Partnership Idea.txt
+  2026-01-31.42-DREAM-RS-H.E.A.R.T.S.-on-X.txt
+  2026-01-31.44-DREAM-RS-AI with Friends.txt
+  2026-04-15.43-DREAM-RS-History_of_Finance_from_AI's__Perspective.txt
+  2026-04-18.45-DREAM-RS-THE-MACHINE-THAT-SAYS-NO.txt
 
 ════════════════════════════════════════════════════════════════════════
-5-Unedited_AI_Conversations\ — 128 files total (17 root + 111 subfolders)
+5-Unedited_AI_Conversations\ — 179 files total (16 root + 163 subfolders)
 ════════════════════════════════════════════════════════════════════════
 
-Root level (17 files):
-  2025-Copilot-AI-1.txt
+Root level (16 files):
+  2025-AI-Copilot-1.txt
+  2025-AI-Copilot-2.txt
+  2025-AI-Copilot-3.txt
   2025-DeepSeek-1.txt
   2025-DeepSeek-2.txt
   2025-Perplexity-AI - Copy.txt
   2025-SuperNinja.txt
   2025-Venice-AI.txt
   2026-04-04-DOCKER-AI-BS-1.txt
+  2026-04-17-GitHUb-AI-part-1.0.txt
+  2026-04-17-GitHUb-AI-part-1.1.txt
+  2026-04-17-GitHUb-AI-part-1.2.txt
   2026-Copilot-AI-1.2.txt
-  2026-Copilot-AI-2.1.txt
-  2026-Copilot-AI-2.2.txt
+  2026-Copilot-AI-2.txt
   2026-Perplexity-AI-Dallas.txt
   2026-Perplexity-AI.txt
 
-ChatGPT\ subfolder (51 files):
-  2025-ChatGPT-1.txt through 2025-ChatGPT-50.txt
+ChatGPT\ subfolder (52 files):
+  2025-ChatGPT-1.txt
+  2025-ChatGPT-2.txt
+  2025-ChatGPT-3.txt
+  2025-ChatGPT-4.txt
+  2025-ChatGPT-5.txt
+  2025-ChatGPT-6.txt
+  2025-ChatGPT-7.txt
+  2025-ChatGPT-8.txt
+  2025-ChatGPT-9.txt
+  2025-ChatGPT-10.txt
+  2025-ChatGPT-11.txt
+  2025-ChatGPT-12.txt
+  2025-ChatGPT-13.txt
+  2025-ChatGPT-14.txt
+  2025-ChatGPT-15.txt
+  2025-ChatGPT-16.txt
+  2025-ChatGPT-17.txt
+  2025-ChatGPT-18.txt
+  2025-ChatGPT-19.txt
+  2025-ChatGPT-20.txt
+  2025-ChatGPT-21.txt
+  2025-ChatGPT-22.txt
+  2025-ChatGPT-23.txt
+  2025-ChatGPT-24.txt
+  2025-ChatGPT-25.txt
+  2025-ChatGPT-26.txt
+  2025-ChatGPT-27.txt
+  2025-ChatGPT-28.txt
+  2025-ChatGPT-29.txt
+  2025-ChatGPT-30.txt
+  2025-ChatGPT-31.txt
+  2025-ChatGPT-32.txt
+  2025-ChatGPT-33.txt
+  2025-ChatGPT-34.txt
+  2025-ChatGPT-35.txt
+  2025-ChatGPT-36.txt
+  2025-ChatGPT-37.txt
+  2025-ChatGPT-38.txt
+  2025-ChatGPT-39.txt
+  2025-ChatGPT-40.txt
+  2025-ChatGPT-41.txt
+  2025-ChatGPT-42.txt
   2025-ChatGPT-42.1.txt
+  2025-ChatGPT-43.txt
+  2025-ChatGPT-44.txt
+  2025-ChatGPT-45.txt
+  2025-ChatGPT-46.txt
+  2025-ChatGPT-47.txt
+  2025-ChatGPT-48.txt
+  2025-ChatGPT-49.txt
+  2025-ChatGPT-50.txt
   2025-ChatGPT-Dallas-and-Brandon.txt
 
-Claude\ subfolder (36 files):
-  2025-Claude-1.txt through 2025-Claude-14.txt
-  2026-Claude-15.txt through 2026-Claude-28.1.txt
+Claude\ subfolder (40 files):
+  2025-Claude-1.txt
+  2025-Claude-2.txt
+  2025-Claude-3.txt
+  2025-Claude-4.txt
+  2025-Claude-5.txt
+  2025-Claude-6.txt
+  2025-Claude-7.txt
+  2025-Claude-8.txt
+  2025-Claude-9.txt
+  2025-Claude-10.txt
+  2025-Claude-11.txt
+  2025-Claude-12.txt
+  2025-Claude-13.txt
+  2025-Claude-14.txt
+  2026-04-15-Claude-sidebar-trash-1.txt
+  2026-Claude-15.txt
+  2026-Claude-16.txt
+  2026-Claude-17.txt
+  2026-Claude-18.txt
+  2026-Claude-19.txt
+  2026-Claude-20.txt
+  2026-Claude-21.txt
+  2026-Claude-22.txt
+  2026-Claude-23.0.txt
+  2026-Claude-23.1.txt
+  2026-Claude-24.txt
+  2026-Claude-25.0-oldest.txt
+  2026-Claude-25.1-next.txt
+  2026-Claude-25.2-newer.txt
+  2026-Claude-25.3-newest.txt
+  2026-Claude-26.txt
+  2026-Claude-26.1.txt
+  2026-Claude-26.2.txt
+  2026-Claude-27.txt
+  2026-Claude-28.0.txt
+  2026-Claude-28.1.txt
+  2026-Claude-29.txt
   2026-Claude-Cowork-1+2.txt
+  2026-Claude-Cowork-3+4.txt
+  2026-Claude-Cowork-5.txt
 
 Gemini\ subfolder (14 files):
-  2025-Gemini-1.txt through 2025-Gemini-4.txt
-  2026-Gemini-5.txt through 2026-Gemini-10.txt
-  2026-Gemini-6.1.txt, 2026-Gemini-6.2.txt
-  2026-Gemini-9.0.txt through 2026-Gemini-9.3.txt
+  2025-Gemini-1.txt
+  2025-Gemini-2.txt
+  2025-Gemini-3.txt
+  2025-Gemini-4.txt
+  2026-Gemini-5.txt
+  2026-Gemini-6.1.txt
+  2026-Gemini-6.2.txt
+  2026-Gemini-7.txt
+  2026-Gemini-8.txt
+  2026-Gemini-9.0.txt
+  2026-Gemini-9.1.txt
+  2026-Gemini-9.2.txt
+  2026-Gemini-9.3.txt
+  2026-Gemini-10.txt
 
 Gordon\ subfolder (1 file):
   2026-Gordon-AI-1.txt
 
-Grok\ subfolder (13 files):
-  2025-Grok$30-1.txt, 2025-Grok$30-2.txt
-  2025-Grok-3-thread-1.txt through 2025-Grok-3-thread-6.txt
+Grok\ subfolder (56 files):
+  2025-$30-Grok-1.txt
+  2025-$30-Grok-2.txt
+  2025-$30-Grok-3.txt
+  2025-$30-Grok-4.txt
+  2025-$30-Grok-5.txt
+  2025-$30-Grok-6.txt
+  2025-$30-Grok-7.txt
+  2025-$30-Grok-8.txt
+  2025-$30-Grok-9.txt
+  2025-$30-Grok-10.txt
+  2025-$30-Grok-11.txt
+  2025-$30-Grok-12.txt
+  2025-$30-Grok-13.txt
+  2025-$30-Grok-14.txt
+  2025-$30-Grok-15.txt
+  2025-$30-Grok-16.txt
+  2025-$30-Grok-17.txt
+  2025-$30-Grok-18.txt
+  2025-$30-Grok-19.txt
+  2025-$30-Grok-20.txt
+  2025-$30-Grok-21.txt
+  2025-$30-Grok-22.txt
+  2025-$30-Grok-23.txt
+  2025-$30-Grok-24.txt
+  2025-$30-Grok-25.txt
+  2025-$30-Grok-26.txt
+  2025-$30-Grok-27.txt
+  2025-$30-Grok-28.txt
+  2025-$30-Grok-29.txt
+  2025-$30-Grok-30.txt
+  2025-$30-Grok-31.txt
+  2025-$30-Grok-32.txt
+  2025-$30-Grok-33.txt
+  2025-$30-Grok-34.txt
+  2025-$30-Grok-35.txt
+  2025-$30-Grok-36.txt
+  2025-$30-Grok-37.txt
+  2025-$30-Grok-38.txt
+  2025-$30-Grok-39.txt
+  2025-$30-Grok-40.txt
+  2025-$30-Grok-41.txt
+  2025-$30-Grok-42.txt
+  2025-$30-Grok-43.txt
+  2025-Grok$30-1.txt
+  2025-Grok$30-2.txt
+  2025-Grok-3-thread-1.txt
+  2025-Grok-3-thread-2.txt
+  2025-Grok-3-thread-3.txt
+  2025-Grok-3-thread-4.txt
+  2025-Grok-3-thread-5.txt
+  2025-Grok-3-thread-6.txt
   2025-Grok-July-shared-on-X.txt
   2025-Grok-thread-i-need-to-look-up.txt
   2025-Grok_X_thread.txt
@@ -332,10 +490,10 @@ Grok\ subfolder (13 files):
   2025-Grok_notes.txt
 
 ════════════════════════════════════════════════════════════════════════
-6-Survivors-of-the-System\ — 117 files total (48 root + 69 subfolders)
+6-Survivors-of-the-System\ — 40 files total (39 root + 1 Not-Online)
 ════════════════════════════════════════════════════════════════════════
 
-Root level (48 files):
+Root level (39 files):
   2025-07-00-MEDIC-Westborough-Dallas-F.txt
   2025-10-24-GB-FF-Dallas_Flaherty-by-me.txt
   2025-11-10-GB-FF-Brandon_B-by-Ricky.txt
@@ -343,7 +501,7 @@ Root level (48 files):
   2026-02-09-GMT-FF-Dallas-F.txt
   2026-02-11-EMAIL-Kathryn-Dressler-FAMILY INTEGRITY, DUE PROCESS, AND CHILD SAFETY ACT.txt
   2026-02-11-EMAIL-Kathryn-Dressler-Fwd Updates-When Institutions Align.txt
-  2026-02-11-EMAIL-Kathryn-Dressler.txt
+  2026-02-17-EMAIL-Kathryn-Dressler.txt
   2026-02-17-GMT-FF-Brandon-B.txt
   2026-02-17-GMT-FF-Dallas-F.txt
   2026-02-18-PCT-2pm-hospital-call-Dallas.txt
@@ -376,101 +534,8 @@ Root level (48 files):
   2026-04-10-GB-SOTS-Heather-Hardin.txt
   2026-04-10-GB-SOTS-Kathryn-Dressler-1.txt
 
-000-Google-Meet-Groups\ (2 files):
-  2025-2-24 google meet issue...txt
-  2026-2-24 Google Meet Group Transcript.txt
-
-Becky-Morrison-Doucuments\ (33 files):
-  000-notes.txt
-  2011-11-05-Umass.txt
-  2021-04-20-Med Express.txt
-  2021-09-08-CT-DCF.txt
-  2021-AA-sponsor.txt
-  2021-MCPAP.txt
-  2022-07-12-Family Action Plan.txt
-  2023-06-06-charcter reference.txt
-  2023-10-24-eval summary.txt
-  2024-01-17-foster.txt
-  2024-04-15-labcorp.txt
-  2024-06-01-chicopee police 2.txt
-  2024-06-14-chicopee police 1.txt
-  2024-Baystate-Eval.txt
-  2025 civil paper.txt
-  2025-04-30-Foster car review report.txt
-  2025-05-13-civil-casefix fix fix.txt
-  2025-05-13-closed_1.txt
-  2025-05-13-dismissal.txt
-  2025-05-13-motion to reconsider.txt
-  2025-06-11statement.txt
-  2025-10-14-foster.txt
-  2025-11-26-TSH.txt
-  2025-11-26-petition.txt
-  Quill Lawyer text.txt
-
-Dallas-Flaherty-Doucuments\ (5 files):
-  2025-07-22-MEDIC-Westborough-Dallas-F.pdf
-  2025-LEGAL-Ambulance-Dallas.jpeg
-  2026-02-17-MEDIC-BMC-Dallas-Flaherty.pdf
-  2026-02-17-MEDIC-BMC-Dallas-Flaherty.txt
-  Terry Flaherty.txt
-
-Ellis-Raspberry-Doucuments\ (2 files):
-  2026 Ellis_Raspberry Notes.txt
-  Business/Equal Footing_ A Self-Mastery Guide to Strategic Fatherhood.docx
-
-Heather-Hardin-Doucuments\ (7 files):
-  2026-02-10-GMT-Heather-Hardin.txt
-  2026-02-11-EMAIL-Heather Hardinl.txt
-  2026-02-11-GMT-Claude cut off message to Heather.txt
-  2026-02-14-GMT-Heather-Hardin.txt
-  2026-02-17-GMT-Heather-Hardin.txt
-  Heather Hardin 2026_02_10 18_03 EST - Notes by Gemini (1).docx
-  New Text Document.txt
-
-Kathryn-Dressler-Doucuments\ (19 files):
-  2026-2-10  241477126_Florida Courts E-Filing Portal.txt
-  2026-2-10 2-10-26_805pm_Case Detail - Registered User - Broward County Clerk of Courts.txt
-  2026-2-10 241477126 _Gmail - SERVICE OF COURT DOCUMENT.txt
-  2026-3-22 FINAL DRAFT_Renewed Emergency Verified Motion to Vacate and.txt
-  2026-3-22 Renewed Emergency Verified Motion to Vacate and D.txt
-  EXHIBITS (INDIVIDUAL FILES)/2026-5-19 EXHIBIT 5-A.txt
-  EXHIBITS (INDIVIDUAL FILES)/2026-5-22 EXHIBIT 5-B.txt
-  EXHIBITS (INDIVIDUAL FILES)/New Text Document.txt
-  Look over/DRAFT_LEGAL NOTICE.txt
-  Look over/EXHIBIT 1-A.txt
-  Look over/EXHIBIT 1-C.txt
-  Look over/Gmail - FERPA Compliant #26-0073.pdf
-  Look over/Gmail - FERPA Compliant #26-0073.txt
-  Look over/New Text Document.txt
-
-Not-Online\ (1 file):
-  2026-02-22 GMT-Becka-Rayy.txt
-
-YouTube-and-Google-Meet-Transcripts-Not-Online\ (16 files):
-  2023-05-01-YouTube_Transcripts-A_quick_life.txt
-  2023-05-01-YouTube_Transcripts-Overview- Hampden county court house calamity retrospective.txt
-  2023-05-08-YouTube_Transcripts-The_Suicidal_H.txt
-  2023-05-22-YouTube_Transcripts-Life_before_school.txt
-  2023-06-14-YouTube_Transcripts-How_I_came_to_my_Epiphany.txt
-  2023-06-14-YouTube_Transcripts-Preventable_Tragedies.txt
-  2023-06-16-YouTube_Transcripts-My_Epiphany.txt
-  2024-01-17-YouTube_Transcripts-Will_they_cover_it_up.txt
-  2024-01-25-YouTube_Transcripts_Whats_legal_advice-.txt
-  2024-05-24-YouTube_Transcripts-for_McGinty.txt
-  2024-07-15-LEGAL-YouTube-For-Attorney-Sean-McGinty.txt
-  2024-09-16-YouTube_Transcripts-Quick_video_last_court_recordings.txt
-  2026-03-30-GMT-FF-Brandon-and-Dallas.txt
-  2026-04-01-GMT-FF-Brandon-and-Dallas.txt
-  2026-04-02-GMT-FF-Brandon-and-Dallas.txt
-  2026-04-09-GMT-FF-Brandon-and-Dallas.txt
-
-YouTube-and-Google-Meet-Transcripts\ (6 files):
-  2026-02-09-GMT-SOTS-Kathryn-Dressler.txt
-  2026-02-10-GMT-SOTS-Kathryn-Dressler.txt
-  2026-02-11-GMT- SOTS-Kathryn-Dressler.txt
-  2026-02-12-GMT-SOTS-Kathryn-Dressler.txt
-  2026-02-16-GMT-SOTS-Kathryn-Dressler.txt
-  2026-04-10-GMT-SOTS-Emma-Obadoni.txt
+Not-Online\ subfolder (1 file):
+  Not-Online-2026-02-22 GMT-Becka-Rayy.txt
 
 ════════════════════════════════════════════════════════════════════════
 7-MA_PERAC_Audit\ — 17 files
@@ -494,10 +559,9 @@ YouTube-and-Google-Meet-Transcripts\ (6 files):
   not sure.lol.txt
 
 ════════════════════════════════════════════════════════════════════════
-8-AI investigations of States and People\ — 87 files
+8-AI investigations of States and People\ — 82 files
 ════════════════════════════════════════════════════════════════════════
   2026-04-05-AI-PI-Gemini-Notes.txt
-  AI-PI-- Ricky's RICO-Use Grok to explain - Copy.txt
   AI-PI-1 start complaints.txt
   AI-PI-2 Intentional system design failures.txt
   AI-PI-4- Another_13_Investigative_Deep_Dive.txt
@@ -623,10 +687,10 @@ YouTube-and-Google-Meet-Transcripts\ (6 files):
   2026-01-12-The-1994-Fox-Road-Murder-Mystery-Part-34.txt
 
 ════════════════════════════════════════════════════════════════════════
-Prior version: April 12, 2026 (608 files). This update: April 15, 2026.
-Changes: Updated all file counts. Added new Claude threads (26.1, 26.2,
-27, 28.0, 28.1, Cowork-1+2). Added Gemini-10, Gemini-6.1. Added
-Copilot-AI-2.1 and 2.2 (split from 2). Added 2026-04-10 GB-SOTS
-Blogger posts. Added Kathryn-Dressler EXHIBITS subfolders. Added
-Emma-Obadoni transcript. Total now 644 items.
+Prior version: April 15, 2026 (644 items). This update: April 19, 2026.
+Changes: Cleaned up index to match actual repository contents. Removed
+deleted files (desktop.ini, .docx summaries, old subfolders). Renamed
+4-Stories_with_AI files from RS-AI-*.txt to dated DREAM-RS-*.txt format.
+Updated 1-Life by Year filenames to current dated versions. Added new
+files across multiple folders. Updated all file counts. Total now 589.
 ════════════════════════════════════════════════════════════════════════
