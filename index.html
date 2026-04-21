@@ -6,16 +6,19 @@
     <title>The Memory Ark | A Network No One Can Take Down</title>
     <style>
         :root {
-            --bg: #ffffff; /* Set background to white */
-            --bg-card: #ffffff;
-            --text: #000000; /* Set main text to black */
-            --text-light: #000000; /* Set light text to black */
-            --text-mid: #000000; /* Set mid-tone text to black */
-            --accent: #0000ff; /* Set accent color to blue */
-            --border: #000000; /* Border to black */
+            --bg: #ffffff; /* White background */
+            --bg-card: #ffffff; /* Card background - white */
+            --bg-alt: #f0f0f0; /* Alternate light gray background, close to white */
+            --text: #000000; /* Black text */
+            --text-mid: #333333; /* Dark gray for mid-tone text */
+            --text-light: #666666; /* Light gray for less emphasis */
+            --accent: #0000ff; /* Blue accent color */
+            --border: #999999; /* Neutral gray border to maintain contrast */
         }
 
-        * { box-sizing: border-box; }
+        * {
+            box-sizing: border-box;
+        }
 
         body {
             background-color: var(--bg);
@@ -55,17 +58,34 @@
             padding-bottom: 12px;
         }
 
-        a { color: var(--accent); text-decoration: none; transition: color 0.2s; }
-        a:hover { color: var(--accent); }
+        p {
+            margin-bottom: 20px;
+            font-size: 1.05em;
+            color: var(--text-mid);
+        }
 
-        /* ── STATUS BAR ── */
+        strong {
+            color: var(--text);
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            color: var(--accent);
+        }
+
+        /* STATUS BAR */
         .status-bar {
             background: var(--accent);
             padding: 10px 24px;
             font-size: 0.8em;
             letter-spacing: 1.5px;
             text-transform: uppercase;
-            color: #ffffff; /* White text */
+            color: #ffffff;
             display: flex;
             gap: 28px;
             flex-wrap: wrap;
@@ -81,15 +101,16 @@
 
         .status-bar .live::before {
             content: '';
-            width: 7px; height: 7px;
-            background: var(--accent); /* Blue circle */
+            width: 7px;
+            height: 7px;
+            background: #ffffff;
             border-radius: 50%;
             display: inline-block;
         }
 
-        /* ── HERO ── */
+        /* HERO SUBTITLE */
         .hero-sub {
-            color: var(--text);
+            color: var(--text-light);
             font-size: 0.95em;
             letter-spacing: 3px;
             text-transform: uppercase;
@@ -97,7 +118,7 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         }
 
-        /* ── OPENER ── */
+        /* OPENER */
         .opener {
             background: var(--accent);
             color: #ffffff;
@@ -108,43 +129,119 @@
             line-height: 1.8;
         }
 
-        .opener p { color: #ffffff; margin-bottom: 16px; font-size: 1em; }
-        .opener p:last-child { margin-bottom: 0; }
-        .opener strong { color: #ffffff; }
-        .opener h2 { color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.3); margin-top: 0; }
+        .opener p {
+            color: #ffffff;
+            margin-bottom: 16px;
+            font-size: 1em;
+        }
 
-        /* Remove green-based styles */
-        .em-part-item strong, 
-        .hearts-pillar h4, 
-        .rico-callout h3, 
-        .callout.gold h3 { color: var(--accent); }
+        .opener h2 {
+            color: #ffffff;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            margin-top: 0;
+        }
 
-        .extraction-stat .stat-num, 
-        .directory-card.featured h3 { color: var(--accent); }
+        /* EXTRACTION BLOCK */
+        .extraction-block {
+            background: var(--bg-card);
+            color: var(--text);
+            padding: 50px 48px;
+            border-left: 4px solid var(--accent);
+            margin: 60px 0;
+            border: 1px solid var(--border);
+        }
 
-        .rico-callout { border-left: 4px solid var(--accent); }
-        .hearts-block { background: var(--accent); }
+        .extraction-block h2 {
+            color: var(--text);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .extraction-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+            margin: 28px 0;
+        }
+
+        /* DIRECTORY CARD */
+        .directory-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 24px;
+            border-radius: 10px;
+            transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+            display: block;
+        }
+
+        a.directory-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--accent);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            text-decoration: none;
+        }
+
+        .directory-card h3 {
+            margin: 0 0 8px;
+            font-size: 1.1em;
+            color: var(--accent);
+        }
+
+        .directory-card p {
+            font-size: 0.92em;
+            color: var(--text-mid);
+            margin: 0;
+            line-height: 1.55;
+        }
+
+        /* FOOTER */
+        footer {
+            border-top: 1px solid var(--border);
+            margin-top: 80px;
+            padding-top: 32px;
+            font-size: 0.88em;
+            color: var(--text-light);
+            line-height: 1.8;
+            font-family: -apple-system, sans-serif;
+        }
+
+        footer strong {
+            color: var(--text);
+        }
+
+        footer a {
+            color: var(--text-light);
+        }
+
+        footer a:hover {
+            color: var(--accent);
+        }
     </style>
 </head>
 <body>
-
-<div class="status-bar">
-    <span class="live">Network Active</span>
-    <span>Decentralized Archive</span>
-    <span>Open to All</span>
-    <span>Free Forever</span>
-</div>
-
-<div class="page-wrap">
-
-    <h1>THE MEMORY ARK</h1>
-    <p class="hero-sub">A Blueprint Anyone Can Build. A Network No One Can Take Down.</p>
-
-    <div class="opener">
-        <h2>START HERE — THIS IS AN INVITATION</h2>
-        <p>You are not looking at one person's archive. You are looking at a method. A structure. A proof of concept built entirely from free tools, AI, ...</p>
+    <div class="status-bar">
+        <span class="live">Network Active</span>
+        <span>Decentralized Archive</span>
+        <span>Open to All</span>
+        <span>Free Forever</span>
     </div>
 
-</div>
+    <div class="page-wrap">
+        <h1>THE MEMORY ARK</h1>
+        <p class="hero-sub">A Blueprint Anyone Can Build. A Network No One Can Take Down.</p>
+
+        <div class="opener">
+            <h2>START HERE — THIS IS AN INVITATION</h2>
+            <p>You are not looking at one person's archive. You are looking at a method. A structure. A proof of concept...</p>
+        </div>
+
+        <div class="extraction-block">
+            <h2>The Extraction Machine</h2>
+            <p>A method to document personal and systemic experiences...</p>
+        </div>
+
+        <footer>
+            <p><strong>The Memory Ark</strong> is a free, open, survivor-operated decentralized archive.</p>
+        </footer>
+    </div>
 </body>
 </html>
