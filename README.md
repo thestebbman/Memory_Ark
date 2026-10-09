@@ -219,6 +219,7 @@ rickystebbins78@gmail.com
 ---
 
 **Life Story**
+
 https://rickystebbins78.blogspot.com/2025/05/1978-1983-birth-to-preschool.html
 https://rickystebbins78.blogspot.com/2025/05/1983-colonial-estates-kindergarten-and.html
 https://rickystebbins78.blogspot.com/2025/05/1984-year-of-firsts-first-grade-and.html
@@ -268,7 +269,7 @@ https://rickystebbins78.blogspot.com/2026/01/2026.html
 
 
 
-**Th
+** Trying to be open about how I feel and what I think **
 
 https://rickystebbins78.blogspot.com/2026/03/ricky-stebbins-self-analsys.html
 
