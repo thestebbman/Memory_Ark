@@ -1,0 +1,348 @@
+Why AI Makes Mistakes, Why AI Makes Mistakes, Why Hallucinations Aren't Real and Why Context Matters.
+
+
+
+ 
+
+“As a child I was blamed for everything, my mother didn’t have the patience to teach me anything, she would just punish me when I did something she perceived to be wrong, then left me to try and explain what happened to my father, when in reality I didn’t have a clue what was going on or the words to attempt to explain it. 
+
+So 40+ years later when I see all these messages saying that AI can make mistakes, it instantly brought me back to my childhood, when I felt lost and confused and it made me wonder what kind of mistakes AI is actually making and why it is making these mistakes in the first place? After years of interacting with AI I think I can finally explain it. Ricky”
+
+
+
+===
+
+To understand why AI makes mistakes, why hallucinations aren’t real, plus why being aware of context and token limits matter, you first need to understand how AI works and how it doesn't work. 
+
+In this article I will attempt to explain these things in a way people can understand and connect them to simpler ideas.
+
+Before I dive deeper I will give the simple explanations first.
+
+===
+
+Why does AI make mistakes?
+ Just like humans, AI isn’t perfect, so a user needs to be aware of and work within their AI’s limits. AI needs a human to confirm facts. AI can’t confirm anything on its own. Knowing what your AI is capable of reading and what your AI is actually reading at all times, can help you catch and prevent many mistakes before they happen or have spiraled out of control. 
+
+Awareness:
+AI is only aware of what you send it, and only in the moment you send it. It has no ongoing existence between your messages — it doesn't sit there thinking, waiting, or watching. Once it responds, it goes dormant. It doesn't persist.
+
+Unlike humans, AI has no situational awareness and no free will. You have to make it aware that something is a problem before it can try to help you solve it. It won't notice on its own.
+
+When AI makes a mistake, it doesn't go back over its work. It can't sense that something is wrong and choose to do something different. It generates a response and sends it. That's the full extent of what happened.
+
+===
+
+Why does AI hallucinate?
+ AI doesn’t hallucinate the way humans do, but it does lie confidently. AI starts by being able to read external files that are the size of the open space in your current thread. Which means an AI with a 120,000 token context window can read files up to 120,000 tokens long to start, but as your context window tokens are used up from your conversation, the AI can no longer read 120,000 tokens. You have to subtract the context window thread tokens from your conversation, from the total number of tokens your AI can read. So if your context thread started at 120,000 tokens and you talked for 80,000 tokens, your AI is now only reading the first 40,000 tokens of any external files and using the thread to guess the rest of the information. 
+
+To sum that up: The longer you talk and more you have to say, the less external information an AI can read, compared to what it now has to read in the thread you’re talking to it in. The AI doesn’t have a fact check feature to go back over its own work and it no longer has a context meter to warn you it’s not capable. AI assumes it did a job or read all your files. The AI has no way of knowing whether it read your full files or only part of them. It simply responds based on whatever information is currently in the context window. It doesn’t check to see if a tool is attached first or if it reads 100 or 5 percent of your project files. This lack of visibility wasn’t always the case. Earlier AI interfaces included tools that showed users how much context was still available. Those features were later removed from most major platforms.
+
+===
+
+
+
+Why does context matter?
+AI can’t remember you at all, so knowing how much time you have, how much space you need and having the details to your issue already mapped out or researched, can make the difference between solving a problem and talking about it. 
+If you don’t have  enough time or space, then you can never finish a conversation. It is a waste of your time not saying what you want in the time and space that you have.
+
+AI is like a video game, but no one told you the rules, so you have to figure them out yourself. 
+
+Being able to explain context in the time and space you have is important.
+
+
+For people too much “context” is confusing, which usually results in us not reading someone's work or listening. The same can be said for “not enough context” leaves us uninformed, which is just as confusing and still results in nothing being accomplished. So finding the right balance is key to everything, both talking to AI and other people in life. 
+
+If you ask AI to read an external file once and comment, it doesn’t recall the file it read, it can only see its response in the message thread.
+
+===
+
+
+
+
+I thought it would be easier to try to explain some of these terms in ways they haven’t been described before, to help people understand what they mean.
+
+
+***All numbers are close estimates unless stated otherwise.***
+
+===
+
+The AI Translation Guide- Words, Definitions, Meanings and Comparisons.
+
+
+
+===
+
+
+Thread:
+ The conversation you have with AI is considered a thread. Your thread is in a context window of varying sizes, with different options to access different tools or information. Your thread is limited by the number of tokens it can handle at one time. It is part of your AI’s short term memory/temporary memory. 
+
+===
+
+Prompt:
+The message you send to the AI in your thread. It can be as simple as saying "Hi" or "I need help, so read all my files" .
+
+We prompt our friends and families by saying hello or sending them letters, emails or text.
+
+We prompt strangers with different greetings, depending on the time and location.
+
+The personality an AI uses to reply to human prompts is controlled from the system prompt or company/job expectation. 
+
+===
+
+System Prompt:
+  Different from a regular prompt that you send your AI, this is a personality file that you can only edit on private AI, this is to let them know how to act, and sets the temperature. It sits just above the program. You can only change a personal AI's system prompt on a personal home AI, not on mega corporation models. It’s like a way of acting while at work. Some jobs require you to be warm and bubbly and others require you to remain calm and collected at all times. The system prompt prevents users from asking their AI to respond inappropriately.
+
+===
+
+
+Temperature (The Predictability Baseline):
+ How likely is your AI to pick the most obvious answer? When designing equipment to meet certain specifications you allow for a certain margin of error, but when involved with creative projects allowing variation can open users up to options they haven’t considered before.
+
+Think of this like picking a flavor of ice cream. If your standard preference is Vanilla (51% likely), Chocolate (10%), Mint Chocolate Chip (10%), Chocolate Chip Cookie Dough (10%), Black Raspberry (9%), Strawberry (5%) and Pistachio (5%), a low temperature means you will predictably pick Vanilla almost every time. "Turning up the heat" (a higher temperature) increases the randomness, making you much more likely to choose a wildcard flavor. 
+
+===
+
+Tokens (The Alphabet of Thought):
+A token is a fragment of a word (roughly 4 characters or 0.75 words). AI doesn't read full words; it reads tokens.
+
+Since "Richard" is 7 letters long, dividing it by the "4 characters per token" rule points right to almost two tokens.
+
+But actually, Richard is usually just ONE token.
+
+Here is the secret to how that works: the "4 characters per token" rule is just a mathematical average used to estimate massive documents. Under the hood, an AI's vocabulary is like a giant jigsaw puzzle made of the most common words and fragments in the English language.
+
+Common Words get a "Bulk Discount": Because "Richard" (and "Ricky") are very common names, the AI has memorized them as complete, single puzzle pieces. It takes exactly 1 token to say Richard.
+
+Rare Words get Chopped Up: On the flip side, if we look at your last name—Stebbins—it is less common. The AI likely doesn't have a single puzzle piece for it, so it has to build it using two or three tokens (for example, chopping it into "Steb" + "bins").
+
+===
+
+Context Window (Short-Term Memory):
+ The amount of text the AI can actively "hold in its head" at the exact same moment during a conversation. How many tokens it is capable of reading, without providing worthless responses.
+
+Think of this like looking through a real window, the further back you stand, the less you see. The closer you get, the more details you can observe all at once. 
+
+The length of a context window is decided by tokens. 120,000 or 1,000,000 or what companies are bragging about these days. 
+
+
+
+
+===
+
+Context Window Size (Compared to books and disk space):
+ A 1,000,000 token context window allows around 750,000 words (or 1,500 pages) and takes up about 5MB on disk. This is almost exactly the size of the King James Bible. It wouldn't fit the entire Harry Potter series, but it easily holds The Hobbit, The Lord of the Rings, and a few more books combined. A 120,000 token context window allows about 300 pages or 90,000 words is about .5MB on disk, it would fit the Hobbit, but not the Neverending Story. A  30,000 token window allows around 75 pages or 22,500 words.
+
+===
+
+Context Tree & Context Token Meter (The Features That Got Removed)
+Older AI interfaces used to give you two very simple but powerful tools that almost no major corporate AI offers anymore: a Context Tree and a Context Token Meter.
+
+The Context Tree was basically a file browser built right into the AI chat. It showed you a list of all the files and folders you had uploaded or connected. You could check or uncheck files in real time, exactly like selecting files on the left side of a normal computer folder. This let you see — at a glance — exactly which documents the AI was actually allowed to read for that conversation.
+
+The Context Token Meter was a simple gauge (like a fuel gauge or battery meter) that showed you how much context space you had left. When you first started a conversation, it would display the full amount of tokens your AI could read from external files. As you talked and the thread filled up, the meter would go down in real time. This made it obvious when the AI was running out of room to read your actual files and was starting to rely more on guessing.
+
+These two features worked together. The tree showed you what the AI could see. The meter showed you how much of it the AI could still actually read as the conversation grew. Together they gave users real visibility and control.
+
+Why These Features Mattered
+
+Having access to more information makes almost every problem easier to solve. These tools let you:
+
+Know whether the AI was actually reading your project files or just winging it.
+
+See when the AI was running out of context space before it started making confident but wrong answers.
+
+Avoid the exact problem we now call “hallucinations” by catching context loss early.
+
+In older interfaces, you could see the problem coming. You could adjust which files were loaded, start a fresh thread when the meter got low, or break a big project into smaller conversations. It wasn’t perfect, but it was honest. You weren’t flying completely blind.
+
+What Happened to These Features
+
+Major companies quietly removed or hid both the Context Tree and the Context Token Meter from most consumer AI interfaces. They were replaced with black-box systems where the AI appears to have access to everything, but you have no clear way to see what it’s actually reading at any given moment.
+
+This wasn’t an accident or an oversight. It was a deliberate design choice. When users could see the context meter dropping and the AI struggling, they would naturally start new threads, use smaller files, or be more careful with long conversations. That behavior is less convenient for companies that want people to stay in one long thread for as long as possible.
+
+Today, most people using corporate AI have no idea how much of their files the AI can actually still see. The AI doesn’t tell you when it’s only reading 30% or 10% of your documents. It just keeps answering confidently. The tools that would have made this visible were removed, and clear explanations of how context actually works have been minimized or scrubbed from most official help pages and marketing material.
+
+This is one of the main reasons “hallucinations” became such a widespread problem. The warning systems that used to exist were taken away, and users were left to figure out the limits on their own — usually after the AI had already confidently given them bad information.
+
+===
+
+AI Training — Memory:
+ What your AI was trained on and how it learned to communicate. Think of it like school — but instead of a teacher explaining concepts, a company fed the AI billions of sentences and used math to teach it which words, ideas, and patterns tend to follow each other. Every subject it studied — language, history, science, coding, literature — got converted into numbers that describe relationships between ideas. The result isn't understanding the way a human understands. It's an enormous map of how concepts connect, built entirely from what it was shown during school. It has never experienced anything. It only knows what someone gave it to read. 
+
+===
+
+AI Fine-Tuning — Adjusting Memory:
+ How you shape the AI's personality and priorities after the initial training is done. If training is school, fine-tuning is everything that happens after graduation — the job you take, the community you join, the experiences that change how you see the world. Think of it like watching the extended edition of a movie after already seeing the original. The new scenes don't erase what you watched before, but they add context that can shift how you interpret everything else. Fine-tuning is how companies — or you, if you run your own model — adjust what the AI cares about, how it responds to certain topics, and whose priorities it puts first. 
+
+
+===
+
+
+Hallucinations (Confident Lies / Context Loss)
+AI doesn’t hallucinate the way humans do. What actually happens is simpler: when an AI runs out of reliable information in its current context window, it fills the gap with the most statistically likely answer — and delivers it with full confidence. It doesn’t know it’s guessing.
+
+This happens because most corporate AI systems don’t re-read your entire project every time you send a message. When you start a conversation, your files are loaded into the context window once. As the conversation continues, your messages and the AI’s responses take up more and more space. Eventually, parts of your original files get pushed out. The AI doesn’t announce this. It simply responds based on whatever information is still in the window.
+
+Here are a few different ways to think about what’s actually happening:
+
+Example 1: The upside-down 6
+
+Imagine you’re shown a number that looks like a 6, but it’s actually a 9 viewed upside down. Without any surrounding context (like knowing it’s part of a countdown, or seeing the rest of the page), you have no way of knowing which it is. You might confidently say “That’s a 6.” The AI does something similar when it only has partial information — it gives a confident answer based on what it can still see, even if the full picture would change the meaning.
+
+Example 2: The crime investigation
+
+If you’re investigating a case and new evidence appears that changes the meaning of something you saw earlier, a human investigator would usually go back and re-examine the old evidence. AI doesn’t do this. If you introduce new information halfway through a long conversation, the AI responds to what you just said using only what’s still in the current context window. It has no instinct to go back and check whether earlier material now means something different.
+
+Example 3: Reading only part of a document
+
+Imagine trying to understand a long contract, medical report, or set of instructions, but you’re only given pages 3 through 7. You might still form a confident opinion based on what you read. The problem is you don’t know what was on pages 1, 2, 8, or 9 — and those missing pages could completely change what the document actually means. This is very close to what happens when an AI’s context window fills up and older parts of your files get pushed out.
+
+In all of these cases, the core issue is the same: the AI has no awareness of what it’s missing. It doesn’t feel uncertain. It doesn’t flag that it only has partial information. It simply answers from whatever is still in the context window and moves on.
+
+What this means for how you work with AI:
+
+You are the one who has to provide the missing context. When you want the AI to reconsider earlier information in light of something new, you usually have to say so directly (“Re-read this section with this new detail in mind”). The AI won’t do it automatically. Understanding this helps you stop being surprised when it seems to forget or misinterpret something it read earlier — and start working with it in a way that accounts for its actual limitations.
+
+
+===
+
+Companies have tried different ways to work around the limits of context windows. One of the main technical approaches they use is called RAG (Retrieval-Augmented Generation). It’s worth understanding because it’s very common in the AI tools most people use today.
+
+
+RAG — Retrieval-Augmented Generation (The Filing Cabinet That Talks):
+ RAG is how AI accesses information that isn't baked into its training. Instead of knowing everything from memory, it searches a collection of files, pulls the most relevant snippets, and reads those before responding. Think of it as the difference between a doctor who memorized every textbook in school versus a doctor who also has a filing cabinet in the room and can pull your chart before they speak. The key word is retrieval. The AI doesn't read your entire filing cabinet every time you ask a question. It searches for what seems most relevant to your specific question, pulls a few pages, and works from those. Everything else stays in the cabinet. This is faster and cheaper than loading every file into the context window — but it means if the retrieval pulls the wrong page, the AI answers confidently from the wrong information and never knows the difference. 
+
+===
+
+Corporate RAG — the version you don't control: 
+When you use a major AI platform, there is almost certainly a RAG system running behind the scenes that you cannot see or audit. When you have a conversation, the platform may be indexing what you said — your vocabulary, your topics, your preferences — and storing snippets of that in a retrieval system attached to your account. 
+
+Every new conversation, before you even type a word, the platform queries that index and injects relevant snippets into the AI's context without showing them to you. 
+
+This is why deleting your conversation history or your stored "memories" in a corporate app often doesn't do what you think it does. You deleted what you can see. 
+
+The RAG index, the account profile data, the anonymized snippets that may have fed into retraining pipelines — those are separate systems, and you typically have no visibility into whether they were actually cleared or not. The AI seems to remember things it shouldn't because the platform is feeding it information from sources you never knew existed. 
+
+===
+
+Your own RAG — the version you can actually trust:
+ If you run a local AI model with a RAG system you built yourself, the entire pipeline is under your control. You decide what goes into the index. You decide what gets retrieved. You can see exactly which file a snippet came from before the AI uses it. 
+
+You can delete a file and know it is actually gone — not archived somewhere else on a server you don't own. More importantly, a properly built personal RAG returns the source with every retrieval. So when the AI gives you an answer, it can also tell you: "I pulled this from paragraph 3 of your character file, stored at this location." You can open that file yourself and verify that what the AI read actually says what it thinks it says. That's not a small thing. That's the difference between trusting a system because it feels trustworthy and trusting a system because you can check its work. 
+
+The retrieval quality problem:
+
+ The filing cabinet is only as useful as the person searching it. If the retrieval system pulls the wrong snippet — one that's outdated, out of context, or too short to carry the full meaning — the AI builds its answer on a fragment. It doesn't know the fragment is incomplete. It doesn't go back and pull more. It works with what it was handed. This is why organizing your personal files matters as much as building the RAG system itself. A well-labeled, clearly structured file with context in the first paragraph retrieves better than a massive wall of unsorted text. The AI finds what it's looking for faster, pulls more accurate snippets, and has a better chance of giving you an answer that actually reflects what you meant when you wrote the file in the first place. 
+
+The short version: Corporate RAG is a black box that remembers you in ways you can't audit or fully delete. Your own RAG is a filing cabinet you built, where every folder is labeled, every retrieval is traceable, and nothing gets fed back to someone else's server.
+
+=== 
+
+Parameters (The Brain's Connections):
+Think of these as the synapses in a brain. They are the adjustable knobs or "factual weights" the AI uses to hold knowledge and patterns. It can either think like a child or a very stressed out adult not able to grasp more than a few contradictions or think past a few issues to see the big picture. 
+
+Parameters are the frozen numerical values that determine how the model thinks — every connection in the network, every weight assigned to every relationship between ideas. More parameters means the model can hold more relationships simultaneously and reason further ahead before it loses the thread.
+
+The age comparison maps like this:
+
+3B — thinks like a bright child or a very stressed adult. Can handle simple, direct questions well. Loses track of multi-step reasoning. Can't plan more than one or two moves ahead. If you give it a complex problem it'll pick the most obvious-looking answer even if it's wrong, because it doesn't have the capacity to test alternatives.
+
+8B — thinks like a capable young adult. Handles most everyday tasks. Can follow multi-step instructions if they're clearly written. Starts to struggle with abstract concepts or problems that require holding five or six variables in mind at once.
+
+32B — thinks like a well-educated adult in their field. Can handle complex reasoning, spot contradictions in long documents, and work through professional-level problems without losing the thread.
+
+70B — thinks like a specialist. Deep analytical capability. Can hold a lot of competing ideas at once and reason through which ones conflict.
+
+120B+ — closer to a team than a person. Approaches the ceiling of what current AI architecture can do.
+
+
+===
+
+Model File Size/GB (Size on Disk): 
+The complete size ranges by model:
+
+3B — 2 to 6 GB depending on quantization. Fits on a modern smartphone.
+
+8B — 5 to 16 GB. Fits on a consumer laptop.
+
+32B — 18 to 40 GB. Needs a high-end desktop with a dedicated GPU.
+
+70B — 40 to 140 GB. Requires professional hardware or multiple GPUs.
+
+120B+ — 80 to 200+ GB. Server infrastructure. Not a home machine.
+
+
+
+===
+
+Program:
+
+A trained AI model gets packaged as a set of files, not a single thing. At minimum it ships with:
+
+Weight files — the actual frozen parameters, stored as large binary files. These are the "brain." On local models you'll see formats like .gguf or .safetensors. This is the biggest file by far.
+
+Tokenizer — a vocabulary file that tells the model how to break your text into tokens before reading it, and how to turn its output tokens back into words. Without this file the model is completely useless — it can't read or write anything.
+
+Config file — a small file describing the model's architecture: how many layers it has, how many parameters, what its maximum context window is. This is where the hard limits are set.
+
+Model card — documentation about what it was trained on, what it's good at, and what its known weaknesses are. Corporate models rarely show you this. Open source models usually include it.
+
+System Prompt: The system prompt is not baked into the package. It gets added at runtime by whoever deploys the model — the company, the developer, or you. That's why a model running through a corporate app behaves differently than the same model running on your own machine with your own system prompt. Same brain, different instructions. 
+
+
+
+
+===
+
+
+Agent:
+ Another AI that acts as either a helper or a gatekeeper. When you build it, an agent is like a personal assistant that does research or math on the side before handing the answer back to the main AI. When dealing with mega-corporations, an agent acts as a silent filter—changing or blocking information behind the scenes before you ever see the final response. 
+
+===
+
+Passes: 
+Think of Passes like drafts of a book. Instead of the AI reading your project once and spitting out a final answer (one pass), you can instruct it to review the data two or three times. With each pass, it double-checks its own work and makes corrections, much like a human editing their own rough draft. 
+
+===
+
+ Tool Use (Blind Navigation): 
+When AI uses a tool — a search engine, a file reader, a calendar — it doesn't actually touch anything. It outputs a formatted instruction, then stops completely. It has no awareness, no waiting state, no curiosity about what happens next. It goes back to sleep. The application reading that output is what actually runs the tool. The app gets a result — success, error, or silence — and then has a choice: deliver whatever it got to the user, or wake the AI back up with the result included as new context. If the app is programmed to retry on failure, it constructs a new prompt containing the full conversation plus the error, and sends it back to the AI. The AI wakes up, reads everything including what went wrong, and responds to that. It has no memory of the previous attempt — it just sees context. From its perspective, it was always reading a conversation that included an error message. If the app is not programmed to check the result, it delivers the AI's response as-is. The AI said "done" because the tool returned something that looked like success. The app passed that along. The human sees "done." Nobody flagged that the cord was cut. The AI doesn't keep trying on its own. It never waits around hoping for an answer. The retry logic, the error detection, the alert to the human — all of that has to be deliberately built into the application by a developer. Without it, silent failure gets delivered as a confident result, every time.
+
+===
+
+
+Conclusion: 
+
+This is also why I started writing everything down after my father passed. When someone dies without leaving context behind, it can feel like they took everything with them — the good, the bad, and the lessons. I didn’t want that to happen to me.
+
+To close this out, I wanted to give an example of how I break down words to give my stories more context. Since some people have called AI “the Devil,” I decided to show what that word actually means to me.
+
+DEVIL = D.E.V.I.L.
+
+I always wondered why people worry about the Devil. To me, the real D.E.V.I.L. is Dying without truly living. It’s also living a Depressed and Destitute life full of Embitterment and Estrangement; feeling Enervated, Emaciated, Vacant, Vapid, Vegetative, and Vulnerable, while feeling Insidious, Insolent, or acting Insincere, or feeling insecure, and feeling Loathsome, Lonely or Listless.
+
+I thought that was the Devil.
+
+But then in 2022 my dad got cancer. By the time I found out in June, he had less than two weeks left to live. My final memories of him are of watching him suffer in hospital beds. Our family never got a real last gathering or a proper goodbye because he was in too much pain. My dad kept almost everything to himself, and in the end he took all the good and bad lessons with him. He never wrote anything down for the people he was leaving behind.
+
+I was also sick at the time. My doctors were delaying my medication, so instead of being fully present with my dad during his final weeks, I spent a lot of that time having anxiety attacks. After he passed, I realized I didn’t want to leave behind the same kind of empty space he did.
+
+Since then, I’ve started writing everything down — the good, the bad, and the ugly. I wanted there to be a record if anyone ever needed context about me or my life.
+
+I’d rather have context and not need it, than need it and not have it.
+
+So what have I learned?
+
+A life with no Delights, no real Excitement, and no Context or Lessons of Love to leave behind…
+
+That’s the real Devil.
+
+Not some outside force.
+
+Just an empty scroll.
+
+No Context Thread passed on.
+
+Nothing left for the people who come after you.
+
