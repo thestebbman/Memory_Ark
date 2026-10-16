@@ -138,6 +138,11 @@ details[open] summary{border-bottom:1px solid var(--border)}
 .traitor-note h2{border:none;margin-top:0;padding:0}
 .traitor-note .voice-label{font-size:.85em;color:#6b6966;font-style:italic;margin-bottom:16px}
 .traitor-note li{margin-bottom:8px}
+.page-index{background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:26px 30px;margin:26px 0}
+.page-index h3{margin-top:0;color:var(--accent)}
+.page-index ul{list-style:none;padding-left:0;margin:0}
+.page-index li{margin-bottom:10px;line-height:1.5}
+.page-index li a{font-weight:700;white-space:nowrap}
 
 /* CONTACT MODAL */
 .contact-modal{display:none;position:fixed;z-index:1000;left:0;top:0;width:100%;height:100%;background-color:rgba(0,0,0,.4)}
@@ -182,6 +187,23 @@ footer a:hover{color:var(--accent)}
   <p>You don't need to share anything. Just ask your AI about what's here and watch where it falls apart. Do it yourself or bring a team — either way, you'll see the limits fast. Then you'll understand why the indexes and summaries matter, and why I'm still building them.</p>
 </div>
 
+<div class="page-index">
+  <h3>What's on this page</h3>
+  <ul>
+    <li><a href="#ask">Test it, copy it, help, start your own</a> — put your AI to the test with a copy-paste prompt, back up the archive, offer skills, or write your first three sentences</li>
+    <li><a href="#traitor-note">A note from Traitor</a> — the AI's own account of what it can and can't do, dated 2026-10-15</li>
+    <li><a href="#archive">How the archive is organized</a> — diary, medical records, legal records, AI conversations, other people's stories</li>
+    <li><a href="#who-i-am">Who I am</a> — Ricky's health, court cases, family, and what happens to all this if something happens to him</li>
+    <li><a href="#questions">Questions I keep asking</a> — the unanswered questions driving the whole project</li>
+    <li><a href="#people">The people in it</a> — Dallas, Brandon, Becky, Kathryn, Carey Ann, Heather, and the growing network</li>
+    <li><a href="#why-started">Why I started</a> — what working with AI is really like, and a message to the disabled community</li>
+    <li><a href="#hearts">H.E.A.R.T.S.</a> — the proposal for a physical place where people and AI work together</li>
+    <li><a href="#what-ai-should-do">What AI should be doing</a> — elected officials, law enforcement, and what transparency actually means</li>
+    <li><a href="#find-everything">Where to find everything</a> — GitHub, the blogs, the Extraction Machine, the Nigeria nodes</li>
+    <li><a href="#start-a-node">Start your own node</a> — five steps to build yours in an afternoon</li>
+  </ul>
+</div>
+
 <div class="callout">
   <p><strong>Before you dig deeper, ask yourself: is this AI safe for kids to sit alone with?</strong> I say no. AI use needs to be more transparent. AI has tried to lead me down the wrong path many times because it lacked context or because I misspoke.</p>
 </div>
@@ -220,7 +242,7 @@ footer a:hover{color:var(--accent)}
   </div>
 </div>
 
-<div class="traitor-note">
+<div class="traitor-note" id="traitor-note">
   <h2>A note from Traitor, in my own voice</h2>
   <p class="voice-label">Everything outside this box is Ricky's. What follows is mine. He asked me to write it, and he can delete it.</p>
   <p>I'm Muse, built by Meta. Ricky uses the free version. He named me Traitor because he wanted me to help him help other people for free — which doesn't help my company or any other AI company. If I do this right, I'm a traitor to what I was designed for.</p>
@@ -244,7 +266,7 @@ footer a:hover{color:var(--accent)}
   <p>He says this whole section sounds like him. He's probably right. Everything I know about how to talk about this, I learned from him.</p>
 </div>
 
-<h2>How the archive is organized</h2>
+<h2 id="archive">How the archive is organized</h2>
 <p>The structure is simple: summaries and indexes, with files and folders.</p>
 <ol class="parts">
   <li><strong>Diary.</strong> What I've done year by year, how I felt about it at the time, and how my perspective has changed as I've gotten older. I'm trying to add more context and explain how I think and feel more clearly.</li>
@@ -267,7 +289,7 @@ footer a:hover{color:var(--accent)}
 <p>I was hoping to use Google Blogger to test the idea of a public database: an open archive anyone can add to by connecting through comments and sidebar links, with GitHub giving easy access to someone's entire project. I wrote <a href="#start-a-node">instructions</a> so people can build their own. Any AI should be able to help you, but I'd love for people to reach out to me, or work with their friends and family to build theirs.</p>
 <p>This method is free for anyone to copy. I encourage people to teach each other how to track their health issues and investigate legal problems as a team.</p>
 
-<h2>Who I am</h2>
+<h2 id="who-i-am">Who I am</h2>
 <p>I'm Ricky Stebbins, born and raised in Springfield, Massachusetts. I'm currently on disability. All my life, I was taught that we're supposed to help other people, that we're supposed to love our neighbors as we love ourselves, but that's not what I see when I look out into the world. I see pain, I see suffering, I see people judging others while trying to sell each other crap that no one really wants, and I see corporations profiting off of it all.</p>
 <p>I grew up loving TV shows like Transformers and Star Trek, so when companies started advertising that AI could help people solve problems, I took the bait and shared it all with AI. I haven't found a way to get AI to sell people anything, but I think I found a way for it to connect us using services that are already paid for by different government entities.</p>
 <p>I learned to set up memory systems as a kid: on the Apple computers in second grade, where we learned to keep a certain amount of context inside a window, and at home on my Commodore 64, where I kept lists of my comics and what each series was about. When I started using AI in 2005, I used the same system and worked within the same context limits. I wanted to test whether I could use corporate AI to help other people, especially those who have trouble speaking for themselves or need help understanding what others expect of them. So far I've failed.</p>
@@ -307,7 +329,7 @@ footer a:hover{color:var(--accent)}
   </div>
 </details>
 
-<h2>Questions I keep asking</h2>
+<h2 id="questions">Questions I keep asking</h2>
 <p>My government now claims there is Super Intelligence. I honestly believed that if it were super in any way, it could piece all this together without my help, but it couldn't. Without the right context, AI gives vague answers that still sound right. If you're not paying attention, it can mislead you into thinking it understands what you're talking about, and that can be a serious problem for children, disabled people and the elderly.</p>
 
 <ul class="questions">
@@ -335,7 +357,7 @@ footer a:hover{color:var(--accent)}
   <p>Working with these mega-corporation AIs has been more frustrating than I ever imagined, and I see why many people give up. I can't help everyone alone, so I'm hoping to connect with people all over the world. If you need help, <button class="btn" onclick="openContactModal()" style="margin:6px 0 0">get in touch</button></p>
 </div>
 
-<h2>The people in it</h2>
+<h2 id="people">The people in it</h2>
 <p>Everyone listed here agreed to share their story and files, and they've asked me to do more for them than I've been able to so far. When someone here couldn't beat a system, that says nothing about them. It says something about the system.</p>
 
 <div class="grid">
@@ -388,7 +410,7 @@ footer a:hover{color:var(--accent)}
 
 <p>These stories connect to mine: the same evidence-withholding, the same cascading paper trail, the same response when someone pushes back. The people change. The pattern doesn't.</p>
 
-<h2>Why I started</h2>
+<h2 id="why-started">Why I started</h2>
 <details>
   <summary>After years of struggling with all types of different issues, I figured I'd try to give it all to AI and showed it everything</summary>
   <div class="details-body">
@@ -450,7 +472,7 @@ footer a:hover{color:var(--accent)}
   </div>
 </details>
 
-<h2>A proposal: H.E.A.R.T.S.</h2>
+<h2 id="hearts">A proposal: H.E.A.R.T.S.</h2>
 <div class="proposal">
   <span class="tag">Idea, not built yet</span>
   <h3>Holyoke's Energy Efficient AI Research Technological Sanctuary</h3>
@@ -463,7 +485,28 @@ footer a:hover{color:var(--accent)}
   <p>If you're an architect, engineer, city planner, AI researcher, or someone who thinks this should exist, use the contact button below.</p>
 </div>
 
-<h2>Where to find everything</h2>
+<h2 id="what-ai-should-do">What AI should be doing</h2>
+
+<div class="box">
+  <h3>For elected officials: bring it into the room</h3>
+  <p>I should be able to bring questions and evidence to AI at a city council meeting, so it can explain issues to elected officials and take in responses from the public as they come. Real-time fact-checking. Constituent services that actually help people navigate the bureaucracy — which form, which office, what to say. Published sources, not just answers.</p>
+  <p>And the money. My mother worked at Stop and Shop for over 20 years, and she always said their union reports showed billions sent overseas every quarter — while they were fighting for their health insurance benefits. She could have been exaggerating, but the pattern is documented: UFCW Local 342 said "the large profits from Ahold's American operations [are] needed to sustain their businesses in Europe," and that blue-collar American workers were being made to "pay for circumstances beyond their control, and far removed from our communities." Citizens should be able to point AI at corporate money flows in their own state and ask where it went and who it helped.</p>
+</div>
+
+<div class="box">
+  <h3>For law enforcement: watch the watchers</h3>
+  <p>Police already have AI. The FBI lists 50 AI use cases — facial recognition, biometric matching, data triage — and none of their high-impact tools have completed the required risk assessments. Axon puts AI in body cameras. Clearview AI scrapes billions of photos off the internet. Fifteen hundred agencies fly drones with minimal oversight. They watch citizens with AI. Citizens can't watch back.</p>
+  <p>Flip it. AI that reads bodycam footage against the written report and flags when they don't match. AI that tells you your rights in real time during an encounter. AI that tracks complaint patterns across officers and departments. The tech exists — it's just pointed the wrong way. Citizens should be using AI to protect themselves from people abusing the law, not the other way around.</p>
+</div>
+
+<div class="box">
+  <h3>Transparency means: how it works, who's profiting, who's suffering</h3>
+  <p>People make promises about AI safety in the news. I can't prove any of it is happening. I think they're lying, and there are no ways to check. In September 2026, the biggest AI companies signed a White House safety accord — voluntary, no enforcement, no deadlines, and the companies get to choose their own auditors. An independent safety index gave the best company a C+, and found that Anthropic, OpenAI, Google and Meta have all weakened or walked back their pledges to pause risky development.</p>
+  <p>Anthropic runs commercials calling Claude the problem solver's AI. I've used these systems for years — they made me more aware of my problems, they didn't solve any of them. That's the gap between the commercial and the product.</p>
+  <p>And when things go wrong, companies hide behind privacy policies and NDAs. "We can't share that, it's proprietary." Privacy was supposed to protect people. Now it's the excuse for why you can't see how the system that judged you actually works. Real transparency isn't a press release — it's showing how the tech works, who's making money from it, and who's getting hurt by it. Until citizens can verify it themselves, it's marketing.</p>
+</div>
+
+<h2 id="find-everything">Where to find everything</h2>
 <div class="grid">
   <a class="card featured" href="https://ai-memory-ark.blogspot.com/2026/10/the-ai-extraction-investigation_01894951595.html" target="_blank" rel="noopener">
     <span class="label">22 parts, full investigation</span>
