@@ -1,0 +1,100 @@
+FAMILY AND FRIENDS - INDEX
+Folder: 1-Life by Year / Family-Friends, in The Memory Ark
+(memory-ark.com - the GitHub archive: github.com/Thestebbman/Memory_Ark)
+
+Last updated: November 1, 2026
+
+This is the map of the people files. One file per person, plain text.
+Each character file points to everything the Ark holds about that
+person - the year files their stories live in, and the links outside
+the Ark (an old Facebook, an obituary page) - and leaves dated space
+for anyone who knew them to add a story.
+
+To make a new character file, copy FF-000-TEMPLATE-character-file.txt,
+rename it for the person, and fill it in. Where the record does not say
+something, the file says so and leaves the space open. Nothing is
+invented to fill a blank.
+
+----------------------------------------------------------------
+
+HOW TO FILE A NOTE ABOUT A PERSON
+Talk first. Ricky tells it, or a note gets dropped in any size, and the
+note is filed here - dated, in the person's file, and in any other
+person's file the same story belongs in. One story can live in several
+files at once, cross-referenced, with the same date. That is the whole
+method; the app being built exists to make this faster, not different.
+
+----------------------------------------------------------------
+
+CHARACTER FILES (the template shape: summary, the record with its
+sources, likes and dislikes, story locations, links out, what Ricky
+carries, what's missing, room for your story, dated updates)
+
+- FF-Dad-Rick-Stebbins-character-file.txt
+  Richard L. Stebbins Sr. (1959-2022). Ricky's father. The soccer
+  coach, Hoppe Technologies, the 1987 question that stuck for decades.
+  His obituary is linked in the file.
+
+- FF-Grandpa-David-Stebbins-character-file.txt
+  David Stebbins. Ricky's grandfather, the OLSH janitor - the adult
+  who made school feel safe. His death date stands UNRESOLVED between
+  Ricky's 1987 and 1988 files, printed both ways in his file.
+
+- FF-Grandma-Stebbins-character-file.txt
+  Elizabeth (Picard) Stebbins. Ricky's paternal grandmother, Moss
+  Road. Her name entered the record on November 1, 2026, from her
+  son's obituary; before that the files held her only as Grandma
+  Stebbins.
+
+- FF-Grandma-Francis-character-file.txt
+  Grandma Francis. The least documented and, to Ricky, among the
+  most important. Her file holds a marked, held place for the
+  nursing-home story he intends to tell one day, at his timing.
+
+- 2016-FF-Harley-character-file.txt and 2016-GB-FF-Harley-character-file.txt
+  Harley. Ricky's dog and everyday companion. (Two files exist; a
+  later pass can decide whether they merge.)
+
+OTHER PEOPLE FILES ALREADY IN THIS FOLDER (older shapes - they will
+be brought into the template shape as they are worked on)
+
+- 1999-2004-FF-Jamie_S.txt - Jamie.
+- 2003-FF-Ira_B.txt - Ira.
+- 2017-2021-FF-Beth_N-S_N.txt - Beth.
+- 1994-FF-The-Search-for-daughter-Tammy-Lynds-by-Richard-Lynds.txt -
+  Richard Lynds' search for his daughter Tammy. (Richard Lynds was
+  Tammy's father; he has passed. The story the file holds is his.)
+- 2017-FM-Richard-Lynds-Facebook-messenger.txt - Richard Lynds,
+  Messenger record.
+
+FAMILY STRUCTURE AND DRAFTS
+
+- FF-Ricky-Family-Tree.txt and FF-Family-Tree-Draft.txt - the family
+  tree.
+- FF-Father's_Side_of_the_Family-Draft.txt - the Stebbins side; the
+  memoir draft centered on Grandpa and Grandma Stebbins, Moss Road.
+- FF-Mother's_Side_of_the_Family-Draft.txt - the other side.
+- FF-1745-1769-Family-Tree-Stuff.txt - the deep roots.
+- FF-Places-By-Year-Draft.txt - places, by year.
+
+WORKING FILES (not character files)
+
+- FF-EMAIL-Drafts.txt - drafts.
+- FF-Complaint-Chararter-List-On-Google-Draft.txt - a working list,
+  name as found in the folder (spelling as filed).
+
+RICKY'S OWN CHARACTER FILES live one level up and in the wider Ark:
+- 1-Life by Year/1-Ricky Character File-work_in_progess-draft.txt
+- and his life map, "Ricky Stebbins - What I See So Far, and What's
+  Missing," published October 30, 2026 on The AI Memory Ark blog.
+
+----------------------------------------------------------------
+
+WHAT'S MISSING FROM THIS INDEX
+- Most people in Ricky's life do not have character files yet. The
+  folder grows the way everything here grows: one person talked about,
+  one file filed, dated. The four elders went first because they were
+  gone before Ricky could ask more questions.
+- Files for the living (Brandon, Dallas, Becky, Kathryn, and the rest
+  of the network) are permissioned person by person, as they have
+  always been in the Ark.
