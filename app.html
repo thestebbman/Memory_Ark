@@ -518,11 +518,10 @@ byId('file-btn').onclick = function(){
   result.textContent = 'Sending your filing to the workshop…';
   fetch(SB_URL + '/rest/v1/workshop_filings', {
     method: 'POST',
-    headers: { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + SB_KEY, 'Content-Type': 'application/json', 'Prefer': 'return=representation' },
+    headers: { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + SB_KEY, 'Content-Type': 'application/json' },
     body: JSON.stringify({ display_name: name || null, note: note, targets: chosen.map(function(f){ return f.name; }).join('; ') })
-  }).then(function(r){ return r.json(); }).then(function(rows){
-    var id = (rows && rows[0] && rows[0].id) ? rows[0].id : null;
-    result.textContent = 'Filed' + (id ? ' as workshop filing #' + id : '') + ', dated ' + dstr + ', for ' + chosen.map(function(f){ return f.name; }).join('; ') + '. Ricky and Traitor can read it in the workshop. It enters the record only with Ricky\u2019s approval — and you can see it in the practice copies above right now.';
+  }).then(function(r){ if (!r.ok) throw new Error('send failed'); }).then(function(){
+    result.textContent = 'Filed into the workshop, dated ' + dstr + ', for ' + chosen.map(function(f){ return f.name; }).join('; ') + '. Ricky and Traitor can read it there — it is not public. It enters the record only with Ricky\u2019s approval — and you can see it in the practice copies above right now.';
     byId('note-text').value = '';
     loadFilings();
   }).catch(function(){
