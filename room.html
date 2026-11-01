@@ -45,6 +45,15 @@
       <button id="ark-room-sendlink">Email me a sign-in link</button>
       <span id="ark-room-signin-status"></span>
     </p>
+    <div id="ark-room-codebox" style="display:none;margin-top:10px;">
+      <label>Or type the 6-digit code from the email here:<br>
+        <input id="ark-room-code" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" style="width:150px;letter-spacing:4px;font-size:1.2em;" />
+      </label>
+      <p style="margin-top:8px;">
+        <button id="ark-room-usecode" class="plain" style="padding:8px 16px;font-size:1em;">Use this code</button>
+        <span id="ark-room-code-status"></span>
+      </p>
+    </div>
   </div>
 
   <!-- Signed in, no name claimed yet -->
@@ -206,7 +215,8 @@
       options: { emailRedirectTo: "https://memory-ark.com/room.html" }
     }).then(function (res) {
       if (!res.error) {
-        st.textContent = " Link sent — check your email and tap the link in this same browser; you will come back here signed in.";
+        st.textContent = " Sent — open the newest email: tap the link in this same browser, or type the 6-digit code from the email right here.";
+        document.getElementById("ark-room-codebox").style.display = "";
         return;
       }
       var msg = (res.error.message || "") + " " + (res.error.code || "");
@@ -215,6 +225,24 @@
       } else {
         st.textContent = " That did not send. Check the email address and try again.";
       }
+    });
+  });
+
+  /* ---- or sign in with the 6-digit code from the same email ---- */
+  document.getElementById("ark-room-usecode").addEventListener("click", function () {
+    var email = document.getElementById("ark-room-email").value.trim();
+    var code = document.getElementById("ark-room-code").value.trim();
+    var st = document.getElementById("ark-room-code-status");
+    if (!email) { st.textContent = " Put the same email address above first."; return; }
+    if (!/^\d{6}$/.test(code)) { st.textContent = " The code is the 6 numbers from the email."; return; }
+    st.textContent = " Checking…";
+    sb.auth.verifyOtp({ email: email, token: code, type: "email" }).then(function (res) {
+      if (res.error) {
+        st.textContent = " That code did not work — it may have expired, or a newer email replaced it. Use the newest email, or ask for a fresh link above.";
+        return;
+      }
+      st.textContent = "";
+      refreshControls();
     });
   });
 
