@@ -19,7 +19,7 @@
   #meter-ai { background: #6a4fb3; height: 100%; width: 0%; }
   #meter-over { background: #c62828; height: 100%; width: 0%; }
   #meter-label { font-size: 0.9em; margin-top: 5px; }
-  #surface { position: relative; height: 900px; border: 2px dashed #ddd9d0; border-radius: 8px; background: #f7f5f0; overflow: hidden; }
+  #surface { position: relative; height: 990px; border: 2px dashed #ddd9d0; border-radius: 8px; background: #f7f5f0; overflow: hidden; }
   .win { position: absolute; border: 2px solid #b9b3a4; border-radius: 8px; background: #fff; display: flex; flex-direction: column; box-shadow: 0 3px 10px rgba(0,0,0,0.13); min-width: 250px; min-height: 150px; }
   .win-bar { display: flex; justify-content: space-between; align-items: center; background: #efece4; border-bottom: 1px solid #ddd9d0; border-radius: 6px 6px 0 0; padding: 5px 9px; cursor: move; user-select: none; touch-action: none; flex: 0 0 auto; }
   .win-title { font-weight: bold; font-size: 0.98em; }
@@ -27,6 +27,18 @@
   .win-body { padding: 8px 10px; overflow: auto; flex: 1 1 auto; }
   .resize { position: absolute; right: 0; bottom: 0; width: 20px; height: 20px; cursor: nwse-resize; touch-action: none; }
   .resize::after { content: ''; position: absolute; right: 3px; bottom: 3px; width: 10px; height: 10px; border-right: 3px solid #b9b3a4; border-bottom: 3px solid #b9b3a4; }
+  .resize { display: none; }
+  .rz { position: absolute; z-index: 6; }
+  .rz-n { top: -5px; left: 14px; right: 14px; height: 10px; cursor: ns-resize; }
+  .rz-s { bottom: -5px; left: 14px; right: 14px; height: 10px; cursor: ns-resize; }
+  .rz-e { right: -5px; top: 14px; bottom: 14px; width: 10px; cursor: ew-resize; }
+  .rz-w { left: -5px; top: 14px; bottom: 14px; width: 10px; cursor: ew-resize; }
+  .rz-ne { top: -6px; right: -6px; width: 16px; height: 16px; cursor: nesw-resize; }
+  .rz-sw { bottom: -6px; left: -6px; width: 16px; height: 16px; cursor: nesw-resize; }
+  .rz-nw { top: -6px; left: -6px; width: 16px; height: 16px; cursor: nwse-resize; }
+  .rz-se { bottom: -6px; right: -6px; width: 16px; height: 16px; cursor: nwse-resize; }
+  .max-btn { font-size: 0.8em; padding: 2px 8px; margin-right: 4px; }
+  .focus-line { font-weight: bold; background: #f7ead2; border-left: 4px solid #b26a00; padding: 6px 8px; margin: 10px 0 4px 0; }
   body.dragging iframe { pointer-events: none; }
   .folder { font-weight: bold; margin-top: 9px; }
   .file-row { margin: 4px 0 4px 10px; font-size: 0.92em; }
@@ -46,6 +58,7 @@
     #surface { height: auto; overflow: visible; }
     .win { position: static !important; width: auto !important; height: auto !important; margin-bottom: 12px; }
     .resize { display: none; }
+    .rz { display: none; }
     .win-bar { cursor: default; }
     .win-body { max-height: none; }
     #room-frame { height: 480px; }
@@ -79,8 +92,9 @@
   <div class="win" id="win-files">
     <div class="win-bar"><span class="win-title">Files — the real archive</span><button type="button" class="fold-btn">Fold</button></div>
     <div class="win-body">
+      <p style="margin-top:0;"><button type="button" id="clear-context">Clear context — deselect all</button></p>
       <div id="tree"><p class="small">Loading the real files from the archive…</p></div>
-      <p class="small">Tick a box to load a file into context. Click a name to read it. This tree is read live from the public repository: file a new file into the archive and it appears here.</p>
+      <p class="small">Tick a box to load a file into context — tick a folder's box to load the whole folder. Click a name to read it. Loading is only reading: nothing is written anywhere when you tick. This tree is read live from the public repository: file a new file into the archive and it appears here.</p>
     </div>
     <div class="resize"></div>
   </div>
@@ -104,22 +118,18 @@
   </div>
 
   <div class="win" id="win-workshop">
-    <div class="win-bar"><span class="win-title">Notepad — the shared pad</span><button type="button" class="fold-btn">Fold</button></div>
+    <div class="win-bar"><span class="win-title">Notepad — Notes</span><button type="button" class="fold-btn">Fold</button></div>
     <div class="win-body">
-      <p style="margin-top:2px;">One document per sitting, titled by what you are working on. Signed-in members write straight into it; every entry is stamped automatically with the writer's claimed name and the time. Nothing in a pad can be edited or erased — by anyone. A mistake gets a dated correction, added below it. Pads are public, like everything in this place: the rule here is that nothing private gets talked about, so nothing needs hiding. Writing is for signed-in members, so every entry carries a real claimed name.</p>
+      <p style="margin-top:2px;">One document: the <strong>Notes</strong> file. Signed-in members write straight into it; every entry is stamped automatically with the writer's claimed name and the time, and nothing here can be edited or erased — by anyone. A note is not a filed story: it is a thought, saved before it is lost. Placing it into the right file, in the right spot, is separate work, done deliberately — the way "Stories I need to Place" already works. Set the focus to keep a sitting on subject; the focus is written into the Notes as a heading. Notes are public, like everything in this place: nothing private gets talked about here, so nothing needs hiding.</p>
       <p style="margin:6px 0;">
-        <select id="pad-select" style="font-family:Georgia,serif; font-size:0.95em; max-width:60%;"></select>
-        <button type="button" id="pad-open-btn">Open pad</button>
+        <input type="text" id="focus-text" placeholder="What are we working on? (e.g. Stories about Dad)">
+        <button type="button" id="focus-btn">Set the focus</button>
       </p>
-      <p style="margin:6px 0;">
-        <input type="text" id="pad-title" placeholder="New sitting — what are we working on? (e.g. Stories about Dad)">
-        <button type="button" id="pad-start-btn">Start a new pad</button>
-      </p>
-      <h3 id="pad-heading" style="margin:10px 0 4px 0; font-size:1.05em;">No pad open</h3>
-      <div id="pad-entries"><p class="small">Open a pad above, or start one, and its entries appear here like a document.</p></div>
+      <h3 id="pad-heading" style="margin:10px 0 4px 0; font-size:1.05em;">Notes</h3>
+      <div id="pad-entries"><p class="small">Loading the Notes file…</p></div>
       <p id="pad-who" class="small" style="margin:8px 0 2px 0;"></p>
-      <textarea id="pad-text" rows="3" placeholder="Write into the pad, in your own words. It saves the moment you add it, under your name."></textarea>
-      <p><button id="pad-add-btn" class="primary" type="button">Add to the pad</button></p>
+      <textarea id="pad-text" rows="3" placeholder="Write a note, in your own words. It saves the moment you add it, under your name."></textarea>
+      <p><button id="pad-add-btn" class="primary" type="button">Add to Notes</button></p>
       <p id="pad-result" class="small" style="margin:2px 0;"></p>
       <h3 style="margin:14px 0 4px 0; font-size:1em;">Earlier workshop filings</h3>
       <div id="filings-list"><p class="small">Checking who is signed in…</p></div>
@@ -161,8 +171,8 @@ var DEFAULTS = {
   'win-files':    { x: 14,  y: 12,  w: 340, h: 470 },
   'win-viewer':   { x: 368, y: 12,  w: 500, h: 470 },
   'win-reader':   { x: 14,  y: 496, w: 340, h: 330 },
-  'win-workshop': { x: 368, y: 496, w: 500, h: 390 },
-  'win-room':     { x: 882, y: 12,  w: 400, h: 560 }
+  'win-workshop': { x: 368, y: 496, w: 500, h: 440 },
+  'win-room':     { x: 882, y: 12,  w: 420, h: 660 }
 };
 var LKEY = 'ark-app-layout-v2';
 function desktop(){ return window.innerWidth > 980; }
@@ -206,7 +216,7 @@ document.querySelectorAll('.win').forEach(function(w){
   });
   var bar = w.querySelector('.win-bar');
   bar.addEventListener('pointerdown', function(ev){
-    if (!desktop() || ev.target.classList.contains('fold-btn')) return;
+    if (!desktop() || ev.target.classList.contains('fold-btn') || ev.target.classList.contains('max-btn')) return;
     ev.preventDefault(); bringFront(w);
     var sx = ev.clientX - w.offsetLeft, sy = ev.clientY - w.offsetTop;
     document.body.classList.add('dragging');
@@ -219,18 +229,58 @@ document.querySelectorAll('.win').forEach(function(w){
     function up(){ document.removeEventListener('pointermove', mv); document.removeEventListener('pointerup', up); document.body.classList.remove('dragging'); saveLayout(); }
     document.addEventListener('pointermove', mv); document.addEventListener('pointerup', up);
   });
-  w.querySelector('.resize').addEventListener('pointerdown', function(ev){
+  /* maximize / restore, like a real window */
+  var maxBtn = document.createElement('button');
+  maxBtn.type = 'button'; maxBtn.className = 'max-btn'; maxBtn.textContent = 'Max';
+  maxBtn.title = 'Fill the whole workspace, or back to size';
+  var foldBtnEl = w.querySelector('.fold-btn');
+  foldBtnEl.parentNode.insertBefore(maxBtn, foldBtnEl);
+  maxBtn.addEventListener('click', function(ev){
+    ev.stopPropagation();
     if (!desktop()) return;
-    ev.preventDefault(); ev.stopPropagation(); bringFront(w);
-    if (w.querySelector('.win-body').style.display === 'none') setFold(id, false, true);
-    var sw = w.offsetWidth, sh = w.offsetHeight, sx = ev.clientX, sy = ev.clientY;
-    document.body.classList.add('dragging');
-    function mv(e){
-      w.style.width = Math.max(250, sw + (e.clientX - sx)) + 'px';
-      w.style.height = Math.max(150, sh + (e.clientY - sy)) + 'px';
+    bringFront(w);
+    if (w._max) {
+      var p = w._max; w._max = null;
+      w.style.left = p.x + 'px'; w.style.top = p.y + 'px'; w.style.width = p.w + 'px'; w.style.height = p.h + 'px';
+      maxBtn.textContent = 'Max';
+    } else {
+      if (w.querySelector('.win-body').style.display === 'none') setFold(id, false, true);
+      w._max = { x: w.offsetLeft, y: w.offsetTop, w: w.offsetWidth, h: w.offsetHeight };
+      var surf = byId('surface');
+      w.style.left = '4px'; w.style.top = '4px';
+      w.style.width = (surf.clientWidth - 8) + 'px'; w.style.height = (surf.clientHeight - 8) + 'px';
+      maxBtn.textContent = 'Back';
     }
-    function up(){ document.removeEventListener('pointermove', mv); document.removeEventListener('pointerup', up); document.body.classList.remove('dragging'); w._h = w.offsetHeight; saveLayout(); }
-    document.addEventListener('pointermove', mv); document.addEventListener('pointerup', up);
+    saveLayout();
+  });
+  /* resize from any edge or corner, like a real window */
+  ['n','s','e','w','ne','nw','se','sw'].forEach(function(dir){
+    var hd = document.createElement('div');
+    hd.className = 'rz rz-' + dir;
+    w.appendChild(hd);
+    hd.addEventListener('pointerdown', function(ev){
+      if (!desktop()) return;
+      ev.preventDefault(); ev.stopPropagation(); bringFront(w);
+      if (w.querySelector('.win-body').style.display === 'none') setFold(id, false, true);
+      w._max = null; maxBtn.textContent = 'Max';
+      var r = { x: w.offsetLeft, y: w.offsetTop, w: w.offsetWidth, h: w.offsetHeight };
+      var sx = ev.clientX, sy = ev.clientY;
+      document.body.classList.add('dragging');
+      function mv(e){
+        var dx = e.clientX - sx, dy = e.clientY - sy;
+        var x = r.x, y = r.y, wd = r.w, ht = r.h;
+        if (dir.indexOf('e') >= 0) wd = r.w + dx;
+        if (dir.indexOf('s') >= 0) ht = r.h + dy;
+        if (dir.indexOf('w') >= 0) { wd = r.w - dx; x = r.x + dx; if (wd < 250) { x -= (250 - wd); wd = 250; } }
+        if (dir.indexOf('n') >= 0) { ht = r.h - dy; y = r.y + dy; if (ht < 150) { y -= (150 - ht); ht = 150; } }
+        if (wd < 250) wd = 250;
+        if (ht < 150) ht = 150;
+        w.style.left = Math.max(0, x) + 'px'; w.style.top = Math.max(0, y) + 'px';
+        w.style.width = wd + 'px'; w.style.height = ht + 'px';
+      }
+      function up(){ document.removeEventListener('pointermove', mv); document.removeEventListener('pointerup', up); document.body.classList.remove('dragging'); w._h = w.offsetHeight; saveLayout(); }
+      document.addEventListener('pointermove', mv); document.addEventListener('pointerup', up);
+    });
   });
 });
 document.querySelectorAll('#dock [data-win]').forEach(function(btn){
@@ -282,7 +332,20 @@ function renderTree(){
   var folders = [];
   FILES.forEach(function(f){ if (folders.indexOf(f.folder) < 0) folders.push(f.folder); });
   folders.forEach(function(folder){
-    var h = document.createElement('div'); h.className = 'folder'; h.textContent = folder; tree.appendChild(h);
+    var h = document.createElement('div'); h.className = 'folder';
+    var inFolder = FILES.filter(function(x){ return x.folder === folder; });
+    var fcb = document.createElement('input'); fcb.type = 'checkbox';
+    fcb.checked = inFolder.length > 0 && inFolder.every(function(x){ return !!x.loadedBy; });
+    fcb.onchange = function(){
+      inFolder.forEach(function(x){
+        if (fcb.checked) { if (!x.loadedBy) { x.loadedBy = 'you'; fetchText(x).then(renderAll); } }
+        else x.loadedBy = null;
+      });
+      renderAll();
+    };
+    h.appendChild(fcb);
+    var ht = document.createElement('span'); ht.textContent = ' ' + folder; h.appendChild(ht);
+    tree.appendChild(h);
     FILES.forEach(function(f){
       if (f.folder !== folder) return;
       var row = document.createElement('div'); row.className = 'file-row';
@@ -335,6 +398,11 @@ function openFile(key){
   });
 }
 function renderAll(){ renderTree(); renderMeter(); }
+byId('clear-context').addEventListener('click', function(){
+  FILES.forEach(function(f){ f.loadedBy = null; });
+  renderAll();
+  if (openKey) openFile(openKey);
+});
 byId('copy-btn').addEventListener('click', function(){
   var f = openKey ? fileByKey(openKey) : null;
   var note = byId('copy-note');
@@ -391,8 +459,8 @@ function loadProfile(cb){
 }
 function updateWho(){
   var who = byId('pad-who');
-  if (profileName) who.textContent = 'Writing as: ' + profileName + (profileIsAi ? ' [AI]' : '') + ' — that stamp goes on everything you add to a pad, and it cannot be taken off.';
-  else who.textContent = 'You are not signed in, so you can read everything here but not write. Sign in through the Room window, and this pad will know your name.';
+  if (profileName) who.textContent = 'Writing as: ' + profileName + (profileIsAi ? ' [AI]' : '') + ' — that stamp goes on everything you add to the Notes, and it cannot be taken off.';
+  else who.textContent = 'You are not signed in, so you can read everything here but not write. Sign in through the Room window, and the Notes will know your name.';
 }
 function loadFilings(){
   var box = byId('filings-list');
@@ -409,88 +477,91 @@ function loadFilings(){
     box.innerHTML = '<p class="small">The workshop list could not be loaded just now. The filings themselves are saved; try refreshing the page.</p>';
   });
 }
-/* ============ THE PAD: shared sittings, name-stamped, append-only ============ */
-var currentPad = null, currentPadTitle = '';
+/* ============ NOTES: one file, name-stamped, append-only ============ */
 function authH(extra){
   var s = session();
   var h = { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + (s ? s.access_token : SB_KEY) };
   if (extra) for (var k in extra) h[k] = extra[k];
   return h;
 }
-function loadPads(openId){
-  var sel = byId('pad-select');
-  fetch(SB_URL + '/rest/v1/notepad_pads?select=id,title,created_at&order=id.desc&limit=50', { headers: authH() })
+var notesId = null;
+function loadNotes(){
+  fetch(SB_URL + '/rest/v1/notepad_pads?select=id,title&title=eq.Notes&limit=1', { headers: authH() })
     .then(function(r){ return r.json(); }).then(function(rows){
-      if (!rows || !rows.length) { sel.innerHTML = '<option value="">No pads yet — start the first sitting</option>'; return; }
-      sel.innerHTML = rows.map(function(p){ return '<option value="' + p.id + '">' + esc(p.title) + '</option>'; }).join('');
-      var want = openId || currentPad || rows[0].id;
-      sel.value = String(want);
-      openPad(want);
+      if (rows && rows.length) { notesId = rows[0].id; openPad(notesId); }
+      else byId('pad-entries').innerHTML = '<p class="small">The Notes file has not been started yet. The first signed-in note starts it — and from then on, everything lands here, in order, under the writer\u2019s name.</p>';
     }).catch(function(){
-      byId('pad-entries').innerHTML = '<p class="small">The pads could not be loaded just now. They are saved; try refreshing the page.</p>';
+      byId('pad-entries').innerHTML = '<p class="small">The Notes file could not be loaded just now. It is saved; try refreshing the page.</p>';
     });
 }
+function ensureNotes(cb){
+  if (notesId) { cb(notesId); return; }
+  fetch(SB_URL + '/rest/v1/notepad_pads', {
+    method: 'POST',
+    headers: authH({ 'Content-Type': 'application/json', 'Prefer': 'return=representation' }),
+    body: JSON.stringify({ title: 'Notes', created_by: profileName })
+  }).then(function(r){ if (!r.ok) throw new Error('x'); return r.json(); }).then(function(rows){
+    notesId = rows[0].id; cb(notesId);
+  }).catch(function(){ byId('pad-result').textContent = 'The Notes file could not be started just now. Nothing was saved — try again in a moment.'; });
+}
 function openPad(id){
-  if (!id) return;
-  currentPad = id;
-  var sel = byId('pad-select');
-  for (var i = 0; i < sel.options.length; i++) if (String(sel.options[i].value) === String(id)) currentPadTitle = sel.options[i].textContent;
   fetch(SB_URL + '/rest/v1/notepad_entries?select=author_name,body,created_at&pad_id=eq.' + id + '&order=id.asc&limit=500', { headers: authH() })
     .then(function(r){ return r.json(); }).then(function(rows){
-      byId('pad-heading').textContent = 'Working on: ' + currentPadTitle;
-      if (!rows || !rows.length) { byId('pad-entries').innerHTML = '<p class="small">This pad is empty. The first entry starts the sitting.</p>'; return; }
+      byId('pad-heading').textContent = 'Notes — everything lands here, in order';
+      if (!rows || !rows.length) { byId('pad-entries').innerHTML = '<p class="small">The Notes file is empty. The first note starts it.</p>'; return; }
       byId('pad-entries').innerHTML = rows.map(function(e){
+        if (/^WORKING ON: /.test(e.body)) return '<div class="focus-line">' + esc(e.body) + '<div style="color:#666; font-size:0.85em; font-weight:normal;">set by ' + esc(e.author_name) + ' · ' + esc(new Date(e.created_at).toLocaleString()) + '</div></div>';
         return '<div class="filing"><div class="meta">' + esc(e.author_name) + ' · ' + esc(new Date(e.created_at).toLocaleString()) + '</div>' + esc(e.body) + '</div>';
       }).join('');
     }).catch(function(){
-      byId('pad-entries').innerHTML = '<p class="small">This pad could not be loaded just now. Its entries are saved; try again in a moment.</p>';
+      byId('pad-entries').innerHTML = '<p class="small">The Notes file could not be loaded just now. Its entries are saved; try again in a moment.</p>';
     });
 }
-function refreshPad(){ if (currentPad && session()) openPad(currentPad); }
-byId('pad-open-btn').addEventListener('click', function(){
-  var v = byId('pad-select').value;
-  if (v) openPad(v);
-});
-byId('pad-start-btn').addEventListener('click', function(){
+function refreshPad(){ if (notesId) openPad(notesId); }
+byId('focus-btn').addEventListener('click', function(){
   var result = byId('pad-result');
-  if (!session()) { result.textContent = 'Starting a pad is for signed-in members. Sign in through the Room window first.'; return; }
-  var title = byId('pad-title').value.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
-  if (!title) { result.textContent = 'Give the sitting its focus first — a few words, like "Stories about Dad".'; return; }
+  if (!session()) { result.textContent = 'Setting the focus is for signed-in members. Sign in through the Room window first.'; return; }
+  var focus = byId('focus-text').value.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
+  if (!focus) { result.textContent = 'Say what we are working on first — a few words, like "Stories about Dad".'; return; }
   function go(){
-    fetch(SB_URL + '/rest/v1/notepad_pads', {
-      method: 'POST',
-      headers: authH({ 'Content-Type': 'application/json', 'Prefer': 'return=representation' }),
-      body: JSON.stringify({ title: title, created_by: profileName })
-    }).then(function(r){ if (!r.ok) throw new Error('x'); return r.json(); }).then(function(rows){
-      byId('pad-title').value = '';
-      result.textContent = 'Pad started: "' + title + '". Write the first entry below — it saves under your name the moment you add it.';
-      loadPads(rows && rows[0] ? rows[0].id : null);
-    }).catch(function(){ result.textContent = 'The pad could not be started just now. Nothing was created — try again in a moment.'; });
+    if (!profileName) { result.textContent = 'Your account has no claimed name yet — claim one in the Room window first, so the focus carries a name.'; return; }
+    ensureNotes(function(id){
+      fetch(SB_URL + '/rest/v1/notepad_entries', {
+        method: 'POST',
+        headers: authH({ 'Content-Type': 'application/json' }),
+        body: JSON.stringify({ pad_id: id, author_name: profileName, body: 'WORKING ON: ' + focus })
+      }).then(function(r){ if (!r.ok) throw new Error('x'); }).then(function(){
+        byId('focus-text').value = '';
+        result.textContent = 'Focus set, and written into the Notes as a heading: "WORKING ON: ' + focus + '".';
+        openPad(id);
+      }).catch(function(){ result.textContent = 'The focus could not be set just now. Nothing was saved — try again in a moment.'; });
+    });
   }
   if (profileName) go(); else loadProfile(function(){ updateWho(); go(); });
 });
 byId('pad-add-btn').addEventListener('click', function(){
   var result = byId('pad-result');
-  if (!session()) { result.textContent = 'Writing in a pad is for signed-in members with a claimed name. Sign in through the Room window first — then your entries carry your name.'; return; }
-  if (!currentPad) { result.textContent = 'Open a pad first, or start a new one — every entry belongs to a sitting.'; return; }
+  if (!session()) { result.textContent = 'Writing in the Notes is for signed-in members with a claimed name. Sign in through the Room window first — then your notes carry your name.'; return; }
   var body = byId('pad-text').value.replace(/^\s+|\s+$/g, '');
-  if (!body) { result.textContent = 'Write the entry first — even one sentence belongs in the record.'; return; }
+  if (!body) { result.textContent = 'Write the note first — even one sentence belongs here.'; return; }
   function go(){
-    if (!profileName) { result.textContent = 'Your account has no claimed name yet — claim one in the Room window first, so your entries can be stamped.'; return; }
-    fetch(SB_URL + '/rest/v1/notepad_entries', {
-      method: 'POST',
-      headers: authH({ 'Content-Type': 'application/json' }),
-      body: JSON.stringify({ pad_id: currentPad, author_name: profileName, body: body })
-    }).then(function(r){ if (!r.ok) throw new Error('x'); }).then(function(){
-      byId('pad-text').value = '';
-      result.textContent = 'Added, under your name: ' + profileName + '. It is in the pad now, and it stays — pads do not erase.';
-      openPad(currentPad);
-    }).catch(function(){ result.textContent = 'The entry could NOT be added just now. It has not been saved — try again in a moment.'; });
+    if (!profileName) { result.textContent = 'Your account has no claimed name yet — claim one in the Room window first, so your notes can be stamped.'; return; }
+    ensureNotes(function(id){
+      fetch(SB_URL + '/rest/v1/notepad_entries', {
+        method: 'POST',
+        headers: authH({ 'Content-Type': 'application/json' }),
+        body: JSON.stringify({ pad_id: id, author_name: profileName, body: body })
+      }).then(function(r){ if (!r.ok) throw new Error('x'); }).then(function(){
+        byId('pad-text').value = '';
+        result.textContent = 'Added to Notes, under your name: ' + profileName + '. It stays — Notes do not erase.';
+        openPad(id);
+      }).catch(function(){ result.textContent = 'The note could NOT be added just now. It has not been saved — try again in a moment.'; });
+    });
   }
   if (profileName) go(); else loadProfile(function(){ updateWho(); go(); });
 });
 function initPad(){
-  loadProfile(function(){ updateWho(); loadPads(); });
+  loadProfile(function(){ updateWho(); loadNotes(); });
 }
 
 renderMeter(); loadListings(); loadFilings(); initPad();
