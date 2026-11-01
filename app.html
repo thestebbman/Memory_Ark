@@ -102,8 +102,14 @@
   <div class="win" id="win-viewer">
     <div class="win-bar"><span class="win-title" id="viewer-name">No file open</span><button type="button" class="fold-btn">Fold</button></div>
     <div class="win-body">
-      <p style="margin-top:0;"><button type="button" id="copy-btn">Copy this file</button> <span class="small" id="copy-note"> — take it, start your own version, write your perspective. That is how this spreads.</span></p>
+      <p style="margin-top:0;"><button type="button" id="copy-btn">Copy this file</button> <button type="button" id="edit-btn">Edit this file</button> <span class="small" id="copy-note"> — take it, start your own version, write your perspective. That is how this spreads.</span></p>
       <div id="viewer-text">Click a file name in the tree to read it here.</div>
+      <div id="editor-box" style="display:none; margin-top:8px;">
+        <p class="small" style="color:#8a2a1a;"><strong>You are editing a draft.</strong> The record itself does not change until the draft is filed — filing is deliberate. Save as often as you like: every save is kept, dated, under your name, so a browser reset can no longer eat your work the way it could on Blogger.</p>
+        <textarea id="editor-text" rows="18" style="font-family:ui-monospace, Menlo, Consolas, monospace; font-size:0.9em;"></textarea>
+        <p><button type="button" id="save-draft-btn" class="primary">Save draft</button> <button type="button" id="stop-edit-btn">Back to reading</button> <span id="draft-result" class="small"></span></p>
+      </div>
+      <div id="drafts-box" style="margin-top:8px;"></div>
     </div>
     <div class="resize"></div>
   </div>
@@ -387,12 +393,15 @@ function renderMeter(){
 function openFile(key){
   var f = fileByKey(key); if (!f) return;
   openKey = key;
+  byId('editor-box').style.display = 'none';
+  byId('viewer-text').style.display = '';
   byId('viewer-name').textContent = f.name + ' — loading…';
   fetchText(f).then(function(){
     var status = f.loadedBy ? (f.loadedBy === 'ai' ? " — in context (the reader's pick)" : ' — in context (your pick)') : ' — not loaded';
     byId('viewer-name').textContent = f.name + status;
     byId('viewer-text').textContent = f.text;
     renderMeter();
+    loadDrafts(f);
   }).catch(function(){
     byId('viewer-text').textContent = 'That file could not be loaded just now. It is safe in the repository.';
   });
@@ -415,6 +424,68 @@ byId('copy-btn').addEventListener('click', function(){
     ta.select(); try { document.execCommand('copy'); done(); } catch (e) { note.textContent = ' — copy failed in this browser; the same file is one click away in the repository.'; }
     document.body.removeChild(ta);
   }
+});
+
+/* ============ THE EDITOR: draft in the app; the record changes only on filing ============ */
+var draftBodies = {};
+function loadDrafts(f){
+  var box = byId('drafts-box');
+  fetch(SB_URL + '/rest/v1/file_drafts?select=id,created_at,editor_name,body&file_path=eq.' + encodeURIComponent(f.path) + '&order=id.desc&limit=20', { headers: authH() })
+    .then(function(r){ return r.json(); }).then(function(rows){
+      if (!rows || !rows.length) { box.innerHTML = '<p class="small">No drafts of this file yet. Edit it above and save — drafts wait here, dated, until one is filed into the record.</p>'; return; }
+      var html = '<p class="small" style="margin-bottom:4px;"><strong>Drafts of this file</strong> — saved work, not yet filed. The record still holds the version above.</p>';
+      rows.forEach(function(d){
+        draftBodies[d.id] = d.body;
+        html += '<div class="filing"><div class="meta">Draft #' + d.id + ' · ' + esc(d.editor_name) + ' · ' + esc(new Date(d.created_at).toLocaleString()) + '</div><button type="button" class="draft-read" data-did="' + d.id + '">Read this draft</button></div>';
+      });
+      box.innerHTML = html;
+      var btns = box.querySelectorAll('.draft-read');
+      for (var i = 0; i < btns.length; i++) btns[i].addEventListener('click', function(){
+        byId('viewer-text').textContent = draftBodies[this.getAttribute('data-did')];
+        byId('viewer-name').textContent = f.name + ' — A DRAFT (not the filed record)';
+      });
+    }).catch(function(){ box.innerHTML = '<p class="small">Drafts could not be loaded just now; any saved drafts are safe.</p>'; });
+}
+byId('edit-btn').addEventListener('click', function(){
+  var f = openKey ? fileByKey(openKey) : null;
+  var note = byId('copy-note');
+  if (!f) { note.textContent = ' — open a file first, then edit it.'; return; }
+  fetchText(f).then(function(){
+    byId('editor-text').value = f.text;
+    byId('viewer-text').style.display = 'none';
+    byId('editor-box').style.display = '';
+    byId('draft-result').textContent = '';
+  });
+});
+byId('stop-edit-btn').addEventListener('click', function(){
+  byId('editor-box').style.display = 'none';
+  byId('viewer-text').style.display = '';
+});
+byId('save-draft-btn').addEventListener('click', function(){
+  var result = byId('draft-result');
+  var f = openKey ? fileByKey(openKey) : null;
+  if (!f) { result.textContent = 'Open a file first.'; return; }
+  if (!session()) { result.textContent = 'Saving a draft is for signed-in members with a claimed name — sign in through the Room window first, so the draft carries your name.'; return; }
+  var body = byId('editor-text').value;
+  function go(){
+    if (!profileName) { result.textContent = 'Your account has no claimed name yet — claim one in the Room window first, so the draft can be stamped.'; return; }
+    fetch(SB_URL + '/rest/v1/file_drafts', {
+      method: 'POST',
+      headers: authH({ 'Content-Type': 'application/json' }),
+      body: JSON.stringify({ file_path: f.path, editor_name: profileName, body: body })
+    }).then(function(r){ if (!r.ok) throw new Error('x'); }).then(function(){
+      result.textContent = 'Draft saved, under your name: ' + profileName + '. The record has NOT changed — this draft waits to be filed.';
+      loadDrafts(f);
+      ensureNotes(function(id){
+        fetch(SB_URL + '/rest/v1/notepad_entries', {
+          method: 'POST',
+          headers: authH({ 'Content-Type': 'application/json' }),
+          body: JSON.stringify({ pad_id: id, author_name: profileName, body: 'Saved a draft of ' + f.path + ' — in the Editor, awaiting filing.' })
+        }).then(function(){ refreshPad(); }).catch(function(){});
+      });
+    }).catch(function(){ result.textContent = 'The draft could NOT be saved just now. Your text is still in the box above — do not close this window; try saving again in a moment.'; });
+  }
+  if (profileName) go(); else loadProfile(function(){ updateWho(); go(); });
 });
 
 /* ============ THE READER: works on the real 1988 file ============ */
