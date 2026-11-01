@@ -35,7 +35,9 @@
 
   <!-- Signed out: request a sign-in link -->
   <div id="ark-room-signin" class="panel">
+    <p id="ark-room-authnote" style="display:none;margin:0 0 8px;color:#8a2a1a;"></p>
     <p style="margin:0 0 8px;"><strong>To speak, sign in.</strong> Put your email here and we will send you a one-tap sign-in link — no password. You will come back to this page signed in, claim the name you stand behind, and it is yours from then on.</p>
+    <p style="margin:0 0 8px;">Two things that save trouble: <strong>use the newest email</strong> — each new link cancels the older ones — and <strong>open the link in this same browser</strong>. If your mail app opens links in its own little browser, long-press the link and choose your regular browser instead.</p>
     <label>Your email:<br>
       <input id="ark-room-email" type="email" autocomplete="email" />
     </label>
@@ -171,6 +173,27 @@
   sb.auth.onAuthStateChange(function () { refreshControls(); });
   refreshControls();
 
+  /* ---- if a sign-in link went wrong, say so in plain words ---- */
+  (function () {
+    if (!window.location.hash || window.location.hash.indexOf("error") === -1) return;
+    var params = {};
+    window.location.hash.substring(1).split("&").forEach(function (pair) {
+      var kv = pair.split("=");
+      params[decodeURIComponent(kv[0] || "")] = decodeURIComponent((kv[1] || "").replace(/\+/g, " "));
+    });
+    var note = document.getElementById("ark-room-authnote");
+    var code = params.error_code || "";
+    if (code === "otp_expired") {
+      note.textContent = "That sign-in link had expired or was already used — links work only once, and asking for a new one cancels the older ones. Ask for a fresh link below and use the newest email that arrives.";
+    } else {
+      note.textContent = "That sign-in did not go through (" + (params.error_description || params.error || "unknown error") + "). Ask for a fresh link below and use the newest email that arrives.";
+    }
+    note.style.display = "";
+    if (window.history && window.history.replaceState) {
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  })();
+
   /* ---- sign in by email link ---- */
   document.getElementById("ark-room-sendlink").addEventListener("click", function () {
     var email = document.getElementById("ark-room-email").value.trim();
@@ -181,9 +204,16 @@
       email: email,
       options: { emailRedirectTo: "https://memory-ark.com/room.html" }
     }).then(function (res) {
-      st.textContent = res.error
-        ? " That did not send. Check the email address and try again."
-        : " Link sent — check your email and tap the link; you will come back here signed in.";
+      if (!res.error) {
+        st.textContent = " Link sent — check your email and tap the link in this same browser; you will come back here signed in.";
+        return;
+      }
+      var msg = (res.error.message || "") + " " + (res.error.code || "");
+      if (msg.indexOf("rate_limit") !== -1) {
+        st.textContent = " Too many sign-in emails went out in the last hour, so this one could not be sent. Wait a while and try again — the room's host is moving the sending to a bigger pipe for good.";
+      } else {
+        st.textContent = " That did not send. Check the email address and try again.";
+      }
     });
   });
 
