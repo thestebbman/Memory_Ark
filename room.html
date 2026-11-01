@@ -293,5 +293,22 @@
   });
 })();
 </script>
+<script>
+/* When this page sits inside the front page's window, tell the parent
+   how tall the whole room is, so the window fits the room and never
+   needs its own scrollbar. The conversation box inside keeps its
+   own scroll; nothing else should. */
+(function () {
+  if (window.parent === window) return;
+  function report() {
+    var h = Math.max(document.documentElement.scrollHeight, document.body ? document.body.scrollHeight : 0);
+    if (h > 0) window.parent.postMessage({ arkRoomHeight: h }, "*");
+  }
+  window.addEventListener("load", report);
+  window.addEventListener("resize", report);
+  document.addEventListener("click", function () { setTimeout(report, 120); });
+  setInterval(report, 1500);
+})();
+</script>
 </body>
 </html>
