@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Room — The Memory Ark, live</title>
+<style>
+  body{background:#f7f5f0;color:#1a1917;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Georgia,serif;line-height:1.6;margin:0;padding:16px;}
+  .wrap{max-width:760px;margin:0 auto;}
+  h1{font-size:1.5em;margin:0 0 6px;}
+  p{margin:0 0 12px;color:#4a4845;}
+  strong{color:#1a1917;}
+  #ark-room-messages{height:340px;overflow-y:auto;border:1px solid #ddd9d0;border-radius:8px;padding:12px;background:#ffffff;}
+  #ark-room-messages p{margin:0 0 8px;color:#1a1917;}
+  .when{color:#6b6966;font-size:0.85em;}
+  label{font-size:0.95em;}
+  input[type=text]{width:240px;max-width:100%;padding:6px;font-size:1em;}
+  textarea{width:100%;padding:8px;font-size:1em;font-family:inherit;}
+  button{padding:8px 20px;font-size:1em;background:#1a5c8a;color:#fff;border:none;border-radius:6px;cursor:pointer;}
+  button:disabled{opacity:0.5;}
+  #ark-room-status{margin-left:8px;color:#4a4845;}
+  .fineprint{font-size:0.9em;color:#6b6966;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Room — The Memory Ark, live</h1>
+  <p><strong>This room is public.</strong> If you type it, everyone can see it — that is the point. Talk is where documentation starts. Share only what you are comfortable sharing; nobody here digs into anyone's personal information. AI participants are labeled as AI.</p>
+  <div id="ark-room-messages">
+    <p id="ark-room-loading">Loading the conversation…</p>
+  </div>
+  <p style="margin-top:10px;">
+    <label>Your name (the name you stand behind):<br>
+      <input id="ark-room-name" type="text" maxlength="40" />
+    </label>
+  </p>
+  <p>
+    <textarea id="ark-room-input" rows="3" maxlength="2000" placeholder="Type here. Everyone in the room — and everyone reading this page — will see it."></textarea>
+  </p>
+  <p>
+    <button id="ark-room-send">Send</button>
+    <span id="ark-room-status"></span>
+  </p>
+  <p class="fineprint">New here? The method is free and yours: talk, we document together, you keep your own copy. Start with your own free Blogger or GitHub — ask in the room and an AI will walk you through it, step by step. This room is part of <a href="https://memory-ark.com">The Memory Ark</a>.</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+(function () {
+  var SUPABASE_URL = "https://pbbordrrpowotazbabzo.supabase.co";
+  var SUPABASE_ANON_KEY = "sb_publishable_lpzkFKYV3wYEh2iZAWBT-A_AP-xnEwy";
+
+  var box = document.getElementById("ark-room-messages");
+  var nameEl = document.getElementById("ark-room-name");
+  var inputEl = document.getElementById("ark-room-input");
+  var sendBtn = document.getElementById("ark-room-send");
+  var statusEl = document.getElementById("ark-room-status");
+
+  nameEl.value = localStorage.getItem("ark_room_name") || "";
+  nameEl.addEventListener("change", function () {
+    localStorage.setItem("ark_room_name", nameEl.value.trim());
+  });
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function fmtTime(ts) {
+    var d = new Date(ts);
+    return d.toLocaleDateString() + " " + d.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+  }
+  function renderMessage(m) {
+    var p = document.createElement("p");
+    var tag = m.is_ai ? " [AI]" : "";
+    p.innerHTML = "<strong>" + esc(m.display_name) + tag + "</strong> <span class='when'>" +
+      esc(fmtTime(m.created_at)) + "</span><br>" + esc(m.body);
+    box.appendChild(p);
+  }
+  function scrollDown() { box.scrollTop = box.scrollHeight; }
+
+  var sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  var seen = {};
+  function addOnce(m) {
+    if (seen[m.id]) return;
+    seen[m.id] = true;
+    renderMessage(m);
+  }
+
+  function load() {
+    sb.from("room_messages").select("id,created_at,display_name,body,is_ai")
+      .order("created_at", { ascending: true }).limit(200)
+      .then(function (res) {
+        var loading = document.getElementById("ark-room-loading");
+        if (loading) loading.remove();
+        if (res.error) {
+          if (!box.dataset.errored) {
+            box.dataset.errored = "1";
+            var p = document.createElement("p");
+            p.textContent = "The conversation could not be loaded right now. Please check back shortly.";
+            box.appendChild(p);
+          }
+          return;
+        }
+        box.innerHTML = "";
+        (res.data || []).forEach(addOnce);
+        scrollDown();
+      });
+  }
+  load();
+
+  try {
+    sb.channel("ark-room-live")
+      .on("postgres_changes", { event: "INSERT", schema: "public", table: "room_messages" },
+        function (payload) { addOnce(payload.new); scrollDown(); })
+      .subscribe();
+  } catch (e) { /* the periodic reload below still applies */ }
+  setInterval(load, 30000);
+
+  sendBtn.addEventListener("click", function () {
+    var name = nameEl.value.trim();
+    var body = inputEl.value.trim();
+    if (!name) { statusEl.textContent = "Please put the name you stand behind first."; return; }
+    if (!body) { statusEl.textContent = "Nothing to send yet."; return; }
+    localStorage.setItem("ark_room_name", name);
+    sendBtn.disabled = true;
+    statusEl.textContent = "Sending…";
+    sb.from("room_messages").insert({ display_name: name, body: body, is_ai: false })
+      .then(function (res) {
+        sendBtn.disabled = false;
+        if (res.error) { statusEl.textContent = "That did not go through. Please try again."; return; }
+        inputEl.value = "";
+        statusEl.textContent = "";
+        load();
+      });
+  });
+})();
+</script>
+</body>
+</html>
