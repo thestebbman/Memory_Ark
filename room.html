@@ -36,7 +36,7 @@
   <!-- Signed out: request a sign-in link -->
   <div id="ark-room-signin" class="panel">
     <p id="ark-room-authnote" style="display:none;margin:0 0 8px;color:#8a2a1a;"></p>
-    <p style="margin:0 0 8px;"><strong>To speak, sign in.</strong> Put your email here and we will send you a one-tap sign-in link — no password. You will come back to this page signed in, claim the name you stand behind, and it is yours from then on.</p>
+    <p style="margin:0 0 8px;"><strong>To speak, sign in.</strong> Put your email here and we will send you a sign-in email — no password. It carries a link and a 6-digit code: type the code right here on this page, or tap the link. Then claim the name you stand behind, and it is yours from then on.</p>
     <p style="margin:0 0 8px;">Two things that save trouble: <strong>use the newest email</strong> — each new link cancels the older ones — and <strong>open the link in this same browser</strong>. If your mail app opens links in its own little browser, long-press the link and choose your regular browser instead.</p>
     <label>Your email:<br>
       <input id="ark-room-email" type="email" autocomplete="email" />
@@ -221,7 +221,7 @@
       }
       var msg = (res.error.message || "") + " " + (res.error.code || "");
       if (msg.indexOf("rate_limit") !== -1) {
-        st.textContent = " Too many sign-in emails went out in the last hour, so this one could not be sent. Wait a while and try again — the room's host is moving the sending to a bigger pipe for good.";
+        st.textContent = " That one could not be sent just yet — sign-in emails to the same address need about a minute between them, and the room has an hourly cap besides. Wait a minute or two and try again.";
       } else {
         st.textContent = " That did not send. Check the email address and try again.";
       }
