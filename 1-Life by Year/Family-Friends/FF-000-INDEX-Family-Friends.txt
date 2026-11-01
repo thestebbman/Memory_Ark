@@ -14,6 +14,11 @@ To make a new character file, copy FF-000-TEMPLATE-character-file.txt,
 rename it for the person, and fill it in. Where the record does not say
 something, the file says so and leaves the space open. Nothing is
 invented to fill a blank.
+START WITH THIS FILE
+- FF-000-FOR-THE-AI.txt
+  Instructions for any AI working in this archive: the reader-and-
+  learner role, the filing rules, the context rules. Hand an AI this
+  one file and it knows how to work here.
 
 ----------------------------------------------------------------
 
