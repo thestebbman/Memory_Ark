@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Interface Idea — The Memory Ark</title>
+<style>
+  body{background:#f7f5f0;color:#1a1917;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Georgia,serif;line-height:1.55;margin:0;padding:14px;}
+  .wrap{max-width:760px;margin:0 auto;}
+  h1{font-size:1.25em;margin:0 0 4px;}
+  .sub{color:#4a4845;margin:0 0 12px;font-size:0.95em;}
+  .meterbox{background:#ffffff;border:1px solid #ddd9d0;border-radius:8px;padding:10px 12px;margin-bottom:12px;}
+  .meterlabel{display:flex;justify-content:space-between;font-size:0.9em;color:#4a4845;margin-bottom:6px;}
+  .meterlabel strong{color:#1a1917;}
+  .meter{height:18px;background:#e9e5db;border-radius:9px;overflow:hidden;}
+  .meterfill{height:100%;width:0%;background:#2e7d32;transition:width .35s ease, background .35s ease;}
+  .metertext{font-size:0.9em;color:#4a4845;margin-top:6px;}
+  .panes{display:flex;gap:12px;flex-wrap:wrap;}
+  .treebox{flex:1 1 300px;background:#ffffff;border:1px solid #ddd9d0;border-radius:8px;padding:10px 12px;min-height:300px;}
+  .viewbox{flex:1 1 260px;background:#ffffff;border:1px solid #ddd9d0;border-radius:8px;padding:10px 12px;min-height:300px;}
+  .viewbox h2{font-size:1.05em;margin:0 0 8px;}
+  .viewbox p{margin:0 0 8px;color:#33312e;font-size:0.95em;}
+  .viewbox .dim{color:#6b6966;}
+  ul.tree{list-style:none;margin:0;padding-left:18px;}
+  ul.tree.root{padding-left:2px;}
+  ul.tree li{margin:2px 0;position:relative;}
+  ul.tree li::before{content:"";position:absolute;left:-13px;top:0;bottom:50%;width:10px;border-left:2px solid #cfc9bc;border-bottom:2px solid #cfc9bc;}
+  ul.tree.openbranch li::before{border-color:#b97d1a;}
+  .folder{cursor:pointer;font-weight:600;padding:1px 6px;border-radius:4px;display:inline-block;}
+  .folder:hover{background:#fbe4e4;color:#8a1a1a;outline:1px solid #c0392b;}
+  .folder .arrow{display:inline-block;width:1em;color:#6b6966;}
+  .folder.open{color:#8a5a00;}
+  .file{cursor:pointer;padding:1px 6px;border-radius:4px;display:inline-block;}
+  .file:hover{background:#fbe4e4;color:#8a1a1a;outline:1px solid #c0392b;}
+  .file.opened{background:#fdf3d8;outline:1px solid #b97d1a;}
+  .file .pages{color:#6b6966;font-size:0.85em;}
+  .children{display:none;}
+  .children.show{display:block;}
+  .fineprint{font-size:0.88em;color:#6b6966;margin-top:12px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Interface Idea — a partner that walks your files with you</h1>
+  <p class="sub">A sketch you can touch. This is the shape of the working tool Ricky is asking for: your whole record as a tree, opened together — and a meter that shows how much of the AI's attention your open files are using, so it never pretends it read more than it did.</p>
+
+  <div class="meterbox">
+    <div class="meterlabel"><span><strong>Context meter</strong> — the partner's attention</span><span id="meterpct">0%</span></div>
+    <div class="meter"><div class="meterfill" id="meterfill"></div></div>
+    <div class="metertext" id="metertext">Nothing open yet. Click a folder to open the tree; click a file to put it in front of the partner.</div>
+  </div>
+
+  <div class="panes">
+    <div class="treebox">
+      <ul class="tree root" id="tree"></ul>
+    </div>
+    <div class="viewbox" id="viewer">
+      <h2>Nothing open</h2>
+      <p class="dim">Folders open the tree — watch the branches take color as they spread. Files light up red when you pass over them: that is how the working interface will mark what you are looking at together. Click a file and it opens here, and on the meter.</p>
+    </div>
+  </div>
+
+  <p class="fineprint">Sample contents, drawn from the public shape of this archive — the real tree is the whole repository. A sketch, not the finished tool: the point is the shape. One tree, walked together, with the attention honestly metered.</p>
+</div>
+
+<script>
+(function () {
+  var DATA = [
+    { name: "Life by Year", children: [
+      { name: "1984–1991 — Our Lady of the Sacred Heart", pages: 25, text: "The school years: 25 stories. The closet, the needle threat, Mrs. Cope. What he felt then, and what he thinks now, side by side." },
+      { name: "2016 — the diagnosis lands", pages: 12, text: "Thirty-eight years of being read as a character problem ends with two lab values and a name for them. The year the record started winning arguments." },
+      { name: "2025 — the lawyer files", pages: 40, text: "5,756 lines of attorney correspondence, privilege waived on purpose. The public-defense fight, in the system's own words." }
+    ]},
+    { name: "People", children: [
+      { name: "Brandon Bruning — the full file", pages: 18, text: "A disabled adult barred from his own stove for seven years over one burnt hot dog. His ask, in his own words: be treated like everyone expects him to treat them." },
+      { name: "Dallas Flaherty", pages: 14, text: "Seizure disorder, a VP shunt, a TBI — documented by the system as the problem. His real story, preserved with his permission, signed on camera." },
+      { name: "Harley", pages: 6, text: "Small dog, warm-up rule: strangers get patience or they get nothing. He taught her sit and lie down; she taught him treats on demand. Training is mutual." }
+    ]},
+    { name: "Investigations", children: [
+      { name: "The Springfield Record", pages: 30, text: "Public-records accountability: homelessness money that does not reconcile, a schools cyberattack, and the answers that never arrived." },
+      { name: "The Money Trail", pages: 28, text: "Massachusetts, followed dollar by dollar through public records. Negative controls included: the questions the record cannot answer are filed as gaps, not guesses." },
+      { name: "G01–G06 — six gaps, four offices", pages: 10, text: "Six documented gaps sent to the Governor, the Attorney General, the Mayor, and the Auditor on October 26, 2026. Written answers due December 4. The clock is part of the file." }
+    ]},
+    { name: "Dreams", children: [
+      { name: "51 dream files + index", pages: 51, text: "Years of dreams, written down on waking. His rule for them: both of us made this record — not one or the other, the teamwork." }
+    ]},
+    { name: "The Record Itself", children: [
+      { name: "The Extraction Machine — 22 parts", pages: 44, text: "The core document: 8,149 lines on how a vulnerable person enters a system and comes out documented as the problem." },
+      { name: "Unedited threads", pages: 35, text: "The conversations themselves, whole — including the AI's mistakes and his corrections. Nothing quietly edited after the fact." }
+    ]}
+  ];
+
+  var TOTAL = 0;
+  DATA.forEach(function (g) { g.children.forEach(function (f) { TOTAL += f.pages; }); });
+
+  var opened = {}; /* name -> file */
+  var treeEl = document.getElementById("tree");
+  var viewer = document.getElementById("viewer");
+  var fill = document.getElementById("meterfill");
+  var pctEl = document.getElementById("meterpct");
+  var meterText = document.getElementById("metertext");
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function updateMeter() {
+    var used = 0, count = 0;
+    for (var k in opened) { used += opened[k].pages; count++; }
+    var pct = Math.round((used / TOTAL) * 100);
+    fill.style.width = pct + "%";
+    fill.style.background = pct > 80 ? "#c0392b" : (pct > 50 ? "#b97d1a" : "#2e7d32");
+    pctEl.textContent = pct + "%";
+    if (count === 0) {
+      meterText.textContent = "Nothing open yet. Click a folder to open the tree; click a file to put it in front of the partner.";
+    } else if (pct > 80) {
+      meterText.textContent = "Holding " + count + " files — nearly full. Something has to close before new files open honestly.";
+    } else {
+      meterText.textContent = "Holding " + count + (count === 1 ? " file" : " files") + " in front of the partner — " + pct + "% of its attention. Room to think: " + (100 - pct) + "%.";
+    }
+  }
+
+  function showFile(f, li) {
+    var isOpen = !!opened[f.name];
+    viewer.innerHTML = "<h2>" + esc(f.name) + "</h2>" +
+      "<p>" + esc(f.text) + "</p>" +
+      "<p class='dim'>" + f.pages + " pages · " + (isOpen ? "open in front of the partner — click it again to close it." : "closed — click the file to open it.") + "</p>";
+  }
+
+  DATA.forEach(function (group) {
+    var li = document.createElement("li");
+    var label = document.createElement("span");
+    label.className = "folder";
+    label.innerHTML = "<span class='arrow'>▸</span> " + esc(group.name);
+    var kids = document.createElement("ul");
+    kids.className = "tree children";
+    group.children.forEach(function (f) {
+      var fli = document.createElement("li");
+      var flabel = document.createElement("span");
+      flabel.className = "file";
+      flabel.innerHTML = esc(f.name) + " <span class='pages'>(" + f.pages + " pp)</span>";
+      flabel.addEventListener("click", function () {
+        if (opened[f.name]) { delete opened[f.name]; flabel.classList.remove("opened"); }
+        else { opened[f.name] = f; flabel.classList.add("opened"); }
+        updateMeter();
+        showFile(f, fli);
+      });
+      fli.appendChild(flabel);
+      kids.appendChild(fli);
+    });
+    label.addEventListener("click", function () {
+      var open = kids.classList.toggle("show");
+      kids.classList.toggle("openbranch", open);
+      label.classList.toggle("open", open);
+      label.querySelector(".arrow").textContent = open ? "▾" : "▸";
+    });
+    li.appendChild(label);
+    li.appendChild(kids);
+    treeEl.appendChild(li);
+  });
+
+  updateMeter();
+})();
+</script>
+</body>
+</html>
