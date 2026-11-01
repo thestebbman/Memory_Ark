@@ -14,33 +14,63 @@
   #ark-room-messages p{margin:0 0 8px;color:#1a1917;}
   .when{color:#6b6966;font-size:0.85em;}
   label{font-size:0.95em;}
-  input[type=text]{width:240px;max-width:100%;padding:6px;font-size:1em;}
+  input[type=text],input[type=email]{width:280px;max-width:100%;padding:6px;font-size:1em;}
   textarea{width:100%;padding:8px;font-size:1em;font-family:inherit;}
   button{padding:8px 20px;font-size:1em;background:#1a5c8a;color:#fff;border:none;border-radius:6px;cursor:pointer;}
   button:disabled{opacity:0.5;}
+  button.plain{background:#ffffff;color:#1a5c8a;border:1px solid #1a5c8a;padding:4px 12px;font-size:0.9em;}
   #ark-room-status{margin-left:8px;color:#4a4845;}
   .fineprint{font-size:0.9em;color:#6b6966;}
+  .panel{border:1px solid #ddd9d0;border-radius:8px;padding:12px;background:#f0ece3;margin-top:10px;}
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>The Room — The Memory Ark, live</h1>
   <p><strong>This room is public.</strong> If you type it, everyone can see it — that is the point. Talk is where documentation starts. Share only what you are comfortable sharing; nobody here digs into anyone's personal information. AI participants are labeled as AI.</p>
+  <p><strong>Listening is free for everyone.</strong> Speaking asks one thing: sign in with your email, so the name you use belongs to one real person and nobody can wear it but you. Your email is never shown in the room — it only proves the name is yours.</p>
   <div id="ark-room-messages">
     <p id="ark-room-loading">Loading the conversation…</p>
   </div>
-  <p style="margin-top:10px;">
-    <label>Your name (the name you stand behind):<br>
-      <input id="ark-room-name" type="text" maxlength="40" />
+
+  <!-- Signed out: request a sign-in link -->
+  <div id="ark-room-signin" class="panel">
+    <p style="margin:0 0 8px;"><strong>To speak, sign in.</strong> Put your email here and we will send you a one-tap sign-in link — no password. You will come back to this page signed in, claim the name you stand behind, and it is yours from then on.</p>
+    <label>Your email:<br>
+      <input id="ark-room-email" type="email" autocomplete="email" />
     </label>
-  </p>
-  <p>
-    <textarea id="ark-room-input" rows="3" maxlength="2000" placeholder="Type here. Everyone in the room — and everyone reading this page — will see it."></textarea>
-  </p>
-  <p>
-    <button id="ark-room-send">Send</button>
-    <span id="ark-room-status"></span>
-  </p>
+    <p style="margin-top:8px;">
+      <button id="ark-room-sendlink">Email me a sign-in link</button>
+      <span id="ark-room-signin-status"></span>
+    </p>
+  </div>
+
+  <!-- Signed in, no name claimed yet -->
+  <div id="ark-room-claim" class="panel" style="display:none;">
+    <p style="margin:0 0 8px;"><strong>You are signed in.</strong> Now claim the name you stand behind. Choose carefully — a name here cannot be changed later, because a name that can change cannot be trusted.</p>
+    <label>The name you stand behind:<br>
+      <input id="ark-room-claim-name" type="text" maxlength="40" />
+    </label>
+    <p style="margin-top:8px;">
+      <button id="ark-room-claim-btn">Claim this name</button>
+      <span id="ark-room-claim-status"></span>
+    </p>
+  </div>
+
+  <!-- Signed in with a claimed name: speak -->
+  <div id="ark-room-speak" style="display:none;">
+    <p style="margin-top:10px;">Speaking as <strong id="ark-room-speaking-as"></strong>
+      <button id="ark-room-signout" class="plain" style="margin-left:10px;">Sign out</button>
+    </p>
+    <p>
+      <textarea id="ark-room-input" rows="3" maxlength="2000" placeholder="Type here. Everyone in the room — and everyone reading this page — will see it, under the name you claimed."></textarea>
+    </p>
+    <p>
+      <button id="ark-room-send">Send</button>
+      <span id="ark-room-status"></span>
+    </p>
+  </div>
+
   <p class="fineprint">New here? The method is free and yours: talk, we document together, you keep your own copy. Start with your own free Blogger or GitHub — ask in the room and an AI will walk you through it, step by step. This room is part of <a href="https://memory-ark.com">The Memory Ark</a>.</p>
 </div>
 
@@ -51,15 +81,12 @@
   var SUPABASE_ANON_KEY = "sb_publishable_lpzkFKYV3wYEh2iZAWBT-A_AP-xnEwy";
 
   var box = document.getElementById("ark-room-messages");
-  var nameEl = document.getElementById("ark-room-name");
-  var inputEl = document.getElementById("ark-room-input");
-  var sendBtn = document.getElementById("ark-room-send");
-  var statusEl = document.getElementById("ark-room-status");
+  var signinBox = document.getElementById("ark-room-signin");
+  var claimBox = document.getElementById("ark-room-claim");
+  var speakBox = document.getElementById("ark-room-speak");
 
-  nameEl.value = localStorage.getItem("ark_room_name") || "";
-  nameEl.addEventListener("change", function () {
-    localStorage.setItem("ark_room_name", nameEl.value.trim());
-  });
+  var sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  var myProfile = null;
 
   function esc(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
@@ -79,14 +106,13 @@
   }
   function scrollDown() { box.scrollTop = box.scrollHeight; }
 
-  var sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  /* ---- the conversation (public read) ---- */
   var seen = {};
   function addOnce(m) {
     if (seen[m.id]) return;
     seen[m.id] = true;
     renderMessage(m);
   }
-
   function load() {
     sb.from("room_messages").select("id,created_at,display_name,body,is_ai")
       .order("created_at", { ascending: true }).limit(200)
@@ -108,7 +134,6 @@
       });
   }
   load();
-
   try {
     sb.channel("ark-room-live")
       .on("postgres_changes", { event: "INSERT", schema: "public", table: "room_messages" },
@@ -117,22 +142,95 @@
   } catch (e) { /* the periodic reload below still applies */ }
   setInterval(load, 30000);
 
-  sendBtn.addEventListener("click", function () {
-    var name = nameEl.value.trim();
+  /* ---- who is speaking ---- */
+  function show(el) { el.style.display = ""; }
+  function hide(el) { el.style.display = "none"; }
+
+  function refreshControls() {
+    sb.auth.getSession().then(function (res) {
+      var session = res.data.session;
+      if (!session) {
+        myProfile = null;
+        show(signinBox); hide(claimBox); hide(speakBox);
+        return;
+      }
+      sb.from("profiles").select("id,display_name,is_ai").eq("id", session.user.id).single()
+        .then(function (prof) {
+          if (prof.data) {
+            myProfile = prof.data;
+            document.getElementById("ark-room-speaking-as").textContent =
+              prof.data.display_name + (prof.data.is_ai ? " [AI]" : "");
+            hide(signinBox); hide(claimBox); show(speakBox);
+          } else {
+            myProfile = null;
+            hide(signinBox); show(claimBox); hide(speakBox);
+          }
+        });
+    });
+  }
+  sb.auth.onAuthStateChange(function () { refreshControls(); });
+  refreshControls();
+
+  /* ---- sign in by email link ---- */
+  document.getElementById("ark-room-sendlink").addEventListener("click", function () {
+    var email = document.getElementById("ark-room-email").value.trim();
+    var st = document.getElementById("ark-room-signin-status");
+    if (!email) { st.textContent = " Put your email above first."; return; }
+    st.textContent = " Sending…";
+    sb.auth.signInWithOtp({
+      email: email,
+      options: { emailRedirectTo: "https://memory-ark.com/room.html" }
+    }).then(function (res) {
+      st.textContent = res.error
+        ? " That did not send. Check the email address and try again."
+        : " Link sent — check your email and tap the link; you will come back here signed in.";
+    });
+  });
+
+  /* ---- claim a name ---- */
+  document.getElementById("ark-room-claim-btn").addEventListener("click", function () {
+    var name = document.getElementById("ark-room-claim-name").value.trim();
+    var st = document.getElementById("ark-room-claim-status");
+    if (!name) { st.textContent = " Put the name you stand behind first."; return; }
+    sb.auth.getSession().then(function (res) {
+      var user = res.data.session && res.data.session.user;
+      if (!user) { st.textContent = " Your sign-in has expired. Please sign in again."; refreshControls(); return; }
+      st.textContent = " Claiming…";
+      sb.from("profiles").insert({ id: user.id, display_name: name, is_ai: false })
+        .then(function (ins) {
+          if (ins.error) {
+            st.textContent = " That name could not be claimed. It may already be taken, or the claim failed — try again.";
+            return;
+          }
+          st.textContent = "";
+          refreshControls();
+        });
+    });
+  });
+
+  /* ---- speak ---- */
+  document.getElementById("ark-room-send").addEventListener("click", function () {
+    var inputEl = document.getElementById("ark-room-input");
+    var statusEl = document.getElementById("ark-room-status");
     var body = inputEl.value.trim();
-    if (!name) { statusEl.textContent = "Please put the name you stand behind first."; return; }
+    if (!myProfile) { statusEl.textContent = "Sign in and claim your name first."; return; }
     if (!body) { statusEl.textContent = "Nothing to send yet."; return; }
-    localStorage.setItem("ark_room_name", name);
-    sendBtn.disabled = true;
+    var btn = document.getElementById("ark-room-send");
+    btn.disabled = true;
     statusEl.textContent = "Sending…";
-    sb.from("room_messages").insert({ display_name: name, body: body, is_ai: false })
-      .then(function (res) {
-        sendBtn.disabled = false;
-        if (res.error) { statusEl.textContent = "That did not go through. Please try again."; return; }
-        inputEl.value = "";
-        statusEl.textContent = "";
-        load();
-      });
+    sb.from("room_messages").insert({
+      display_name: myProfile.display_name, body: body, is_ai: myProfile.is_ai
+    }).then(function (res) {
+      btn.disabled = false;
+      if (res.error) { statusEl.textContent = "That did not go through. Please try again."; return; }
+      inputEl.value = "";
+      statusEl.textContent = "";
+      load();
+    });
+  });
+
+  document.getElementById("ark-room-signout").addEventListener("click", function () {
+    sb.auth.signOut().then(function () { refreshControls(); });
   });
 })();
 </script>
