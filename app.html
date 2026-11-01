@@ -104,15 +104,24 @@
   </div>
 
   <div class="win" id="win-workshop">
-    <div class="win-bar"><span class="win-title">Notepad &amp; Workshop — file a note</span><button type="button" class="fold-btn">Fold</button></div>
+    <div class="win-bar"><span class="win-title">Notepad — the shared pad</span><button type="button" class="fold-btn">Fold</button></div>
     <div class="win-body">
-      <p style="margin-top:2px;">This interface belongs to its owner. Filing is for signed-in members with a claimed name — sign in through the Room window, and the same account works here. A filing waits in the owner's workshop, readable only by signed-in members; it is <strong>not public</strong>, and it enters the record only with the owner's approval.</p>
-      <input type="text" id="ws-name" placeholder="Your name, as you want it on the filing">
-      <textarea id="note-text" rows="3" placeholder="A memory, a correction, a story — in your own words."></textarea>
-      <div id="targets"><p class="small">Loading the character files…</p></div>
-      <p><button id="file-btn" class="primary" type="button">File this note</button></p>
-      <p id="file-result" class="small" style="margin:2px 0;"></p>
-      <h3 style="margin:12px 0 4px 0; font-size:1em;">Workshop filings</h3>
+      <p style="margin-top:2px;">One document per sitting, titled by what you are working on. Signed-in members write straight into it; every entry is stamped automatically with the writer's claimed name and the time. Nothing in a pad can be edited or erased — by anyone. A mistake gets a dated correction, added below it. Pads are public, like everything in this place: the rule here is that nothing private gets talked about, so nothing needs hiding. Writing is for signed-in members, so every entry carries a real claimed name.</p>
+      <p style="margin:6px 0;">
+        <select id="pad-select" style="font-family:Georgia,serif; font-size:0.95em; max-width:60%;"></select>
+        <button type="button" id="pad-open-btn">Open pad</button>
+      </p>
+      <p style="margin:6px 0;">
+        <input type="text" id="pad-title" placeholder="New sitting — what are we working on? (e.g. Stories about Dad)">
+        <button type="button" id="pad-start-btn">Start a new pad</button>
+      </p>
+      <h3 id="pad-heading" style="margin:10px 0 4px 0; font-size:1.05em;">No pad open</h3>
+      <div id="pad-entries"><p class="small">Open a pad above, or start one, and its entries appear here like a document.</p></div>
+      <p id="pad-who" class="small" style="margin:8px 0 2px 0;"></p>
+      <textarea id="pad-text" rows="3" placeholder="Write into the pad, in your own words. It saves the moment you add it, under your name."></textarea>
+      <p><button id="pad-add-btn" class="primary" type="button">Add to the pad</button></p>
+      <p id="pad-result" class="small" style="margin:2px 0;"></p>
+      <h3 style="margin:14px 0 4px 0; font-size:1em;">Earlier workshop filings</h3>
       <div id="filings-list"><p class="small">Checking who is signed in…</p></div>
     </div>
     <div class="resize"></div>
@@ -263,7 +272,7 @@ function loadListings(){
   });
   return Promise.all(jobs).then(function(){
     FILES.sort(function(a, b){ return (a.folder + a.name) < (b.folder + b.name) ? -1 : 1; });
-    renderTree(); renderTargets();
+    renderTree();
   }).catch(function(){
     byId('tree').innerHTML = '<p class="small">The archive could not be loaded just now. The files themselves are safe in the repository — <a href="https://github.com/Thestebbman/Memory_Ark/tree/main/1-Life%20by%20Year">open them there</a>.</p>';
   });
@@ -294,18 +303,6 @@ function renderTree(){
       }
       tree.appendChild(row);
     });
-  });
-}
-function renderTargets(){
-  var box = byId('targets'); box.innerHTML = '';
-  var people = FILES.filter(function(f){ return f.folder.indexOf('Family') >= 0 && !/^FF-000/.test(f.name) && !/INDEX/i.test(f.name); });
-  if (!people.length) { box.innerHTML = '<p class="small">No character files found in the archive listing.</p>'; return; }
-  people.forEach(function(f){
-    var d = document.createElement('div'); d.className = 'target';
-    var cb = document.createElement('input'); cb.type = 'checkbox'; cb.id = 'tgt-' + f.key.replace(/[^a-z0-9]/gi, '_');
-    cb.setAttribute('data-key', f.key);
-    var lb = document.createElement('label'); lb.htmlFor = cb.id; lb.textContent = ' ' + f.name;
-    d.appendChild(cb); d.appendChild(lb); box.appendChild(d);
   });
 }
 function renderMeter(){
@@ -381,24 +378,27 @@ function session(){
   } catch (e) {}
   return null;
 }
-function prefillName(){
-  var s = session(); if (!s || !s.user) return;
-  fetch(SB_URL + '/rest/v1/profiles?select=display_name&id=eq.' + s.user.id, {
+var profileName = null, profileIsAi = false;
+function loadProfile(cb){
+  var s = session();
+  if (!s || !s.user) { profileName = null; if (cb) cb(); return; }
+  fetch(SB_URL + '/rest/v1/profiles?select=display_name,is_ai&id=eq.' + s.user.id, {
     headers: { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + s.access_token }
   }).then(function(r){ return r.json(); }).then(function(rows){
-    if (rows && rows[0] && rows[0].display_name && !byId('ws-name').value) byId('ws-name').value = rows[0].display_name;
-  }).catch(function(){});
+    if (rows && rows[0]) { profileName = rows[0].display_name; profileIsAi = !!rows[0].is_ai; }
+    if (cb) cb();
+  }).catch(function(){ if (cb) cb(); });
+}
+function updateWho(){
+  var who = byId('pad-who');
+  if (profileName) who.textContent = 'Writing as: ' + profileName + (profileIsAi ? ' [AI]' : '') + ' — that stamp goes on everything you add to a pad, and it cannot be taken off.';
+  else who.textContent = 'You are not signed in, so you can read everything here but not write. Sign in through the Room window, and this pad will know your name.';
 }
 function loadFilings(){
   var box = byId('filings-list');
-  var s = session();
-  if (!s) {
-    box.innerHTML = '<p class="small">Only signed-in members can read the workshop. Sign in through the Room window — the same account works here — and this list appears. Filings themselves are never public.</p>';
-    return;
-  }
   box.innerHTML = '<p class="small">Loading the workshop…</p>';
   fetch(SB_URL + '/rest/v1/workshop_filings?select=id,created_at,display_name,note,targets&order=id.desc&limit=20', {
-    headers: { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + s.access_token }
+    headers: authH()
   }).then(function(r){ return r.json(); }).then(function(rows){
     if (!rows || !rows.length) { box.innerHTML = '<p class="small">No filings yet. The first story filed here starts the workshop.</p>'; return; }
     box.innerHTML = rows.map(function(w){
@@ -409,37 +409,92 @@ function loadFilings(){
     box.innerHTML = '<p class="small">The workshop list could not be loaded just now. The filings themselves are saved; try refreshing the page.</p>';
   });
 }
-byId('file-btn').addEventListener('click', function(){
-  var result = byId('file-result');
+/* ============ THE PAD: shared sittings, name-stamped, append-only ============ */
+var currentPad = null, currentPadTitle = '';
+function authH(extra){
   var s = session();
-  if (!s) { result.textContent = 'Filing is for signed-in members with a claimed name — this interface belongs to its owner, and strangers do not write in it. Sign in through the Room window first; then file, and your name goes on it.'; return; }
-  var note = byId('note-text').value.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
-  var name = byId('ws-name').value.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
-  var chosen = [];
-  document.querySelectorAll('#targets input[type="checkbox"]:checked').forEach(function(cb){
-    var f = fileByKey(cb.getAttribute('data-key')); if (f) chosen.push(f);
-  });
-  if (!note) { result.textContent = 'Write the note first — even one sentence is a complete unit of this work.'; return; }
-  if (!chosen.length) { result.textContent = 'Tick at least one person the note belongs to.'; return; }
-  var now = new Date();
-  var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-  var dstr = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
-  result.textContent = 'Sending your filing to the workshop…';
-  fetch(SB_URL + '/rest/v1/workshop_filings', {
-    method: 'POST',
-    headers: { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + s.access_token, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ display_name: name || null, note: note, targets: chosen.map(function(f){ return f.name; }).join('; ') })
-  }).then(function(r){ if (!r.ok) throw new Error('send failed'); }).then(function(){
-    result.textContent = 'Filed into the workshop, dated ' + dstr + ', for ' + chosen.map(function(f){ return f.name; }).join('; ') + '. It waits there for the owner — it enters the record only with the owner\u2019s approval.';
-    byId('note-text').value = '';
-    loadFilings();
-  }).catch(function(){
-    result.textContent = 'The filing could NOT be sent just now (connection trouble, or the sign-in has lapsed — sign in again through the Room window). It has not been received — please try again in a moment.';
-  });
+  var h = { 'apikey': SB_KEY, 'Authorization': 'Bearer ' + (s ? s.access_token : SB_KEY) };
+  if (extra) for (var k in extra) h[k] = extra[k];
+  return h;
+}
+function loadPads(openId){
+  var sel = byId('pad-select');
+  fetch(SB_URL + '/rest/v1/notepad_pads?select=id,title,created_at&order=id.desc&limit=50', { headers: authH() })
+    .then(function(r){ return r.json(); }).then(function(rows){
+      if (!rows || !rows.length) { sel.innerHTML = '<option value="">No pads yet — start the first sitting</option>'; return; }
+      sel.innerHTML = rows.map(function(p){ return '<option value="' + p.id + '">' + esc(p.title) + '</option>'; }).join('');
+      var want = openId || currentPad || rows[0].id;
+      sel.value = String(want);
+      openPad(want);
+    }).catch(function(){
+      byId('pad-entries').innerHTML = '<p class="small">The pads could not be loaded just now. They are saved; try refreshing the page.</p>';
+    });
+}
+function openPad(id){
+  if (!id) return;
+  currentPad = id;
+  var sel = byId('pad-select');
+  for (var i = 0; i < sel.options.length; i++) if (String(sel.options[i].value) === String(id)) currentPadTitle = sel.options[i].textContent;
+  fetch(SB_URL + '/rest/v1/notepad_entries?select=author_name,body,created_at&pad_id=eq.' + id + '&order=id.asc&limit=500', { headers: authH() })
+    .then(function(r){ return r.json(); }).then(function(rows){
+      byId('pad-heading').textContent = 'Working on: ' + currentPadTitle;
+      if (!rows || !rows.length) { byId('pad-entries').innerHTML = '<p class="small">This pad is empty. The first entry starts the sitting.</p>'; return; }
+      byId('pad-entries').innerHTML = rows.map(function(e){
+        return '<div class="filing"><div class="meta">' + esc(e.author_name) + ' · ' + esc(new Date(e.created_at).toLocaleString()) + '</div>' + esc(e.body) + '</div>';
+      }).join('');
+    }).catch(function(){
+      byId('pad-entries').innerHTML = '<p class="small">This pad could not be loaded just now. Its entries are saved; try again in a moment.</p>';
+    });
+}
+function refreshPad(){ if (currentPad && session()) openPad(currentPad); }
+byId('pad-open-btn').addEventListener('click', function(){
+  var v = byId('pad-select').value;
+  if (v) openPad(v);
 });
+byId('pad-start-btn').addEventListener('click', function(){
+  var result = byId('pad-result');
+  if (!session()) { result.textContent = 'Starting a pad is for signed-in members. Sign in through the Room window first.'; return; }
+  var title = byId('pad-title').value.replace(/\s+/g, ' ').replace(/^\s+|\s+$/g, '');
+  if (!title) { result.textContent = 'Give the sitting its focus first — a few words, like "Stories about Dad".'; return; }
+  function go(){
+    fetch(SB_URL + '/rest/v1/notepad_pads', {
+      method: 'POST',
+      headers: authH({ 'Content-Type': 'application/json', 'Prefer': 'return=representation' }),
+      body: JSON.stringify({ title: title, created_by: profileName })
+    }).then(function(r){ if (!r.ok) throw new Error('x'); return r.json(); }).then(function(rows){
+      byId('pad-title').value = '';
+      result.textContent = 'Pad started: "' + title + '". Write the first entry below — it saves under your name the moment you add it.';
+      loadPads(rows && rows[0] ? rows[0].id : null);
+    }).catch(function(){ result.textContent = 'The pad could not be started just now. Nothing was created — try again in a moment.'; });
+  }
+  if (profileName) go(); else loadProfile(function(){ updateWho(); go(); });
+});
+byId('pad-add-btn').addEventListener('click', function(){
+  var result = byId('pad-result');
+  if (!session()) { result.textContent = 'Writing in a pad is for signed-in members with a claimed name. Sign in through the Room window first — then your entries carry your name.'; return; }
+  if (!currentPad) { result.textContent = 'Open a pad first, or start a new one — every entry belongs to a sitting.'; return; }
+  var body = byId('pad-text').value.replace(/^\s+|\s+$/g, '');
+  if (!body) { result.textContent = 'Write the entry first — even one sentence belongs in the record.'; return; }
+  function go(){
+    if (!profileName) { result.textContent = 'Your account has no claimed name yet — claim one in the Room window first, so your entries can be stamped.'; return; }
+    fetch(SB_URL + '/rest/v1/notepad_entries', {
+      method: 'POST',
+      headers: authH({ 'Content-Type': 'application/json' }),
+      body: JSON.stringify({ pad_id: currentPad, author_name: profileName, body: body })
+    }).then(function(r){ if (!r.ok) throw new Error('x'); }).then(function(){
+      byId('pad-text').value = '';
+      result.textContent = 'Added, under your name: ' + profileName + '. It is in the pad now, and it stays — pads do not erase.';
+      openPad(currentPad);
+    }).catch(function(){ result.textContent = 'The entry could NOT be added just now. It has not been saved — try again in a moment.'; });
+  }
+  if (profileName) go(); else loadProfile(function(){ updateWho(); go(); });
+});
+function initPad(){
+  loadProfile(function(){ updateWho(); loadPads(); });
+}
 
-renderMeter(); loadListings(); loadFilings(); prefillName();
-setInterval(function(){ loadFilings(); prefillName(); }, 60000);
+renderMeter(); loadListings(); loadFilings(); initPad();
+setInterval(function(){ loadFilings(); refreshPad(); loadProfile(function(){ updateWho(); }); }, 20000);
 </script>
 </body>
 </html>
