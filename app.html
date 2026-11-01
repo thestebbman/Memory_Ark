@@ -298,7 +298,7 @@ function renderTree(){
 }
 function renderTargets(){
   var box = byId('targets'); box.innerHTML = '';
-  var people = FILES.filter(function(f){ return f.folder.indexOf('Family') >= 0 && /^FF-/.test(f.name) && !/^FF-000/.test(f.name); });
+  var people = FILES.filter(function(f){ return f.folder.indexOf('Family') >= 0 && !/^FF-000/.test(f.name) && !/INDEX/i.test(f.name); });
   if (!people.length) { box.innerHTML = '<p class="small">No character files found in the archive listing.</p>'; return; }
   people.forEach(function(f){
     var d = document.createElement('div'); d.className = 'target';
