@@ -131,6 +131,7 @@
           return;
         }
         box.innerHTML = "";
+        seen = {};
         (res.data || []).forEach(addOnce);
         scrollDown();
       });
