@@ -22,6 +22,11 @@
   #ark-room-status{margin-left:8px;color:#4a4845;}
   .fineprint{font-size:0.9em;color:#6b6966;}
   .panel{border:1px solid #ddd9d0;border-radius:8px;padding:12px;background:#f0ece3;margin-top:10px;}
+  /* The controls you type in ride at the bottom of the view, the way
+     chat apps work — you never scroll to the bottom of the page to
+     find the box. */
+  #ark-room-signin, #ark-room-claim, #ark-room-speak { position: sticky; bottom: 0; z-index: 5; }
+  #ark-room-speak { background: #f7f5f0; padding: 8px 0 4px 0; }
 </style>
 </head>
 <body>
@@ -230,7 +235,7 @@
     });
   });
 
-  /* ---- or sign in with the code from the same email ---- */
+  /* ---- or sign in with the 6-digit code from the same email ---- */
   document.getElementById("ark-room-usecode").addEventListener("click", function () {
     var email = document.getElementById("ark-room-email").value.trim();
     var code = document.getElementById("ark-room-code").value.trim();
