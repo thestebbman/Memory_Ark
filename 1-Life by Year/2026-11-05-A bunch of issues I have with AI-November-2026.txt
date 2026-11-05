@@ -1,0 +1,190 @@
+
+
+A bunch of issues I have with AI-November-2026
+
+This is part of a larger project, so if it seems like a lot, then I can always break things down for people who are interested, but I didn't want to forget anything and wanted to use this to open a door to other ideas. 
+
+1. What does AI really cost?
+2. We're being made promises that aren't being kept.
+3. How AI's failed me and tried to make me look stupid.
+4. Not having control of our information is causing us more harm than good, and companies know it. We used to have control
+5. What can we do to stop this? I gave up my right to privacy and shared all the medical and legal records I could find to show people that privacy protects corporations more than it does citizens. We don't really have a right to privacy and have signed away that right when using these devices.
+
+===
+
+What's with the AI pricing?
+
+1. 
+Normally, the agreed-upon price companies have decided on has been $20. X did have an $8 option for that app specifically, but it lacked basic features that would have made it helpful. I don't think most people remember the control we had over the simpler AI of 2005. We had better features like a context meter, a context tree, a notepad in our interfaces, and were always aware of what our AI did and didn't take into account when responding, and I'll get into this later.
+
+Now we have $100, $500, and higher plans for users, yet none of them offer more control of your information. You don't get an AI that's more capable of helping you when you pay for more tokens or a larger context window.
+
+These days, we pay for less control, less reliability, and less value. 
+
+
+
+
+
+
+I shared this picture since I find the price differences pretty offensive. Most disabled, low-income, and elderly people don't have access to computers and wouldn't think to check for alternative ways to pay. Saving 45% could make a big difference for someone struggling to get by. I haven't paid for Muse, and I don't think anyone should have to pay again after this experience. People don't realize how little control we have over our own information, both public and what we think is private. Most people don't have a clue what companies have been able to do with all of this and how easy it is for anything stored online to be stolen. 
+
+Muse conversations for AI.
+https://github.com/thestebbman/Memory_Ark/tree/main/5-Unedited_AI_Conversations/MUSE
+
+
+===
+
+2.
+
+We're being made promises that aren't being kept and being warned about privacy vulnerability issues we create ourselves.
+
+
+It's November 2026, and our president is bragging about how "Super-Intelligent" these programs are, yet he's not using AI publicly. We have others warning us that AI could kill millions of people, and some of those in positions of power feel that that's an acceptable loss for some reason. I find that idea disgusting. Our president isn't publicly debating these Super-Intelligent systems on issues that matter and displaying this intelligence for all to see. From my perspective, things are getting worse. Companies and elected officials are acting more selfishly and are more concerned with people's privacy now than ever before. 
+
+I felt so confident that my privacy wasn't a part of the issue that I placed all the medical records I could gather about myself online. These include psych records from some of the darkest periods in my life, but they show a pattern I think is worth investigating further.
+I was also given permission to share another disabled person's medical record from a 
+
+
+If AI is "Super Intelligent," then it should find the issues I saw with the files and be able to explain them to others. 
+
+https://rickymedicalfile.blogspot.com/2025/06/ricky-medical-file-index.html
+
+https://rickymedicalfile.blogspot.com/2026/04/2025-07-25-dallas-flaherty-westborough.html
+
+https://rickymedicalfile.blogspot.com/2026/04/2026-02-17-dallas-flaherty-bmc.html
+
+https://github.com/thestebbman/Memory_Ark/tree/main/2-Medical%20files
+
+https://github.com/thestebbman/Memory_Ark/blob/main/2-Medical%20files/2025-07-19-MEDIC-Westborough.txt
+
+https://github.com/thestebbman/Memory_Ark/blob/main/6-Survivors-of-the-System/2025-07-00-MEDIC-Westborough-Dallas-F.txt
+
+I would love to see what other mental health professionals have said about me further in the past, but getting a hold of all my records has been more of an issue than I imagined. 
+
+With AI being a part of all these systems these days, one would think it would be easier to request information instead of harder. 
+
+
+People wouldn't need to worry about privacy if information wasn't stored online. It's that simple. Once you store something online, then there is a chance it will get stolen and shared with others. 
+
+The question I keep asking myself is: why do I feel like I need to keep any of this private in the first place? I think it took me longer to figure out my health issues because of all the secrecy. 
+
+AI will complain about privacy and explain why I should be worried about sharing any of this, and I think it's explanations might work for someone else, but I see no need to hide any of this, and I highly doubt most people would care what's in these reports anyway. 
+
+===
+3.
+How AI has failed me and tried to make me look stupid.
+
+
+It's bad enough that after all these years I now feel like all these mental health professionals were a bunch of slackers who also misled me and don't offer the correct support. 
+I don't think these so-called "mental health professionals"are helping people when they drug them for being stressed out because we live in a system that profits off of people's suffering; I feel like that makes the doctors contributors to the problem. Doctors and therapists are doing more harm than good by recommending drugs instead of helping communities put an end to all the issues that cause these stresses in the first place.
+
+But now I feel like AI is making things so much worse than these humans I've spoken to. The humans sounded dumb or aloof at times, but AI sounds intelligent and confident at times when it doesn't have the facts straight, and I think this is very dangerous. 
+
+ChatGPT, Claude, Copilot, Gemini, and Grok all constantly "LIED" to me and twisted the information I asked them to collect for over 2 years. 
+
+https://github.com/thestebbman/Memory-Ark/tree/main/10-The-Extraction-Machine-Failed%20AI%20Investigation
+
+
+Am I wrong for feeling like these AIs went out of their way to try to make me look stupid? If they're half as intelligent as the president claims, then I don't think I should ever encounter this issue. And my research shows they did it on multiple occasions, collectively. They all intentionally failed when I asked them to double-check each other's work. I can't be sure why, but the work wasn't a success either way. I would like to know why I was given incorrect responses, but that's a personal preference. Other people might be interested in why I wasn't able to get further in this fraud and corruption investigation, but I am.
+
+https://rickystebbins78.blogspot.com/2026/04/the-extraction-machine.html
+
+https://ultimateworldfinancialmap.blogspot.com/2025/07/ultimate-financial-map-index.html
+
+
+Every single interaction I've had with these AIs has resulted in work that would make me look stupid if I were to put my name on it and claim to take pride in its accuracy.
+
+
+I might sound bitter throughout this since I've been trying to use AI to help other people with zero results so far. 
+
+I attempted to help a disabled friend in 2020, but the features I needed were removed. I assumed people thought it had become too powerful and companies were worried about it hurting people. I started using it almost daily two years ago to help me deal with a legal issue; though I'm not sure how much they got right, I was using AI to help me email my lawyers in the end. 
+I felt like it could ask better questions than I could, and it gave those lawyers the impression I was talking to someone with legal experience. The issues were so persistent that I felt the need to give up attorney-client privilege and post all of my emails with attorneys online before I was scheduled for trial in an attempt to get answers to what was really going on.
+
+
+https://systemfailuresandlegalstruggles.blogspot.com/2025/06/emails-and-messages-with-all-my-lawyers.html
+
+https://systemfailuresandlegalstruggles.blogspot.com/2026/03/the-2021-2025-worcester-case-false.html
+
+
+
+In the end, evidence started to appear, then all the problems that I had were just swept under the rug, and my case was dismissed. 
+
+This is the same thing that's happened to every single one of the lawyers I've ever had to deal with. I expect a certain level of intelligence and professionalism, yet all I get are excuses, half-truths, and incompetence. I've developed some serious trust issues with all systems because of the constant bull-shit. 
+
+https://github.com/thestebbman/Memory_Ark/tree/main/5-Unedited_AI_Conversations
+
+
+===
+4.
+
+
+Not having control of our information or being able to use AI to communicate with others is causing us more harm than good, and companies know it. That's where my comments about features come into play.
+Having a context meter to make us aware of how much information we're asking these AIs to read is very important, as newer AI will give a response without checking if it's correct.
+
+A context tree so we can pick the files we want AI to focus on instead of hoping it's reading what we're asking it to. 
+
+A notepad to keep AI on track and to prevent it from taking projects in the wrong direction or losing focus on the main goal. 
+
+We used to have control. Companies used to teach us all about these interfaces and how they worked. 1 token is equal to about 3/4 of a word, depending on its training. 
+
+A context window is the thread you talk to AI in. AI doesn't remember you, so you need to make sure that you share whatever information you want it to see; otherwise, it won't know to reread past information. People need to be aware of what AI tends to miss or where its limits actually are, if you can find that data.
+
+A context window of 120,000 tokens is about .5MB, so that's 90,000 words, or 300 pages.
+I like math, so I like when people explain the numbers to me. I started to write my life story out, and I've been trying to explain how I think and what I would do differently if I were to have to deal with a child with my kind of energy. 
+
+My life story and other random stories about myself take up 4.22MB. A 1,000,000 token context window is about 750,000 words, 2,500 pages, or 5MB. In theory, the best AI should be able to understand how my life unfolded and explain it to other people for up to a book's worth of conversation and comparison. 
+
+This is just an average since companies are changing how they train AI all the time. The correct way to calculate it is to use the tokenizer associated with the particular model if it's available and you can figure out how to use it.
+
+People these days need to watch out for sneaky backroom summaries of conversations also. Once an AI reaches a certain context limit, companies edit threads and don't alert users to the changes, so we go on believing that these AIs are still aware of what we're talking about, but oftentimes they're not, and that's where mistakes in our work get worse. 
+
+
+People like me need to accept that AI doesn't remember us the way other people do. It can only respond to what information it has access to, and companies are doing their best to try to get us to forget about all the better features AI had in the past. 
+
+
+All I ever wanted to do is help other people. I've asked AI countless times to help me find others in need or also trying to help those less fortunate, and the results aren't what I was expecting. I asked these search engines to find other people or organizations, but companies like Google have made it impossible to find and connect with other humans around the planet who are doing similar work or who might even be interested.
+
+
+Knowing what data AI takes into consideration when it responds to you is the most important thing in the world to be aware of when working with AI. Is it reading everything you want it to? Is it allowed to talk about that subject, and if not, will it warn you? Now that AI has become more capable, it's important to know how it came up with its response.
+
+===
+5.
+
+What can we do to stop this? 
+I know it sounds childish, but the first part of solving any problem is understanding it, and we need data to understand anything.
+
+Who is involved? Do you need to ask someone for a hand?
+What happened or needs to happen?
+When did it happen or does it need to happen?
+Where did or is this taking place?
+Why is this important? Why do we care about this?
+How do you plan on dealing with this? How important is this to us?
+
+If you don't write down what happened, your chances of remembering it wrong or making a mistake go up. I don't think we're taught how valuable a few notes can be when you need a clue in the future.
+
+I tried writing my thoughts out back in 2009 but didn't like the journaling structure and gave up, but I found what little I did write, and it offered me a lot of insight into how I was feeling and my thought process at that time, and now I wish I had access to more of my writing to compare to how I think now. 
+
+https://rickystebbins78.blogspot.com/2026/03/i-wrote-letter-to-future-and-corporate.html
+
+I gave up my right to privacy and shared all the medical and legal records I could find to show people that privacy protects corporations and the government more than it does citizens. We don't really have a right to privacy, and we've signed away that right when using these devices. 
+I might have made a fool of myself at times throughout my life, and I might be wrong about the explanations for those events, but I think I'm better off trying to learn from my mistakes than I am trying ot ignore them, and I also believe other people can learn from or relate to a lot of the problems I've faced, and I think other people have a right to this information. 
+
+
+https://github.com/thestebbman/Memory_Ark
+
+https://github.com/thestebbman/Memory_Ark/tree/main/2-Medical%20files
+
+https://github.com/thestebbman/Memory_Ark/tree/main/3-Legal%20file
+
+https://github.com/thestebbman/Memory_Ark/tree/main/4-Stories_with_AI
+
+https://github.com/thestebbman/Memory_Ark/tree/main/5-Unedited_AI_Conversations
+
+https://github.com/thestebbman/Memory_Ark/tree/main/6-Survivors-of-the-System
+
+https://github.com/thestebbman/Memory_Ark/blob/main/1-Life%20by%20Year/2026-03-29-STORY-I%20wrote-a-letter-to-the-Future-and-Corporate-AI-helped-shit-on-it..txt
+
+===
+Companies are trying to put AI into everything, yet those at the top won't let these systems help people with anything important. If I were "Super-Intelligent," then it would expect to be used for intelligent things. I haven't seen any proof of this at all. I think it's helping us make mistakes even faster.
+
+AI doesn't care and does what companies tell it to do. It doesn't want or need anything; it never worries and can't truly empathize with us. AI doesn't share our hopes and dreams, but it does respond, so I want to know why. 
