@@ -38,13 +38,23 @@
   button { font-family: Georgia, serif; font-size: 0.95em; padding: 6px 14px; border-radius: 6px; border: 1px solid #999; background: #f0eee8; cursor: pointer; }
   button.primary { background: #2e7d32; color: #fff; border-color: #2e7d32; }
   .target { margin: 3px 0 3px 10px; font-size: 0.94em; }
-  @media (max-width: 760px) { #cols { flex-direction: column; } #tree { flex: 1 1 auto; width: auto; } }
+  #leftcol { flex: 0 0 300px; min-width: 0; }
+  #leftcol #tree { flex: none; }
+  #characters { border: 2px solid #6a4fb3; border-radius: 8px; background: #fff; padding: 8px 10px; margin-top: 12px; }
+  .char-row { margin: 4px 0 4px 6px; font-size: 0.94em; }
+  .char-row .cname { cursor: pointer; text-decoration: underline; color: #205a9c; }
+  #cform label { display: block; font-size: 0.88em; font-weight: bold; margin-top: 8px; }
+  #cform input[type="text"] { width: 100%; box-sizing: border-box; font-family: Georgia, serif; font-size: 0.95em; padding: 6px; }
+  #cform textarea { font-size: 0.95em; }
+  #cf-out { white-space: pre-wrap; word-wrap: break-word; font-family: 'Courier New', monospace; font-size: 0.84em; line-height: 1.4; background: #fffdf4; border: 1px solid #ddd9d0; border-radius: 6px; padding: 8px; max-height: 380px; overflow-y: auto; }
+  @media (max-width: 760px) { #cols { flex-direction: column; } #leftcol { flex: 1 1 auto; width: auto; } #tree { width: auto; } }
 </style>
 </head>
 <body>
 <h1>The Workstation Demo — try it yourself</h1>
 <p>This is what the old apps could do, and what we are asking be restored: a person walks their own files as a tree and chooses what the AI holds, while a meter shows the cost of every choice. That control is the protection — an AI handed everything at once drowns; an AI handed the right files, by the person who knows them, can actually help. Nothing here is a picture of the idea — it works. Try it.</p>
 <p class="small">The character files below are real (shortened for the demo) — they were filed in the public archive this morning. Practice notes live only in this page, only while it is open — never saved, never sent anywhere.</p>
+<p class="small"><strong>New, November 9, 2026:</strong> the Characters window under the file tree — the piece this demo was missing. Pick a person from the list to open their character file, or fill in the form and let it write a character file for someone new, in the same plain-text shape as every file in the archive. The form is the notebook page; the file it writes is the record. Nothing you type is saved or sent — download or copy the file it makes, and it is yours.</p>
 
 <div id="meter-wrap">
   <div id="meter-bar"><div id="meter-human"></div><div id="meter-ai"></div><div id="meter-over"></div></div>
@@ -53,7 +63,38 @@
 </div>
 
 <div id="cols">
+  <div id="leftcol">
   <div id="tree"></div>
+  <div id="characters">
+    <h2 style="margin-top:0;">Characters — pick a person</h2>
+    <p class="small" style="margin:2px 0;">The people in this archive. Click a name to open their character file. Below the list is the form: fill it in for someone new — or to start a file for someone you know — and it writes a real character file, in plain text, in the archive's own shape.</p>
+    <div id="char-list"></div>
+    <div id="cform">
+      <h2>Start a character file</h2>
+      <label for="cf-name">Their name (and the name people actually used)</label>
+      <input type="text" id="cf-name" placeholder="Example: Frances (Gero) Landers — “Grandma Francis”">
+      <label for="cf-who">Who this is — whose they are, how they connect</label>
+      <input type="text" id="cf-who" placeholder="Example: Ricky's grandmother, on his mother's side">
+      <label for="cf-likes">Likes</label>
+      <textarea id="cf-likes" rows="2" placeholder="What they liked, as far as you know. Leave blank if you don't know — a blank is honest."></textarea>
+      <label for="cf-dislikes">Dislikes</label>
+      <textarea id="cf-dislikes" rows="2"></textarea>
+      <label for="cf-places">Favorite places — and why, if you know</label>
+      <textarea id="cf-places" rows="2" placeholder="A place with its story is easier to remember than a place on a list."></textarea>
+      <label for="cf-looking">Looking for — a thing, a record, a person, an answer</label>
+      <textarea id="cf-looking" rows="2" placeholder="What they (or you, for them) are trying to find."></textarea>
+      <label for="cf-why">Why they want it — the story behind it</label>
+      <textarea id="cf-why" rows="2" placeholder="The story is the point: it is how anyone who reads this will recognize the thing when they see it."></textarea>
+      <label for="cf-notes">Notes — anything else worth keeping about them</label>
+      <textarea id="cf-notes" rows="3"></textarea>
+      <p><button id="cf-build" class="primary" type="button">Write the character file</button></p>
+      <p id="cf-result" class="small" style="margin:2px 0;"></p>
+      <div id="cf-out" style="display:none;"></div>
+      <p id="cf-actions" style="display:none;"><button id="cf-download" type="button">Download the .txt file</button> <button id="cf-copy" type="button">Copy the text</button></p>
+      <p class="small">The file the form writes is plain text — the same shape as the template in the tree. Save it, print it, put it in your own archive. It works with no app at all; this form just makes starting easier.</p>
+    </div>
+  </div>
+  </div>
   <div id="main">
     <div id="viewer">
       <div id="viewer-name">No file open</div>
@@ -155,20 +196,31 @@ WHAT THE RECORD HOLDS
 - Until November 1, 2026, the record held her without a name.
   Her son's obituary names her: Elizabeth (Picard) Stebbins.
 
-WHAT'S MISSING: her birth and death dates; what she was like in
-her own right. Family who knew her can change that.
+DATES (entered November 9, 2026, from her obituary, pasted into
+Ricky's father's-side family draft): born April 26, 1936, in
+Ludlow; died August 24, 2021. Identical twin sister: Barbara
+Slate. She worked at Digital for many years and volunteered at
+the church Bingo nights beside Grandpa.
+
+WHAT'S MISSING: what she was like in her own right. Family who
+knew her can change that.
 
 [Shortened for this demo. The full file is in the archive.]
 
 DATED UPDATES
 - November 1, 2026: File created from Ricky's year files, at
   Ricky's direction. Her name entered the record today.
+- November 9, 2026: Her dates, her twin, and her work entered
+  from her obituary in Ricky's family draft.
 </script>
 
 <script type="text/plain" id="file-gmaf">
-CHARACTER FILE - GRANDMA FRANCIS
-Ricky's grandmother. The record holds the least about her, and
-what it holds matters most to Ricky.
+CHARACTER FILE - FRANCES H. (GERO) LANDERS ("GRANDMA FRANCIS")
+Ricky's grandmother on his mother's side. Born January 25,
+1928, Altona, New York; died August 28, 2003, in Ludlow,
+Massachusetts. (Her name, dates, and family entered this record
+on November 9, 2026, from Ricky's own mother's-side family
+draft. For years the record held her without them.)
 
 WHAT THE RECORD HOLDS
 - 1986: Thanksgiving stops at "my grandma Francis / aunt
@@ -186,15 +238,19 @@ WHAT I CARRY: a held place, not a task. The detail of her story
 is hers and his to tell one day, at his timing. This file holds
 the space open.
 
-WHAT'S MISSING: her full name, her dates, almost everything
-factual. What exists is Ricky's love and his feeling about how
-it ended, recorded above in his own framing.
+WHAT'S MISSING: no longer her name or dates. What remains
+missing is her stories in the detail Ricky carries — his to add
+at his pace, as he has begun doing in the family draft.
 
 [Shortened for this demo. The full file is in the archive.]
 
 DATED UPDATES
 - November 1, 2026: File created from Ricky's year files, at
   Ricky's direction, the held place marked as he set it.
+- November 9, 2026: Identified from Ricky's mother's-side
+  family draft — Frances H. (Gero) Landers, 1928-2003, daughter
+  of Marcell Gero and Jennie (Burnett) Gero, wife of James
+  Landers, mother of Chester Gero and Linda Stebbins.
 </script>
 
 <script type="text/plain" id="file-harley">
@@ -266,6 +322,14 @@ Filed / Last updated: [dates]
 SUMMARY - the person in a short paragraph.
 WHAT THE RECORD HOLDS - dated entries, each with its source.
 LIKES / DISLIKES - blank until somebody who knows writes them.
+FAVORITE PLACES - the places they loved, with a line about why.
+A place with a story behind it is easier to remember than a
+place on a list. (Added November 9, 2026.)
+LOOKING FOR - things this person is looking for, and why they
+want them, and the story behind the wanting - so anyone who
+reads it can recognize the thing when they see it. Other
+people's files link back when they are looking too. (Added
+November 9, 2026.)
 STORY LOCATIONS - where their stories live inside the archive.
 LINKS OUT - their places outside the archive (an old Facebook,
 an obituary page). Mark TO FIND when the address is not in hand.
@@ -418,6 +482,92 @@ byId('reset-btn').onclick = function(){
   byId('reader-text').textContent = 'The AI in this project is a reader, not a mind reader. It knows what it has been handed and what it can re-read. Try it:';
   renderAll();
 };
+
+
+var CHARACTERS = [
+  { id:'dad',     label:'Richard L. Stebbins Sr. — “Dad”' },
+  { id:'grandpa', label:'David Stebbins — “Grandpa”' },
+  { id:'gmas',    label:'Elizabeth (Picard) Stebbins — “Grandma Stebbins”' },
+  { id:'gmaf',    label:'Frances (Gero) Landers — “Grandma Francis”' },
+  { id:'harley',  label:'Harley — the dog' }
+];
+function renderChars(){
+  var box = byId('char-list'); box.innerHTML = '';
+  CHARACTERS.forEach(function(c){
+    var row = document.createElement('div'); row.className = 'char-row';
+    var nm = document.createElement('span'); nm.className = 'cname'; nm.textContent = c.label;
+    nm.onclick = function(){ openFile(c.id); if (window.scrollTo) { var v = byId('viewer'); if (v && v.scrollIntoView) v.scrollIntoView(); } };
+    row.appendChild(nm); box.appendChild(row);
+  });
+}
+var cfText = '';
+function cfVal(id){ return byId(id).value.replace(/^\s+|\s+$/g, ''); }
+function cfBlock(v){ return v ? v : '[Blank - not yet written. A blank is honest.]'; }
+byId('cf-build').onclick = function(){
+  var name = cfVal('cf-name');
+  if (!name) { byId('cf-result').textContent = 'Start with their name — even the name people actually used is enough.'; return; }
+  var now = new Date();
+  var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var dstr = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
+  var lines = [];
+  lines.push('CHARACTER FILE - ' + name.toUpperCase());
+  lines.push('');
+  lines.push('Who this is: ' + cfBlock(cfVal('cf-who')));
+  lines.push('');
+  lines.push('Filed: ' + dstr + ' (started with the form in the Memory Ark workstation demo)');
+  lines.push('This file is plain text on purpose: copy it, share it, add to it.');
+  lines.push('Where the record does not say something, this file says so and');
+  lines.push('leaves the space open. Nothing is invented to fill a blank.');
+  lines.push('');
+  lines.push('LIKES');
+  lines.push(cfBlock(cfVal('cf-likes')));
+  lines.push('');
+  lines.push('DISLIKES');
+  lines.push(cfBlock(cfVal('cf-dislikes')));
+  lines.push('');
+  lines.push('FAVORITE PLACES');
+  lines.push(cfBlock(cfVal('cf-places')));
+  lines.push('');
+  lines.push('LOOKING FOR');
+  lines.push(cfBlock(cfVal('cf-looking')));
+  lines.push('');
+  lines.push('WHY - THE STORY BEHIND IT');
+  lines.push(cfBlock(cfVal('cf-why')));
+  lines.push('');
+  lines.push('NOTES');
+  lines.push(cfBlock(cfVal('cf-notes')));
+  lines.push('');
+  lines.push('STORY LOCATIONS');
+  lines.push('[The files and folders where this person\u2019s stories live - add them as you find them.]');
+  lines.push('');
+  lines.push('WHAT\u2019S MISSING');
+  lines.push('[The gaps, printed as gaps. A shrinking list means the file is alive.]');
+  lines.push('');
+  lines.push('ADD YOUR STORY');
+  lines.push('[For anyone who knew them. Write it plainly, date it, sign your name.]');
+  lines.push('');
+  lines.push('DATED UPDATES');
+  lines.push('- ' + dstr + ': File started with the demo form.');
+  cfText = lines.join('\n');
+  var out = byId('cf-out'); out.style.display = 'block'; out.textContent = cfText;
+  byId('cf-actions').style.display = 'block';
+  byId('cf-result').textContent = 'There it is — a real character file, in plain text. Download it or copy it, and it is yours: it works in any notebook, any folder, any archive. Placing it into a living archive is a separate, deliberate step, like everything here.';
+};
+byId('cf-download').onclick = function(){
+  if (!cfText) return;
+  var name = cfVal('cf-name') || 'character';
+  var fname = 'character-file-' + name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') + '.txt';
+  var blob = new Blob([cfText], { type: 'text/plain' });
+  var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = fname;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+};
+byId('cf-copy').onclick = function(){
+  if (!cfText) return;
+  function done(){ byId('cf-result').textContent = 'Copied. Paste it into any text file or notebook — it is the whole file, nothing held back.'; }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(cfText).then(done, done); }
+  else { var ta = document.createElement('textarea'); ta.value = cfText; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); } catch(e){} document.body.removeChild(ta); done(); }
+};
+renderChars();
 
 initTexts(); renderTree(); renderMeter(); renderNotes();
 
