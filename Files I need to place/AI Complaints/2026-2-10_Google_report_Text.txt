@@ -1,0 +1,165 @@
+Hi, I’m your AI support agent for Google Workspace. Let's solve your issue. You can also ask me to transfer you to a human support agent at any time. When I transfer you to the human agent, we'll share a copy of our conversation with them so they can better assist you. Describe what you need help with in detail and I'll do my best to help you resolve the issue.
+
+You 36 mins ago
+I am super fucking pissed. Your product is a complete piece of fucking trash and I only paid for it so that I could help my disabled friends get their GED's and they wanted to transcribe our conversations and use the closed caption feature, and this new shit design has fucked it all up. I pay for complete fucking trash and I want to talk to a designer, this is fucking bullshit and I'm not going to stand for this fucking garbage anymore, I've been getting people together and helping them understand how the entire system is fucking them and teaching them how to use free products to document what you stupid cunt fucks are doing. I'm using and paying for this fucking worthless fucking shit to prove that your AI could help us, but they won't, because you designed them to be fucking stupid as fuck.
+Workspace Support 35 mins ago
+Hello,
+
+I understand your frustration, and I want to help you get the features you need working correctly. Google Meet includes several accessibility features designed to assist users, including live captions for meetings.
+
+You can turn on live captions during any Google Meet video meeting. This feature displays the conversation as text on the screen in real-time, which can be very helpful for your friends.
+
+To save a transcript of the conversation, you can record the meeting. When you record a meeting with captions turned on, the captions are saved with the recording, which you can then use as a transcript.
+
+Here are some resources that provide detailed instructions:
+
+To use captions in a meeting: Use translated captions in Google Meet
+For an overview of accessibility features in Meet: Accessibility in Google Meet
+Google is committed to making products accessible for all users. You can find a comprehensive guide on all the accessibility features available across Google Workspace here: Google Workspace admin guide to accessibility.
+
+I hope this information helps you and your friends have a better experience.
+
+The response is based on the sources listed below
+
+Use translated captions in Google Meet
+Google Workspace admin guide to accessibility
+You 4 mins ago
+can I add my personal email to this piece of fucking trash workspace, so I can use the features that you took away and started charging for, but also making less user friendly
+Workspace Support 3 mins ago
+You can integrate your personal email with your Google Workspace account. Although personal Gmail and Google Workspace accounts are distinct, you can configure your Workspace Gmail to send emails from your personal address. This enables you to manage both personal and work emails from a single Workspace Gmail interface.
+
+To set this up, follow these steps:
+
+Open Gmail on your computer and navigate to Settings > See all settings.
+Select the Accounts and Import tab.
+Under the "Send mail as" section, click Add another email address.
+Input your name and personal email address, then complete the verification process.
+If you wish to transfer existing emails from your personal Gmail to your new Workspace account, you can utilize the data migration service. Instructions for this can be found at:
+
+Migrate email from a Gmail account https://support.google.com/a/answer/14792635
+For more information, please see the sources below.
+
+The response is based on the sources listed below
+
+Overview: Add additional email addresses for users
+Activate Gmail with Google Workspace (@your-company)
+You 2 mins ago
+I only want it for google meet. then I'll delete all the workspace stuff and I won't need AI for anything. I only want to use the record meeting , CC and transcribe audio features, the rest is designed to be worthless fucking shit and I want it gone.
+Workspace Support 1 min ago
+To use recording, closed captions (CC), and transcription in Google Meet, you can enable these features within your Google Workspace account.
+
+1. Recording and Transcription:
+
+To record meetings and generate transcripts, ensure the recording setting is enabled for your organization. Once enabled, you can start a recording or a transcript during your meetings.
+
+Enable Recording: As the administrator, you can turn on recording in the Google Admin console.
+Use Transcription: During a meeting, you can start a live transcript. After the meeting, a copy of the transcript is automatically saved to the host's Google Drive.
+2. Closed Captions (CC):
+
+Live captions are available in Google Meet and can be turned on during any meeting to display the conversation as text on the screen in real-time.
+
+Turn on Captions: During your meeting, click the "Turn on captions" button at the bottom of the screen.
+These features are included in your Google Workspace subscription and do not require adding a personal email account. By enabling the recording setting, you will be able to use the functionalities you need.
+
+For more information, please see the sources below.
+
+The response is based on the sources listed below
+
+Use Transcripts with Google Meet
+Use translated captions in Google Meet
+You Now
+I want to use it with my personal account like we used to be able to do I don't want to use workspace at all you stupid fucking bitch, why do you act like a retarded fucking asshole all the time?
+
+You know that I asked you about connecting my personal Gmail account to this stupid fucking workspace because it's absolute fucking shit and I hate it and there's no stupid fucking Dick head Google designer to talk to you fucking assholes make it impossible and I'm fucking furious you stupid fucking bitch.
+
+I want to use my personal Google to record videos have it transcribed, I don't want to use workspace for anything, you tried to force me into this and you think because I'm disabled that you can force me to do whatever the fuck you want and that's not gonna fucking happen.
+Workspace Support Now
+To continue with a human support representative, please select from the option(s) below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ricky:
+You 11:32 AM
+Start a live chat with the following details.
+Issue description
+User wants to use Google Meet to record video, CC, and transcription with a personal account, he pays for Workspace, but doesn't need it.
+Workspace Support 11:32 AM
+Great, I’ll connect you over live chat to an agent to discuss your needs.
+Google Workspace Support, Ron-Ron John has entered the chat
+Please allow a few minutes for Google Workspace Support, Ron-Ron John to review a summary of your conversation.
+
+
+
+Ron Ron:
+Google Workspace Support, Ron-Ron John 11:32 AM
+Thank you for contacting Google Workspace Support. My name is Ron-Ron John and I'll be working with you today. While I read over your message, is there anything else you'd like to add?
+Hi Ricky, how are you doing today?
+You 11:32 AM
+Terrible i'm having a horrible fucking time with these shitty products that I pay for and I absolutely fucking hate Google and Gemini makes me fucking sick
+I need these products to help my disabled friends, they live hours away and all they do is give me a fucking headache and I can't fucking stand it anymore
+I know it's not your fault personally but I'm sorry I can't fucking take it i'm fucking furious
+Google Workspace Support, Ron-Ron John 11:34 AM
+I am very sorry to know that you are having issues with your services. We are more happy to help you further.
+To make it easier for you, I will be happy to call you now and discuss this concern quickly.
+Can I get your best callback number?
+
+
+Ricky:
+You 11:34 AM
+ok 4139491925
+Google Workspace Support, Ron-Ron John 11:34 AM
+Awesome! Thank you, let me call you now.
+
+
+
+
+
+
+Hello Ricky, thank you so much for answering my call. I really appreciate your time and patience. We would like to make sure that your concern has been fully addressed and discussed.
+To make it easier for you, here's the summary of conversation over the phone to achieve your goal in getting Google meet video recording, closed captions and transcription. 1. We confirmed that Google one account currently have limitations in terms of Google Meet feature availability in which transcription is currently not available. 2. Continue using the Google Workspace account and take advantage of these features.
+For your future reference, here's a quick comparison of Google One and Google Workspace features: https://support.google.com/google-workspace-individual/answer/10459644
+Hi Ricky, are you still there? I just wanted to check if we are still connected.
+You Now
+
+
+Thank you, have a great day
+
+
+
+Google Workspace Support, Ron-Ron John 6 mins ago
+May I know if there's anything else I can possibly help you with aside from this one?
+
+
+You 3 mins ago
+No, I'm sorry.. I'm fucking pissed.. Your company is making is impossible to use its products to help my disable friends, people of color, or veterans. This has been a horrible experience and it keeps getting worse and worse. I'm on the phone with my friend Brandon now and he lives an hour and a half away and I can't help him because the products I pay for no longer function the way they used to.
+
+
+Google Workspace Support, Ron-Ron John Now
+I totally understand how you feel right now, Ricky. I really appreciate your cooperation. Thank you for contacting Google Workspace Support, it's been a pleasure working with you today. For now I’ll be closing this case for us temporarily and under monitoring purposes and you may reopen this within 30 days. In case something came up and you need assistance about it, just simply reply to the email recap / chat transcript that I will send you after this chat and let me contact you back to fix it. This will save explaining your concern to a different support which will be an easy fix for me.
+System
+Your chat session has ended. Thank you for contacting Google Workspace support.
+We will email a transcript of this chat to you.
+
+
+Question 1 of 4
+Do you need further help on this particular issue?
+Please do not submit sensitive information, such as account passwords, or confidential business or government data, to Support. We will use the information you provide to improve our services, subject to the Google Cloud Privacy Notice.

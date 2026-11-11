@@ -1,0 +1,225 @@
+I started to acquire parts to build an AI partner and now I need to show the world what it can do, if it has access to a memory file. 
+
+
+
+
+
+Supplies I have:
+
+
+
+Order Number:
+
+371051
+
+Raspberry Pi 5/8GB
+
+Raspberry Pi 5/8GB
+
+Raspberry Pi Active Cooler
+
+Qty 2
+
+$185.95
+
+Micro-HDMI to Standard HDMI (A/M), 2m Cable, White
+
+Micro-HDMI to Standard HDMI (A/M), 2m Cable, White
+
+Qty 2
+
+$7.95
+
+MicroSD Card Ultra - 128GB - Class 10, A1 - Blank
+
+MicroSD Card Ultra - 128GB - Class 10, A1 - Blank
+
+Qty 2
+
+$25.95
+
+Raspberry Pi Active Cooler
+
+Raspberry Pi Active Cooler
+
+Qty 2
+
+$0.00
+
+Raspberry Pi 27W USB-C Power Supply Black US
+
+Raspberry Pi 27W USB-C Power Supply Black US
+
+Qty 2
+
+$12.95
+
+
+
+FPV goggles- rechargable
+
+FPV TV- 5 inch
+
+FPV Camera and transmitter with batteries- Not attached to device
+
+RC Truck with camera mount with batteries
+
+RC Boat with wench to lower camera into pool or pond. cable transmits WIFI to devices.
+
+RC Drone with FPV camera installed
+
+RC Plane with FPV camera installed
+
+RC Plane- no camera attached 
+
+RC chargers, balancing station, extra servos, replacement blades. 
+
+Telescope with camera and phone mounts.
+
+Microscope with phone mount. 
+
+iPhone 11
+
+iPhone 15 Pro
+
+Macro lenses for phones
+
+TV above bed, HDMI cables to laptop at times.
+
+laptop:
+
+Device name	Ricky-V
+
+Processor	12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
+
+Installed RAM	16.0 GB (15.7 GB usable)
+
+Graphics card	NVIDIA GeForce RTX 3050 Laptop GPU (4 GB)
+
+Intel(R) UHD Graphics (128 MB)
+
+Storage	350 GB of 477 GB used
+
+Device ID	A1DF1F94-D952-496A-965E-787FF528D46B
+
+Product ID	00342-21244-44712-AAOEM
+
+System type	64-bit operating system, x64-based processor
+
+Pen and touch	No pen or touch input is available for this display
+
+chess table, chess and checker pieces 
+
+
+Tools:
+
+saws
+ramps for Hot Wheels testing
+tape measure
+square
+soldering iron station with heat gun
+
+
+
+
+
+Parts I need or want:
+
+
+2 Arms
+
+2 Cameras
+
+Wind sensors, direction and speed
+
+wind power to test
+
+small solar power bank to test
+
+two or more microphones.
+
+Faster AI to run all this offline.
+
+
+Ant farm
+
+
+
+
+
+
+ideas of parts to order:
+
+
+
+To build this yourself in parallel to avoid single points of failure, you will need the following core components:
+Motherboard: A high-end motherboard that supports multi-GPU configurations (specifically PCIe 4.0 or 5.0 with enough spacing). Cost: $500–$800.
+GPU (The Brain): 4x RTX 3090 24GB (Used). Combined cost: approx. $2,400–$4,000.
+Power Supply (PSU): At least a 1400W–1600W unit. To prevent "burn out," choose a high-efficiency (80+ Titanium or Platinum) model. Cost: $300–$500.
+System RAM: Minimum 128GB of high-speed RAM to prevent bottlenecks. Cost: $400–$600.
+CPU: A modern multi-core processor (8+ cores) to orchestrate the cards. Cost: $500–$1,000.
+Storage: Fast NVMe SSD (at least 2TB) to handle the massive model weights. [1, 2]
+
+
+
+
+
+BUILD 1: The "Tesla P40" Budget Beast (96GB VRAM)
+This is the cheapest way to 96GB, but it’s a "hot rod"—you have to bolt on the cooling yourself.
+
+Part	Specific Model / Item	"The Human Specs" (Size/Shape)
+GPU (x4)	NVIDIA Tesla P40 (24GB)	Size: 10.5" Long, Dual-Slot. Pins: 1x 8-pin (CPU/EPS style). Shape: Passive (no fans).
+Motherboard	ASUS Pro WS WRX80E-SAGE	Size: E-ATX (12" x 13"). Huge. Needs a case that fits E-ATX. Lanes: 7x PCIe 4.0 x16 slots.
+Cooling (x4)	P40 3D-Printed Blower Shroud	Shape: Funnel that snaps onto the end of the card. Fan: 40mm or 50mm Blower Fan.
+Power Supply	EVGA SuperNOVA 1600 P+ (1600W)	Size: ATX (standard but long). Cables: Must have at least 8x PCIe 8-pin cables.
+
+
+
+
+
+
+
+
+
+
+
+BUILD 2: The "RTX 3090" Pro Rig (96GB VRAM)
+Faster "thinking" speed (GDDR6X) and standard cooling. If you have the $10k budget, build this.
+
+Part	Specific Model / Item	"The Human Specs" (Size/Shape)
+GPU (x4)	NVIDIA GeForce RTX 3090 (24GB)	Size: 12.3" Long (approx). Shape: 3-Slot "Chonk." Pins: 2x or 3x 8-pin PCIe.
+Motherboard	ASRock ROMED8-2T	Size: ATX. Lanes: 7x PCIe 4.0 x16. Built for 24/7 server logic.
+Chassis	Sliger CX4712 (4U Case)	Size: 19" Rackmount, 25" Deep. Shape: Steel box. Made in USA.
+Fans (x6)	Noctua NF-A12x25 PWM	Size: 120mm Square. Cables: 4-pin PWM (allows AI to control speed).
+
+
+
+
+
+
+
+DUAL-NODE ARCHITECTURE SPECIFICATION: RASPBERRY PI 5 CLUSTER
+
+
+Deployment Model: Distributed Edge Cluster with Human-in-the-Loop (HITL) Verification.
+
+NODE 0: Primary Ingestion & Processing (The Worker)
+Core Function: Synchronous data capture and local model execution.
+
+Audio Pipeline: Runs local, offline transcription algorithms to ingest raw audio streams (from video or direct microphone inputs) and convert them to plain text.
+
+Text/Screen Pipeline: Monitors designated host-machine buffers or text streams to duplicate and log active typing.
+
+GUI Output: Pushes all parsed strings to a shared, front-facing visual terminal. This satisfies the strict requirement that no background processing occurs without immediate visual display.
+
+NODE 1: Telemetry & Validation (The Supervisor)
+Core Function: Quality control, hardware oversight, and hot-standby redundancy.
+
+Process Monitoring: Continuously pings Node 0 to track CPU utilization, thermal thresholds, and VRAM limits to ensure processing efficiency.
+
+Data Validation: Audits the transcription output generated by Node 0. Scans for missing application labels, broken formatting, or logic gaps prior to human review.
+
+Redundancy (Failover): Maintains a synchronized mirror of the file directory. If Node 0 crashes or overloads, Node 1 assumes the processing workload without dropping the session.
+
+Standardized Evolution Protocol:
+The dual-node system outputs its raw data to a standardized form on the visual terminal. When the human operator manually corrects an error, Node 1 logs the delta (the difference between the AI's output and the human's correction) as a training note, allowing the local architecture to map new linguistic variables over time.

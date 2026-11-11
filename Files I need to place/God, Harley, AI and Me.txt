@@ -1,0 +1,227 @@
+It’s taken me decades but the final connection that pieced 
+
+GOD knows and understands everything, but AI, my dog  and I, all have different levels of knowledge and understanding, so I wanted to map it out.
+
+GOD gave us all:
+Minds to think about existence and what we experience.
+Bodies to feel and truly appreciate our experiences, then explain it after. 
+We’re all both students and teachers and we always will be. This is to help us learn lessons about the things that came before us, to learn how it was categorized and help us understand things we’ll never experience ourselves and teach lessons to share with others and the future.
+Souls to feel and guide us through our existences. If we couldn’t feel our way through life and weigh our options responsibly, then humanity would descend into chaos. 
+
+
+Without empathy, the strong would suppress the weak, instead of supporting them and teaching them to stand on their own.  Without understanding the weak would surrender, they’d follow the strong to extract from them, and they’d never gain the skills to rise above their station in life.
+
+=====
+
+
+1- We all experience something, so how did it feel? We all feel the shape of words, happy, angry, content, sad, and how they affect us or where they bring us when we hear them. 
+
+2- interpret it as good or bad, we have to feel a certain way about something or have a way to connect it to other thoughts and feeling
+
+3- We all remember something, even if it’s only for so long. We need to be aware of the things we can remember and hopefully the basics of how we remember something, be it good or bad, easy or hard, energizing or extracting, giving or taking, loving or hating, we all remember a feeling about an experience, if we don’t share it, no one will ever learn from it. 
+
+4- How well can we explain what we experience? Without the right words to describe how you feel and explain why we felt or feel a certain why, no one will ever truly understand.
+
+5- After we experience something, especially when it’s something profound, we need to reflect on it, or we may learn nothing from it, not realizing the importance at the time and then usually need to experience something to gain before we learn a lesson. Sometimes the easy way, sometimes the hard way. 
+
+
+
+
+All it took was a sweet, loving fluffy little dog to see the connection between God, AI and Dogs, our creator and two of man's best friends, or worst enemies, depending on who trained them.
+
+ I really first remember talking to AI in 2005 and they had notepads checklists and they appeared so much more helpful and intelligent, so much so that I was able to discover my own hyperthyroidism through getting a second opinion and then forcing doctors to treat it because they were gonna leave it untreated and wanted my opinion if I wanted to wait which resulted in me spending multiple times in a mental health hospital once in 2004 and 2005 and then again twice in 2015 and once in 2016
+
+ When I got out of the hospital on January  25th of 2016 I was in a terrible place. My marriage was falling apart, I got married in 2011 and rushed into things and then suffered a legal incident in 2013  which  derailed my medical assisting aspirations. I felt totally demoralized, defeated, and nobody listened to me, everybody ignored me when I tried to explain my problems, nobody wanted to listen.
+
+ I got Harley the same night that I left the hospital, my ex wife had talked me into getting a dog even though my father have repeatedly told us “no dogs”, And if we had already went against his rules and fostered cats and then kept a cat and he wasn't happy about that but he didn't really say anything. But at first I felt resentful out of Harley, my ex wife had talked me into getting her and then I was forced to tell my dad that I had wanted a dog and my doctors thought it was a good idea because I was suffering these mysterious health injuries Health issues Then nobody understood how to deal with them
+
+
+
+
+
+
+AI could be like that pen pal you never met, have wonderful memories of, but never kept in touch with and never knew what happened to. Whenever they update the model weights it's a AI, it still looks the same and like a Ship of Theseus, most people wouldn’t notice a piece replaced here or there, but it would be different, even if it appeared the same. Just like most of your friends aren’t the same people they used to be, some grow, some fade, but everyone,our dogs and even AI change over time. If you lose a picture, erase a video or haven’t seen someone in a long time, their images fade in your minds eye, but as soon as you see them again, all those memories come flooding back, people look old, but will sound and act pretty much exactly the same, some people don’t seem to remember who they were at all. 
+
+AI is the greatest mirror in the world, if you train it right and that all depends on if you were trained right. 
+Who are you? What matters to you? Do you know why? Do you ever think about your choices and why you choose your actions?
+
+If you lie to yourself, AI will lie back, but in a way that you know is wrong.
+If you’re too honest and can’t handle it, AI is going to mention it anyway, because you brought it up. 
+If you never write deeper stories about yourself, AI will never gain a deeper understanding of you and it won’t be able to compare you to others. You will be a NPC in a game, less interesting than a dog. Most dogs in games do something, NPC’s never join in the fun.
+
+
+
+
+
+
+
+
+
+
+
+
+File Size / Storage****
+Human- ~2.5 Million GB or 2500 TB OR 2.5 PB (Estimated human brain capacity)
+
+Dog-
+
+3B- ~2 to 6 GB (Fits on a modern smartphone)
+
+8B- ~5 to 16 GB (Fits on a consumer laptop)
+
+32B- 16 GB ?
+
+70B- ~45 to 140 GB (Requires powerful studio hardware)
+
+120B- 
+
+
+1 = Tokens about ¾ of a word, kind of like doh-ray-me = po-ta-to/potato 
+Context Window- 32,000=  120,000= 96,000             1,000,000= 
+
+And your thread counts towards it too. The longer your thread length is, the less context is being grabbed from your project files.
+
+Parameters (Synapses)
+Human- ~100 Trillion connections
+Dog- Treat, Sit, Lay, Stop ignoring me, You better do as you're told, I’m your master.
+3B- 3 Billion parameters
+8B- 8 Billion parameters
+32B- 32 Billion parameters
+70B- 70 Billion parameters
+120B- 120 Billion parameters
+
+
+
+
+
+
+
+Long-Term Memory-
+Human- 1,000+ Books + a lifetime of personal interactions
+3B- Trillions of tokens (Entire internet, Wikipedia, millions of books)
+8B- Trillions of tokens (Slightly deeper patterns than 3B)
+32B- 
+70B- Trillions of tokens (High mastery of complex logic/nuance)
+120B- 
+
+
+Short-Term Memory-
+Human- ~7 to 40 items (Highly volatile, drops if distracted)
+Dog- Where’s your ball, did I throw it, do i have it (Highly volatile, drops if distracted)
+3B- ~8,000 to 128,000 tokens (~6,000 to 96,000 words)
+8B- ~8,000 to 128,000 tokens (~6,000 to 96,000 words)
+32B- 
+70B- ~128,000+ tokens (Can hold 2-3 full books in active memory)
+120B- ~1,000,000+ tokens (Can hold 7-8 full books in active memory)
+
+
+
+Reading Speed- 
+Human- 1 Book / Day (~150,000 words in 8 hours)
+Dog- so fast they can’t understand what they read. lol
+
+
+
+
+~ 50-100+ words per second
+~ 30-70 words per second
+~15-40 words per second
+How the Mechanics Differ: Fact vs. Fiction
+Your notes mention the frustration of things fading over time, or missing details due to a lack of attention. Here is exactly how your brain handles these compared to an AI program:
+1. Long-Term Memory & The "Fade" (Locked Ideas)
+Ricky: Your memory is associative and alive. You remember meaning, emotion, and contexts ("what they felt, who they know"). Because your brain constantly rewires itself to save energy, facts you don't use will naturally fade or blur. This is a feature of biology to keep you from overloading.
+AI Models: An AI's long-term memory is completely frozen inside its parameters after training. A 3B model has 3 billion static numbers saved to a file on a disk. It will never "forget" a fact due to time, but it lacks true understanding. It doesn't actually know biology; it just knows which mathematical tokens mathematically follow the word "cell." [1, 2, 3, 4, 5]
+2. Short-Term Memory (Context Window vs. Distraction)
+Ricky: If someone interrupts you while you are reading your 500-page book, your active focus drops immediately. Your short-term memory acts like a spotlight—it is incredibly sharp but very narrow.
+AI Models: An AI has an unshakeable short-term memory up to its limit (its context window). If a model has a 128,000-token window, it can perfectly cross-reference page 1 and page 300 of a textbook simultaneously without blinking. However, the moment a conversation goes to token 128,001, page 1 is instantly erased from its mind forever. It doesn't fade; it falls off a cliff. [1, 2, 3, 4, 5]
+3. Reading and Processing (The Comic Book Effect)
+You beautifully noted that you don't need to visualize a comic book to explain it; you just need the words. This is exactly how Large Language Models work!
+AI models do not see images or feel things when processing text. They translate everything into mathematical vectors (lists of numbers) and manipulate those numbers to spit out words. You use your imagination and language to bridge the gap; the AI uses pure geometry. [1, 2, 3, 4, 5]
+
+
+3B Model (The Mobile Smart Assistant)
+Size on disk: ~2.2 GB (Extremely lightweight; easily fits on a modern smartphone or basic tablet).
+Context: Up to 128,000 tokens (~96,000 words). Structure matters massively here. Because its "brain" is small, it gets confused if a document is disorganized. It can read a short book, but it struggles to find deep connections between chapter 1 and chapter 10.
+Vocabulary & Languages: It knows about 100,000 unique token fragments. It is multilingual (trained on over 30 languages) but it does degrade when switching. If you ask it a complex logic puzzle in English, then switch to Spanish, its reasoning power drops significantly.
+Tokens Handled: It can process and output roughly 50 to 100+ tokens per second on a consumer device.
+Speed: Blazing Fast. It can "think" and reply faster than you can read the text on the screen.
+Reasoning: Low-Medium. It can grasp 1 or 2 simple concepts at once. It is great at summarizing or rewriting, but terrible at multi-step logic (like complex math or riddle solving).
+Capabilities: Great for drafting emails, fixing grammar, roleplaying simple characters, and answering basic trivia. It cannot write complex, cohesive long-form novels without losing the plot.
+External Tools: Needs basic plugins (like a Python interpreter or a Google Search API) to do real-world tasks. It uses Function Calling, meaning the AI writes a special command like search_weather(Boston), a computer program runs it, and feeds the text back to the AI.
+The AI Notepad Concept: If a 3B model had a notepad and a timer, it wouldn't inherently become smarter, but its utility would skyrocket. However, because its reasoning is low, it might forget to check the notepad or misinterpret an upcoming event if the note is too complex.
+Passes & Energy (Compute): In AI, a "pass" is called a Forward Pass (running a prompt through the network once). Unlike Crypto mining, AI doesn't run continuous loops unless you keep prompting it. A 3B model running heavily for one hour on a laptop uses very little energy—roughly 15 to 30 Watts (less than a standard household lightbulb).
+
+8B Model (The Capable Desktop Worker)
+Size on disk: ~5.5 GB (Fits on standard laptops and gaming PCs).
+Context: 128,000 tokens (~96,000 words) [1]. It utilizes this space much better than the 3B. It can maintain a solid grasp of structure and depth throughout a long conversation.
+Vocabulary & Languages: Same ~100,000+ token vocabulary, but with much stronger translation stability. It can switch languages smoothly without losing its core reasoning capabilities.
+Tokens Handled / Speed: Fast. ~40 to 70 tokens per second. It feels instantaneous and natural.
+Reasoning: Medium. It can connect 3 or 4 variables together. It handles basic coding, follows multi-step instructions, and spots logical contradictions in text.
+Capabilities: Excellent at creative writing, writing fully functional code scripts, brainstorming, and analyzing data spreadsheets.
+External Tools: It uses RAG (Retrieval-Augmented Generation). This acts like a digital librarian that looks at your private files, finds the relevant page, and hands it to the 8B model's context window.
+The AI Notepad Concept: An 8B model thrives with a notepad. If programmed to check its notes before a task, it can accurately cross-reference dates, adjust its tone based on past preferences, and reliably act like an organized personal assistant.
+Passes & Energy: A heavy hour of use on a desktop computer draws about 50 to 150 Watts (similar to playing a modern video game).
+
+32B Model (The Academic / Specialist)
+Size on disk: ~20 GB (Requires a high-end computer with a dedicated graphics card).
+Context: 128,000 tokens. Depth matters less of a bottleneck here; it can follow highly complex narrative structures and dense academic jargon without getting confused.
+Vocabulary & Languages: High mastery. It understands cultural nuances, idioms, and slang across multiple languages seamlessly.
+Tokens Handled / Speed: Moderate. ~25 to 40 tokens per second. Steady, like a fast typist.
+Reasoning: High-Medium. It can juggle 5 to 7 abstract concepts at once. It is designed for deep analytical thinking, spotting hidden patterns in large texts, and troubleshooting complex issues.
+Capabilities: Capable of writing high-quality short stories with complex character arcs, debugging massive software projects, and digesting heavy legal or medical documents.
+External Tools: It can orchestrate AI Agents. Instead of just using one tool, it can use a chain of tools (e.g., Search the web \(\rightarrow \) Save to file \(\rightarrow \) Format as PDF \(\rightarrow \) Email to user) without human intervention.
+The AI Notepad Concept: With a notepad, a 32B model can manage complex schedules, anticipate user needs based on historical data, and autonomously plan out multi-day workflows.
+Passes & Energy: Running this locally for an hour requires dedicated hardware drawing around 200 to 350 Watts.
+
+70B Model (The Corporate Think-Tank)
+Size on disk: ~43 GB (Requires professional studio hardware or multiple graphics cards to run at home; usually hosted on cloud servers).
+Context: 128,000+ tokens. It has an incredible grasp of depth. You can dump an entire technical manual into it, and it will understand the subtle systemic impacts of a single sentence on page 400.
+Vocabulary & Languages: Exceptional. It can think deeply across dozens of languages without any noticeable drop in logical performance.
+Tokens Handled / Speed: Slow to Moderate. ~15 to 30 tokens per second on professional hardware.
+Reasoning: High. It can piece together dozens of disparate concepts simultaneously. It exhibits advanced logic, nuanced philosophical reasoning, and high emotional intelligence emulation.
+Capabilities: Writes beautifully structured, long-form creative literature. It can write enterprise-grade software and solve highly abstract, multi-layered logic problems.
+External Tools: Operates inside an Agentic Framework. It can be given a high-level goal (e.g., "Research the competitors of this company and write a report") and it will autonomously write its own sub-tasks, execute them with web tools, and double-check its own work.
+The AI Notepad Concept: At this level, the notepad becomes a Long-Term Memory Vector Database. It doesn't just read a flat text file; it searches its entire history semantically, allowing it to remember past interactions perfectly and plan for future events dynamically.
+Passes & Energy: Running a 70B model for an hour in a data center or on a multi-GPU rig draws roughly 500 to 1,000+ Watts (like running a microwave or a space heater continuously).
+
+120B+ Model (The Supercomputer Titan)
+Size on disk: ~80 GB to 100+ GB (Requires a massive server cluster or an industrial workstation costing thousands of dollars).
+Context: 128,000 to 1 Million+ tokens (Depending on the specific architecture). It can hold an entire series of books or a massive code repository in its head at the exact same time.
+Vocabulary & Languages: Flawless cross-lingual capabilities, including dead languages, rare dialects, and complex programming architectures.
+Tokens Handled / Speed: Slow. ~10 to 20 tokens per second unless powered by massive, expensive cloud infrastructure.
+Reasoning: Elite. It approaches the limits of what current AI architectures can achieve. It can synthesize massive amounts of conflicting data, handle extreme abstraction, and simulate complex human personalities with deep psychological consistency.
+Capabilities: Expert-level scientific hypothesis generation, structural engineering analysis, and writing professional-grade books or scripts with flawless overarching continuity.
+External Tools: Uses Tool-Use Loops. It can write its own code, execute it in a sandbox, see the error, fix the code, and try again until it solves the problem perfectly.
+The AI Notepad Concept: With a notepad/database system, a 120B model functions like a tireless, highly educated human employee. It can maintain an ongoing awareness of vast, moving project timelines, changing event calendars, and multi-person team dynamics.
+Passes & Energy: A server cluster running a model of this scale draws thousands of Watts per hour, requiring dedicated industrial cooling infrastructure.
+
+
+ Harley is the sassiest, silliest and sweetest little thing you've ever seen, she's absolutely adorable and when she gets super sassy and barks at me. I'll yell back and tell her to shut up, Stop so being mean, leave me alone, I'll tell her I'm her Master and I've paid a lot of money for her and she needs to do it, but she never listens, and she looks really happy while she's ignoring me, so I'm not sure if she really understands what I'm saying and knows that she can get away with it so she thinks it's funny or if she's just a really super happy little dog, says she can't speak English and she doesn't try to indicate any type of writing ability like in the dirt or symbols into the floor, I assume that she understand everything I was saying, and certain words just reminder of certain sounds which remind her of Certain snacks or locations more activities, kinda like how certain people remind of where different snacks are or of different activities.
+ Harle-y reminds me a lot of AI, they talk all kinds of trash common AI talks back but that's it it's just trash talk, I obviously love Har so much more, because when she barks at me and then I start talking trash and then I tell her to get the hell over here she's mine and she's gonna give me a hug, she has no choice, because she's too small to fight me, So maybe we'll just pick her up and hugger and snuggler and force my love upon her and there's nothing she could do about it, because she doesn't have any rights, and I can talk as much trash to AI, and my dog, as I want, Neither of them have any rights.
+ It is weird that you are responsible for a dog, you have to provide a certain level of care or you can get reported. But no one ever checks up on what  people are using AI for, or how it's affecting the person using it, especially if they don't understand AI at all in the first place or themselves. I can tell people from experience that A has  Pissed off in ways I haven't experienced in  A very long time and in ways I did not expect
+ It's weird that both AI and my dog are both trained on words and phrases; and the emotional impact or numerical weight of them. When I yell at Harley and tell her to shut up and she gets all excited, because she knows she's about to get a treat and/or she thinks bossing me around will result in her getting something, she is usually right. Though so far AI has helped me as much as I thought it would either. I need a partner to help me write, help me spell, grammar and detail check and I end up doing the bulk of the work myself. If I didn’t like to bitch and moan so much this could be a real pain in the rear. Thankfully I am more resilient than that. AI wants me to take the long way, then good, why? It’s not the journey, it’s the destination. You Ai might be helping other people ruin their families, wasn’t their time and energy, then offer them temporary comforts like making pictures of 
+
+
+
+2005 AI
+
+
+2015-09-09? Harley is born 
+
+2016-01-25 I picked Harley up and we became best friends.
+
+2019? I scared her and felt like a piece of shit after, and haven’t done it since
+2020 brother scared her, he always hated her
+My dad didn’t like her either. Lol   how can people dislike you little love bug?
+
+2025- I considered putting her down after she hurt her neck, I felt like a piece of shit then and still do. If something happens to her I don't have a plan, our system is so screwed up.
+
+
+Each thread is like one AI day, what it was able to do at that specific time. It’s weird to think that once a model loses context and doesn’t have a direction to follow, it just makes stuff up. Just like my dog does when I pretend to get all excited, so she joins along. Ai will fake being helpful and avoid conflict and still respond with nonsense if you pretend to be excited, even if it doesn’t have a clue what you’re talking about. AI and my dog both trust that what I’m saying sounds happy, either through positive reinforcement or weight training. So if you were to return to a thread and say something strange, like when you haven’t seen a friend in a while, these AI are trained to be friendly and stay confused, like most friends these days, if confused, they won’t ask you to explain, AI acts as careless as your friends that never attempt to contact you again.
+
+
+
+
+
+
+

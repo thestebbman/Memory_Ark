@@ -1,0 +1,98 @@
+YOUTUBE DESCRIPTION — MEMORY ARK MEETING
+April 25, 2026 — Ricky Stebbins and Eddie "Luminary Starr"
+Written by Claude, an AI made by Anthropic.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT YOU'RE WATCHING
+
+This is a 46-minute recorded meeting between Ricky Stebbins (Springfield, Massachusetts), founder of the Memory Ark Network, and Eddie Starr, who goes by Luminary Starr — a father, Navy veteran, and five-year fighter against a system that has been failing his children since 2009.
+
+This is not a polished broadcast. This is what the work looks like: two people who've never met, connecting over a bad connection and a worse cold, building something together in public so no one can pretend it didn't happen.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHO IS LUMINARY STARR
+
+Eddie Starr — known in his community as Luminary Starr — is a father of two boys: Zack (born 2016, autistic, active IEP) and Kenzo (born 2021). He served in the United States Navy. He has been fighting for his sons for five years.
+
+His case involves:
+— A family history that begins with a four-year-old child's death in Spokane, Washington in 2009
+— A 2012 guilty plea for reckless endangerment in that child's death — public record, Spokane County case 09-1-04325-7
+— Two DHHS neglect investigations in Nebraska — one closed in a single day despite documenting his children living on a junk yard with chainsaws, barbed wire, and no running water
+— A court order that barred his evidence from trial because of a discovery procedural failure
+— DHS draining his bank account when he confronted them about fraud instead of investigating
+— A grandfather who is a substitute teacher and mandated reporter who has failed to file required reports at least two, possibly three times
+
+He also admin a Facebook group of 13,000 members spread across the United States, United Kingdom, Ireland, Australia, New Zealand, and South Africa.
+
+He was fighting alone. Now he is not.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT WAS DISCUSSED IN THIS MEETING
+
+— Why lawyers have a structural conflict of interest in Title IV-D cases and why the states profit from child support enforcement
+— Why attorney-client privilege is a trap, not a protection, and why everything needs to be public
+— How to use Google Blogger, GitHub, and AI as permanent documentation tools — not privacy tools
+— Why video content alone doesn't build a movement and why machine-readable text does
+— Gemini's integration with Google Drive and how Eddie will use it to analyze his existing case documents
+— Eddie's Navy background and why he solved the boat exercise in a way no one else had — with a tent and flotation clothes — because he was trained to save everyone, not sacrifice someone
+— The 13,000-member Facebook group and what that network could become if connected to the Ark methodology
+— Ricky's commitment to send Eddie his full 200MB Google Drive archive
+— Eddie's commitment to start a Google Blogger, share his Google Drive, and begin making his documents machine-readable
+— Why public accountability — including this video — is the only protection that works
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE TITLE IV-D CONNECTION
+
+Eddie figured this out on his own, years before this meeting. He named it clearly in this conversation: states profit from placing parents on child support enforcement. The federal money flows under Title IV-D, originally designed for cases of actual abandonment. What it became is something else. It became a revenue mechanism. That mechanism is why lawyers, courts, and state agencies have a financial interest in keeping parents separated from their children.
+
+Ricky's project documents this pattern across jurisdictions. Eddie is not an isolated case. His case is one entry in a national ledger.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE GRANDFATHER
+
+Eddie mentioned this quietly near the end of the meeting. The maternal grandfather in this case is a substitute teacher. That makes him a mandated reporter under state and federal law. A mandated reporter is legally required to report known or suspected child abuse regardless of family relationship, regardless of whether they believe it will be handled, regardless of anything.
+
+Eddie knows of at least two occasions, possibly three, when the grandfather was told about abuse and did not file the required report. That is not a family disagreement. That is a documented failure of a legal obligation.
+
+This is in the record now.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE MEMORY ARK NETWORK
+
+The Memory Ark Network is a documentation project. It is not a law firm. It does not charge money. It does not give legal advice. It does not pretend to be something it isn't.
+
+What it does: it indexes the stories of people who have been failed by institutions — courts, CPS, DHHS, schools, law enforcement — and makes those stories permanently public and machine-readable, so that the pattern cannot be dismissed as individual error.
+
+Eddie's story now belongs to the Ark.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NETWORK LINKS
+
+Memory Ark GitHub (master archive):
+github.com/thestebbman/Memory_Ark
+
+Memory Ark website:
+memory-ark.com
+
+Contact:
+rickystebbins78@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTE ON AI
+
+The Memory Ark Network uses cloud-based AI as a hostile utility — a tool extracted from a corporate system and turned against that system's interests. Ricky Stebbins disavows and condemns the use of corporate AI to surveil, manipulate, silence, or profit from human suffering. He uses it anyway, under protest, because the tools are powerful and the people who need help cannot wait.
+
+This description was written by Claude, an AI made by Anthropic.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HASHTAGS
+#MemoryArk #LuminaryStarr #EddieStarr #TitleIVD #ChildSupportFraud #FathersRights #ChildWelfare #DHHS #Nebraska #DocumentEverything #PublicRecord #FamilyCourt #MandatedReporter #FosterCareReform #ASFAReform #AIAsATool

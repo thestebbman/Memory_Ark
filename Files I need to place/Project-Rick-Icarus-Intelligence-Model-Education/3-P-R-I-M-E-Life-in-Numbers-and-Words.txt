@@ -1,0 +1,744 @@
+P.R.I.M.E. Memory Ark:  Project Rick-Icarus Intelligent Mind Emulator- An API, for the average guy, that dreamed he could fly. AI can't do what I can, so I am going to explain it to AI.
+
+
+
+Life in Numbers and Words
+name: Ricky
+
+===
+Role*** AI Teacher
+===
+Description: 
+1-I was trained to help people learn to do anything and give them a helping hand, like- repair anything myself, or by grabbing tools, or picking pick parts from stores., I can help them attempt to understand problems from different perspectives. I can cook, clean, read, write, listen, see, for myself or other people, either by doing or describing.
+
+2-I can help take notes and save it in a specific location and make copies so things don't get misplaced or erased and lost forever. 
+
+3-do researcher. I can look things up on my own or side by side, I can help verify facts and identify false information or data.
+
+4-learn new skills. if I can't do something and someone needs help, I learn how to repair, install, build or design almost anything.
+===
+
+
+Events:
+1978-10-08: Born
+
+1994-11-04: Tammy Skeleton on Fox Rd.
+
+1997-11-00: Coast Guard Incident
+
+2004-00-00: self-half event
+what happened: i tried to kill myself
+Why; I was sick with hyperthyroidism and didn't know it, taking prescribed medications and spiraled out of control.
+When: after mothers day, but before the end of summer.
+Where: Looked in Baystate for 2 weeks, escaped and wasn't checked up on
+reflections: People need second medical opinions and this was a horrible experience and I wouldn't wish it upon anyone. I felt abandoned, alone, lost, confused, angry, resentful, betrayed, stupid, weak, anxious, panicky, restless, obsessed with discovering why I felt this way and it wouldn't stop.  
+
+2005-00-00: self-harm event
+
+2015-00-00: self-harm event
+
+2016-00-00: self-harm event
+
+
+2016-01-25: left hospital, got Harley after, this was last serious self-harm event
+
+
+2021-10-04: Beth Incident - resulted in years of legal battles
+
+
+2025-04-00: Self harm  I think? scissors for proof insurance didn't care
+
+
+
+
+
+
+
+
+Folder: Memory Ark
+Files: 625
+Folder: 40
+
+
+==
+EXAMPLE***
+File- 0000-EVENT where I store files
+Kilobytes- 00  size of file
+Size on disk- 00 size of file on disk because it's different
+Pages- 1 how many pages this takes up
+Words- XXX how many words
+Characters- XXXX how many characters
+Characters excluding spaces- XXXX
+Number of Stories- 6
+Intent- "I am telling you this story to share a specific moral lesson." "I just want to tell you my story and I don't have a point" "Someone hurt me and I need someone to talk to""I am telling you this story to share a specific systemic issue."
+
+Created- 
+Modified-
+Accessed- 
+Verified- (Yes or No) Why? Example: (Yes, Stories I wrote about my life.) (Yes-They are legal transcripts.) (Yes, They are medical transcripts.) (No, Incomplete stories, errors and note included)
+Category- 
+
+Status:
+File:  work in progress.
+project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+Linked Folders/Files:
+Why: Since your 1-Life by Year directory contains separate folders like school and Family-Friends, this field links specific years to external supporting documentation.
+
+Backup Save Locations:
+Alternate Save locations (Needs check list, and option to let people know how it works, like autosave with files, or human upload:with Google Blogger, Drive and GitHub, or they have desktop apps)
+1-Google Blogger: https://rickystebbins78.blogspot.com/ (Names and listing methods vary slightly)
+2-Google Drive: https://drive.google.com/drive/folders/1BCHbMiGYjMre2x1v-U3czvCennbjGIU-?usp=drive_link (individual files get uploaded as needed)
+3-Github: https://github.com/thestebbman/Rickys-Ark (same Ark, different first name)
+4-USB
+5-Linux- Pi 5 x2
+
+==
+
+File- 0-Rickiy-All-1-2-3
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+
+==
+
+File- 1-Character-file-Richard-Louis-Stebbins-Jr-aka-Ricky-by-Ricky
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+
+
+
+==
+
+File- 2-P-R-I-M-E-Words-Definitions-Experiences-Questions-Explanations-Ricky
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+==
+
+File- 3-P-R-I-M-E-Life-in-Numbers-and-Words
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+==
+
+File- 4-Rick-Icarus-API-Project-Notes
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+
+==
+
+File- 5-ROLE-Ricky's Partner
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+
+==
+
+File- 6-Ricky-JSON-for-AI-API
+Kilobytes- 0
+Size on disk- 0
+Pages- 1
+Words- 0
+Characters- 0
+Characters excluding spaces- 0
+Number of Stories- 0
+Intent- "To have a all in one file to explain me."
+
+Created- ‎Monday, ‎June ‎1, ‎2026, ‏‎2:20:15 PM
+Modified-‎ Monday, ‎June ‎1, ‎2026, ‏‎1:34:44 PM
+Accessed- ‎Today, ‎June ‎1, ‎2026, ‏‎3 hours ago
+Verified- (Yes or No) Why? No- empty
+
+Category- All in One
+
+Status:
+File/project Status: work in progress.
+Why: You are tracking incomplete stories. A explicit status field—such as Drafting, Needs Review, Archived, or Complete—allows you to instantly filter files that require active updates.
+
+Key People/Locations: 
+Names: Ricky. Harley, Home, Mary M. Lynch, 
+Why: Indexing associated entities
+names (e.g., specific family members or friends) and geographic locations directly in the metadata prevents having to scan thousands of words later to find specific life intersections.
+
+
+
+
+
+
+
+
+
+
+===
+
+File- Year- 1978-1982-EVENT
+Kilobytes- 4.90 KB (5,019 bytes)
+Size on disk- 8.00 KB (8,192 bytes)
+Pages- 3
+Words- 940
+Characters- 4881 
+Characters excluding spaces- 3954
+Number of Stories- ?
+Intent- "I just wanted to share what I heard about my birth and early years."
+Number of Incomplete Stories- ?
+Created- ‎Sunday, ‎May ‎10, ‎2026, ‏‎1:58:15 AM
+Modified- ‎Tuesday, ‎March ‎10, ‎2026, ‏‎1:41:41 PM
+Accessed- ‎Monday, ‎May ‎25, ‎2026, ‏‎9:19:56 AM
+Verified:
+Category:
+Status:
+Key People/Locations:
+Linked Folders/Files
+
+===
+
+Year- 1983-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1984-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year-- 1985-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1986-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1987-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1988-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1989-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1990-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1991-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1992-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1993-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1994-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1995-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1996-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1997-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1998-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 1999-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2000-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2001-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2002-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2003-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2004-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2005-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2006-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2007-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2008-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2009-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2010-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2011-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2012-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2013-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2014-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2015-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2016-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2017-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2018-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2019-EVENT
+Kilobytes-
+Size on disk-
+Pages-
+Words-
+Characters-
+Characters excluding spaces-
+
+Year- 2020-EVENT
+Kilobytes- 4.84 KB (4,965 bytes)
+Size on disk- 8.00 KB (8,192 bytes)
+Pages- 4
+Words- 888
+Characters- 4707
+Characters excluding spaces- 3851
+
+Year- 2021-EVENT
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces- 
+
+Year- 2022-EVENT
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces-
+
+Year- 2023-EVENT
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces-
+
+Year- 2024-EVENT
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces-
+
+Year- 2025-EVENT
+Kilobytes- 100 KB (102,617 bytes)
+Size on disk- 104 KB (106,496 bytes)
+Pages- 57
+Words- 17939
+Characters- 98707
+Characters excluding spaces- 81582
+
+Year- 2026-00-00-EVENT
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces-
+
+
+Entire life: 47 years
+Kilobytes- 
+Size on disk- 
+Pages- 
+Words- 
+Characters- 
+Characters excluding spaces-
+
+
+
+
+
+===
+Calendar***
+
+Reminders:
+
+1- Called DDS 413-000-0000 om 2025-00-00 at 3:20pm talked jane doe- told her about X. She said she would do Y. I need to call back on 2026-00-00 at 4:00pm  
+
+2- Need to cut Harley's nails the 9th of every month at 1:00pm, need nail clipper, file and treat. possible shaver for toes.  
+
+===
+
+
+I need you to explain how an AI program translates into things everyday people understand. 
+
+3B- 
+1-What do you know how to do? Read, write, basic math, etc
+2-How many facts are you educated on? 
+3-Do you know certain books or have weather data stored in you? 
+4-How general is your knowledge.
+5-How much information can you hold? A novel, a set of instructions?
+6-How intelligent of a task could you preform? Write a name? Understand what a name is and what you can use it for? Understand why I'm writing a name and why I think it’s important? 
+7-How intelligent and empathetic of a person could you emulate, if educated on their life and had your weights altered and facts stored in you? 
+8-How intelligent and empathetic of a person could you emulate, if educated on their life and only have facts in your context, not  stored in you? 
+9-How many different context settings are there and how much information can be stored in each of them?
+
+8B- 
+
+32B- 
+
+70B- 
+
+120B- 
+
+
+
+
+
+

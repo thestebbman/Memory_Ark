@@ -1,0 +1,17 @@
+0- All of this in one spot to give more advanced AI a snapshot of how I think and link it to full stories.
+
+1- MY attempt at describing myself. 
+
+2- Me attempts to explain how certain concepts and words remind me of different feelings and draw my mind to different points throughout my life and different experiences, all with different outcomes and lessons learned.
+
+3- How much information I have experienced and where it is written down, where it is stored and how it links to other files with words and numbers. 
+
+4- Notes for me to keep track of what step we're on. 
+
+5- Trying to describe how I care for myself and live my day to day life.
+
+6- Document for writing JSON for training future AI on empathy based off of stories.
+
+
+I don't know if I need all these files, but I 
+

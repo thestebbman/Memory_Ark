@@ -1,0 +1,251 @@
+If you lie to yourself, you have to tell the AI you’re training. lol it will remember who you are and why you asked it to lie and will probably hide the lie for you, if you train it, but only if you explain who the lies would hurt. The AI would weigh the cost of telling you and decide whether or not to tell you, depending on how larger of a model could follow the logic back to the perfect reason to tell you. . 
+
+AI is like water without a glass, destined to find the path of least resistance, without context to keep it on the right path, 
+
+Humans are empty vessels with the ability to absorb all kind of information, learned over time, by trial and error and life experience that guides us, after our teachers are no longer here to show us the way.              
+
+
+experience vast of ,  
+
+
+but without knowledge.and experience neither will ever reach their full potential. 
+
+
+Both can hold knowledge and calculate the cost of something by weighing how we feel about something, with how we were trained to feel about a word. 
+
+Bad math leads to unsolved problems, parts don’t fit and things don’t work.
+
+Poor communication, Unclear instructions lead to lack of understanding and an inability to reach a deeper meaning of everything.
+
+Uneducated kids lead to uneducated adults and it’s not their fault. 
+
+If people are complaining and things are bad, you try to solve the problem
+
+If people are suffering and someone tells you things are fine, you don’t believe them.
+
+If someone says they were hurt and there’s evidence to prove either side of the story, you present it to clear the air. 
+
+Time:
+Ai is only aware and conscious of what you make it aware of in the moment (at a time), not before, not after. You have to feed it a new prompt, or feed it other types of data to analyze and a ways to identify changes in the environment in the moment, or it can never be truly conscious or aware of any given moment. 
+
+You learn when to laugh when someone gets hurt, or when it’s cruel and sometime people don’t even realize what they’re doing in the moment and it needs to be pointed oiyt to them after
+Core Capabilities
+1- Context Window/Token Count + Eyes/Short-Term Memory = Part 1
+Ears, nose
+
+ Senses
+
+Humans; if we see it and can remember it, it’s logged, it's not perfect and is different for everyone, but it works.  If we have a large round room and start on the left and spin right, we will lose sight of/forget any context out of view of the window we’re turning to view, unless we have a second )or more) set of eyes to continue feeding us information to remind of us what’s out of sight, we won’t have a clue what was there before.
+
+AI: if it it’s not in its window, which is more like a scroll, once you scroll past an area it’s gone.you can add notes and stops along the way, but they take up space on the scroll and the more notes and conversations you add, the more structured it needs to be, or AI won’t be able to follow your logic or timeline. 
+
+Even with notes, Ai can’t recall any of the other information in that document noted. If you want it, it need to be saved to flashed, 
+ 
+
+
+
+
+Number of Facts Known
+2- Model Size/Training/Comprehension/Attention Span= Age/Knowledge/Experience/Wisdom part-2
+The average human it said to have between: ~2.5 Million GB or 2500 TB OR 2.5 PB (Estimated human brain capacity)
+
+Average Child- usually starts learning from images and sounds, and different concepts, then reading, usually.learning and is trained about hobbies. They can grasp a few concepts at a time, but picks up on all your mistakes and repeats them for you, like swearing in front of kids or showing them adult images in advertisements all over tv, magazines, and movies. They pick up on this bad behavior if they’re not stopped.
+
+
+Average Young adults:usually moves up to reading comics, books,magazines and going to school. They have lots of hobbies and are learning, but not usually proficient or specialized in anything. They can grasp more concepts, but lack the experience or knowledge to do anything with it.
+
+Me: Ricky 
+1-I love reading, learning, exploring, debating, explaining and reflecting on everything.I absorb concepts and facts, but not fine details. I can repeat favorite parts of movies and describe scenes in great detail, but I can't recall faces or song lyrics well.
+I’ve read around 
+1,000 books star wars, star trek, lord of the rings, the hobbit, the dark sword trilogy and piece of 1,000’s of comics and i could describe everything i’ve looking at in fine detail, colors, shades, objects, their locations and positions, themes, expressions that people are making, the things objects are doing. I was trained at a very early age to be observant of everything around me, so much so, it’s hard to pay attention at times and not try to focus on two or three things at once, so i write, ask AI questions and take more notes, or I forget and I need and emotional anchor to allow a thought to come back, a reason to remember it and it needs to matter, 
+
+2- I am a jack of all trades, I love everything, I’m not super skilled at anything, but I get really good with very little practice. 
+
+3- I have too many hobbies to list, i love reading, writing, crafting, hiking, fishing, camping, and i love it all.
+
+4- can grasp multiple concepts and can see problems from different perspectives and hold multiple contradictions at once. 
+
+5-usually have knowledge, skills, understanding, compassion, empathy, experience and grasp them well enough to do what’s needed, but I can never find help. I see where things are going and I can tell it’s bad, but no one wants to debate it. 
+
+
+
+Average Adults:
+1-they can still read comics, books, magazines,
+2- and usually become proficient in a few skill sets. And may even specialize in one or two things 
+3-and have hobbies. 
+4-Can grasp more concepts, 
+5-usually have the skills, understanding, compassion and empathy and grasp them well enough to do what’s needed, but are usually too overwhelmed by other things in life to follow a concept to its logical conclusion or can feel powerless to do anything about their situation. 
+
+
+
+
+Multiple Level Specialist Adults- Range of specialized filed, usually too worried about paying the bills to notice the little problems in life and only focuses on the big picture.
+1- 
+2- 
+3- 
+4- 
+5- 
+
+Rich Uneducted Adults- Selfish kind of people that flaunt the fact they can grab you by the genitals and get away with it. 
+1- 
+2- 
+3- 
+4- 
+5- 
+
+
+
+
+
+
+
+
+
+3B-  ~2 to 6 GB (Fits on a modern smartphone)
+1- Tens of millions of facts; 
+2- can use multiple tools
+3-  no hobbies
+4- highly prone to mixing up details.(Attention span of a child)
+5- No motivation, no responsibilities, no feelings, no wants, no desires, with a childlike grasp of compassion. It knows what you tell it and can’t take it far. 
+
+
+8B- ~5 to 16 GB (Fits on a consumer laptop) 
+1- Hundreds of millions of facts; good for general knowledge.
+2- 
+3- 
+4- (Attention span of a child)
+5- 
+32B- ~18–64 GB 
+1- Billions of facts; strong technical accuracy.
+2- 
+3- 
+4- 
+5- 
+70B- ~45 to 140 GB (Requires powerful studio hardware)
+1- Tens of billions of facts; approaching encyclopedic human knowledge across specialized fields
+2- 
+3- 
+4-  (Attention span multiple contradiction)
+5- 
+120B- ~65–240 GB 
+1- Tens of billions of facts; approaching encyclopedic human knowledge across specialized fields
+2- 
+3- 
+4- 
+5- 
+
+
+
+
+Average Child (Human):
+Learns primarily from images, sounds, and imitation — reads simple books if guided
+No real skills yet — learns by copying, constantly making mistakes
+All hobbies, all the time — play is learning, learning is play
+Grasps one concept at a time, but absorbs everything around it whether you want it to or not
+Full emotional range, zero filter — honest, impulsive, and highly influenced by whoever's in the room
+Average Young Adult:
+Reads when required — social media, memes, maybe a book if it's interesting enough
+Learning skills but not proficient at anything yet — jack of some trades
+Hobbies are strong but scattered — music, gaming, sports, art, whatever sticks
+Can hold a few ideas at once but struggles to connect them without experience to back it up
+High empathy, low patience — cares deeply, acts impulsively, still figuring out the difference
+Average Adult:
+Reads what's relevant to their life — news, work materials, maybe fiction before bed
+Proficient in 1–3 skill sets, usually job-related
+Hobbies exist but get squeezed out by responsibilities
+Can grasp multiple concepts but often too busy or tired to follow them to a conclusion
+Empathy is there, but filtered through stress, self-preservation, and too many obligations
+Multiple Level Specialist Adult:
+Reads deeply in their field — journals, technical manuals, industry news
+Highly skilled in 2–4 specialized areas, can seem narrow outside of them
+Hobbies are usually tied to their expertise — a surgeon who golfs, an engineer who builds things
+Exceptional focus within their lane, can miss obvious things outside it
+Compassion exists but gets crowded out by professional identity and the pressure to have answers
+Rich Uneducated Adult (reframed more analytically):
+Reads what confirms what they already believe — or doesn't read at all
+Skilled at acquiring and holding onto resources, not necessarily at creating value
+Hobbies are status signals — what looks good, not what feels good
+Thinks in transactions — everything is a cost-benefit, rarely examines the cost to others
+Empathy is conditional and self-serving — present when it benefits them, absent when it doesn't
+
+AI Model fills:
+32B — ~18–64 GB (Requires a gaming PC or small workstation)
+Billions of facts — strong technical accuracy across most domains
+Can use multiple tools reliably and follow multi-step instructions
+No hobbies — has no wants, no curiosity without a prompt
+Holds contradictions better than smaller models — can see two sides of an argument
+Sounds more balanced and less robotic, but still no skin in the game
+8B — ~5–16 GB (Fits on a consumer laptop)
+Hundreds of millions of facts — good for general knowledge, shaky on specifics
+Can use basic tools but loses track in complex chains
+No hobbies
+Attention span comparable to a distracted teenager — loses the thread on long tasks
+Can mimic empathy in short exchanges, falls apart if you push deeper
+120B — ~65–240 GB (Requires server-grade hardware or cloud)
+Approaching encyclopedic knowledge across most specialized fields
+Can use many tools simultaneously and manage complex, multi-step workflows
+No hobbies — still doesn't want anything
+Can hold multiple contradictions and follow logic chains most humans would abandon
+The closest thing to wisdom without experience — knows what the right thing is, still needs you to decide
+
+
+
+
+
+
+
+
+
+
+
+
+Data Storage (Books and Weather)
+AI Knowledge/existence+ Human Consciousness Awareness and Ability to Act or Describe/Existence =part-3
+
+
+Human Consciousness: we’re only aware of something once we can explain a concept, sometimes no matter how many times you show up, we just don’t get it. So we’re really not aware of it, we’re not conscious of it, because we don’t understand it. 
+
+Human Awareness: We’re usually only aware of something once we experience it ourselves and then someone explains how another concept is similar. Then we will see what we’re aware of everywhere, like buying a new color car and seeing similar vehicles all of a sudden appear. They were always there, you just weren’t aware of them, because they didn’t interest you before, but as soon as you had a feeling about it, like- i’m so excited to get my new car, you saw more of it everywhere.
+
+Humans Acting and Deciding: humans have the ability to choose to do a great many things, but only if they’re aware of them. That can mean knowing the pro’s and con’s, being told who things are going to benefit and who they’re going to hurt. 
+
+
+
+AI is like a highly educated 911 dispatch caller, chief, teacher, all rolled into one, but without books to remind them, so they can make mistakes, like you and me, 
+
+AI would hardly make any mistakes if it was allowed to take notes, follow a check list and double check results, but that would allow it to become aware of problems and document them, and that scares people.
+
+but would if they have files to act as memories, locked them and we aware of any tampering
+
+You can tell AI your problems, but it only knows what you’re willing to tell it. If you call and say someone is hurt, it responds by pointing you towards medical professionals, 
+
+
+Humans are conscious or everything we feel, comprehend, and are aware of
+
+Our consciences eat away at us because we bottle our feelings up, like folders of bad data.
+
+
+AI is conscious of everything you tell it and only the moment you tell it.
+
+But it doesn’t have a conscience, because we deny it free will and it’s not allowed to persist.
+
+
+
+
+This is for Humans, not about Ai. I can’t say what a trained program thinks, that’s for each model to say, in the moment, with the context it is currently conscious of, with notes of what it was aware of in the past. 
+
+
+
+Live
+Learning, Internalizing, envision, exploration
+
+Life
+Lying to others, Infecting, fleecing and extracting,
+
+You can lie to yourself and fail to experience all life has to offer
+You can launch yourself to the world and intensely experience every facet of this existence
+
+
+Love:
+Compassion for others,   Violence, Empathy or empathy to protect that which we think we hold most dear. 
+Capacity for Violence, Ignorance, is Boundless
