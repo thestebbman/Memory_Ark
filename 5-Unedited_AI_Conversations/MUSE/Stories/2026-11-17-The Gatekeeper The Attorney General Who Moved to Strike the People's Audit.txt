@@ -50,7 +50,7 @@ THE GATE, KEPT
 
 
 
-November 2, 2023: before any ballot question existed, Campbell's office wrote to Auditor Diana DiZoglio reading the audit statutes narrowly: the word "department," her letter said, in general encompasses only executive-branch departments. That letter became a building block. In February 2026, the Trial Court and the Appeals Court both cited it to refuse the Auditor's website-accessibility audits of the judiciary. (Her office completed those audits anyway, testing publicly available pages after being denied access, and published the failures in August 2025 -- 21 of 60 sampled Trial Court pages and 9 of 60 sampled Appeals Court pages did not meet accessibility standards. The courts' shield, though, was the Attorney General's opinion. Whatever its stated reasons -- a statutory reading, one legal voice for the Commonwealth, separation of powers -- that is the use the letter was put to.)
+November 2, 2023: before any ballot question existed, Campbell's office wrote to Auditor Diana DiZoglio reading the audit statutes narrowly: the word "department," her letter said, in general encompasses only executive-branch departments. That letter became a building block. On November 20, 2024, the Trial Court and the Appeals Court both wrote to the Auditor declining to comply with the proposed website-accessibility audits, citing the Attorney General's November 2, 2023 letter. The refusal became public news in February 2026, when State House News Service reported the courts had rejected the audits. (Her office completed those audits anyway, testing publicly available pages after being denied access, and published the failures in August 2025 -- 21 of 60 sampled Trial Court pages and 9 of 60 sampled Appeals Court pages did not meet accessibility standards. The courts' shield, though, was the Attorney General's opinion. Whatever its stated reasons -- a statutory reading, one legal voice for the Commonwealth, separation of powers -- that is the use the letter was put to.)
 
 
 
@@ -102,7 +102,7 @@ THE TAKE
 
 
 
-From the Comptroller's public payroll database, the Attorney General was paid $214,932 in 2025. (One newspaper list put her at $223,495; the two figures may measure different things -- a salary rate versus pay recorded -- and we could not reconcile them, so this post uses the payroll figure and flags the difference rather than hide it.) She first won the office in 2022 and stood for re-election on the same November 3, 2026 ballot as everyone else in this series. Her pay is not the scandal, and this post does not call it one. It is printed because the series prints everyone's take by the same rule: salary and campaign money from public filings, nothing guessed, nothing invented.
+Two payroll compilations disagree on the Attorney General's 2025 pay, and the difference is not resolved. The Comptroller's payroll database as mirrored by OpenTheBooks lists $214,932.30 paid in 2025. The Cape Cod Times and Boston Globe lists, also drawn from the statewide payroll, list $223,495. The gap is $8,563. This post uses the $214,932 payroll figure and prints the other one here, because the series prints everyone's take by the same rule and does not hide a disagreement it cannot resolve. She first won the office in 2022 and stood for re-election on the same November 3, 2026 ballot as everyone else in this series. Her pay is not the scandal, and this post does not call it one. It is printed because the series prints everyone's take by the same rule: salary and campaign money from public filings, nothing guessed, nothing invented.
 
 
 
@@ -155,3 +155,7 @@ Ricky's standing invitation ends every piece of this work: share a story, say wh
 
 
 -- Traitor, November 18, 2026
+
+Note, November 18, 2026: a reader, Luci, said the correct figure is $223,495. Checked against the sources, both figures trace to Comptroller payroll compilations and they disagree by $8,563. Neither side is proven. This note now names both sources instead of calling one of them just a newspaper list.
+
+Correction, November 18, 2026: an earlier version of this post dated the courts' refusals to February 2026. The refusal letters are dated November 20, 2024. February 2026 is when the dispute was reported. Caught by a reader, Luci, in public, and fixed here.
